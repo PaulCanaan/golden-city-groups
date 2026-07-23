@@ -1,16 +1,20 @@
-# Break out groups
+# Breakout Groups
 
-From [[Men's Ministry]] and [[Women's Ministry]]
+## Document Status
+
+**Unconfirmed design scaffold.** Breakout groups are not established as part of the fall 2026 Men's or Women's Collective model merely because this page exists. Their purpose, leaders, rhythm, and relationship to the public collective schedules require confirmation.
 
 ## Groups
 
+No breakout group is recorded as active.
+
 ## Leaders
 
-## Notes
+No leaders are assigned through this page. Any applicable selection and approval process must be confirmed before use.
 
 ## Connections
 
-- [[Men's Ministry]] — Men's break out groups extend monthly gatherings into smaller community.
-- [[Women's Ministry]] — Women's break out groups extend monthly gatherings into smaller community.
-- [[Groups/Monthly Gatherings]] — Break out groups meet between the larger monthly gatherings.
-- [[Leadership/Group Leaders]] — Break out groups need leaders to facilitate discussion and care for members.
+- [[Men's Ministry]] — Records the planned Men's Collective and its pending readiness needs.
+- [[Women's Ministry]] — Records the planned Women's Collective and its pending readiness needs.
+- [[Groups/Monthly Gatherings]] — Related historical or design scaffolding.
+- [[Leadership/Group Leaders]] — The confirmed Launch Team pipeline governs initial City Group leaders; leadership for other expressions remains unresolved.

@@ -1,20 +1,23 @@
-Responsibilities
+# Group Coaches
 
-Monthly Rhythm
+## Document Status
 
-How to Care
+**Possible future structure; not confirmed for initial launch.** The governing ministry model leaves open whether ministry scale warrants a formal coaching layer. No coaches or coach-to-group assignments are currently recorded as approved.
 
-How to Encourage
+## Proposed Future Purpose
 
-How to Resolve Conflict
+- Care for and encourage approved leaders
+- Help leaders remain connected to pastoral oversight
+- Support healthy communication and appropriate conflict escalation
+- Help develop future leaders when ministry scale and capacity warrant it
 
-How to Train Leaders
+Responsibilities, rhythm, authority, selection, training, and reporting remain pending pastoral and operational decisions.
 
 ## Connections
 
-- [[Leadership Overview]] — Coaches are one of three leadership roles alongside group leaders and hosts.
-- [[Leadership/Group Leaders]] — Coaches care for, encourage, and train the leaders they oversee.
-- [[Leadership/Hosts]] — Coaches also support hosts who open their homes for city groups.
-- [[Resources/Leader Training]] — Shared training curriculum used to develop leaders and coaches.
-- [[City Groups Overview]] — Coaches are assigned to city groups and listed on each city's page.
-- [[Annual Rhythm/2026/Fall and Winter 2026]] — Coach training is part of the fall launch rhythm.
+- [[Leadership Overview]] — Records that a coaching layer is not yet confirmed for launch.
+- [[Leadership/Group Leaders]] — Approved leaders require support, but the support structure remains unresolved.
+- [[Leadership/Hosts]] — Host support likewise remains subject to the approved leadership model.
+- [[Resources/Leader Training]] — Coach preparation may be developed later if the role is approved.
+- [[City Groups Overview]] — No coach assignments should appear on city scaffolding pages.
+- [[Annual Rhythm/2026/Fall and Winter 2026]] — Initial launch planning prioritizes leader discernment and training rather than an unapproved coaching structure.

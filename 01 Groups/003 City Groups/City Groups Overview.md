@@ -1,10 +1,20 @@
 # City Groups
 
-Off-site groups from [[Groups Overview]]
+## Document Status
+
+**Confirmed model; launch expressions pending.** City Groups are planned as weekly, sermon-based groups that may meet in homes or public spaces. No geographic page, leader, host, coach, location, capacity, or assignment is confirmed merely because it appears in this repository.
+
+## Initial Leadership Pipeline
+
+The initial City Group leaders will be prayerfully identified, invited, discerned, and trained from among the Launch Team. Team Nights on July 28, August 11, and August 25 provide the initial setting for City Group vision, leader sign-ups, discernment, placement conversations, and September launch preparation.
+
+A sign-up does not constitute appointment. Leader standards, final approval authority, training details, group assignments, and commissioning remain pending.
 
 - [[Weekly Recaps]]
 
-## Cities
+## Community Scaffolding
+
+The following pages preserve possible communities for planning. They do not represent active or launch-ready groups:
 
 - [[Arvada]]
 - [[Broomfield]]
@@ -18,9 +28,9 @@ Off-site groups from [[Groups Overview]]
 
 ## Connections
 
-- [[Groups Overview]] — City groups are the off-site branch of the groups ministry.
-- [[Weekly Recaps]] — Weekly written updates from city group meetings and activity.
-- [[Leadership/Group Leaders]] — Each city group has leaders who facilitate and shepherd the group.
-- [[Leadership/Hosts]] — Hosts open their homes as meeting space for city groups.
-- [[Leadership/Group Coaches]] — Coaches are assigned to city groups for leader support and development.
-- [[Operations/Metrics]] — Track city group health using formation metrics on each city's page.
+- [[Groups Overview]] — Places City Groups within the planned Groups ministry.
+- [[Weekly Recaps]] — Proposed future check-in practice for groups that become active.
+- [[Leadership/Group Leaders]] — Describes the developing initial leader pathway; no appointments are recorded here.
+- [[Leadership/Hosts]] — Host responsibilities and approval remain pending.
+- [[Leadership/Group Coaches]] — A coaching layer is not confirmed for initial launch.
+- [[Operations/Metrics]] — Evaluation practices remain provisional and should not be used to store confidential pastoral information.

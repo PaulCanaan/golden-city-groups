@@ -1,16 +1,20 @@
 # Monthly Gatherings
 
-From [[Men's Ministry]] and [[Women's Ministry]]
+## Document Status
+
+**Historical or design scaffold; not the confirmed fall schedule.** The public Men's and Women's Collective rhythms recorded in DEC-015 should govern current communication. This page does not establish a monthly gathering, leader, location, or format.
 
 ## Schedule
 
+Not confirmed.
+
 ## Format
 
-## Notes
+Not confirmed.
 
 ## Connections
 
-- [[Men's Ministry]] — Monthly gatherings are a primary rhythm for on-site men's groups.
-- [[Women's Ministry]] — Monthly gatherings are a primary rhythm for on-site women's groups.
-- [[Breakout Sessions]] — Break out groups meet in the weeks between monthly gatherings.
-- [[Groups Overview]] — Gatherings are one expression of the broader on-site groups ministry.
+- [[Men's Ministry]] — Planned Men's Collective with readiness still pending.
+- [[Women's Ministry]] — Planned Women's Collective with readiness still pending.
+- [[Breakout Sessions]] — Unconfirmed design scaffold.
+- [[Groups Overview]] — Distinguishes confirmed ministry models from active offerings.

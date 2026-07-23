@@ -8,6 +8,9 @@ This is a planning framework. The public church launch date and approved ministr
 
 - Golden City Church plans to launch publicly on September 20, 2026.
 - The church website currently identifies Legacy High School in Broomfield as the public launch location.
+- Since March 2026, Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have formed a Launch Team of more than 50 committed volunteers.
+- Initial City Group leaders will be prayerfully identified, invited, discerned, and trained from within the Launch Team rather than recruited from the general public.
+- Team Nights on July 28, August 11, and August 25 include dedicated City Group leadership preparation.
 - Groups and Classes should support the launch without creating structures too complicated to operate.
 - The minimum viable launch model must be distinguished from the ideal future model.
 
@@ -32,6 +35,7 @@ This outcome is **proposed** and requires operational and pastoral confirmation.
 - Approved use of church mission, vision, values, and beliefs
 - Confirmed pastoral authority and decision rights
 - Confirmed public ministry language
+- Pastoral review of [[pastoral-approval-brief|Pastoral Approval Brief]] and recording of resulting decisions
 
 ### Ministry Scope
 
@@ -41,6 +45,8 @@ This outcome is **proposed** and requires operational and pastoral confirmation.
 
 ### People
 
+- Launch Team as the confirmed initial City Group leadership pipeline
+- Team Night leader sign-ups and discernment before training or assignment
 - Approved leaders, hosts, instructors, and oversight
 - Role descriptions and authority boundaries
 - Backup and escalation contacts
@@ -90,6 +96,25 @@ An offering should not be described as launch-ready until it has:
 - Safeguarding and pastoral escalation procedures
 - Accurate communication and a participant next step
 
+## Pre-Launch City Group Leadership Sequence
+
+The following sequence distinguishes confirmed context from work that remains planned or pending approval:
+
+**Church Plant Gatherings → Launch Team → Team Night Leader Sign-ups → Leader Discernment → Leader Training → Group Assignments → Commissioning → September 20 Launch**
+
+| Stage | Current status | What is established | What remains unresolved |
+|---|---|---|---|
+| Church Plant Gatherings | **Confirmed** | Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have gathered prospective members since March 2026. | No additional decision is required to recognize this context. |
+| Launch Team | **Confirmed** | More than 50 committed volunteers are preparing to become the church's initial ministry teams. | Individual ministry assignments are not established by Launch Team participation alone. |
+| Team Night leader sign-ups | **Confirmed plan** | July 28, August 11, and August 25 will include City Group vision, sign-ups, discernment, placement conversations, and launch preparation. | The sign-up method, record owner, and follow-up process require operational confirmation. |
+| Leader discernment | **Planned; standards awaiting pastoral approval** | Initial candidates will be prayerfully identified and invited from within the Launch Team. | Qualifications, discernment process, decision authority, and appointment record remain open in OQ-005. |
+| Leader training | **Planned** | Training must follow initial sign-up and discernment and precede final assignment and commissioning. | Dates, curriculum, facilitators, attendance requirements, and completion standard are not yet confirmed. |
+| Group assignments | **Planned** | Assignments follow discernment and training. | Leader names, co-leaders, hosts, group communities, locations, capacities, and participant placement are not yet confirmed. |
+| Commissioning | **Planned; pastoral direction required** | Commissioning belongs after readiness review and before leaders begin serving publicly. | Date, setting, form, and approving pastor are not yet confirmed. |
+| September 20 launch | **Confirmed** | Golden City Church launches publicly on September 20, 2026. | This date does not by itself confirm that every City Group begins that day. |
+
+Public leadership pathways may be developed after launch. They are intentionally outside the initial City Group recruitment sequence and should not be advertised as an immediate route into leadership during the pre-launch season.
+
 ## Intentionally Deferred Components
 
 These may wait until after launch unless pastoral leadership explicitly prioritizes them:
@@ -114,15 +139,16 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 1. Official church identity and theology
 2. Approved ministry purpose and formation framework
 3. Minimum viable launch scope
-4. Available and approved leaders
-5. Safeguarding, care, and authority boundaries
-6. Locations, capacity, and calendar
-7. Curriculum and instructor readiness, if a class will launch
-8. Intake, data, privacy, and placement practices
-9. Training and internal communication
-10. Public communication
-11. Launch readiness review
-12. Feedback and pastoral adaptation
+4. Team Night sign-ups and leader discernment within the Launch Team
+5. Available and approved leaders
+6. Safeguarding, care, and authority boundaries
+7. Leader training, group assignments, and commissioning
+8. Locations, capacity, and calendar
+9. Curriculum and instructor readiness, if a class will launch
+10. Intake, data, privacy, and placement practices
+11. Internal and public communication
+12. Launch readiness review
+13. Feedback and pastoral adaptation
 
 ## Open Launch Decisions
 
@@ -133,5 +159,7 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 - Who owns intake, placement, follow-up, and calendar accuracy?
 - What participant information may be collected and where will it be stored?
 - Which safeguarding policies and training are required?
+- Who records Team Night leader interest and owns discernment follow-up?
+- When and how will approved City Group leaders be trained, assigned, and commissioned?
 - What budget and facilities are available?
 - When will a final launch-readiness review occur?

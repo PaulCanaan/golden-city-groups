@@ -1,25 +1,28 @@
 # Hosts
 
-Responsibilities
+## Document Status
 
-Expectations
+**Proposed role; requirements and appointments pending.** The confirmed Launch Team pathway applies specifically to initial City Group leaders. This repository does not yet establish how hosts will be identified, approved, or trained.
 
-Training
+## Pending Decisions
 
-Resources
+- Host qualifications and approval authority
+- Expectations for hospitality, facility readiness, and group access
+- Safeguarding requirements for homes, minors, childcare, and vulnerable people
+- Relationship between host and group leader responsibilities
+- Training and escalation expectations
+
+No home or public meeting location should be represented as approved because a potential host expresses interest.
+
+## Resources
 
 - [[Resources/Leader Training]]
 - [[City Groups Overview]]
 
-## Groups
-
-- [[City Groups Overview]]
-
 ## Connections
 
-- [[Leadership Overview]] — Hosts are one of three leadership roles alongside group leaders and coaches.
-- [[Resources/Leader Training]] — Training for hospitality, group facilitation, and host expectations.
-- [[City Groups Overview]] — Hosts open their homes for off-site city groups in neighborhoods across the metro.
-- [[Leadership/Group Coaches]] — Coaches support hosts with care, encouragement, and conflict resolution.
-- [[Leadership/Group Leaders]] — Hosts partner with group leaders who facilitate discussion and shepherd members.
-- [[Operations/Metrics]] — Host environments contribute to belonging metrics like attendance, meals, and care.
+- [[Leadership Overview]] — Distinguishes the confirmed leader pipeline from this still-proposed role.
+- [[Resources/Leader Training]] — May include approved host preparation after requirements are established.
+- [[City Groups Overview]] — City Groups may meet in homes or public spaces; exact locations remain pending.
+- [[Leadership/Group Leaders]] — Host and leader responsibilities must be distinguished before assignment.
+- [[Operations/Metrics]] — Evaluation should not be used to imply host approval or store confidential information.

@@ -126,6 +126,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Status:** Confirmed
 - **Evidence:** Russ's launch announcement inviting interested people to contact Paul or Russ.
 - **Implications:** This is the initial launch-season invitation, not a permanent leadership-development process. Interest or contact does not constitute approval or appointment.
+- **Boundary:** For the initial City Group leader pipeline, the more specific direction in DEC-018 governs. This entry may still describe general interest in hosting or serving but does not authorize public recruitment or appointment of City Group leaders.
 
 ### DEC-013 — Complementary Launch Ministry Architecture
 
@@ -136,6 +137,64 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Context:** The announcement describes multiple gathering forms rather than one model for every discipleship need.
 - **Rationale:** Recording the relationship prevents the environments from becoming competing departments or interchangeable programs.
 - **Boundary:** This architecture does not establish a required participant sequence, equal launch readiness, or a complete future ministry catalogue.
+
+### DEC-014 — Public Groups Page Offering Set
+
+- **Decision:** Golden City Church's public Groups page currently presents six offerings: Men's Collective, Planted Bible Study, Women's Collective, Run Club, Youth City Group, and Young Adults Group.
+- **Status:** Confirmed
+- **Evidence:** Golden City Church's official [Groups page](https://www.goldencity.church/groups), reviewed July 23, 2026.
+- **Implications:** Public communication, calendar planning, registration, ministry ownership, safeguarding, and launch-readiness work must account for all six publicly listed offerings rather than only the four environments named in the earlier launch announcement.
+- **Context:** Run Club, Youth City Group, and Young Adults Group were not included in DEC-007 or DEC-013 but are now represented publicly alongside Groups and Classes offerings.
+- **Boundary:** Public listing confirms what the church is communicating; it does not establish that every offering belongs under Paul's Groups and Classes authority, has completed readiness review, or should be governed by the same leadership and safeguarding processes.
+
+### DEC-015 — Published Fall 2026 Rhythms and Locations
+
+- **Decision:** The public Groups page currently communicates the following rhythms and locations:
+  - Men's Collective: second and fourth Mondays at 7:00 p.m.; location to be determined.
+  - Planted Bible Study: Tuesdays in fall 2026; location to be determined.
+  - Women's Collective: first and third Mondays at 7:00 p.m.; I Can Workspace, 11878 Bradburn Boulevard, Westminster, Colorado 80031.
+  - Run Club: Saturdays at 7:00 a.m., October 3 through December 12, 2026; McKay Lake Park in Broomfield.
+  - Youth City Group: Sundays at 11:30 a.m.; check-in at the Legacy High School gym; intended for grades 6–12.
+  - Young Adults Group: first Sunday of each month at 7:00 p.m.; location to be determined; intended for people in their twenties and thirties.
+- **Status:** Confirmed
+- **Evidence:** Golden City Church's official [Groups page](https://www.goldencity.church/groups), reviewed July 23, 2026.
+- **Implications:** These details are the current public baseline for calendar, facilities, communication, leader preparation, and participant follow-up. Internal documents should not publish conflicting details without a recorded update.
+- **Boundary:** “To be determined” locations remain unresolved, and public publication alone does not verify leader approval, capacity, safeguarding, childcare, supplies, or final launch readiness. Dates and locations should be reverified before derivative communication is released.
+
+### DEC-016 — Public Church Center Enrollment Paths
+
+- **Decision:** The public Groups page uses Church Center group pages as the enrollment path for Men's Collective, Women's Collective, and Planted Bible Study.
+- **Status:** Confirmed
+- **Evidence:** Links on Golden City Church's official [Groups page](https://www.goldencity.church/groups), reviewed July 23, 2026.
+- **Implications:** Launch operations may treat Church Center as the current public enrollment platform for these three offerings and should define form ownership, notifications, placement, capacity handling, follow-up timing, and participant-data access around it.
+- **Boundary:** This does not confirm a complete or tested participant journey. The public page does not provide a reliable offering-specific enrollment path for every listed offering, and participant-data governance remains unresolved in OQ-012.
+
+### DEC-017 — Pre-Launch Gatherings and Launch Team
+
+- **Decision:** Since March 2026, Golden City Church's Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have intentionally formed a Launch Team of more than 50 committed volunteers who are preparing to become the church's initial ministry teams at public launch.
+- **Status:** Confirmed
+- **Evidence:** Approved ministry context provided for repository governance on July 23, 2026.
+- **Implications:** Launch planning should begin with the relationships, service, commitment, and discernment already developing within the Launch Team rather than treating September 20 as the beginning of church community or volunteer formation.
+- **Boundary:** Launch Team participation does not automatically appoint a person to leadership or confirm a specific ministry assignment.
+
+### DEC-018 — Initial City Group Leadership Pipeline
+
+- **Decision:** Initial City Group leaders will not be recruited from the general public. Russ intends for the first City Group leaders to be prayerfully identified, invited, discerned, and trained from within the Launch Team.
+- **Status:** Confirmed
+- **Evidence:** Approved ministry context provided for repository governance on July 23, 2026.
+- **Implications:** Initial leader communication, sign-ups, discernment, training, and placement should be directed through the Launch Team and Team Nights. Public communication should not imply that any person may immediately become a City Group leader.
+- **Context:** The Launch Team provides an existing relational setting in which commitment, character, service, alignment, and capacity can begin to be discerned before responsibility is entrusted.
+- **Boundary:** This is the initial launch-season pipeline. It does not establish a permanent closed leadership system, identify any leader, replace pastoral approval, or define the full future leadership-development pathway.
+
+### DEC-019 — Team Night City Group Leadership Preparation
+
+- **Decision:** Team Nights on July 28, August 11, and August 25, 2026 will include dedicated time for City Group vision, leader sign-ups, leader discernment, placement conversations, and preparation for the September launch.
+- **Status:** Confirmed
+- **Evidence:** Approved ministry context provided for repository governance on July 23, 2026.
+- **Implications:** The three Team Nights are the initial recruitment and discernment environment and must precede leader training, final group assignments, and commissioning in the launch sequence.
+- **Boundary:** A Team Night sign-up expresses interest and availability; it does not constitute appointment. This decision does not establish the training schedule, commissioning date or form, number of groups, leader names, or final assignments.
+
+Pastoral decisions requested by the open questions below are organized for review in [[pastoral-approval-brief|Pastoral Approval Brief]]. Recommendations in that brief remain proposals until the resulting decisions are recorded here.
 
 ## Open Questions
 
@@ -152,7 +211,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 ### OQ-003 — Launch-Ready Group Expressions
 
 - **Status:** Open
-- **Question:** Which City Groups and Collectives will be ready for fall 2026, where and when will they meet, and which existing city pages are active, tentative, future, or archival?
+- **Question:** Of the six offerings publicly listed in DEC-014, which have completed launch-readiness review, and which existing geographic city pages are active, tentative, future, or archival?
 
 ### OQ-004 — Planted Pastoral Authorization
 
@@ -162,7 +221,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 ### OQ-005 — Leadership Standards and Discernment
 
 - **Status:** Awaiting Pastoral Approval
-- **Question:** What discernment, qualifications, training, authority, reporting, appointment, correction, and removal processes govern leaders, hosts, coaches, and instructors?
+- **Question:** Within the confirmed Launch Team and Team Night pipeline, what discernment, qualifications, training, authority, reporting, appointment, correction, and removal processes govern leaders, hosts, coaches, and instructors?
 
 ### OQ-006 — Pastoral Care and Safeguarding
 
@@ -172,7 +231,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 ### OQ-007 — Sign-Up and Placement
 
 - **Status:** Open
-- **Question:** What sign-up system will be used, and who owns timely follow-up and placement?
+- **Question:** Who owns the Church Center enrollment paths identified in DEC-016, submission notifications, timely follow-up, placement, capacity or waitlist handling, and the enrollment path for offerings without a reliable offering-specific link?
 
 ### OQ-008 — Mission Language in Practice
 
@@ -187,12 +246,12 @@ Optimize for long-term maintainability over completeness. Most entries should us
 ### OQ-010 — Fall Launch Operations
 
 - **Status:** Open
-- **Question:** Who owns launch operations, and what dates, rhythms, facilities, capacities, budget, childcare, supplies, and contingencies will govern the fall offerings?
+- **Question:** Who owns launch operations after the three confirmed Team Nights, and which published details in DEC-015 are final? What training dates, commissioning practice, group assignments, capacities, budget, childcare, supplies, safeguarding requirements, and contingencies will govern each offering?
 
 ### OQ-011 — Planted Operational Readiness
 
 - **Status:** Open
-- **Question:** What dates, meeting rhythm, location, capacity, materials, and registration requirements will govern Planted?
+- **Question:** Which Tuesdays will Planted meet, where will it meet, and what capacity, materials, leader assignments, and Church Center registration requirements will govern it?
 
 ### OQ-012 — Participant Data Governance
 
@@ -208,6 +267,16 @@ Optimize for long-term maintainability over completeness. Most entries should us
 
 - **Status:** Awaiting Pastoral Approval
 - **Question:** Is Bible Club the public name for the Classes ministry, one expression within Classes, or a temporary alternative name?
+
+### OQ-015 — Ownership of Additional Public Offerings
+
+- **Status:** Awaiting Pastoral Approval
+- **Question:** Do Run Club, Youth City Group, and Young Adults Group fall under the Groups and Classes Ministry, another ministry leader, or shared oversight, and which Groups and Classes standards apply to each?
+
+### OQ-016 — Public Groups Page Participant Paths
+
+- **Status:** Open
+- **Question:** What approved destination should the public “Find a Group” and “Lead a Group” calls to action use, and what correct, accessible enrollment or interest path should each publicly listed offering provide?
 
 ## Entry Templates
 

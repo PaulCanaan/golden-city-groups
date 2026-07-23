@@ -76,6 +76,26 @@ Movement through this journey is relational and formative, not automatic or stri
 
 ## Leader Development Pathway
 
+### Confirmed Initial City Group Pipeline
+
+For the fall 2026 launch season, the first City Group leaders will be identified and developed from within Golden City Church's Launch Team. The Launch Team has been formed through the church's pre-launch gatherings since March 2026 and currently includes more than 50 committed volunteers preparing to become the church's initial ministry teams.
+
+The confirmed launch sequence is:
+
+1. Pre-launch church plant gatherings form the Launch Team.
+2. Team Nights on July 28, August 11, and August 25 provide City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation.
+3. Potential leaders are prayerfully discerned and invited from within the Launch Team.
+4. Approved candidates receive the required training.
+5. Leaders and participants are assigned to launch-ready groups.
+6. Leaders are commissioned through a practice still requiring pastoral and operational confirmation.
+7. Golden City Church launches publicly on September 20, 2026.
+
+Leader sign-up is an expression of interest rather than appointment. Exact leaders, groups, assignments, training content, commissioning details, and approval authority remain unresolved until recorded in `decision-log.md`.
+
+This initial internal pipeline does not establish the permanent leadership-development model. Broader public leadership pathways may be developed after launch as pastoral oversight, ministry maturity, and real participant relationships allow.
+
+### Proposed Long-Term Pathway
+
 The following is **proposed** and requires pastoral approval:
 
 1. Participant

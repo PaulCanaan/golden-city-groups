@@ -1,24 +1,44 @@
-Fall Launch: 
+# Fall and Winter 2026
 
-Planted
+## Document Status
 
-City Groups
+**Mixed confirmed and planned launch calendar.** Only dates and ministry context recorded as confirmed in the decision log should be treated as fixed. Offerings still require their applicable readiness gates.
 
-Men
+## Confirmed Pre-Launch Dates
 
-Women
+- **July 28:** Team Night with dedicated City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation
+- **August 11:** Team Night with dedicated City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation
+- **August 25:** Team Night with dedicated City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation
+- **September 20:** Golden City Church public launch
 
-Leadership Huddle
+## Planned Sequence After Team Nights
 
-Coach Training
+1. Complete leader discernment within the Launch Team.
+2. Invite approved candidates into leader training.
+3. Complete training and readiness review.
+4. Confirm group assignments, hosts or locations, and participant capacity.
+5. Commission approved leaders through a practice still requiring confirmation.
+6. Open or continue participant sign-up only for launch-ready offerings.
+7. Begin fall ministry in the approved early-October window.
+
+Training dates, commissioning details, leader names, City Group assignments, and exact start dates remain pending.
+
+## Planned Fall Offerings
+
+- City Groups
+- Men's Collective
+- Women's Collective
+- Planted Bible Study
+
+Their inclusion in planning does not mean each offering is staffed, approved, or launch-ready. Other publicly listed offerings are governed by DEC-014 and OQ-015.
 
 ## Connections
 
-- [[Operations/Calendar]] — Fall launch dates are scheduled on the ministry calendar.
-- [[Group Launch Overview]] — Launch checklist and timeline for the fall semester.
-- [[Planted. Bible Study]] — Planted is a fall launch class each semester.
-- [[City Groups Overview]] — City groups relaunch each fall.
-- [[Men's Ministry]] — Men's groups relaunch each fall.
-- [[Women's Ministry]] — Women's groups relaunch each fall.
-- [[Leadership/Group Coaches]] — Coach training is part of the fall launch rhythm.
-- [[Resources/Leader Training]] — Leader and coach training supports the fall launch.
+- [[Operations/Calendar]] — Separates confirmed dates from pending milestones.
+- [[Group Launch Overview]] — Applies readiness gates to the fall sequence.
+- [[Planted. Bible Study]] — Planned fall class; operational readiness remains open.
+- [[City Groups Overview]] — Initial leaders are developed through the Launch Team pathway.
+- [[Men's Ministry]] — Planned Men's Collective scaffolding.
+- [[Women's Ministry]] — Planned Women's Collective scaffolding.
+- [[Leadership/Group Coaches]] — A coaching layer is not confirmed for initial launch.
+- [[Resources/Leader Training]] — Training follows Team Night sign-ups and discernment.

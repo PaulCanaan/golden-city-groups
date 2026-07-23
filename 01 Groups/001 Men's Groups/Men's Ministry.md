@@ -1,14 +1,16 @@
 # Men's
 
-On-site group from [[Groups Overview]]
+## Document Status
+
+**Planned Men's Collective; launch readiness pending.** The collective model and current public rhythm are confirmed in the decision log, but leadership, location, capacity, curriculum, and final approval remain unresolved.
 
 - [[Groups/Monthly Gatherings]]
 - [[Breakout Sessions]]
 
 ## Connections
 
-- [[Groups Overview]] — Men's is an on-site group type within the broader groups ministry.
-- [[Groups/Monthly Gatherings]] — Large monthly gatherings that gather all men's groups together.
-- [[Breakout Sessions]] — Smaller break out groups that meet between monthly gatherings.
-- [[Resources/Discipleship]] — Men's groups form men through the discipleship pathway.
-- [[Annual Rhythm/2026/Fall and Winter 2026]] — Men's groups relaunch each fall alongside other ministry areas.
+- [[Groups Overview]] — Places the planned Men's Collective within the broader Groups ministry.
+- [[Groups/Monthly Gatherings]] — Historical or design scaffolding; the public fall rhythm currently differs and governs communication.
+- [[Breakout Sessions]] — Unconfirmed possible structure, not an active launch assignment.
+- [[Resources/Discipleship]] — Proposed resource for approved ministry environments.
+- [[Annual Rhythm/2026/Fall and Winter 2026]] — Records the fall launch sequence and readiness dependencies.

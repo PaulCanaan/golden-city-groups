@@ -1,6 +1,8 @@
 # Calendar
 
-From [[Operation Overview]]
+## Document Status
+
+**Confirmed dates with pending operational milestones.** This calendar records only dates established by approved context. A listed milestone without a date remains planned and should not be communicated as final.
 
 - [[Operations/Semester Outline]]
 - [[Group Launch Overview]]
@@ -11,13 +13,29 @@ From [[Operation Overview]]
 
 ## Key dates
 
-## Notes
+| Date | Event | Status | Groups and Classes significance |
+|---|---|---|---|
+| July 28, 2026 | Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation |
+| August 11, 2026 | Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation |
+| August 25, 2026 | Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation |
+| September 20, 2026 | Golden City Church public launch | **Confirmed** | Public church launch; not the automatic start date for every Group or Class |
+
+## Pending Milestones
+
+- Completion of City Group leader discernment
+- Leader training
+- Group assignments and location confirmation
+- Leader commissioning
+- Final launch-readiness review
+- Exact early-October start dates
+
+Dates, owners, and approval status for these milestones remain unresolved.
 
 ## Connections
 
 - [[Operation Overview]] — Calendar is a core operations tool for scheduling the ministry year.
 - [[Operations/Semester Outline]] — Outline provides the structure that key dates on the calendar follow.
-- [[Group Launch Overview]] — Launch dates and milestones are tracked on the calendar.
+- [[Group Launch Overview]] — Governs the ordered sequence and readiness requirements behind these dates.
 - [[Annual Rhythm/2026/Fall and Winter 2026]] — Current semester rhythm with fall launch items.
-- [[Groups Overview]] — Calendar schedules men's, women's, and city group gatherings.
-- [[Classes Overview]] — Calendar includes class schedules and seasonal offerings.
+- [[Groups Overview]] — Planned group rhythms should be added only after confirmation.
+- [[Classes Overview]] — Planned class rhythms should be added only after confirmation.

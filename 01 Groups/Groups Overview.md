@@ -1,19 +1,27 @@
 # Groups
 
-## On-site
+## Document Status
+
+**Planned launch ministry with explicitly unresolved expressions.** The public site and decision log confirm several planned offerings, but this page does not establish that a group is staffed, assigned, or launch-ready.
+
+## Central Gatherings
 
 - [[Men's Ministry]]
 - [[Women's Ministry]]
 
-## Off-site
+## Distributed Groups
 
 - [[City Groups Overview]]
+
+Initial City Group leaders will be prayerfully identified, invited, discerned, and trained from within the Launch Team through the July 28, August 11, and August 25 Team Nights. This is the confirmed initial pipeline, not a permanent restriction on future leadership development.
+
+Specific leaders, hosts, communities, locations, capacities, and assignments remain pending until they complete the applicable approval and launch-readiness gates.
 
 ## Connections
 
 - [[Home]] — Groups is a top-level area of the groups and classes ministry hub.
-- [[Men's Ministry]] — On-site men's ministry including monthly gatherings and break out groups.
-- [[Women's Ministry]] — On-site women's ministry including monthly gatherings and break out groups.
-- [[City Groups Overview]] — Off-site neighborhood groups meeting in homes across the metro.
+- [[Men's Ministry]] — Scaffolding related to the planned Men's Collective.
+- [[Women's Ministry]] — Scaffolding related to the planned Women's Collective.
+- [[City Groups Overview]] — Planned sermon-based groups intended to provide community close to home.
 - [[Groups Ministry/Group Philosophy/Formation Framework/Belonging, Beholding, Becoming]] — Group life is shaped by the Belonging → Beholding → Becoming framework.
-- [[Leadership Overview]] — Group leaders, hosts, and coaches equip and shepherd all group types.
+- [[Leadership Overview]] — Governs the developing leadership pathway and distinguishes planned roles from approved appointments.

@@ -10,6 +10,14 @@ This repository supports the Groups and Classes Ministry of Golden City Church, 
 
 Paul is helping develop this ministry with significant creative freedom from lead pastor Russ. Paul functions in this area as a ministry director or groups pastor. The precise title, reporting relationship, and delegated authority remain matters for pastoral clarification.
 
+## Pre-Launch Church Plant Context
+
+Since March 2026, Golden City Church has gathered prospective members through Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights. These gatherings have intentionally formed a Launch Team of more than 50 committed volunteers who are preparing to become the church's initial ministry teams at public launch.
+
+For the initial launch season, City Group leaders will not be recruited from the general public. Russ intends for them to be prayerfully identified, invited, discerned, and trained from within the Launch Team. This is the confirmed launch-season leadership pipeline, not a permanent restriction on how leaders may be developed in later seasons.
+
+Upcoming Team Nights on July 28, August 11, and August 25, 2026 will include dedicated time for City Group vision, leader sign-ups, leader discernment, placement conversations, and preparation for the September launch. A sign-up expresses interest and availability; it does not constitute appointment or final group assignment.
+
 ## Church Alignment
 
 The Groups and Classes Ministry must remain aligned with Golden City Church's official mission, vision, theology, language, leadership, and overall growth orientation. It must not develop an independent identity that competes with the identity of the church.
@@ -71,6 +79,8 @@ The existing repository contains scaffolding for:
 - Group leaders, hosts, coaches, and class instructors
 - Discipleship and leader-training resources
 - Calendar, communication, launches, metrics, and archives
+
+The Launch Team and the three pre-launch Team Nights provide the confirmed initial context for City Group leader identification and preparation. Specific leaders, assignments, training content, commissioning practices, and group locations remain subject to the decision log and launch-readiness gates.
 
 The presence of a file or city name does not prove that the ministry expression is approved, staffed, or active.
 

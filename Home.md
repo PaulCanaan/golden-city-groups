@@ -55,9 +55,9 @@ Continue to [[Leadership Overview]] to understand how people are entrusted with 
 
 ## Current Development
 
-The ministry is currently developing its foundations from the top down so that later practices grow from a clear and shared center.
+Golden City Church is in its pre-launch church planting phase. Gatherings since March 2026 have formed a Launch Team of more than 50 committed volunteers, and the July 28, August 11, and August 25 Team Nights provide the confirmed initial pathway for City Group leader interest, discernment, and preparation.
 
-- **Current phase:** Development of the ministry's formation framework and core ministry model
+- **Current phase:** Launch Team leader identification and operational preparation for fall 2026
 - **Major milestone:** Golden City Church's public launch on September 20, 2026
 - **Outstanding decisions:** See [[docs/decision-log|Decision Log]]
 
