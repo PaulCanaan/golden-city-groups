@@ -22,7 +22,7 @@ Leaders should:
 
 Interest begins discernment; it does not confer appointment. Responsibility should grow through relationship, character, alignment, capacity, preparation, demonstrated faithfulness, and explicit approval.
 
-For fall 2026, the confirmed City Group pipeline is Launch Team → Team Night interest → discernment → training → assignment → appointment and commissioning. Other environments require role-appropriate standards and approval.
+For fall 2026, the City Group pipeline begins with Launch Team members expressing interest at Team Nights. During the August Team Nights, Paul owns Planning Center form intake and immediate applicant follow-up. Interviews, assessment, safeguarding review, approval, training, assignment, appointment, and commissioning remain subject to approved standards and authority. Other environments require role-appropriate standards and approval.
 
 ## Source Note
 

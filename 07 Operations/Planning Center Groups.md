@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Confirmed platform context with proposed operating instructions and approval-dependent controls.** Golden City Church uses Planning Center Groups and Church Center for group records and selected public enrollment paths. This document explains the platform and provides the proposed minimum operating standard for the Groups and Classes Ministry. It does not approve an offering, appoint a leader, grant access, or resolve participant-data governance.
+**Mixed confirmed and proposed operating guidance.** Golden City Church uses Planning Center Groups and Church Center for group records and selected public enrollment paths. DEC-026 confirms Paul's admin access and ownership for leader-interest form intake and initial applicant follow-up; other controls remain approval-dependent. This document does not approve an offering, appoint a leader, or resolve participant-data governance.
 
 Current governing summaries remain in `00 Dashboard/Decision Log.md`, with full records in [[08 Archive/Decisions/Decision History]]. Detailed procedures for intake, attendance, communication, metrics, and launch readiness remain in their linked operational documents.
 
@@ -21,7 +21,7 @@ Planning Center is a connected suite. **People** is the shared people database. 
 | Ministry need | Planning Center area | Use |
 |---|---|---|
 | Person and contact details | People | Maintain one profile per person and avoid duplicates. |
-| Launch Team leader interest | People Form or approved intake | Collect only approved interest and availability information. |
+| Launch Team leader interest | Planning Center interest form | Paul supports submission, owns intake, and communicates immediate next steps under DEC-026. |
 | Assigned follow-up | People Workflow, if approved | Track operational next steps without treating a card as appointment. |
 | Public discovery | Church Center | Show accurate, launch-ready offerings and clear next steps. |
 | Join requests and rosters | Groups | Review requests and maintain leaders, members, and visitors. |
@@ -109,7 +109,7 @@ Before granting access:
 
 ### 1. Establish ownership
 
-Paul is the confirmed operational point person for the ministry and Planning Center. Before configuration begins, confirm his exact permission level and name a backup, join-request owner, and event/attendance owner. Paul recommends an offering as ready; Russ or a pastor explicitly designated by Russ gives final readiness approval. Participant-data access remains subject to PRO-026 and PRO-030.
+Paul is the confirmed operational point person for the ministry and Planning Center. DEC-026 confirms his Planning Center admin access for leader-interest form intake and his ownership of initial applicant follow-up. Backup coverage, least-privilege settings beyond that approved use, participant join-request ownership, and event/attendance ownership remain unresolved. Paul recommends an offering as ready; Russ or a pastor explicitly designated by Russ gives final readiness approval. Participant-data access remains subject to PRO-026 and PRO-030.
 
 ### 2. Configure the approved group type
 
@@ -130,13 +130,17 @@ Create a temporary test group when changing important defaults. View and test it
 
 For Fall 2026, initial City Group leaders are identified, invited, discerned, and trained from within the Launch Team through the July 28, August 11, and August 25 Team Nights under DEC-018 and DEC-019. Do not publish a general public leader application for this pipeline.
 
-If approved, a limited-distribution People form may collect contact information, Launch Team connection, interest in leading/co-leading/hosting, area, availability, possible location, relevant experience, and willingness to complete discernment and training. It must state that interest is not appointment or assignment.
+During the August Team Nights, Paul helps interested Launch Team members access and submit the appropriate Planning Center interest form. Paul receives the submissions through his admin access, reviews and organizes them, and emails applicants to arrange interviews and communicate immediate next steps. The form remains limited to the Launch Team pipeline and must state that interest is not appointment or assignment.
 
-An approved People workflow may track:
+The approved workflow begins:
 
-`acknowledge interest → pastoral review → discernment conversation → required screening → appointment decision → communicate outcome → training → group assignment → Planning Center access → post-launch support`
+`Team Night form submission → Paul reviews and organizes → Paul emails applicant and arranges interview`
 
-Keep workflow notes brief: status, decision, owner, and next step. Do not store background-check details, confession, diagnoses, unverified allegations, or unnecessary pastoral narrative in a form, workflow, group record, or this repository. A completed workflow does not appoint a leader.
+The remaining workflow is still approval-dependent:
+
+`interview and assessment → safeguarding review → approval decision → communicate outcome → training → group assignment → appointment → Planning Center leader access → commissioning and post-launch support`
+
+Keep workflow notes brief: status, owner, and immediate next step. The exact approved fields, consent, retention, backup, interview records, and assessment documentation remain unresolved. Do not store background-check details, confession, diagnoses, unverified allegations, or unnecessary pastoral narrative in a form, workflow, group record, or this repository. A completed workflow does not appoint a leader, and Paul's intake ownership does not grant final appointment authority.
 
 See [[Forms]] and [[05 Leadership/Group Leaders]].
 

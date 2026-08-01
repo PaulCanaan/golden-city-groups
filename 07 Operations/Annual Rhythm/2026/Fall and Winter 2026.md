@@ -11,6 +11,8 @@
 - **August 25:** Team Night with dedicated City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation
 - **September 20:** Golden City Church public launch
 
+During the August Team Nights, Paul serves as the on-site leader-interest point person, helps Launch Team members submit the Planning Center form, receives and organizes submissions through his admin access, and emails applicants to arrange interviews and communicate immediate next steps. Later assessment, approval, training, assignment, appointment, safeguarding, and commissioning standards remain unresolved.
+
 ## Planned Sequence After Team Nights
 
 1. Complete leader discernment within the Launch Team.

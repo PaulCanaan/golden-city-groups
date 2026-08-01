@@ -6,9 +6,9 @@
 
 ## Initial City Group Pathway
 
-Church plant gatherings → Launch Team → Team Night leader sign-ups → leader discernment → leader training → group assignments → commissioning → September 20 launch
+Church plant gatherings → Launch Team → Team Night Planning Center form → Paul reviews and follows up → interview and assessment → leader training → group assignments → appointment and commissioning → September 20 launch
 
-The July 28, August 11, and August 25 Team Nights are the confirmed initial environment for vision, sign-ups, discernment, placement conversations, and launch preparation. Leader standards, appointments, assignments, and commissioning remain subject to pastoral approval and readiness review.
+The July 28, August 11, and August 25 Team Nights are the confirmed initial environment for vision, sign-ups, discernment, placement conversations, and launch preparation. Under DEC-026, Paul serves as the August Team Night sign-up point person, owns Planning Center form intake, reviews and organizes submissions, and emails applicants to arrange interviews and communicate immediate next steps. Leader standards, interviews and assessment, appointments, assignments, training, safeguarding, and commissioning remain subject to the appropriate approval and readiness review.
 
 ## Role Documents
 

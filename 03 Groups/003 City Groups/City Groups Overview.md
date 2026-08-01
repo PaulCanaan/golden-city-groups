@@ -12,9 +12,9 @@ The ratio is a design emphasis, not a timed quota. Fellowship is part of discipl
 
 ## Initial Leadership Pipeline
 
-The initial City Group leaders will be prayerfully identified, invited, discerned, and trained from among the Launch Team. Team Nights on July 28, August 11, and August 25 provide the initial setting for City Group vision, leader sign-ups, discernment, placement conversations, and September launch preparation.
+The initial City Group leaders will be prayerfully identified, invited, discerned, and trained from among the Launch Team. Team Nights on July 28, August 11, and August 25 provide the initial setting for City Group vision, leader sign-ups, discernment, placement conversations, and September launch preparation. During the August Team Nights, Paul helps interested Launch Team members submit the Planning Center form, owns intake, and emails applicants to arrange interviews and communicate immediate next steps.
 
-A sign-up does not constitute appointment. Leader standards, final approval authority, training details, group assignments, and commissioning remain pending.
+A sign-up does not constitute appointment, and Paul's intake role does not confer final appointment authority. Interview standards, candidate qualifications, safeguarding review, final approval authority, training details, group assignments, appointment, and commissioning remain pending.
 
 - [[Weekly Recaps]] — Discussion resource that carries the weekend message into group conversation and practice.
 

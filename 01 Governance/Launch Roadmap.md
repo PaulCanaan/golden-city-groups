@@ -113,7 +113,7 @@ The following sequence distinguishes confirmed context from work that remains pl
 |---|---|---|---|
 | Church Plant Gatherings | **Confirmed** | Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have gathered prospective members since March 2026. | No additional decision is required to recognize this context. |
 | Launch Team | **Confirmed** | More than 50 committed volunteers are preparing to become the church's initial ministry teams. | Individual ministry assignments are not established by Launch Team participation alone. |
-| Team Night leader sign-ups | **Confirmed plan** | July 28, August 11, and August 25 will include City Group vision, sign-ups, discernment, placement conversations, and launch preparation. Paul is the ministry point person who presents the ministry and supports sign-up. | The exact sign-up method, backup, and approved recordkeeping process require operational confirmation. |
+| Team Night leader sign-ups | **Confirmed; August intake workflow approved** | Paul is the on-site point person, helps Launch Team members submit the Planning Center interest form, receives and organizes submissions through admin access, and emails applicants to arrange interviews and communicate immediate next steps. | Backup coverage, form fields and consent, interview standards, assessment records, and later approval stages remain unresolved. |
 | Leader discernment | **Planned; standards awaiting pastoral approval** | Initial candidates will be prayerfully identified and invited from within the Launch Team. | Qualifications, discernment process, decision authority, and appointment record are prepared for staff review in PRO-025. |
 | Leader training | **Planned** | Training must follow initial sign-up and discernment and precede final assignment and commissioning. | Dates, curriculum, facilitators, attendance requirements, and completion standard are not yet confirmed. |
 | Group assignments and Planning Center build | **Planned; platform controls awaiting approval** | Assignments follow discernment and training. Approved offerings should receive complete draft Planning Center records before publication. | Leader names, co-leaders, hosts, group communities, locations, capacities, participant placement, permissions, data controls, and enrollment ownership are not yet confirmed. |
@@ -163,11 +163,11 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 - Which specific City Groups, Bible Clubs, Classes, and Collectives will complete readiness?
 - Which city or community pages represent real launch-ready groups?
 - Will men's or women's gatherings launch, and at what rhythm?
-- Who owns intake, placement, follow-up, and calendar accuracy?
+- Who owns participant intake, placement, later applicant assessment, backup follow-up, and calendar accuracy beyond Paul's approved leader-interest intake and initial follow-up?
 - Which Planning Center permissions, backup responsibilities, enrollment requests, event setup, attendance review, and Church Center checks support Paul's confirmed operational ownership?
 - What participant information may be collected and where will it be stored?
 - Which safeguarding policies and training are required?
-- What approved form or record will Paul use for Team Night leader interest and discernment follow-up?
+- What fields, consent, retention, backup, and assessment record should govern the approved Planning Center leader-interest workflow?
 - When and how will approved City Group leaders be trained, assigned, and commissioned?
 - What budget and facilities are available?
 - When will Paul recommend each offering for launch, and when will Russ or his designated pastor complete final readiness review?

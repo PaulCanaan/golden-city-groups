@@ -9,8 +9,8 @@ Connected to [[07 Operations/Calendar]]
 ## Outline
 
 1. **Confirmed context:** Church plant gatherings form the Launch Team.
-2. **Confirmed dates:** July 28, August 11, and August 25 Team Nights support City Group leadership preparation.
-3. **Planned:** Leader discernment from within the Launch Team.
+2. **Confirmed dates and workflow:** July 28, August 11, and August 25 Team Nights support City Group leadership preparation; in August, Paul owns Planning Center leader-interest intake and immediate applicant follow-up.
+3. **Planned:** Interviews, assessment, safeguarding review, and approval within the Launch Team under standards still requiring approval.
 4. **Planned:** Leader training after discernment.
 5. **Planned:** Group assignments and location or host confirmation.
 6. **Planned:** Commissioning after readiness review.

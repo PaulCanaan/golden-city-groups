@@ -4,6 +4,8 @@
 
 **Proposed discernment tool; awaiting approval under PRO-025.** This guide may support relational conversations with Launch Team members who express City Group leadership interest. It does not establish qualifications, authorize appointment, or replace a pastorally approved process.
 
+DEC-026 confirms that Paul emails applicants to arrange interviews and communicate immediate next steps. It does not approve this guide's questions, name the interviewer or assessment team, or give Paul final appointment authority.
+
 ## Ministry Purpose
 
 Listen prayerfully for a person's story, faith, character, availability, alignment, and capacity so that the next step can be discerned rather than assumed.

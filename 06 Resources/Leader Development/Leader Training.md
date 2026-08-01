@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Planned launch requirement; curriculum and schedule pending.** Initial City Group leader candidates will come from the Launch Team and enter training only after Team Night interest and relational discernment. Sign-up alone does not authorize participation as an approved leader.
+**Planned launch requirement; curriculum and schedule pending.** Initial City Group leader candidates will come from the Launch Team. During the August Team Nights, Paul owns Planning Center form intake and immediate applicant follow-up; candidates enter training only after the still-pending interview, assessment, safeguarding, and approval process. Sign-up, follow-up, or interview alone does not authorize participation as an approved leader.
 
 ## Initial Audience
 

@@ -22,7 +22,7 @@
 
 The four environments share the Belonging, Beholding, and Becoming framework but are not interchangeable. See [[01 Governance/Ministry Model|Ministry Model]] for the governing distinctions and [[Classes Overview]] for current class development.
 
-Initial City Group leaders will be prayerfully identified, invited, discerned, and trained from within the Launch Team through the July 28, August 11, and August 25 Team Nights. This is the confirmed initial pipeline, not a permanent restriction on future leadership development.
+Initial City Group leaders will be prayerfully identified, invited, discerned, and trained from within the Launch Team through the July 28, August 11, and August 25 Team Nights. During the August Team Nights, Paul helps interested Launch Team members submit the Planning Center form, owns intake, and communicates immediate next steps. This is the confirmed initial pipeline, not a permanent restriction on future leadership development or a grant of final appointment authority.
 
 Specific leaders, hosts, communities, locations, capacities, and assignments remain pending until they complete the applicable approval and launch-readiness gates.
 

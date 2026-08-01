@@ -2,7 +2,7 @@
 
 This vault supports the development and launch of Golden City Church's Groups & Classes Ministry. It gathers the ministry's governing direction, theological framework, group and class plans, leadership resources, operations, and decision history.
 
-Golden City Church plans to launch publicly on **September 20, 2026**. Paul is the ministry's operational point person; Russ, or a pastor he designates, retains final readiness approval and the pastoral decisions recorded in the [Active Decision Register](00%20Dashboard/Decision%20Log.md).
+Golden City Church plans to launch publicly on **September 20, 2026**. Paul serves as Ministry Director and operational point person; Russ, or a pastor he designates, retains final readiness approval and the pastoral decisions recorded in the [Active Decision Register](00%20Dashboard/Decision%20Log.md).
 
 ## Ministry at a Glance
 

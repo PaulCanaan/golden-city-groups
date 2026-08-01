@@ -108,11 +108,12 @@ The confirmed launch sequence is:
 
 1. Pre-launch church plant gatherings form the Launch Team.
 2. Team Nights on July 28, August 11, and August 25 provide City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation.
-3. Potential leaders are prayerfully discerned and invited from within the Launch Team.
-4. Approved candidates receive the required training.
-5. Leaders and participants are assigned to launch-ready groups.
-6. Leaders are commissioned through a practice still requiring pastoral and operational confirmation.
-7. Golden City Church launches publicly on September 20, 2026.
+3. During the August Team Nights, Paul helps interested Launch Team members submit the Planning Center form, receives and organizes submissions, and emails applicants to arrange interviews and communicate immediate next steps.
+4. Potential leaders proceed through approved interview, assessment, safeguarding, and approval steps still requiring definition.
+5. Approved candidates receive the required training.
+6. Leaders and participants are assigned to launch-ready groups.
+7. Leaders receive explicit appointment and are commissioned through practices still requiring pastoral and operational confirmation.
+8. Golden City Church launches publicly on September 20, 2026.
 
 Leader sign-up is an expression of interest rather than appointment. Paul owns routine coordination and leader-interest follow-up; Russ or his designated pastor gives final readiness approval. Exact leaders, groups, assignments, training content, and commissioning details remain unresolved until recorded in `00 Dashboard/Decision Log.md`.
 

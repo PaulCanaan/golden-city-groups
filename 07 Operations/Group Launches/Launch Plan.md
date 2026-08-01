@@ -17,8 +17,8 @@ City Groups provide community, pastoral connection, prayer, and weekend-message 
 | Church plant gatherings | **Confirmed context** | Interest Socials, Dinner Parties, Worship Nights, service opportunities, and Team Nights form the Launch Team. |
 | Launch Team | **Confirmed context** | More than 50 committed volunteers prepare to become initial ministry teams. |
 | July 28 Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and preparation begin or continue. |
-| August 11 Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and preparation continue. |
-| August 25 Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and preparation continue. |
+| August 11 Team Night | **Confirmed; intake workflow approved** | Paul supports Planning Center leader-interest form submission and owns intake and initial applicant follow-up. |
+| August 25 Team Night | **Confirmed; intake workflow approved** | Paul repeats the approved form-intake and immediate follow-up workflow. |
 | Leader discernment | **Planned; standards pending approval** | Potential leaders are prayerfully identified and invited from within the Launch Team. |
 | Leader training | **Planned** | Invited candidates complete required preparation after discernment. |
 | Group assignments | **Planned** | Approved leaders, groups, hosts or locations, and capacities are matched. |
@@ -41,7 +41,7 @@ City Groups provide community, pastoral connection, prayer, and weekend-message 
 
 Use [[Planning Center Groups]] for the detailed operating procedure.
 
-1. Confirm Paul's Planning Center permission, backup, group type managers if needed, and join-request owners. Russ or his designated pastor is the final readiness approver.
+1. Use Paul's confirmed Planning Center admin access for leader-interest form intake; confirm backup coverage, remaining permission boundaries, group type managers if needed, and participant join-request owners. Russ or his designated pastor remains the final readiness approver.
 2. Review group-type defaults for privacy, leader permissions, chat, event visibility, enrollment, and contact handling.
 3. Keep draft groups unlisted and closed while details remain provisional.
 4. Add leaders only after appointment; Team Night interest and discernment records do not belong in the group roster.
@@ -51,11 +51,10 @@ Use [[Planning Center Groups]] for the detailed operating procedure.
 
 ## Pending Operational Decisions
 
-- Sign-up method and record owner
 - Discernment participants, standards, and approval authority
 - Training dates, curriculum, facilitator, and completion standard
 - Group communities, leader pairings, hosts or locations, and capacities
 - Commissioning date, setting, and approving pastor
 - Participant placement and follow-up ownership
 - Final readiness review date and designated pastoral backup
-- Planning Center administrator, group type managers, permissions, data controls, and enrollment-response workflow
+- Planning Center backup, group type managers, remaining permission boundaries, data controls, and public enrollment-response workflow

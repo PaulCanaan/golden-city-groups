@@ -16,8 +16,8 @@
 | Date | Event | Status | Groups and Classes significance |
 |---|---|---|---|
 | July 28, 2026 | Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation |
-| August 11, 2026 | Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation |
-| August 25, 2026 | Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation |
+| August 11, 2026 | Team Night | **Confirmed; intake workflow approved** | Paul supports Planning Center form submission, owns intake, and begins applicant follow-up |
+| August 25, 2026 | Team Night | **Confirmed; intake workflow approved** | Repeat the approved intake and immediate follow-up workflow |
 | September 20, 2026 | Golden City Church public launch | **Confirmed** | Public church launch; not the automatic start date for every Group or Class |
 
 ## Pending Milestones

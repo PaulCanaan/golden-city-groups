@@ -10,12 +10,13 @@ Connected to [[Semester Planning]] and [[07 Operations/Calendar]]
 
 1. **Confirmed:** Pre-launch gatherings form the Launch Team.
 2. **Confirmed:** July 28, August 11, and August 25 Team Nights provide City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation.
-3. **Planned; awaiting approved standards:** Prayerful leader discernment and invitation from within the Launch Team.
-4. **Planned:** Leader training.
-5. **Planned:** Group assignments, hosts or locations, and capacity confirmation.
-6. **Planned; awaiting pastoral direction:** Leader commissioning.
-7. **Confirmed:** Golden City Church launches publicly September 20.
-8. **Planned:** Launch-ready groups begin in the approved fall ministry window.
+3. **Approved for August Team Nights:** Paul helps interested Launch Team members submit the Planning Center form, owns intake, and emails applicants to arrange interviews and communicate immediate next steps.
+4. **Planned; awaiting approved standards:** Interview, assessment, safeguarding review, and approval within the Launch Team.
+5. **Planned:** Leader training.
+6. **Planned:** Group assignments, hosts or locations, and capacity confirmation.
+7. **Planned; awaiting pastoral direction:** Leader appointment and commissioning.
+8. **Confirmed:** Golden City Church launches publicly September 20.
+9. **Planned:** Launch-ready groups begin in the approved fall ministry window.
 
 Public leadership pathways may be developed later but are not part of the initial pre-launch recruitment process.
 

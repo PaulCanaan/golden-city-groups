@@ -33,7 +33,7 @@ An item is not governing merely because it appears in the staff brief. Proposed 
 | DEC-022 | Initial scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas. | Confirmed |
 | DEC-023 | Paul will teach the first Planted class as a nine- or ten-week course leading to Christmas 2026. | Confirmed |
 | DEC-025 | Golden City Groups established City Groups, Bible Clubs, and Classes as distinct environments. The August 1, 2026 clarification records Collectives as the approved fourth environment, expressed through Men's and Women's Collectives. | Confirmed; clarified August 1, 2026 |
-| DEC-026 | During the August Team Nights, Paul serves as the on-site leader-interest point person, helps Launch Team members submit the Planning Center form, owns form intake and organization through his admin access, and emails applicants to arrange interviews and communicate immediate next steps. | Confirmed |
+| DEC-026 | Paul serves as Ministry Director and, during the August Team Nights, is the on-site leader-interest point person who supports Planning Center form submission, owns intake and organization through his admin access, and emails applicants to arrange interviews and communicate immediate next steps. | Confirmed |
 
 DEC-025 supersedes DEC-024's percentage shorthand. The dated clarification to DEC-025 identifies the current four-environment model without assigning an undocumented decision number. See [[08 Archive/Decisions/Decision History#Clarification to DEC-025 — Four-Environment Ministry Model|Decision History]] for the full record.
 
@@ -53,7 +53,7 @@ DEC-025 supersedes DEC-024's percentage shorthand. The dated clarification to DE
 |---|---|---|---|
 | PRO-028 | [[Staff Decision Brief#PRO-028 — Planted Final Readiness\|Planted Final Readiness]] | The instructor and course window are confirmed, but curriculum review and operating details are not. | Proposed; pastoral approval required |
 | PRO-029 | [[Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan\|Leader Training, Assignment, and Commissioning Plan]] | Team Night interest must lead to training, assignment, and appointment before launch. | Proposed; staff direction required |
-| PRO-030 | [[Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance\|Church Center Intake and Planning Center Governance]] | Enrollment, follow-up, permissions, and participant paths need named owners and approved settings. | Proposed; staff and pastoral direction required |
+| PRO-030 | [[Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance\|Church Center Intake and Planning Center Governance]] | Public participant enrollment, backup coverage, response standards, remaining permissions, and data settings still need approval. | Proposed; staff and pastoral direction required |
 
 ### Later formation meeting
 
@@ -65,7 +65,6 @@ DEC-025 supersedes DEC-024's percentage shorthand. The dated clarification to DE
 
 These should be developed alongside the proposals but do not require separate Decision Log entries unless they materially change ministry policy.
 
-- Paul's formal ministry title
 - Original approval date, approver, and source evidence for the four-environment clarification; this is a documentation task, not a request to re-approve the model
 - Backup final-readiness approver and emergency escalation contact
 - Backup coverage and least-privilege details beyond Paul's confirmed Planning Center admin access for leader-interest form intake

@@ -4,7 +4,7 @@
 
 **Operational summary; not a governing decision record.** Last reviewed **August 1, 2026** from the [[00 Dashboard/Decision Log|Active Decision Register]], [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]], and [[01 Governance/Launch Roadmap|Launch Roadmap]]. Update those sources before updating this dashboard when direction changes.
 
-**Primary users:** Paul, ministry operator; Russ, Lead Pastor and final readiness approver.
+**Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
 ## At a Glance
 
@@ -14,20 +14,32 @@
 | Current phase | Launch Team leader follow-up, discernment, and operational preparation |
 | Next confirmed ministry milestone | **Team Night — August 11, 2026** |
 | Ministry environments | City Groups, Bible Clubs, Classes, and Collectives |
-| Operational authority | Paul leads routine design, coordination, Planning Center, presentation, and follow-up |
+| Operational authority | Paul serves as Ministry Director and owns Team Night leader-interest intake, Planning Center form intake, and initial applicant follow-up |
 | Final readiness authority | Russ or a pastor explicitly designated by Russ |
 
 ## Next Actions
 
 | Priority | Next action | Owner | Timing | Status / dependency |
 |---|---|---|---|---|
-| 1 | Follow up with July 28 City Group leader-interest respondents; preserve the distinction between interest and appointment. | Paul | Before August 11 | Ready within DEC-021; appointment still requires pastoral approval |
-| 2 | Prepare the August 11 Team Night City Group vision, interest, discernment, and placement conversation. | Paul with staff | August 11 | Confirmed milestone; exact recordkeeping method remains open |
+| 1 | Review and organize submitted leader-interest forms, then email applicants to arrange interviews and communicate immediate next steps. | Paul | Before August 11 and after each August Team Night | **Approved implementation under DEC-026**; interview and appointment standards remain pending |
+| 2 | Prepare the August 11 Team Night City Group vision and approved Planning Center interest-form workflow. | Paul with staff | August 11 | Paul is the on-site sign-up and form-intake owner under DEC-026 |
 | 3 | Bring the leader, safeguarding, and offering-readiness decisions below to the next staff review. | Paul | Next staff meeting | Launch-blocking decisions need Russ and staff direction |
 | 4 | Complete an offering-by-offering readiness recommendation for City Groups, Men's Collective, Women's Collective, and Planted. | Paul | Before public promotion or enrollment | Use PRO-027; staff must assign owners and readiness disposition |
 | 5 | Recommend leader-training, assignment, appointment-record, and commissioning dates. | Paul | Before final City Group assignments | PRO-029 requires staff direction; Russ appoints primary leaders |
 | 6 | Assemble the remaining Planted curriculum and operating details for approval. | Paul | Before Planted registration opens | PRO-028 requires pastoral approval and final readiness sign-off |
 | 7 | Configure and test only approved offerings and participant paths in Planning Center and Church Center. | Paul | Before registration opens | PRO-030 and participant-data boundaries must be approved |
+
+## Approved Leader-Interest Intake
+
+During the August Team Nights, Paul:
+
+1. helps interested Launch Team members access and submit the Planning Center interest form;
+2. receives submissions through his Planning Center admin access;
+3. reviews and organizes the submissions;
+4. emails applicants to arrange interviews and communicate immediate next steps; and
+5. moves applicants into the remaining assessment, approval, training, and assignment process.
+
+This workflow is approved under DEC-026. It does not give Paul final appointment authority or settle interview standards, candidate qualifications, safeguarding review, training, assignment, appointment, or commissioning.
 
 ## Decisions for Russ and Staff
 
@@ -70,9 +82,9 @@ No offering is launch-ready merely because it appears here, on the website, or i
 
 | Date | Milestone | Follow-up |
 |---|---|---|
-| July 28, 2026 | First scheduled Team Night in the City Group leadership sequence | Record respondents and next steps; the current governance files do not record outcomes |
-| August 11, 2026 | Team Night: vision, interest, discernment, placement conversation, and preparation | Follow up with respondents and advance approved candidates |
-| August 25, 2026 | Final scheduled pre-launch Team Night | Complete remaining preparation before assignments and commissioning |
+| July 28, 2026 | First scheduled Team Night in the City Group leadership sequence | Review any recorded interest and communicate next steps without implying appointment |
+| August 11, 2026 | Team Night: vision and leader-interest intake | Paul supports Planning Center form submission and begins applicant follow-up under DEC-026 |
+| August 25, 2026 | Final scheduled pre-launch Team Night | Repeat the approved intake workflow and continue only through approved assessment and preparation steps |
 | September 20, 2026 | Golden City Church public launch | Does not automatically establish the start date or readiness of every offering |
 
 ## Governing Direction
@@ -80,7 +92,7 @@ No offering is launch-ready merely because it appears here, on the website, or i
 - **Formation:** Belonging → Beholding → Becoming guides the ministry.
 - **Environments:** City Groups provide community, pastoral connection, and weekend-message application; Bible Clubs facilitate shared Bible study; Classes provide teacher-led, topic-specific equipping and disciple-maker development; Collectives provide gender-specific ministry through Men's and Women's Collectives.
 - **Authority:** Paul operates the ministry within confirmed direction; Russ or his designated pastor gives final readiness approval and retains the pastoral decisions in DEC-021.
-- **Leadership:** Initial City Group leaders come from the Launch Team through interest, discernment, preparation, and explicit appointment.
+- **Leadership:** Paul owns Team Night leader-interest intake and initial applicant follow-up; initial City Group leaders still require assessment, approval, preparation, assignment, and explicit appointment.
 - **Systems:** Planning Center Groups and Church Center support approved ministry operations but do not confer approval or appointment.
 
 See the [[00 Dashboard/Decision Log#Current Governing Direction|Current Governing Direction]] for the complete active register.

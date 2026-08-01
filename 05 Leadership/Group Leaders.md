@@ -6,14 +6,15 @@
 
 ## Current Selection Sequence
 
-1. City Group vision and leader sign-ups at the July 28, August 11, and August 25 Team Nights
-2. Relational and pastoral discernment within the Launch Team
-3. Invitation into the approved training process
-4. Completion of required preparation
-5. Group assignment and readiness review
-6. Commissioning before public service
+1. City Group vision and leader-interest sign-ups at the July 28, August 11, and August 25 Team Nights
+2. During the August Team Nights, Paul helps interested Launch Team members submit the Planning Center form.
+3. Paul receives, reviews, and organizes submissions, then emails applicants to arrange interviews and communicate immediate next steps.
+4. Approved interviewers conduct assessment under standards still requiring approval.
+5. Approved candidates enter and complete the required training process.
+6. Staff completes group assignment and readiness review.
+7. Primary leaders receive explicit appointment and are commissioned before public service.
 
-Steps 3–6 are planned; their dates, owners, standards, and approving authority remain pending.
+Steps 2–3 are approved under DEC-026. Steps 4–7 remain approval-dependent; their standards, dates, owners, records, and approving authority are not established by the intake workflow.
 
 ## Responsibilities and Expectations
 

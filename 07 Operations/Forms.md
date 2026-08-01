@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Proposed procedure built around confirmed Planning Center use.** Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted. Paul is the confirmed point person for ministry presentation and leader-interest follow-up. Exact form ownership, backups, response timing, placement, participant fields, consent, and retention are prepared for decision in PRO-026, PRO-027, and PRO-030.
+**Mixed confirmed and proposed procedure.** DEC-026 confirms the August Team Night leader-interest form owner and initial follow-up workflow. Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted; public participant ownership, backups, response timing, placement, fields, consent, and retention remain prepared for decision in PRO-026, PRO-027, and PRO-030.
 
 ## Purpose
 
@@ -12,14 +12,17 @@ Give each person a clear next step and a timely human response while collecting 
 
 ### Internal City Group leader interest
 
-The initial City Group leader pipeline runs through the July 28, August 11, and August 25 Team Nights.
+The initial City Group leader pipeline runs through the July 28, August 11, and August 25 Team Nights. The following intake and initial follow-up steps are approved for the August Team Nights under DEC-026:
 
-1. Invite Launch Team members to express interest.
-2. Record only the minimum approved contact and availability information in the approved system.
-3. Route the response to Paul for follow-up and to the assigned pastoral discernment owner when appointment review is needed.
-4. Acknowledge the response without implying appointment.
-5. Keep pastoral discernment notes, background-check information, and confidential references out of Planning Center group membership and out of this repository.
-6. Add a candidate as a Planning Center group leader only after approved discernment and appointment.
+1. Paul serves as the on-site point person and helps interested Launch Team members access and submit the appropriate Planning Center interest form.
+2. Paul receives the submissions through his Planning Center admin access.
+3. Paul reviews and organizes the submissions.
+4. Paul emails applicants to arrange interviews and communicate immediate next steps without implying appointment.
+5. Applicants move into the remaining assessment, approval, training, and assignment process.
+
+Keep pastoral discernment notes, background-check information, and confidential references out of Planning Center group membership and this repository. Add a candidate as a Planning Center group leader only after approved assessment and appointment.
+
+**Still unresolved:** approved form fields and consent, backup coverage, response-time standard, interview standards and interviewers, candidate qualifications, safeguarding review, final approval authority, training requirements, role assignment, appointment, and commissioning.
 
 ### Public participant enrollment
 

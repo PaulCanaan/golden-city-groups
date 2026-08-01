@@ -154,23 +154,28 @@ Run Club, Youth City Group, and Young Adults Group remain deferred ideas under D
 
 - **Approval status:** Proposed; staff direction required
 - **Launch priority:** Launch-blocking for City Groups
-- **Decision needed:** Confirm how Team Night interest becomes discernment, training, assignment, appointment, and commissioning.
-- **Why it matters:** The pipeline is confirmed, but dates, owners, training requirements, assignments, and commissioning practice remain unresolved.
+- **Decision needed:** Confirm how applicants move from the approved intake and initial follow-up workflow into interview, assessment, training, assignment, appointment, and commissioning.
+- **Why it matters:** DEC-026 confirms intake ownership and immediate follow-up, but interview standards, assessment, dates, training requirements, assignments, appointment, and commissioning remain unresolved.
 - **Formation relationship:** Preparation should form leaders in character, theology, hospitality, care, facilitation, prayer, and responsible use of Planning Center.
 
-### Recommended sequence
+### Approved implementation under DEC-026
 
-1. Paul follows up with Team Night respondents.
-2. Pastoral or delegated discernment conversations occur.
-3. Approved candidates complete role-specific training.
-4. Staff confirms leaders, hosts or locations, group communities, and capacities.
-5. Primary leaders receive explicit pastoral appointment.
-6. Paul configures only approved groups and roles in Planning Center.
-7. Leaders are commissioned through the approved church practice.
+1. Paul helps interested Launch Team members submit the Planning Center interest form during the August Team Nights.
+2. Paul receives, reviews, and organizes the submissions through his Planning Center admin access.
+3. Paul emails applicants to arrange interviews and communicate immediate next steps.
+
+### Remaining proposed sequence
+
+4. Approved interviewers conduct assessment using standards still requiring approval.
+5. Approved candidates complete role-specific training.
+6. Staff confirms leaders, hosts or locations, group communities, and capacities.
+7. Primary leaders receive explicit pastoral appointment.
+8. Paul configures only approved groups and roles in Planning Center.
+9. Leaders are commissioned through the approved church practice.
 
 ### Direction to record
 
-**Discernment owner:**  
+**Interview and assessment standard / owner:**
 **Training dates and facilitator:**  
 **Assignment deadline:**  
 **Appointment record owner:**  
@@ -184,14 +189,22 @@ Run Club, Youth City Group, and Young Adults Group remain deferred ideas under D
 
 - **Approval status:** Proposed; staff and pastoral direction required
 - **Launch priority:** Launch-blocking before registration opens
-- **Decision needed:** Approve the participant path, system owners, access boundaries, response standards, and key settings for each active offering.
+- **Decision needed:** Approve the public participant path, remaining system and backup owners, access boundaries, response standards, and key settings for each active offering.
 - **Why it matters:** A public link should lead to a tested, truthful next step with timely human follow-up and appropriate handling of participant information.
 - **Formation relationship:** Administrative clarity serves hospitality and care; it should never reduce people to records or expose sensitive information.
 
-### Items to decide
+### Approved leader-interest implementation under DEC-026
+
+- Paul owns the Planning Center leader-interest form intake during the August Team Nights.
+- Paul receives submissions through his Planning Center admin access, reviews and organizes them, and owns initial applicant follow-up.
+- Paul emails applicants to arrange interviews and communicate immediate next steps.
+- Form submission and administrative access do not confer appointment authority.
+
+### Items still to decide
 
 - public destination and enrollment mode for each active offering;
-- form owner, notification recipient, backup, and expected response time;
+- public participant form owner, notification recipient, backup, and expected response time;
+- backup coverage and response-time expectations for leader-interest intake;
 - placement, capacity, waitlist, redirection, and decline process;
 - minimum approved fields and consent language;
 - Paul and leader permission levels;
@@ -202,7 +215,8 @@ Run Club, Youth City Group, and Young Adults Group remain deferred ideas under D
 ### Direction to record
 
 **Approved participant path by offering:**  
-**System owner and backup:**  
+**Public participant system owner and backup:**
+**Leader-interest intake backup:**
 **Response standard:**  
 **Approved access boundary:**  
 **Approver:**  

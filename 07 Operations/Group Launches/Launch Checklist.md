@@ -13,15 +13,17 @@
 - [x] August 25 Team Night is scheduled for City Group leadership preparation.
 - [x] Golden City Church's public launch is September 20, 2026.
 - [x] Paul is the operational point person for the ministry and Planning Center.
+- [x] Paul is the August Team Night leader-interest sign-up point person.
+- [x] Paul owns Planning Center form intake, submission organization, initial applicant emails, and interview scheduling under DEC-026.
 - [x] Paul recommends offering readiness; Russ or his designated pastor gives final approval.
 - [x] Run Club, Youth City Group, and Young Adults Group are deferred ideas rather than required launch offerings.
 
 ## Team Night Follow-Through
 
-- [ ] Approved sign-up method and record owner confirmed.
-- [ ] Every expression of leader interest receives follow-up.
+- [x] Planning Center form sign-up method and Paul as intake owner are confirmed for the August Team Nights.
+- [ ] Every submitted expression of leader interest receives Paul's initial follow-up email.
 - [ ] Interest is clearly distinguished from appointment.
-- [ ] Placement conversations are documented in an approved, privacy-conscious system.
+- [ ] Interview and placement records use an approved, privacy-conscious method.
 
 ## Leader Discernment and Approval
 

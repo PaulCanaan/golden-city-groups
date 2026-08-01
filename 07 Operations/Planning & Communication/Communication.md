@@ -15,6 +15,7 @@ Use language consistent with:
 During the pre-launch season:
 
 - Direct City Group leader vision, sign-ups, discernment, and placement conversations through the July 28, August 11, and August 25 Team Nights.
+- During the August Team Nights, direct interested Launch Team members to Paul for help submitting the Planning Center leader-interest form.
 - Describe leader sign-up as an expression of interest, not appointment.
 - Do not invite the general public to assume immediate City Group leadership.
 - Do not imply that Launch Team participation guarantees leadership or assignment.
@@ -51,6 +52,24 @@ Do not reintroduce superseded percentage-based definitions. Run Club, Youth City
 - Correct or remove outdated public links when a group is duplicated, archived, closed, or deferred.
 
 ## Templates
+
+### Leader-interest follow-up email
+
+**Owner:** Paul
+**Status:** Approved immediate follow-up responsibility under DEC-026; wording may be adapted without promising advancement or appointment.
+
+**Subject:** Golden City Groups leader-interest next step
+
+Hi [Name],
+
+Thank you for expressing interest in helping lead a group at Golden City Church. I received your Planning Center form and would like to arrange an interview so we can learn more about you, answer questions, and explain the next steps.
+
+Please let me know which of these times works for you: [approved options].
+
+Submitting the form and completing an interview are parts of the assessment process; they do not constitute approval, assignment, or appointment. I will communicate the immediate next step after the interview according to the approved process.
+
+Paul
+Ministry Director
 
 ## Schedule
 

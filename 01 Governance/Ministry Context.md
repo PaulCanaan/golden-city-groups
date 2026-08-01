@@ -8,7 +8,7 @@
 
 This repository supports the Groups and Classes Ministry of Golden City Church, a church plant preparing to launch publicly on September 20, 2026.
 
-Paul is the operational point person for the Groups and Classes Ministry. He owns routine ministry design, coordination, leader support, calendar maintenance, Planning Center operation, ministry presentation, and leader-interest follow-up within confirmed church direction. Russ, or a pastor explicitly designated by Russ, gives final readiness approval and retains the pastoral decisions recorded in DEC-021. Paul's precise formal title remains unresolved.
+Paul serves as Ministry Director and operational point person for the Groups and Classes Ministry. He owns routine ministry design, coordination, leader support, calendar maintenance, Planning Center operation, ministry presentation, and leader-interest follow-up within confirmed church direction. Russ, or a pastor explicitly designated by Russ, gives final readiness approval and retains the pastoral decisions recorded in DEC-021.
 
 ## Pre-Launch Church Plant Context
 
@@ -16,7 +16,7 @@ Since March 2026, Golden City Church has gathered prospective members through In
 
 For the initial launch season, City Group leaders will not be recruited from the general public. Russ intends for them to be prayerfully identified, invited, discerned, and trained from within the Launch Team. This is the confirmed launch-season leadership pipeline, not a permanent restriction on how leaders may be developed in later seasons.
 
-Upcoming Team Nights on July 28, August 11, and August 25, 2026 will include dedicated time for City Group vision, leader sign-ups, leader discernment, placement conversations, and preparation for the September launch. A sign-up expresses interest and availability; it does not constitute appointment or final group assignment.
+Team Nights on July 28, August 11, and August 25, 2026 include dedicated time for City Group vision, leader sign-ups, leader discernment, placement conversations, and preparation for the September launch. During the August Team Nights, Paul serves as the on-site sign-up point person, helps interested Launch Team members submit the Planning Center form, receives and organizes submissions through his admin access, and emails applicants to arrange interviews and communicate immediate next steps. A sign-up or interview expresses interest and begins assessment; neither constitutes appointment or final group assignment.
 
 ## Church Alignment
 
@@ -101,7 +101,6 @@ The presence of a file or city name does not prove that the ministry expression 
 
 ## Open Context Questions
 
-- What is Paul's formal title?
 - Who will serve as backup when Paul or the final readiness approver is unavailable?
 - Are there additional internal church documents that supersede or expand the public website?
 - Which specific offerings within the four prioritized environments have completed readiness review for the September 2026 launch season?

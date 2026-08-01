@@ -2,7 +2,7 @@
 
 ## Current Launch Focus
 
-Fall 2026 operations support the Launch Team leadership pipeline: Team Night sign-ups, discernment, training, group assignments, commissioning, and launch readiness. Confirmed dates are separated from planned or approval-dependent milestones throughout the operations documents.
+Fall 2026 operations support the Launch Team leadership pipeline: Team Night sign-ups, Paul-owned Planning Center form intake and initial applicant follow-up, interview and assessment, training, group assignments, appointment and commissioning, and launch readiness. DEC-026 confirms intake and immediate follow-up; later stages remain planned or approval-dependent.
 
 - [[07 Operations/Calendar]]
 - [[Planning Center Groups]]
