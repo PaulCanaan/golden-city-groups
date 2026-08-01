@@ -37,7 +37,7 @@ For staff decisions, also read the [Staff Decision Brief](00%20Dashboard/Staff%2
 | [`01 Governance`](01%20Governance/) | Durable ministry context, theology, model, and launch roadmap |
 | [`02 Group Philosophy`](02%20Group%20Philosophy/) | Mission, formation, healthy groups, and leadership philosophy |
 | [`03 Groups`](03%20Groups/) | City Groups and men's and women's ministry scaffolding |
-| [`04 Classes`](04%20Classes/) | Classes, Bible Club curriculum, and planned offerings |
+| [`04 Classes`](04%20Classes/) | Classes, curriculum planning, and planned offerings |
 | [`05 Leadership`](05%20Leadership/) | Leaders, hosts, coaches, and instructors |
 | [`06 Resources`](06%20Resources/) | Group life and leader-development resources |
 | [`07 Operations`](07%20Operations/) | Calendar, Planning Center, launches, communication, and metrics |

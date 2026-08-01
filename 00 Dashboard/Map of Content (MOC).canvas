@@ -97,7 +97,7 @@
 		{"id":"edge-calendar-rhythm","fromNode":"8d680931b68b3d45","fromSide":"bottom","toNode":"current-annual-rhythm","toSide":"top"},
 		{"id":"edge-stage-ministries","fromNode":"stage-launch","fromSide":"right","toNode":"environment-model","toSide":"left","label":"supports launch-ready ministry"},
 		{"id":"edge-environments-groups","fromNode":"environment-model","fromSide":"bottom","toNode":"9d74531e23206077","toSide":"top","label":"City Groups"},
-		{"id":"edge-environments-bible-clubs","fromNode":"environment-model","fromSide":"bottom","toNode":"54e0fd8a0981d2c7","toSide":"top","label":"Bible Clubs"},
+		{"id":"edge-environments-bible-clubs","fromNode":"environment-model","fromSide":"bottom","toNode":"54e0fd8a0981d2c7","toSide":"top","label":"curriculum planning"},
 		{"id":"edge-environments-classes","fromNode":"environment-model","fromSide":"bottom","toNode":"ca7154c83bb6f30c","toSide":"top","label":"Classes"},
 		{"id":"edge-groups-city","fromNode":"9d74531e23206077","fromSide":"right","toNode":"c87cfb8dd0c1e978","toSide":"left"},
 		{"id":"edge-groups-men","fromNode":"9d74531e23206077","fromSide":"bottom","toNode":"7d80d25f5e1ccb0b","toSide":"top","label":"classification open"},
