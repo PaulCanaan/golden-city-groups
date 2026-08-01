@@ -42,7 +42,7 @@ DEC-025 supersedes DEC-024's percentage shorthand. The dated clarification to DE
 
 | Proposal | Decision needed | Why now | Status |
 |---|---|---|---|
-| PRO-025 | [[Staff Decision Brief#PRO-025 — Leader, Host, Facilitator, and Instructor Standards\|Leader, Host, Facilitator, and Instructor Standards]] | People should not be appointed or entrusted without a minimum standard. | Proposed; pastoral approval required |
+| PRO-025 | [[Staff Decision Brief#PRO-025 — Leader, Host, and Instructor Standards\|Leader, Host, and Instructor Standards]] | People should not be appointed or entrusted without a minimum standard. | Proposed; pastoral approval required |
 | PRO-026 | [[Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data\|Pastoral Care, Safeguarding, and Participant Data]] | Every in-person and digital environment needs approved care, reporting, safety, and privacy boundaries. | Proposed; pastoral approval required |
 | PRO-027 | [[Staff Decision Brief#PRO-027 — Active Offering Ownership and Readiness\|Active Offering Ownership and Readiness]] | Each launch offering needs an accountable leader, escalation contact, and explicit readiness status. | Proposed; staff direction required |
 

@@ -35,7 +35,7 @@
 
 | Proposal | Decision needed | Approver | Launch effect |
 |---|---|---|---|
-| [[00 Dashboard/Staff Decision Brief#PRO-025 — Leader, Host, Facilitator, and Instructor Standards\|PRO-025 — Leadership standards]] | Approve qualifications, preparation, appointment, correction, and removal standards for every environment's roles. | Russ or designated pastor | **Launch-blocking** before leaders, facilitators, or instructors are entrusted |
+| [[00 Dashboard/Staff Decision Brief#PRO-025 — Leader, Host, and Instructor Standards\|PRO-025 — Leadership standards]] | Approve qualifications, preparation, appointment, correction, and removal standards. | Russ or designated pastor | **Launch-blocking** before leaders or instructors are entrusted |
 | [[00 Dashboard/Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data\|PRO-026 — Care, safeguarding, and data]] | Identify governing policies, primary and backup escalation contacts, and participant-data boundaries. | Russ or designated pastor | **Launch-blocking** for in-person and digital environments |
 | [[00 Dashboard/Staff Decision Brief#PRO-027 — Active Offering Ownership and Readiness\|PRO-027 — Offering ownership and readiness]] | Name each offering's owner, primary leader, pastoral escalation contact, and Launch / Develop / Defer disposition. | Staff; pastoral direction where required | **Launch-blocking for each offering** |
 

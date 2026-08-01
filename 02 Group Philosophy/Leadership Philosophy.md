@@ -30,7 +30,7 @@ Developed from [[01 Governance/Theological Framework|Theological Framework]], [[
 
 ## Approval Still Required
 
-See [[00 Dashboard/Staff Decision Brief#PRO-025 — Leader, Host, Facilitator, and Instructor Standards|PRO-025]] and [[00 Dashboard/Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]].
+See [[00 Dashboard/Staff Decision Brief#PRO-025 — Leader, Host, and Instructor Standards|PRO-025]] and [[00 Dashboard/Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]].
 
 ## Connections
 

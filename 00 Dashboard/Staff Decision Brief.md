@@ -31,17 +31,17 @@ Discuss PRO-032 after the active offering set and participant paths are stable.
 
 ---
 
-## PRO-025 — Leader, Host, Facilitator, and Instructor Standards
+## PRO-025 — Leader, Host, and Instructor Standards
 
 - **Approval status:** Proposed; pastoral approval required
 - **Launch priority:** Launch-blocking
-- **Decision needed:** Approve the minimum qualifications, discernment, preparation, appointment, correction, and removal process for City Group and Collective leaders, hosts, Bible Club facilitators, and Class instructors.
+- **Decision needed:** Approve the minimum qualifications, discernment, preparation, appointment, correction, and removal process for leaders, hosts, and instructors.
 - **Why it matters:** Leadership is stewardship of people. Interest, skill, attendance, or Planning Center access must not be mistaken for appointment.
 - **Formation relationship:** Leaders cultivate trustworthy belonging, direct people toward Christ, and model faithful becoming.
 
 ### Recommended minimum standard
 
-Before appointment, a leader, host, facilitator, or instructor should have:
+Before appointment, a leader, host, or instructor should have:
 
 - a pastoral or delegated relational conversation;
 - confirmed alignment with Golden City Church's mission, values, and beliefs;
@@ -52,7 +52,7 @@ Before appointment, a leader, host, facilitator, or instructor should have:
 - any church-required screening or background check; and
 - an explicitly recorded appointment.
 
-Russ or his designated pastor appoints or removes primary leaders, facilitators, and instructors. Paul may coordinate discernment, training, records, and recommendations within DEC-021.
+Russ or his designated pastor appoints or removes primary leaders and instructors. Paul may coordinate discernment, training, records, and recommendations within DEC-021.
 
 ### Direction to record
 
@@ -110,10 +110,9 @@ These recommendations are not a substitute for church policy, legal guidance, or
 | Offering | Operational owner | Primary leader | Pastoral escalation | Decision |
 |---|---|---|---|---|
 | City Group(s) | Paul |  |  | Launch / Develop / Defer |
-| Bible Club offering(s) |  |  |  | Launch / Develop / Defer |
-| Planted Class | Paul | Paul, instructor |  | Launch / Develop / Defer |
 | Men's Collective |  |  |  | Launch / Develop / Defer |
 | Women's Collective |  |  |  | Launch / Develop / Defer |
+| Planted | Paul | Paul, instructor |  | Launch / Develop / Defer |
 
 Run Club, Youth City Group, and Young Adults Group remain deferred ideas under DEC-022 and should not be added to this active table unless staff reactivates them.
 
@@ -215,7 +214,7 @@ Run Club, Youth City Group, and Young Adults Group remain deferred ideas under D
 
 - **Approval status:** Proposed; pastoral approval required
 - **Launch priority:** Important for leader training; detailed practices may develop after launch
-- **Decision needed:** Approve a minimum pastoral baseline for how City Groups, Bible Clubs, Classes, and Collectives speak about freedom in Christ, flourishing, prayer, discernment, spiritual gifts, and ministry in the Holy Spirit.
+- **Decision needed:** Approve a minimum pastoral baseline for how Groups and Classes speak about freedom in Christ, flourishing, prayer, discernment, spiritual gifts, and ministry in the Holy Spirit.
 - **Why it matters:** Leaders need enough shared language to serve people faithfully without improvising disputed theology or ministry practices.
 - **Formation relationship:** Belonging should direct people toward Christ; beholding depends on Scripture and the Holy Spirit; becoming includes freedom, obedience, service, and mature discernment.
 

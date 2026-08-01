@@ -27,5 +27,5 @@ Purpose inferred from the filename, neighboring Men's Collective files, and [[Br
 
 - [[03 Groups/001 Men's Groups/Monthly Gathering|Monthly Gathering]]
 - [[03 Groups/001 Men's Groups/Leader Guide|Leader Guide]]
-- [[00 Dashboard/Staff Decision Brief#PRO-025 — Leader, Host, Facilitator, and Instructor Standards|PRO-025]]
+- [[00 Dashboard/Staff Decision Brief#PRO-025 — Leader, Host, and Instructor Standards|PRO-025]]
 - [[00 Dashboard/Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]]

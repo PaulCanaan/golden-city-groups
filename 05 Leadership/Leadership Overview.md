@@ -29,7 +29,7 @@ Group leaders are planned for launch. Host requirements remain unresolved. A for
 | Classes | Instructor | Paul confirmed for Planted; broader standards pending |
 | Collectives | Collective leader | Men's and Women's offering ownership and appointments pending |
 
-PRO-025 must establish shared and role-specific standards before unconfirmed leaders, facilitators, hosts, or instructors are entrusted.
+Pastoral direction must establish shared and role-specific standards before unconfirmed leaders, facilitators, hosts, or instructors are entrusted.
 
 ## Connections
 
