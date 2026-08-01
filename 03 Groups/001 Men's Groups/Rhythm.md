@@ -1,0 +1,26 @@
+# Men's Collective Rhythm
+
+## Document Status
+
+**Confirmed public baseline; re-verification and launch readiness required.** DEC-015 records the July 23, 2026 public schedule. Publication does not establish staffing or final approval.
+
+## Published Fall 2026 Rhythm
+
+- **When:** second and fourth Mondays at 7:00 p.m.
+- **Location:** to be determined in the public baseline
+
+Reverify the schedule and location before derivative communication or enrollment opens.
+
+## Operating Requirements
+
+Before a gathering begins, confirm the owner, appointed leader, location, capacity, safeguarding plan, participant path, communications, and final readiness approval through PRO-027 and the Launch Checklist.
+
+## Source Note
+
+Schedule drawn from DEC-015 in [[08 Archive/Decisions/Decision History#DEC-015 — Published Fall 2026 Rhythms and Locations|Decision History]]. No additional dates are inferred here.
+
+## Connections
+
+- [[03 Groups/001 Men's Groups/Semester Schedule|Semester Schedule]]
+- [[03 Groups/001 Men's Groups/Monthly Gathering|Monthly Gathering]]
+- [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall and Winter 2026]]
