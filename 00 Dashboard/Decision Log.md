@@ -33,6 +33,7 @@ An item is not governing merely because it appears in the staff brief. Proposed 
 | DEC-022 | Initial scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas. | Confirmed |
 | DEC-023 | Paul will teach the first Planted class as a nine- or ten-week course leading to Christmas 2026. | Confirmed |
 | DEC-025 | Golden City Groups established City Groups, Bible Clubs, and Classes as distinct environments. The August 1, 2026 clarification records Collectives as the approved fourth environment, expressed through Men's and Women's Collectives. | Confirmed; clarified August 1, 2026 |
+| DEC-026 | During the August Team Nights, Paul serves as the on-site leader-interest point person, helps Launch Team members submit the Planning Center form, owns form intake and organization through his admin access, and emails applicants to arrange interviews and communicate immediate next steps. | Confirmed |
 
 DEC-025 supersedes DEC-024's percentage shorthand. The dated clarification to DEC-025 identifies the current four-environment model without assigning an undocumented decision number. See [[08 Archive/Decisions/Decision History#Clarification to DEC-025 — Four-Environment Ministry Model|Decision History]] for the full record.
 
@@ -67,13 +68,13 @@ These should be developed alongside the proposals but do not require separate De
 - Paul's formal ministry title
 - Original approval date, approver, and source evidence for the four-environment clarification; this is a documentation task, not a request to re-approve the model
 - Backup final-readiness approver and emergency escalation contact
-- Exact Planning Center permission levels
+- Backup coverage and least-privilege details beyond Paul's confirmed Planning Center admin access for leader-interest form intake
 - Spending or facility-commitment threshold
 - Exact City Group leaders, hosts, communities, capacities, and assignments
 - Launch disposition, owners, leaders, locations, rhythms, and readiness details for Men's and Women's Collectives
 - Exact Planted dates, location, capacity, support roles, and materials
 - Final training and commissioning dates
-- Response-time expectations and backup owners for participant follow-up
+- Response-time expectations and backup coverage for applicant and participant follow-up; Paul owns initial leader-applicant follow-up
 
 ## Decision Workflow
 

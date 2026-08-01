@@ -274,6 +274,15 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** Active materials should consistently present all four environments. Collectives must not be treated as a subtype of City Groups, Bible Clubs, or Classes. DEC-024's percentage shorthand remains superseded.
 - **Boundary:** This classification does not by itself establish the owner, leader, schedule, location, capacity, curriculum, safeguarding plan, participant path, or launch readiness of a specific Collective.
 
+### DEC-026 — August Team Night Leader-Interest Intake Workflow
+
+- **Decision:** During the August 2026 Team Nights, Paul will serve as the on-site point person for Launch Team members interested in leading a group. Paul will help interested people access and submit the appropriate Planning Center interest form, receive the submissions through his Planning Center admin access, review and organize them, and email applicants to arrange interviews and communicate immediate next steps. Applicants then continue into the remaining assessment, approval, training, and assignment process.
+- **Status:** Confirmed
+- **Recorded:** August 1, 2026. The approved operational direction was supplied for repository recording; the original decision date and approving authority were not stated.
+- **Evidence:** Approved leader-interest intake workflow supplied by Paul for the active Golden City Church Groups Ministry repository.
+- **Implications:** Paul is the Team Night point person for leader-interest sign-ups, owner of Planning Center form intake, owner of initial applicant follow-up, and the person responsible for arranging interviews and communicating immediate next steps. Active Team Night, Forms, Planning Center, Dashboard, launch-readiness, and communication materials should treat those responsibilities as implementation rather than decisions still needed.
+- **Boundary:** Form submission is not appointment. This decision does not approve interview standards, candidate qualifications, assessors, final approval authority, role assignment, training requirements, safeguarding review, appointment, or commissioning. Paul does not receive final appointment authority through this workflow.
+
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 
 ## Open Questions
