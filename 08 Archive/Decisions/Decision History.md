@@ -261,16 +261,16 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Rationale:** The three environments give people clear, complementary ways to connect and grow through community and weekend-message application, shared Bible study, and structured equipping.
 - **Boundary:** This direction does not by itself classify every named offering, cancel a previously planned offering, confirm a schedule or location, appoint a leader, or establish launch readiness. The relationship of Men's and Women's Collectives to the three confirmed environments still requires explicit operational classification.
 
-### DEC-026 — Four-Environment Ministry Model
+### Clarification to DEC-025 — Four-Environment Ministry Model
 
 - **Decision:** Golden City Groups has four distinct ministry environments:
   - **City Groups:** community, pastoral connection, and weekend-message application.
   - **Bible Clubs:** Bible study and Scripture-focused formation.
   - **Classes:** topic-based equipping and disciple-maker development.
   - **Collectives:** gender-specific ministry environments, currently expressed through Men's Collective and Women's Collective.
-- **Status:** Confirmed
-- **Date and approver:** Approval predates the August 1, 2026 repository correction; the original approval date and approver should be attached when available.
-- **Evidence:** Repository correction supplied by Paul stating that the four-environment model and the classification of Men's and Women's Collectives had already been decided and approved.
+- **Status:** Current governing clarification
+- **Recorded:** August 1, 2026. The original approval date, approver, and source record have not yet been attached.
+- **Evidence:** Repository-alignment direction supplied by Paul stating that the four-environment model and the classification of Men's and Women's Collectives had already been decided and approved.
 - **Implications:** Active materials should consistently present all four environments. Collectives must not be treated as a subtype of City Groups, Bible Clubs, or Classes. DEC-024's percentage shorthand remains superseded.
 - **Boundary:** This classification does not by itself establish the owner, leader, schedule, location, capacity, curriculum, safeguarding plan, participant path, or launch readiness of a specific Collective.
 
@@ -285,7 +285,7 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 
 ### OQ-003 — Launch-Ready Group Expressions
 
-- **Status:** Partially resolved by DEC-026; launch readiness remains open
+- **Status:** Classification resolved by the August 1 clarification to DEC-025; launch readiness remains open
 - **Question:** Which offerings within City Groups, Bible Clubs, Classes, and Collectives have completed launch-readiness review, and which existing geographic City Group pages are active, tentative, future, or archival?
 
 ### OQ-004 — Planted Curriculum Readiness

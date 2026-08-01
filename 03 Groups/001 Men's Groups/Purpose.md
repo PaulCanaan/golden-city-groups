@@ -18,7 +18,7 @@ Men's Collective is not a subtype of City Groups, Bible Clubs, or Classes. It sh
 
 ## Source Note
 
-Developed from [[01 Governance/Ministry Model#Collectives — Gender-Specific Ministry Environments|Ministry Model]], DEC-026, and [[Men's Ministry]].
+Developed from [[01 Governance/Ministry Model#Collectives — Gender-Specific Ministry Environments|Ministry Model]], the [[08 Archive/Decisions/Decision History#Clarification to DEC-025 — Four-Environment Ministry Model|clarification to DEC-025]], and [[Men's Ministry]].
 
 ## Connections
 

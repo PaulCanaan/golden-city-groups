@@ -32,10 +32,9 @@ An item is not governing merely because it appears in the staff brief. Proposed 
 | DEC-021 | Paul is the operational point person. Russ or his designated pastor gives final readiness approval and retains the named pastoral decisions. | Confirmed |
 | DEC-022 | Initial scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas. | Confirmed |
 | DEC-023 | Paul will teach the first Planted class as a nine- or ten-week course leading to Christmas 2026. | Confirmed |
-| DEC-025 | Golden City Groups established City Groups, Bible Clubs, and Classes as distinct environments; DEC-026 subsequently confirmed Collectives as the fourth environment. | Confirmed; expanded by DEC-026 |
-| DEC-026 | Golden City Groups has four distinct environments: City Groups, Bible Clubs, Classes, and Collectives. Men's and Women's Collectives are expressions of the fourth environment. | Confirmed |
+| DEC-025 | Golden City Groups established City Groups, Bible Clubs, and Classes as distinct environments. The August 1, 2026 clarification records Collectives as the approved fourth environment, expressed through Men's and Women's Collectives. | Confirmed; clarified August 1, 2026 |
 
-DEC-025 supersedes DEC-024's percentage shorthand. DEC-026 expands the active model to four environments and resolves the classification of Men's and Women's Collectives. See [[08 Archive/Decisions/Decision History|Decision History]] for the full records.
+DEC-025 supersedes DEC-024's percentage shorthand. The dated clarification to DEC-025 identifies the current four-environment model without assigning an undocumented decision number. See [[08 Archive/Decisions/Decision History#Clarification to DEC-025 — Four-Environment Ministry Model|Decision History]] for the full record.
 
 ## Decisions Prepared for Staff Review
 
@@ -66,7 +65,7 @@ DEC-025 supersedes DEC-024's percentage shorthand. DEC-026 expands the active mo
 These should be developed alongside the proposals but do not require separate Decision Log entries unless they materially change ministry policy.
 
 - Paul's formal ministry title
-- Original approval date, approver, and source evidence for DEC-026; this is a documentation task, not a request to re-approve the four-environment model
+- Original approval date, approver, and source evidence for the four-environment clarification; this is a documentation task, not a request to re-approve the model
 - Backup final-readiness approver and emergency escalation contact
 - Exact Planning Center permission levels
 - Spending or facility-commitment threshold
