@@ -53,4 +53,8 @@ For staff decisions, also read the [Staff Decision Brief](00%20Dashboard/Staff%2
 - Keep confidential pastoral, safeguarding, screening, and participant information out of this vault.
 - Prefer simple, sustainable launch structures and link to governing material instead of duplicating it.
 
+## Contributions and Public Use
+
+See [CONTRIBUTION.md](CONTRIBUTION.md) for contribution expectations and [LICENSE.md](LICENSE.md) for reuse and adaptation terms. Church information is available at [goldencity.church](https://www.goldencity.church/).
+
 This README is an orientation page, not a governing ministry document. When summaries conflict, the Active Decision Register and the confirmed documents under `01 Governance/` control.
