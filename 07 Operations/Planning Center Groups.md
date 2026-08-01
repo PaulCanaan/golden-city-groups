@@ -136,6 +136,8 @@ The approved workflow begins:
 
 `Team Night form submission → Paul reviews and organizes → Paul emails applicant and arranges interview`
 
+Use the working copy in [[Communication#Leader-Interest Communication Kit]] for the Team Night invitation, form confirmation, and applicant follow-up. Its four-environment scope, interview format, and duration remain subject to the relevant staff decisions.
+
 The remaining workflow is still approval-dependent:
 
 `interview and assessment → safeguarding review → approval decision → communicate outcome → training → group assignment → appointment → Planning Center leader access → commissioning and post-launch support`

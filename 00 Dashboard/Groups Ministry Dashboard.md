@@ -6,6 +6,16 @@
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
+## Operator Navigation
+
+- [[00 Dashboard/Inbox|Inbox]] — capture and triage unclassified ministry information.
+- [[00 Dashboard/Weekly Review|Weekly Review]] — process the Inbox and reconcile active ministry documents each week.
+- [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]] — prepare matters requiring staff discussion.
+- [[00 Dashboard/Decision Log|Decision Log]] — consult approved decisions and current governing direction.
+- [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — view the ministry system and its connections.
+
+The Inbox captures; the Weekly Review reconciles; this Dashboard reports current priorities and readiness. Neither operational page approves policy or replaces a decision record.
+
 ## At a Glance
 
 | Item | Current status |
@@ -22,7 +32,7 @@
 | Priority | Next action | Owner | Timing | Status / dependency |
 |---|---|---|---|---|
 | 1 | Review and organize submitted leader-interest forms, then email applicants to arrange interviews and communicate immediate next steps. | Paul | Before August 11 and after each August Team Night | **Approved implementation under DEC-026**; interview and appointment standards remain pending |
-| 2 | Prepare the August 11 Team Night City Group vision and approved Planning Center interest-form workflow. | Paul with staff | August 11 | Paul is the on-site sign-up and form-intake owner under DEC-026 |
+| 2 | Prepare the August 11 Team Night City Group vision, Planning Center interest-form workflow, and working invitation and confirmation copy. | Paul with staff | August 11 | Paul owns intake under DEC-026; four-environment invitation scope and interview format remain pending under PRO-027 and PRO-029 |
 | 3 | Bring the leader, safeguarding, and offering-readiness decisions below to the next staff review. | Paul | Next staff meeting | Launch-blocking decisions need Russ and staff direction |
 | 4 | Complete an offering-by-offering readiness recommendation for City Groups, Men's Collective, Women's Collective, and Planted. | Paul | Before public promotion or enrollment | Use PRO-027; staff must assign owners and readiness disposition |
 | 5 | Recommend leader-training, assignment, appointment-record, and commissioning dates. | Paul | Before final City Group assignments | PRO-029 requires staff direction; Russ appoints primary leaders |

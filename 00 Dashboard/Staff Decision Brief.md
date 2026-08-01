@@ -116,6 +116,8 @@ These recommendations are not a substitute for church policy, legal guidance, or
 
 Run Club, Youth City Group, and Young Adults Group remain deferred ideas under DEC-022 and should not be added to this active table unless staff reactivates them.
 
+**Question surfaced through Inbox processing:** Which of the four ministry environments should the August Team Night leader-interest invitation name as actively receiving interest? Naming an environment in the invitation must not imply that a role, leader opening, or offering is approved or launch-ready.
+
 ### Direction to record
 
 **Offering assignments and readiness decisions:**  
@@ -157,6 +159,8 @@ Run Club, Youth City Group, and Young Adults Group remain deferred ideas under D
 - **Decision needed:** Confirm how applicants move from the approved intake and initial follow-up workflow into interview, assessment, training, assignment, appointment, and commissioning.
 - **Why it matters:** DEC-026 confirms intake ownership and immediate follow-up, but interview standards, assessment, dates, training requirements, assignments, appointment, and commissioning remain unresolved.
 - **Formation relationship:** Preparation should form leaders in character, theology, hospitality, care, facilitation, prayer, and responsible use of Planning Center.
+
+**Question surfaced through Inbox processing:** What interview format and expected duration should applicants be told? The captured 30–45 minute estimate remains an unapproved placeholder.
 
 ### Approved implementation under DEC-026
 

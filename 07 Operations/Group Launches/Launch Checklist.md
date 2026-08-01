@@ -21,6 +21,7 @@
 ## Team Night Follow-Through
 
 - [x] Planning Center form sign-up method and Paul as intake owner are confirmed for the August Team Nights.
+- [ ] Review the Team Night invitation, Planning Center confirmation, and applicant follow-up copy against the approved offering scope and interview process.
 - [ ] Every submitted expression of leader interest receives Paul's initial follow-up email.
 - [ ] Interest is clearly distinguished from appointment.
 - [ ] Interview and placement records use an approved, privacy-conscious method.

@@ -72,7 +72,10 @@
 		{"id":"4e1ac3d45dc02713","type":"file","file":"Groups Ministry/08 Archive/Inactive Groups.md","x":-1840,"y":840,"width":250,"height":70},
 		{"id":"5c048fda245146a4","type":"file","file":"Groups Ministry/08 Archive/Past Programs.md","x":-1540,"y":840,"width":240,"height":70},
 		{"id":"archive-note","type":"text","text":"The Archive preserves full decision history and retired ministry content. Archived decisions remain governing unless a later decision supersedes them; archived briefs are historical records.","x":-1840,"y":950,"width":540,"height":100},
-		{"id":"archive-decisions","type":"file","file":"Groups Ministry/08 Archive/Decisions/Decision History.md","x":-1840,"y":1080,"width":540,"height":70}
+		{"id":"archive-decisions","type":"file","file":"Groups Ministry/08 Archive/Decisions/Decision History.md","x":-1840,"y":1080,"width":540,"height":70},
+		{"id":"operating-inbox","type":"file","file":"Groups Ministry/00 Dashboard/Inbox.md","x":-1110,"y":580,"width":240,"height":60,"color":"3"},
+		{"id":"operating-weekly-review","type":"file","file":"Groups Ministry/00 Dashboard/Weekly Review.md","x":-830,"y":580,"width":220,"height":60,"color":"3"},
+		{"id":"operating-dashboard","type":"file","file":"Groups Ministry/00 Dashboard/Groups Ministry Dashboard.md","x":-570,"y":580,"width":240,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"edge-home-context","fromNode":"cdee6213f86aac90","fromSide":"right","toNode":"foundation-context","toSide":"left"},
@@ -121,6 +124,8 @@
 		{"id":"edge-future-leadership-resources","fromNode":"future-leadership","fromSide":"bottom","toNode":"06098d3c1ca3ccc8","toSide":"top"},
 		{"id":"edge-archive-inactive","fromNode":"ad4ec70e94e0d010","fromSide":"bottom","toNode":"4e1ac3d45dc02713","toSide":"top"},
 		{"id":"edge-archive-past","fromNode":"ad4ec70e94e0d010","fromSide":"bottom","toNode":"5c048fda245146a4","toSide":"top"},
-		{"id":"edge-archive-decisions","fromNode":"ad4ec70e94e0d010","fromSide":"bottom","toNode":"archive-decisions","toSide":"top"}
+		{"id":"edge-archive-decisions","fromNode":"ad4ec70e94e0d010","fromSide":"bottom","toNode":"archive-decisions","toSide":"top"},
+		{"id":"edge-inbox-weekly-review","fromNode":"operating-inbox","fromSide":"right","toNode":"operating-weekly-review","toSide":"left","label":"process and file"},
+		{"id":"edge-weekly-review-dashboard","fromNode":"operating-weekly-review","fromSide":"right","toNode":"operating-dashboard","toSide":"left","label":"reconcile current status"}
 	]
 }

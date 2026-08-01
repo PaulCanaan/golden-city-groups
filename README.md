@@ -33,7 +33,7 @@ For staff decisions, also read the [Staff Decision Brief](00%20Dashboard/Staff%2
 
 | Area | Contents |
 |---|---|
-| [`00 Dashboard`](00%20Dashboard/) | Current decisions, approvals, next actions, readiness, and launch milestones |
+| [`00 Dashboard`](00%20Dashboard/) | Temporary intake, weekly review, current decisions, approvals, next actions, readiness, and launch milestones |
 | [`01 Governance`](01%20Governance/) | Durable ministry context, theology, model, and launch roadmap |
 | [`02 Group Philosophy`](02%20Group%20Philosophy/) | Mission, formation, healthy groups, and leadership philosophy |
 | [`03 Groups`](03%20Groups/) | City Groups and men's and women's ministry scaffolding |

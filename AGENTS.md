@@ -36,6 +36,15 @@ When preparing or reviewing staff decisions, also read `00 Dashboard/Staff Decis
 - Explain major proposed changes before implementing them.
 - Do not silently delete substantive ministry content.
 
+## Operational Pages
+
+- `00 Dashboard/Inbox.md` is temporary capture and triage. File clarified items in their permanent location; do not treat raw notes as approved direction or leave resolved items there.
+- `00 Dashboard/Weekly Review.md` is the recurring review workflow. Use it to process the Inbox and reconcile active documents; do not turn it into a second status dashboard.
+- `00 Dashboard/Groups Ministry Dashboard.md` reports current priorities, readiness, and operational status.
+- `00 Dashboard/Staff Decision Brief.md` prepares matters requiring staff discussion or direction.
+- `00 Dashboard/Decision Log.md` records approved decisions and current governing direction.
+- Keep confidential pastoral, safeguarding, screening, and participant information out of broadly accessible operational pages.
+
 ## Content Standards
 
 Every major ministry proposal should clarify:

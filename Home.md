@@ -5,6 +5,8 @@
 ## Dashboard and Map
 
 - [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]] — current actions, readiness, and launch milestones
+- [[00 Dashboard/Inbox|Inbox]] — temporary capture and triage
+- [[00 Dashboard/Weekly Review|Weekly Review]] — recurring ministry operating checklist
 - [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — visual ministry system
 
 ## Governance
