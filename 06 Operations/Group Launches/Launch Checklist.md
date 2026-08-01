@@ -12,6 +12,9 @@
 - [x] August 11 Team Night is scheduled for City Group leadership preparation.
 - [x] August 25 Team Night is scheduled for City Group leadership preparation.
 - [x] Golden City Church's public launch is September 20, 2026.
+- [x] Paul is the operational point person for the ministry and Planning Center.
+- [x] Paul recommends offering readiness; Russ or his designated pastor gives final approval.
+- [x] Run Club, Youth City Group, and Young Adults Group are deferred ideas rather than required launch offerings.
 
 ## Team Night Follow-Through
 
@@ -38,15 +41,30 @@
 - [ ] Each proposed group has a defined rhythm, start window, and realistic capacity.
 - [ ] Group assignments and participant-placement ownership are confirmed.
 
+## Planning Center Configuration
+
+- [ ] Planning Center administrator, group type manager, join-request owner, and backup are named.
+- [ ] Group-type defaults for privacy, permissions, chat, visibility, enrollment, and event visibility are reviewed.
+- [ ] Each proposed offering remains unlisted and closed until readiness approval.
+- [ ] Approved leaders are added only after appointment and permission review.
+- [ ] Confirmed descriptions, schedules, locations, capacities, and fall events are entered.
+- [ ] Participant fields, consent, access, correction, retention, and deletion practices are approved.
+- [ ] Public Church Center links, mobile display, notifications, confirmations, and capacity behavior are tested.
+- [ ] The website and Church Center display the same approved information.
+
 ## Commissioning and Launch Readiness
 
 - [ ] Commissioning form, date, setting, and approving pastor are confirmed.
 - [ ] Participant-data and privacy practices are approved.
 - [ ] Pastoral-care and safeguarding procedures are approved.
 - [ ] Public description and participant next step are accurate.
-- [ ] Final launch-readiness approver signs off on each offering.
+- [ ] Enrollment is opened only after the owner and response process are active.
+- [ ] Attendance, event-note, chat, and pastoral-escalation boundaries are included in leader preparation.
+- [ ] Russ or the pastor he designates records final readiness approval after Paul's recommendation.
 - [ ] Deferred offerings are clearly communicated as future rather than active.
 
 ## Recordkeeping Boundary
 
 Do not place leader applications, discernment notes, background-check information, participant rosters, contact information, or identifiable pastoral concerns in this repository.
+
+Planning Center is the operational platform, but completion of a software record does not replace pastoral appointment, safeguarding approval, or final readiness review. See [[Planning Center Groups]].

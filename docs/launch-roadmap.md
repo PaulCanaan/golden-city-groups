@@ -11,6 +11,10 @@ This is a planning framework. The public church launch date and approved ministr
 - Since March 2026, Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have formed a Launch Team of more than 50 committed volunteers.
 - Initial City Group leaders will be prayerfully identified, invited, discerned, and trained from within the Launch Team rather than recruited from the general public.
 - Team Nights on July 28, August 11, and August 25 include dedicated City Group leadership preparation.
+- Paul is the operational point person for the ministry and Planning Center; Russ or his designated pastor gives final readiness approval.
+- Initial scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas.
+- Paul will teach the first Planted class as a nine- or ten-week course leading to Christmas.
+- Internally, ministry development treats City Groups as fellowship-centered, Collectives as balanced community and discipleship, and Classes as concentrated intellectual and spiritual formation. Numeric shorthand for these orientations is not public ministry language.
 - Groups and Classes should support the launch without creating structures too complicated to operate.
 - The minimum viable launch model must be distinguished from the ideal future model.
 
@@ -35,12 +39,13 @@ This outcome is **proposed** and requires operational and pastoral confirmation.
 - Approved use of church mission, vision, values, and beliefs
 - Confirmed pastoral authority and decision rights
 - Confirmed public ministry language
-- Pastoral review of [[pastoral-approval-brief|Pastoral Approval Brief]] and recording of resulting decisions
+- Staff review of [[staff-decision-brief|Staff Decision Brief]] and recording of approved direction in the [[decision-log|Active Decision Register]]
 
 ### Ministry Scope
 
-- Confirmed launch group expressions
-- Decision about whether a class begins during the launch season
+- Launch-ready City Groups, Men's Collective, Women's Collective, and Planted
+- Deferred ideas removed from launch-critical planning and represented truthfully in public communication
+- Gathering design consistent with each environment's confirmed formation emphasis
 - Clear distinction between active, upcoming, and future offerings
 
 ### People
@@ -65,6 +70,7 @@ This outcome is **proposed** and requires operational and pastoral confirmation.
 - Confirmed meeting locations and schedules
 - Realistic capacity
 - Interest, registration, placement, and follow-up process
+- Paul as operational owner for Planning Center Groups, with approved permissions, backup, group-type defaults, records, events, and tested Church Center enrollment paths
 - Calendar ownership
 - Supplies, budget, and contingency needs
 
@@ -95,6 +101,7 @@ An offering should not be described as launch-ready until it has:
 - Basic leader preparation
 - Safeguarding and pastoral escalation procedures
 - Accurate communication and a participant next step
+- A complete, tested Planning Center record when the offering uses Church Center or Planning Center Groups
 
 ## Pre-Launch City Group Leadership Sequence
 
@@ -106,10 +113,10 @@ The following sequence distinguishes confirmed context from work that remains pl
 |---|---|---|---|
 | Church Plant Gatherings | **Confirmed** | Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have gathered prospective members since March 2026. | No additional decision is required to recognize this context. |
 | Launch Team | **Confirmed** | More than 50 committed volunteers are preparing to become the church's initial ministry teams. | Individual ministry assignments are not established by Launch Team participation alone. |
-| Team Night leader sign-ups | **Confirmed plan** | July 28, August 11, and August 25 will include City Group vision, sign-ups, discernment, placement conversations, and launch preparation. | The sign-up method, record owner, and follow-up process require operational confirmation. |
-| Leader discernment | **Planned; standards awaiting pastoral approval** | Initial candidates will be prayerfully identified and invited from within the Launch Team. | Qualifications, discernment process, decision authority, and appointment record remain open in OQ-005. |
+| Team Night leader sign-ups | **Confirmed plan** | July 28, August 11, and August 25 will include City Group vision, sign-ups, discernment, placement conversations, and launch preparation. Paul is the ministry point person who presents the ministry and supports sign-up. | The exact sign-up method, backup, and approved recordkeeping process require operational confirmation. |
+| Leader discernment | **Planned; standards awaiting pastoral approval** | Initial candidates will be prayerfully identified and invited from within the Launch Team. | Qualifications, discernment process, decision authority, and appointment record are prepared for staff review in PRO-025. |
 | Leader training | **Planned** | Training must follow initial sign-up and discernment and precede final assignment and commissioning. | Dates, curriculum, facilitators, attendance requirements, and completion standard are not yet confirmed. |
-| Group assignments | **Planned** | Assignments follow discernment and training. | Leader names, co-leaders, hosts, group communities, locations, capacities, and participant placement are not yet confirmed. |
+| Group assignments and Planning Center build | **Planned; platform controls awaiting approval** | Assignments follow discernment and training. Approved offerings should receive complete draft Planning Center records before publication. | Leader names, co-leaders, hosts, group communities, locations, capacities, participant placement, permissions, data controls, and enrollment ownership are not yet confirmed. |
 | Commissioning | **Planned; pastoral direction required** | Commissioning belongs after readiness review and before leaders begin serving publicly. | Date, setting, form, and approving pastor are not yet confirmed. |
 | September 20 launch | **Confirmed** | Golden City Church launches publicly on September 20, 2026. | This date does not by itself confirm that every City Group begins that day. |
 
@@ -121,6 +128,7 @@ These may wait until after launch unless pastoral leadership explicitly prioriti
 
 - Activating every city-group page
 - Simultaneously launching every possible group expression
+- Run Club, Youth City Group, and Young Adults Group unless later reactivated through a separate readiness decision
 - A complete class catalogue
 - Advanced curriculum tracks
 - A formal multi-level coaching organization
@@ -143,8 +151,8 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 5. Available and approved leaders
 6. Safeguarding, care, and authority boundaries
 7. Leader training, group assignments, and commissioning
-8. Locations, capacity, and calendar
-9. Curriculum and instructor readiness, if a class will launch
+8. Locations, capacity, calendar, and Planning Center configuration
+9. Planted curriculum and operational readiness with Paul as the confirmed instructor
 10. Intake, data, privacy, and placement practices
 11. Internal and public communication
 12. Launch readiness review
@@ -152,14 +160,14 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 
 ## Open Launch Decisions
 
-- Which specific group expressions will launch?
+- Which specific City Groups and Collectives will complete readiness?
 - Which city or community pages represent real launch-ready groups?
 - Will men's or women's gatherings launch, and at what rhythm?
-- Will a class begin during the launch season?
 - Who owns intake, placement, follow-up, and calendar accuracy?
+- Which Planning Center permissions, backup responsibilities, enrollment requests, event setup, attendance review, and Church Center checks support Paul's confirmed operational ownership?
 - What participant information may be collected and where will it be stored?
 - Which safeguarding policies and training are required?
-- Who records Team Night leader interest and owns discernment follow-up?
+- What approved form or record will Paul use for Team Night leader interest and discernment follow-up?
 - When and how will approved City Group leaders be trained, assigned, and commissioned?
 - What budget and facilities are available?
-- When will a final launch-readiness review occur?
+- When will Paul recommend each offering for launch, and when will Russ or his designated pastor complete final readiness review?

@@ -17,7 +17,23 @@ Steps 3–6 are planned; their dates, owners, standards, and approving authority
 
 ## Responsibilities and Expectations
 
-Role responsibilities, authority boundaries, reporting, appointment, correction, and removal processes are **awaiting pastoral approval** in OQ-005. No placeholder in this repository should be treated as authorization to lead.
+Role responsibilities, authority boundaries, reporting, appointment, correction, and removal processes are **awaiting pastoral approval** in PRO-025. No placeholder in this repository should be treated as authorization to lead.
+
+For City Groups, leaders should protect the confirmed fellowship-centered orientation. This means cultivating shared life, conversation, hospitality, and prayer while using the [[Weekly Recaps]] to guide a concise discussion of the weekend message. Internal numeric shorthand is a development aid, not participant-facing language or a timed quota, and City Groups should not be turned into informal classes.
+
+## Planning Center Role After Appointment
+
+An approved leader may receive access to their assigned group only after appointment and platform training. Within the permissions approved for that group, the leader may be responsible for:
+
+- maintaining accurate member and visitor status
+- reviewing or routing join requests
+- confirming events, reminders, and schedule changes
+- taking attendance promptly
+- sharing approved resources
+- communicating with the group through approved email or chat settings
+- moving pastoral or safeguarding concerns to the approved escalation process
+
+A Planning Center leader role does not expand pastoral authority, permit access to the wider People database, or authorize storage of sensitive care details in event notes or chat. See [[Planning Center Groups]] and [[Attendance]].
 
 ## Future Public Pathways
 
@@ -25,15 +41,21 @@ Broader public leadership pathways may be developed after launch. The initial in
 
 ## Resources
 
-- [[Resources/Leader Training]]
+- [[Resources Overview]]
+- [[Leader Training]]
+- [[First Meetings Checklist]]
+- [[Leader Support Check-In]]
 - [[Leadership/Group Coaches]]
 
 ## Connections
 
 - [[Leadership Overview]] — Governs the initial Launch Team pathway and status of leadership roles.
-- [[Resources/Leader Training]] — Planned training for candidates who have been discerned and invited.
+- [[Leader Training]] — Planned training for candidates who have been discerned and invited.
 - [[Leadership/Group Coaches]] — Possible future support; no coaching assignments are confirmed.
 - [[City Groups Overview]] — Describes the confirmed City Group model and pending launch expressions.
+- [[Weekly Recaps]] — Provides the normal structured discipleship component for City Groups.
 - [[Groups Overview]] — Places City Group leadership within the wider planned ministry.
-- [[Resources/Discipleship]] — Future resource for formation within approved group life.
+- [[Discipleship]] — Future resource for formation within approved group life.
 - [[Operations/Metrics]] — Provisional evaluation framework; not an approval or appointment mechanism.
+- [[Planning Center Groups]] — Defines platform access and the group-management workflow after appointment.
+- [[Attendance]] — Defines the approved attendance practice and privacy boundary.

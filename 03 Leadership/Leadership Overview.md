@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Confirmed initial pipeline; roles and appointments still developing.** Initial City Group leaders will be identified and trained from among the Launch Team. No person becomes a leader through public interest, Launch Team participation, or Team Night sign-up alone.
+**Confirmed initial pipeline; most roles and appointments still developing.** Initial City Group leaders will be identified and trained from among the Launch Team. No person becomes a leader through public interest, Launch Team participation, or Team Night sign-up alone. Paul is confirmed as the first Planted instructor under DEC-023.
 
 ## Initial City Group Pathway
 
@@ -15,6 +15,8 @@ The July 28, August 11, and August 25 Team Nights are the confirmed initial envi
 - [[Leadership/Group Leaders]]
 - [[Leadership/Hosts]]
 - [[Leadership/Group Coaches]]
+- [[Leadership/Class Instructors]]
+- [[Planning Center Groups]]
 
 Group leaders are planned for launch. Host requirements remain unresolved. A formal coaching layer is a possible future structure and should not be represented as staffed or assigned for initial launch.
 
@@ -22,7 +24,10 @@ Group leaders are planned for launch. Host requirements remain unresolved. A for
 
 - [[Home]] — Leadership is a top-level area of the groups and classes ministry hub.
 - [[Groups Overview]] — Describes the planned group environments leadership may eventually serve.
-- [[Resources/Leader Training]] — Planned preparation for discerned and invited candidates.
+- [[Leader Training]] — Planned preparation for discerned and invited candidates.
 - [[Leadership/Group Leaders]] — Initial City Group leader pathway and pending standards.
 - [[Leadership/Hosts]] — Proposed host role with requirements still awaiting confirmation.
 - [[Leadership/Group Coaches]] — Possible future support layer, not a confirmed launch assignment.
+- [[Leadership/Class Instructors]] — Records Paul's confirmed Planted assignment and the standards that remain open.
+- [[Planning Center Groups]] — Defines the operational role a leader may receive only after appointment and training.
+- [[Resources Overview]] — Central library for leader development and group-life practice.

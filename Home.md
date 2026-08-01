@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Golden City Church's Groups & Classes Ministry helps people follow Jesus through Christ-centered community, pastoral care, and intentional biblical formation. Groups and Classes belong together as one discipleship ecosystem: Groups provide the primary setting for shared life and everyday discipleship, while Classes deepen biblical, theological, and ministry formation. Each strengthens the other within the life and mission of the church.
+Golden City Church's Groups & Classes Ministry helps people follow Jesus through Christ-centered community, pastoral care, and intentional biblical formation. Three complementary environments serve different purposes within one discipleship ecosystem: City Groups emphasize fellowship and shared life, Men's and Women's Collectives balance fellowship with structured discipleship, and Classes concentrate on intellectual and spiritual formation. Each strengthens the others within the life and mission of the church.
 
 This collection of documents serves that ministry. It preserves the convictions that shape our work, helps leaders make faithful decisions, and carries ministry wisdom forward as people, needs, and opportunities change.
 
@@ -25,7 +25,7 @@ See [[Mission]].
 ↓
 
 **How the ministry takes shape**  
-[[Leadership Overview]] · [[Operation Overview]] · Resources
+[[Leadership Overview]] · [[Operation Overview]] · [[Resources Overview]]
 
 Every ministry decision should flow through this order. Our practices, structures, and resources remain accountable to the church's mission, vision, and values, serve a coherent understanding of Christian formation, and then take practical shape through leadership and shared ministry life.
 
@@ -49,7 +49,7 @@ Begin with [[Mission]], [[Vision]], and [[Values]] to understand the church's di
 
 Then read [[Belonging, Beholding, Becoming]] and the [[docs/ministry-model|Ministry Model]] to see how formation and ministry design belong together.
 
-From there, explore [[Groups Overview]] and [[Classes Overview]] as the ministry's two complementary environments.
+From there, explore [[Groups Overview]] and [[Classes Overview]] to understand the three complementary environments: City Groups, Men's and Women's Collectives, and Classes.
 
 Continue to [[Leadership Overview]] to understand how people are entrusted with responsibility, and then to [[Operation Overview]] to see how the ministry is supported in practice.
 
@@ -59,18 +59,20 @@ Golden City Church is in its pre-launch church planting phase. Gatherings since 
 
 - **Current phase:** Launch Team leader identification and operational preparation for fall 2026
 - **Major milestone:** Golden City Church's public launch on September 20, 2026
-- **Outstanding decisions:** See [[docs/decision-log|Decision Log]]
+- **Outstanding decisions:** See [[docs/staff-decision-brief|Staff Decision Brief]] and [[docs/decision-log|Active Decision Register]]
 
 These documents are at different stages of development. The existence of a page does not by itself mean that its content or ministry expression is complete, active, or pastorally approved.
 
+The initial ministry scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas rather than required launch offerings. Paul is the operational point person; Russ or a pastor designated by Russ gives final readiness approval.
+
 ## Repository Navigation
 
-- **Governing context:** [[docs/ministry-context|Ministry Context]] · [[docs/theological-framework|Theological Framework]] · [[docs/launch-roadmap|Launch Roadmap]] · [[docs/decision-log|Decision Log]]
+- **Governing context:** [[docs/ministry-context|Ministry Context]] · [[docs/theological-framework|Theological Framework]] · [[docs/launch-roadmap|Launch Roadmap]] · [[docs/decision-log|Active Decision Register]]
+- **Staff decisions:** [[docs/staff-decision-brief|Staff Decision Brief]]
 - **Philosophy and formation:** [[Mission]] · [[Belonging, Beholding, Becoming]]
 - **Groups:** [[Groups Overview]]
 - **Classes:** [[Classes Overview]]
 - **Leadership:** [[Leadership Overview]]
 - **Operations:** [[Operation Overview]]
-- **Group resources:** [[Leader Resources]]
-- **Class resources:** [[02 Class/Resources|Class Resources]]
-- **Archive:** [[Archive Overview]]
+- **Resources:** [[Resources Overview]] — Group life, leader development, classes and curriculum, operations, and external adaptations
+- **Archive:** [[Archive Overview]] · [[Archive/Decisions/Decision History|Decision History]]

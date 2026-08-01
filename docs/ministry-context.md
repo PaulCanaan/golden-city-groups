@@ -8,7 +8,7 @@
 
 This repository supports the Groups and Classes Ministry of Golden City Church, a church plant preparing to launch publicly on September 20, 2026.
 
-Paul is helping develop this ministry with significant creative freedom from lead pastor Russ. Paul functions in this area as a ministry director or groups pastor. The precise title, reporting relationship, and delegated authority remain matters for pastoral clarification.
+Paul is the operational point person for the Groups and Classes Ministry. He owns routine ministry design, coordination, leader support, calendar maintenance, Planning Center operation, ministry presentation, and leader-interest follow-up within confirmed church direction. Russ, or a pastor explicitly designated by Russ, gives final readiness approval and retains the pastoral decisions recorded in DEC-021. Paul's precise formal title remains unresolved.
 
 ## Pre-Launch Church Plant Context
 
@@ -41,6 +41,16 @@ If the public website and a later direct pastoral decision differ, record the up
 > Groups provide the primary environment for Christ-centered community, pastoral care, prayer, mutual encouragement, and everyday discipleship. Classes provide intentional environments for deeper biblical, theological, and ministry formation, equipping people to live faithfully, serve the church, and help form others. Together they support Golden City Church in seeing people forge their faith, find freedom in Christ, and follow Jesus fully for the flourishing of the church and the witness of the gospel in the city.
 
 This is the approved purpose of the Groups and Classes Ministry. It is a ministry-level expression of Golden City Church's identity, not a replacement for the church's mission or vision.
+
+## Internal Ministry Development Orientation
+
+The initial ministry uses three complementary environments with different emphases. The percentages below are interpretive shorthand for internal development, leader formation, and gathering design. They are not public Groups Ministry language.
+
+- **City Groups — approximately 80% fellowship and 20% structured discipleship:** relational time and shared life carry the gathering, while a weekly recap extends the weekend message through further discussion questions.
+- **Men's and Women's Collectives — approximately 50% fellowship and 50% structured discipleship:** community and intentional biblical or formative engagement receive balanced attention.
+- **Classes — approximately 20% fellowship and 80% structured discipleship:** concentrated intellectual and spiritual formation, with community supporting rather than replacing the learning and practice.
+
+These percentages are design heuristics, not timed quotas or a separation of fellowship from discipleship. All three environments participate in Belonging, Beholding, and Becoming; they differ in emphasis and ministry purpose. Public communication should describe those purposes qualitatively rather than publishing the ratios.
 
 ## Paul's Ministry Orientation
 
@@ -82,12 +92,16 @@ The existing repository contains scaffolding for:
 
 The Launch Team and the three pre-launch Team Nights provide the confirmed initial context for City Group leader identification and preparation. Specific leaders, assignments, training content, commissioning practices, and group locations remain subject to the decision log and launch-readiness gates.
 
+The initial launch scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas rather than required launch offerings. Paul is confirmed as the first Planted instructor for a planned nine- or ten-week course leading to Christmas 2026.
+
+Planning Center Groups and Church Center are the current digital platform context for group records and selected public enrollment paths. A July 27, 2026 export contains seven non-archived group records, including the Launch Team records and three listed request-to-join offerings. Current records and settings describe the platform state; they do not by themselves approve an offering, appoint a leader, or establish launch readiness.
+
 The presence of a file or city name does not prove that the ministry expression is approved, staffed, or active.
 
 ## Open Context Questions
 
-- What is Paul's formal title and delegated decision authority?
-- Which decisions require Russ's approval, and which may Paul make directly?
+- What is Paul's formal title?
+- Who will serve as backup when Paul or the final readiness approver is unavailable?
 - Are there additional internal church documents that supersede or expand the public website?
-- Which ministry expressions are approved for the September 2026 launch season?
+- Which specific offerings within the four prioritized environments have completed readiness review for the September 2026 launch season?
 - What church-wide privacy, safeguarding, pastoral-care, and leadership policies govern this ministry?

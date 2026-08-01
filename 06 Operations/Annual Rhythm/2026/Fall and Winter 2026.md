@@ -30,7 +30,19 @@ Training dates, commissioning details, leader names, City Group assignments, and
 - Women's Collective
 - Planted Bible Study
 
-Their inclusion in planning does not mean each offering is staffed, approved, or launch-ready. Other publicly listed offerings are governed by DEC-014 and OQ-015.
+Their inclusion in planning does not mean each offering is staffed, approved, or launch-ready.
+
+Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-022 and are not required for the initial launch.
+
+### Internal Development Orientation
+
+- City Groups: fellowship-centered community with a concise weekly weekend-message recap
+- Men's and Women's Collectives: community and intentional discipleship held in balance
+- Planted and other Classes: concentrated intellectual and spiritual formation
+
+Numeric shorthand for these orientations supports internal planning and should not appear in public ministry communication.
+
+Paul is confirmed as the first Planted instructor. Plan a nine- or ten-week course leading to Christmas; exact dates and remaining readiness details are still open.
 
 ## Connections
 
@@ -41,4 +53,4 @@ Their inclusion in planning does not mean each offering is staffed, approved, or
 - [[Men's Ministry]] — Planned Men's Collective scaffolding.
 - [[Women's Ministry]] — Planned Women's Collective scaffolding.
 - [[Leadership/Group Coaches]] — A coaching layer is not confirmed for initial launch.
-- [[Resources/Leader Training]] — Training follows Team Night sign-ups and discernment.
+- [[Leader Training]] — Training follows Team Night sign-ups and discernment.

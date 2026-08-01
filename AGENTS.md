@@ -12,6 +12,8 @@ Read the following before making substantive changes:
 - `docs/launch-roadmap.md`
 - `docs/decision-log.md`
 
+When preparing or reviewing staff decisions, also read `docs/staff-decision-brief.md`. Full historical records are preserved under `07 Archive/Decisions/` and should not be copied back into the active register.
+
 ## Governing Priorities
 
 1. Alignment with Golden City Church

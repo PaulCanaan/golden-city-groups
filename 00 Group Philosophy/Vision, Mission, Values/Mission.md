@@ -34,26 +34,28 @@ Following Jesus reaches the whole person and the whole of life. It includes wors
 
 This is the ordinary horizon of discipleship, not a requirement that every mature believer hold a formal ministry title.
 
-## One ministry, two environments
+## One ministry, three complementary environments
 
-**Groups** are primarily environments of:
+**City Groups** emphasize fellowship and shared life while using a concise weekly recap for structured discipleship. They cultivate:
 
 - Christ-centered shared life
 - Pastoral care
 - Prayer
 - Mutual encouragement
-- Everyday discipleship
+- Conversation and response connected to the weekend message
 
-**Classes** are primarily environments of:
+**Men's and Women's Collectives** hold fellowship and structured discipleship together through community, biblical engagement, prayer, and response.
+
+**Classes** emphasize structured discipleship, with fellowship supporting an intentional learning community. They cultivate:
 
 - Biblical formation
 - Theological formation
-- Ministry formation
+- Intellectual and spiritual formation
 - Faithful living
 - Service
 - Helping form others
 
-The two environments should strengthen one another. Groups surface questions, needs, gifts, and opportunities for growth. Classes help people engage Scripture and theology more deeply. Groups then provide a context in which learning can be embodied through prayer, relationships, service, and faithful practice.
+The three environments strengthen one another: City Groups provide durable relational life, Collectives hold community and intentional formation in balance, and Classes help people engage Scripture and theology more deeply. Internal numeric shorthand may orient ministry development, but it is not public ministry language. Learning is embodied through prayer, relationships, service, and faithful practice across the church.
 
 ## Theological posture
 

@@ -13,11 +13,15 @@
 
 Responsibilities, rhythm, authority, selection, training, and reporting remain pending pastoral and operational decisions.
 
+The current ministry may use [[Leader Support Check-In]] through Paul or another approved ministry leader without creating coach titles or assignments.
+
 ## Connections
 
 - [[Leadership Overview]] — Records that a coaching layer is not yet confirmed for launch.
 - [[Leadership/Group Leaders]] — Approved leaders require support, but the support structure remains unresolved.
 - [[Leadership/Hosts]] — Host support likewise remains subject to the approved leadership model.
-- [[Resources/Leader Training]] — Coach preparation may be developed later if the role is approved.
+- [[Leader Training]] — Coach preparation may be developed later if the role is approved.
 - [[City Groups Overview]] — No coach assignments should appear on city scaffolding pages.
 - [[Annual Rhythm/2026/Fall and Winter 2026]] — Initial launch planning prioritizes leader discernment and training rather than an unapproved coaching structure.
+- [[Leader Support Check-In]] — Adapted support practice that does not require a formal coaching layer.
+- [[Highlands Resource Adaptation]] — Records why relational coaching practices were retained while Highlands' hierarchy was deferred.
