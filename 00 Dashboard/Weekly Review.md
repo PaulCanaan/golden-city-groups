@@ -65,6 +65,8 @@ For each branch, review current offering or launch status, leader or owner statu
 
 - [ ] Confirm approved decisions are recorded in [[00 Dashboard/Decision Log|Decision Log]].
 - [ ] Confirm the approval source or evidence is preserved in [[08 Archive/Decisions/Decision History|Decision History]].
+- [ ] Refresh [[00 Dashboard/Governance Index|Governance Index]] when decision metadata, status, domain, or supersession changes.
+- [ ] Reconcile [[00 Dashboard/Open Decisions|Open Decisions]] with source proposals and remove resolved questions only after canonical records are updated.
 - [ ] Update [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]] when a proposal changes.
 - [ ] Move approved proposal language to implementation status in relevant active documents.
 - [ ] Assign unresolved decisions to a future staff or pastoral review when an owner and meeting are known.
@@ -107,6 +109,7 @@ Record only the minimum non-sensitive reference needed for follow-up. Put confid
 | Date | Reviewed | Filed | Retained | Key risks or decisions surfaced |
 |---|---:|---:|---:|---|
 | 2026-08-01 | 4 | 4 | 0 | Four-environment invitation scope routed to PRO-027; interview format and duration routed to PRO-029. |
+| 2026-08-06 | 1 | 1 | 0 | August 5 Staff Meeting minutes formalized and linked to DEC-034–041; unresolved implementation remains in active operating documents. |
 
 ## Operating Boundaries
 

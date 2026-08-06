@@ -2,7 +2,7 @@
 
 ## Dashboard Status
 
-**Operational summary; not a governing decision record.** Last reviewed **August 6, 2026** from the [[00 Dashboard/Decision Log|Active Decision Register]], [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]], and [[01 Governance/Launch Roadmap|Launch Roadmap]]. Update those sources before updating this dashboard when direction changes.
+**Operational summary; not a governing decision record.** Last reviewed **August 6, 2026** from the [[00 Dashboard/Decision Log|Decision Log]], [[08 Archive/Decisions/Decision History|Decision History]], [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]], and [[01 Governance/Launch Roadmap|Launch Roadmap]]. Update those sources before updating this dashboard when direction changes.
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
@@ -11,7 +11,10 @@
 - [[00 Dashboard/Inbox|Inbox]] — capture and triage unclassified ministry information.
 - [[00 Dashboard/Weekly Review|Weekly Review]] — process the Inbox and reconcile active ministry documents each week.
 - [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]] — prepare matters requiring staff discussion.
-- [[00 Dashboard/Decision Log|Decision Log]] — consult approved decisions and current governing direction.
+- [[00 Dashboard/Decision Log|Decision Log]] — consult the canonical chronological register.
+- [[08 Archive/Decisions/Decision History|Decision History]] — review full records, evidence, implications, and boundaries.
+- [[00 Dashboard/Governance Index|Governance Index]] — browse decisions by domain, status, recency, and supersession.
+- [[00 Dashboard/Open Decisions|Open Decisions]] — review unresolved governance questions and their source proposals.
 - [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — view the ministry system and its connections.
 
 The Inbox captures; the Weekly Review reconciles; this Dashboard reports current priorities and readiness. Neither operational page approves policy or replaces a decision record.
@@ -103,7 +106,7 @@ No offering is launch-ready merely because it appears here, on the website, or i
 - **Systems:** Russ owns the public participant system, with Paul as backup. Planning Center Groups and Church Center support approved ministry operations but do not confer approval or appointment.
 - **Website:** Russ will grant Paul Squarespace access; Paul owns Groups Ministry page maintenance only after access is granted.
 
-See the [[00 Dashboard/Decision Log#Current Governing Direction|Current Governing Direction]] for the complete active register.
+See the [[00 Dashboard/Decision Log#Chronological Decision Register|Chronological Decision Register]] for complete decision metadata and the [[00 Dashboard/Governance Index|Governance Index]] for thematic navigation.
 
 ## Update Rhythm
 

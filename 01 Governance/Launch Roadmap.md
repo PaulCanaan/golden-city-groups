@@ -2,7 +2,7 @@
 
 ## Document Status
 
-This is a planning framework. The public church launch date and approved ministry purpose are **confirmed**. Unless a milestone is recorded as confirmed in `00 Dashboard/Decision Log.md`, launch components in this document are proposals or unresolved dependencies.
+This is a planning framework. The public church launch date and approved ministry purpose are **confirmed**. Unless a milestone is recorded as confirmed in the [[00 Dashboard/Decision Log|Decision Log]] and supported by [[08 Archive/Decisions/Decision History|Decision History]], launch components in this document are proposals or unresolved dependencies. Use [[00 Dashboard/Governance Index|Governance Index]] for thematic browsing and [[00 Dashboard/Open Decisions|Open Decisions]] for unresolved governance questions; neither is a canonical decision record.
 
 ## Confirmed Launch Context
 
@@ -169,17 +169,4 @@ Spring 2027 primarily focuses on expanding intentional leader development and mu
 
 ## Open Launch Decisions
 
-- Which specific City Groups, Collectives, and Bible Clubs will complete readiness?
-- Which city or community pages represent real launch-ready groups?
-- Will men's or women's gatherings launch, and at what rhythm?
-- Who owns participant intake, placement, later applicant assessment, backup follow-up, and calendar accuracy beyond Paul's approved leader-interest intake and initial follow-up?
-- Which Planning Center permissions, backup responsibilities, enrollment requests, event setup, attendance review, and Church Center checks support Paul's confirmed operational ownership?
-- What participant information may be collected and where will it be stored?
-- Which safeguarding policies and training are required?
-- What fields, consent, retention, backup, and assessment record should govern the approved Planning Center leader-interest workflow?
-- When and how will approved City Group leaders be trained, assigned, and commissioned?
-- When will Russ grant Squarespace access, and what review workflow will govern Paul's page maintenance afterward?
-- Which sources, reviewers, and approval process will govern the leader-resource and SOP research roadmap?
-- Will the first CoJourner cohort meet biweekly or monthly, who will participate, and when will it begin?
-- What budget and facilities are available?
-- When will Paul recommend each offering for launch, and when will Russ or his designated pastor complete final readiness review?
+The unresolved governance questions behind the readiness dependencies above are consolidated in [[00 Dashboard/Open Decisions#Launch Readiness|Open Decisions — Launch Readiness]], with related leadership, policy, technology, communication, and operating questions in their respective sections. That index does not approve a proposal or replace the readiness gates in this roadmap.

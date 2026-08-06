@@ -2,7 +2,7 @@
 
 This vault supports the development and launch of Golden City Church's Groups Ministry. It gathers the ministry's governing direction, theological framework, ministry plans, leadership resources, operations, and decision history.
 
-Golden City Church plans to launch publicly on **September 20, 2026**. Paul serves as Ministry Director and operational point person; Russ, or a pastor he designates, retains final readiness approval and the pastoral decisions recorded in the [Active Decision Register](00%20Dashboard/Decision%20Log.md).
+Golden City Church plans to launch publicly on **September 20, 2026**. Paul serves as Ministry Director and operational point person; Russ, or a pastor he designates, retains final readiness approval and the pastoral decisions recorded in the [Decision Log](00%20Dashboard/Decision%20Log.md).
 
 ## Ministry at a Glance
 
@@ -24,9 +24,11 @@ Read these documents before making substantive changes:
 2. [Theological Framework](01%20Governance/Theological%20Framework.md) — formation commitments and guardrails
 3. [Ministry Model](01%20Governance/Ministry%20Model.md) — how City Groups, Collectives, and Bible Clubs fit together and may develop
 4. [Launch Roadmap](01%20Governance/Launch%20Roadmap.md) — September 2026 priorities, dependencies, and readiness gates
-5. [Active Decision Register](00%20Dashboard/Decision%20Log.md) — current governing decisions and open operational items
+5. [Decision Log](00%20Dashboard/Decision%20Log.md) — canonical chronological decision register and metadata
+6. [Governance Index](00%20Dashboard/Governance%20Index.md) — browse decisions by domain, status, recency, and supersession
+7. [Open Decisions](00%20Dashboard/Open%20Decisions.md) — unresolved questions and partially completed governance work
 
-For staff decisions, also read the [Staff Decision Brief](00%20Dashboard/Staff%20Decision%20Brief.md). Full historical records belong in [Decision History](08%20Archive/Decisions/Decision%20History.md).
+The Decision Log and [Decision History](08%20Archive/Decisions/Decision%20History.md) are the canonical governance records. Governance Index and Open Decisions are navigation and operational aids only. For staff decisions, also read the [Staff Decision Brief](00%20Dashboard/Staff%20Decision%20Brief.md).
 
 ## Vault Map
 
@@ -47,7 +49,7 @@ For staff decisions, also read the [Staff Decision Brief](00%20Dashboard/Staff%2
 - Follow [AGENTS.md](AGENTS.md).
 - Distinguish confirmed decisions, proposals, assumptions, and open questions.
 - Do not treat a page, Planning Center record, or public listing as proof that an offering is approved, staffed, or launch-ready.
-- Record new pastoral direction in the Active Decision Register and preserve the full evidence in Decision History.
+- Record new pastoral direction in the Decision Log and preserve the full evidence in Decision History.
 - Flag matters requiring Russ's approval rather than inventing leadership direction.
 - Keep confidential pastoral, safeguarding, screening, and participant information out of this vault.
 - Prefer simple, sustainable launch structures and link to governing material instead of duplicating it.
@@ -56,4 +58,4 @@ For staff decisions, also read the [Staff Decision Brief](00%20Dashboard/Staff%2
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution expectations and [LICENSE.md](LICENSE.md) for reuse and adaptation terms. Church information is available at [goldencity.church](https://www.goldencity.church/).
 
-This README is an orientation page, not a governing ministry document. When summaries conflict, the Active Decision Register and the confirmed documents under `01 Governance/` control.
+This README is an orientation page, not a governing ministry document. When summaries conflict, the Decision Log, Decision History, and confirmed documents under `01 Governance/` control.

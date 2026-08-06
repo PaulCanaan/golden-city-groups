@@ -15,7 +15,10 @@
 - [[01 Governance/Theological Framework|Theological Framework]]
 - [[01 Governance/Ministry Model|Ministry Model]]
 - [[01 Governance/Launch Roadmap|Launch Roadmap]]
-- [[00 Dashboard/Decision Log|Active Decision Register]]
+- [[00 Dashboard/Decision Log|Decision Log]] — canonical chronological register
+- [[08 Archive/Decisions/Decision History|Decision History]] — canonical full records and evidence
+- [[00 Dashboard/Governance Index|Governance Index]] — thematic decision navigation
+- [[00 Dashboard/Open Decisions|Open Decisions]] — unresolved governance questions
 
 ## Ministry Areas
 
@@ -32,4 +35,4 @@
 - [[Operation Overview]]
 - [[07 Operations/Calendar|Calendar]]
 - [[Planning Center Groups]]
-- **Archive:** [[Archive Overview]] · [[08 Archive/Decisions/Decision History|Decision History]]
+- **Archive:** [[Archive Overview]]

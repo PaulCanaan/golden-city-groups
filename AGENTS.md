@@ -43,6 +43,8 @@ When preparing or reviewing staff decisions, also read `00 Dashboard/Staff Decis
 - `00 Dashboard/Groups Ministry Dashboard.md` reports current priorities, readiness, and operational status.
 - `00 Dashboard/Staff Decision Brief.md` prepares matters requiring staff discussion or direction.
 - `00 Dashboard/Decision Log.md` records approved decisions and current governing direction.
+- `00 Dashboard/Governance Index.md` provides thematic navigation and never replaces the Decision Log or Decision History.
+- `00 Dashboard/Open Decisions.md` organizes unresolved governance questions without approving them.
 - Keep confidential pastoral, safeguarding, screening, and participant information out of broadly accessible operational pages.
 
 ## Content Standards

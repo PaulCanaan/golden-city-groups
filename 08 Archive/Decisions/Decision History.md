@@ -2,7 +2,7 @@
 
 ## Archive Status
 
-**Historical record through July 27, 2026.** This file preserves the full evidence, implications, boundaries, and open-question snapshot that previously occupied the active Decision Log. Use [[00 Dashboard/Decision Log|Active Decision Register]] for current governing summaries and the next decision queue.
+**Historical record through August 5, 2026.** This file preserves the full evidence, implications, boundaries, and open-question snapshot that previously occupied the active Decision Log. Use the [[00 Dashboard/Decision Log|Decision Log]] for the canonical chronological register, [[00 Dashboard/Governance Index|Governance Index]] for thematic navigation, and [[00 Dashboard/Open Decisions|Open Decisions]] for unresolved questions.
 
 Confirmed decisions in this archive remain governing unless a later decision explicitly supersedes them. Archiving reduces operational clutter; it does not revoke a decision.
 
@@ -233,6 +233,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** Russ approved Paul as the Planted instructor in Decision 3 of the Pastoral Approval Brief at the July 27, 2026 staff meeting and gave the nine- or ten-week direction.
 - **Implications:** Planted planning may proceed with Paul as instructor and a nine- or ten-week fall course window. Exact dates, location, capacity, materials, participant path, and final curriculum/readiness approval remain open.
 - **Boundary:** This decision approves the first instructor and general length; it does not approve the broader leader, host, or instructor standard proposed in Decision 3 or confirm every operational detail of the class.
+- **Subsequent direction:** DEC-030 retains Paul as leader and supersedes the nine- or ten-week length and prior Class classification with a twelve-week Bible Club plan.
 
 ### DEC-024 — Distinct Formation Emphases Across Ministry Environments
 
@@ -269,11 +270,12 @@ Optimize for long-term maintainability over completeness. Most entries should us
   - **Bible Clubs:** Bible study and Scripture-focused formation.
   - **Classes:** topic-based equipping and disciple-maker development.
   - **Collectives:** gender-specific ministry environments, currently expressed through Men's Collective and Women's Collective.
-- **Status:** Current governing clarification
+- **Status:** Superseded by DEC-034
 - **Recorded:** August 1, 2026. The original approval date, approver, and source record have not yet been attached.
 - **Evidence:** Repository-alignment direction supplied by Paul stating that the four-environment model and the classification of Men's and Women's Collectives had already been decided and approved.
 - **Implications:** Active materials should consistently present all four environments. Collectives must not be treated as a subtype of City Groups, Bible Clubs, or Classes. DEC-024's percentage shorthand remains superseded.
 - **Boundary:** This classification does not by itself establish the owner, leader, schedule, location, capacity, curriculum, safeguarding plan, participant path, or launch readiness of a specific Collective.
+- **Subsequent direction:** DEC-034 supersedes DEC-025's active architecture and this four-environment clarification with the current three-branch architecture.
 
 ### DEC-026 — August Team Night Leader-Interest Intake Workflow
 
@@ -352,7 +354,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Decision:** Groups Ministry has three branches: City Groups, whose purpose is to “do life”; Collectives, whose purpose is to “grow together”; and Bible Clubs, whose purpose is to “study the Word.” Classes are not a current fourth branch; they are a future development path under Bible Clubs.
 - **Status:** Confirmed; supersedes DEC-025's active architecture and its four-environment clarification
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
-- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Evidence:** [[2026-08-05 Staff Meeting Minutes#1 — Groups Ministry Architecture|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Active architecture, navigation, dashboards, ministry overviews, leader resources, and communication should use the three branches and their purposes.
 - **Boundary:** This does not erase the historical development recorded in DEC-024–025 or approve a future Class offering.
 
@@ -361,7 +363,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Decision:** Location-based City Groups may mature into future home groups, activity-based groups, demographic-based groups, and other approved expressions. Weekly Recap is an optional City Group resource rather than a defining practice. Men's Collective and Women's Collective may mature into broader Men's Ministry and Women's Ministry. Bible Clubs may later develop Classes; financial and marriage classes are examples, not approved offerings.
 - **Status:** Confirmed long-term direction
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
-- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Evidence:** [[2026-08-05 Staff Meeting Minutes#2 — Ministry Development Pathways|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Planning may preserve these development pathways without representing future expressions as active ministry.
 - **Boundary:** No home, activity-based, demographic, financial, marriage, or other future expression is approved merely by this pathway.
 
@@ -370,7 +372,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Decision:** Freedom Groups, drawing on the Church of the Highlands model, may be considered as a future featured ministry under the Golden City Church umbrella.
 - **Status:** Confirmed future planning direction
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
-- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Evidence:** [[2026-08-05 Staff Meeting Minutes#3 — Freedom Groups|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Future-ministry planning may name and research the concept.
 - **Boundary:** Freedom Groups are not an active Groups Ministry branch or an approved launch offering. The model, adaptation, curriculum, ownership, policy, and readiness would require later review.
 
@@ -379,7 +381,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Decision:** Russ will provide Paul with Squarespace access. Paul becomes responsible for maintaining the Groups Ministry pages after access is granted.
 - **Status:** Confirmed; implementation pending
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
-- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Evidence:** [[2026-08-05 Staff Meeting Minutes#4 — Website Ownership|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Website maintenance has a named future owner and a clear handoff condition.
 - **Boundary:** Access has not been recorded as granted. Paul should not be represented as having current Squarespace access, and website maintenance does not confer authority to publish unapproved ministry claims or offerings.
 
@@ -388,7 +390,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Decision:** Planted's curriculum is approved and is being finalized and published in Notion toward its October Bible Club launch. Curriculum development, Notion publishing, and operational readiness are separate workstreams.
 - **Status:** Confirmed
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
-- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Evidence:** [[2026-08-05 Staff Meeting Minutes#5 — Planted|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Active documents should not describe the curriculum as incomplete. Notion publishing may continue while location, capacity, enrollment, support, session calendar, and final readiness are completed.
 - **Boundary:** Notion completion does not itself establish operational readiness or supersede DEC-030's twelve-week plan and October 6 start.
 
@@ -397,7 +399,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Decision:** Leader resources and standard operating procedures should be developed from research into healthy church practices. The research roadmap includes safeguarding, pastoral care, mandatory reporting, leader expectations, volunteer care, and incident response.
 - **Status:** Confirmed development direction
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
-- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Evidence:** [[2026-08-05 Staff Meeting Minutes#6 — Leader Resources and SOP Research|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** The repository should maintain research and approval placeholders for these topics and connect them to leader development and launch readiness.
 - **Boundary:** This decision does not import another church's policies, establish legal conclusions, name escalation contacts, or approve a final SOP.
 
@@ -406,7 +408,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Decision:** The Fall 2026 primary objective is to recruit Launch Team members to host City Groups. The Spring 2027 primary objective is to expand intentional leader development and multiplication.
 - **Status:** Confirmed
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
-- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Evidence:** [[2026-08-05 Staff Meeting Minutes#8 — Fall 2026 and Spring 2027 Objectives|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Launch and annual-rhythm documents should prioritize host recruitment in fall and leader development and multiplication in spring.
 - **Boundary:** This does not appoint hosts, set numerical targets, approve new groups, or establish Spring 2027 dates and offerings.
 
@@ -415,7 +417,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Decision:** CoJourner is the approved leader-development pathway for Groups Ministry. It serves developing and active leaders through four training sessions corresponding to Presence, Orientation, Cultivation, and Multiplication. Leader cohorts may meet biweekly or monthly for approximately thirty minutes over Zoom.
 - **Status:** Confirmed
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
-- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Evidence:** [[2026-08-05 Staff Meeting Minutes#9 — CoJourner Leader Development|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Leadership architecture, resources, and Spring 2027 planning should integrate the pathway and preserve its four-session structure.
 - **Boundary:** This decision does not supply curriculum content, select cohort members, choose a cadence, set dates, or replace the appointment, safeguarding, role-specific, or launch-readiness requirements in DEC-027–031.
 

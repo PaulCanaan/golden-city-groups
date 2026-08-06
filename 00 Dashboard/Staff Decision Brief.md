@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Reviewed August 5, 2026. Approved direction is governing through DEC-027–041 in the [[Decision Log|Active Decision Register]]. This brief retains the human record and identifies the portions still requiring staff or pastoral direction.**
+**Reviewed August 5, 2026. Approved direction is governing through DEC-027–041 in the [[Decision Log|Active Decision Register]]. The outcomes recorded as DEC-034–041 are preserved in the [[08 Archive/Decisions/2026-08-05 Staff Meeting Minutes|August 5 Staff Meeting Minutes]]. This brief retains the proposal record and identifies the portions still requiring staff or pastoral direction.**
 
 ## Confirmed Ministry Language
 
