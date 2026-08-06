@@ -22,7 +22,7 @@ The Inbox may temporarily hold conversation notes, Team Night observations, lead
 
 - **Source:**
 - **Type:** Action / Note / Question / Decision Candidate / Approved Decision / Resource / Feedback / Risk / Meeting Input / Operational Update / Historical Record
-- **Ministry Area:** General / City Groups / Bible Clubs / Classes / Collectives / Leadership / Planning Center / Launch Operations / Governance / Resources
+- **Ministry Area:** General / City Groups / Collectives / Bible Clubs / Future Ministry / Leadership / Planning Center / Launch Operations / Governance / Resources
 - **Authority Status:** Approved Decision / Existing Policy / Current Operational Fact / Proposal / Recommendation / Unresolved Question / Personal Observation / External Resource / Historical Information
 - **Summary:**
 - **Next Action:**
@@ -40,7 +40,7 @@ The Inbox may temporarily hold conversation notes, Team Night observations, lead
 | Current priority or readiness status | [[00 Dashboard/Groups Ministry Dashboard\|Groups Ministry Dashboard]] |
 | Scheduled operational work | [[01 Governance/Launch Roadmap\|Launch Roadmap]], [[07 Operations/Calendar\|Calendar]], a checklist, or the relevant operating document |
 | Leadership matter | [[Leadership Overview]] or the relevant leader-pipeline material |
-| Ministry-specific content | The relevant City Groups, Bible Clubs, Classes, or Collectives page |
+| Ministry-specific content | The relevant City Groups, Collectives, Bible Clubs, or future-ministry page |
 | Reusable resource | [[Resources Overview]] |
 | Historical record | [[Archive Overview]] |
 | Unresolved raw material | Remain temporarily below with a clear status and next action |

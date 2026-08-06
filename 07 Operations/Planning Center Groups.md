@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Mixed confirmed and proposed operating guidance.** Golden City Church uses Planning Center Groups and Church Center for group records and selected public enrollment paths. DEC-026 confirms Paul's admin access and ownership for leader-interest form intake and initial applicant follow-up; other controls remain approval-dependent. This document does not approve an offering, appoint a leader, or resolve participant-data governance.
+**Mixed confirmed and proposed operating guidance.** Golden City Church uses Planning Center Groups and Church Center for group records and selected public enrollment paths. DEC-026 confirms Paul's admin access and leader-interest intake work; DEC-032 assigns the public participant system to Russ with Paul as backup. Other controls remain approval-dependent. This document does not approve an offering or appoint a leader.
 
 Current governing summaries remain in `00 Dashboard/Decision Log.md`, with full records in [[08 Archive/Decisions/Decision History]]. Detailed procedures for intake, attendance, communication, metrics, and launch readiness remain in their linked operational documents.
 
@@ -109,7 +109,7 @@ Before granting access:
 
 ### 1. Establish ownership
 
-Paul is the confirmed operational point person for the ministry and Planning Center. DEC-026 confirms his Planning Center admin access for leader-interest form intake and his ownership of initial applicant follow-up. Backup coverage, least-privilege settings beyond that approved use, participant join-request ownership, and event/attendance ownership remain unresolved. Paul recommends an offering as ready; Russ or a pastor explicitly designated by Russ gives final readiness approval. Participant-data access remains subject to PRO-026 and PRO-030.
+Paul is the confirmed operational point person for the ministry and Planning Center. DEC-026 confirms his Planning Center admin access for leader-interest form intake and his ownership of initial applicant follow-up. Russ owns the public participant system, with Paul as backup, under DEC-032. Leader-interest backup coverage, least-privilege settings beyond the approved uses, response standards, participant join-request workflow, and event/attendance ownership remain unresolved. Paul recommends an offering as ready; Russ or a pastor explicitly designated by Russ gives final readiness approval. Participant-data access follows DEC-028 and the remaining implementation choices in PRO-030.
 
 ### 2. Configure the approved group type
 
@@ -136,11 +136,11 @@ The approved workflow begins:
 
 `Team Night form submission → Paul reviews and organizes → Paul emails applicant and arranges interview`
 
-Use the working copy in [[Communication#Leader-Interest Communication Kit]] for the Team Night invitation, form confirmation, and applicant follow-up. Its four-environment scope, interview format, and duration remain subject to the relevant staff decisions.
+Use the working copy in [[Communication#Leader-Interest Communication Kit]] for the Team Night invitation, form confirmation, and applicant follow-up. Fall 2026 focuses on Launch Team members interested in hosting City Groups. The standardized interview format and duration remain unresolved.
 
 The remaining workflow is still approval-dependent:
 
-`interview and assessment → safeguarding review → approval decision → communicate outcome → training → group assignment → appointment → Planning Center leader access → commissioning and post-launch support`
+`standardized interview → leader assessment → safeguarding review → approval decision → communicate outcome → training → group assignment → appointment → Planning Center leader access → commissioning → CoJourner and post-launch support`
 
 Keep workflow notes brief: status, owner, and immediate next step. The exact approved fields, consent, retention, backup, interview records, and assessment documentation remain unresolved. Do not store background-check details, confession, diagnoses, unverified allegations, or unnecessary pastoral narrative in a form, workflow, group record, or this repository. A completed workflow does not appoint a leader, and Paul's intake ownership does not grant final appointment authority.
 

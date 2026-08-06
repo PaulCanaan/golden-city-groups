@@ -21,7 +21,7 @@ A healthy City Group, Bible Club, Class, or Collective:
 
 - **City Groups:** Are people experiencing community and pastoral connection and applying the weekend message?
 - **Bible Clubs:** Are participants studying Scripture together faithfully and responding to it?
-- **Classes:** Are people being equipped around the topic and prepared to serve and help form others?
+- **Future Classes:** If specifically approved under Bible Clubs, are people being equipped around the topic and prepared to serve and help form others?
 - **Collectives:** Are men or women receiving faithful gender-specific community, pastoral connection, and formation?
 
 ## Readiness Is Not Health

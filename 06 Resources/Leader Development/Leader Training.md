@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Planned launch requirement; curriculum and schedule pending.** Initial City Group leader candidates will come from the Launch Team. During the August Team Nights, Paul owns Planning Center form intake and immediate applicant follow-up; candidates enter training only after the still-pending interview, assessment, safeguarding, and approval process. Sign-up, follow-up, or interview alone does not authorize participation as an approved leader.
+**Planned launch requirement with Paul confirmed as facilitator; curriculum and schedule pending.** Initial City Group leader candidates will come from the Launch Team. Paul owns intake, immediate follow-up, interviews, assessment, and training facilitation under DEC-026 and DEC-031. Candidates enter training only through the approved minimum standard in DEC-027. Sign-up, follow-up, interview, or training alone does not authorize service as an appointed leader.
 
 ## Initial Audience
 
@@ -23,8 +23,8 @@ The following is a **proposed launch curriculum framework**, adapted after revie
 - GCC's mission, values, beliefs, and approved ministry purpose
 - Groups as the primary environment for Christ-centered community, prayer, care, encouragement, and everyday discipleship
 - Belonging, Beholding, and Becoming as mutually reinforcing dimensions of formation
-- City Groups as weekly, sermon-based gatherings rather than a free-market catalogue
-- the four distinct environments: City Groups for community, pastoral connection, and weekend-message application; Bible Clubs for Scripture-focused study; Classes for topic-based equipping and disciple-maker development; and Collectives for gender-specific ministry
+- City Groups as location-based communities that help people do life together; Weekly Recap is optional and future expressions require approval
+- the three branches: City Groups to do life, Collectives to grow together, and Bible Clubs to study the Word; future Classes develop under Bible Clubs
 
 ### 2. The Stewardship of Leadership
 
@@ -49,7 +49,7 @@ The following is a **proposed launch curriculum framework**, adapted after revie
 - recognizing needs beyond the leader's role
 - approved crisis, abuse, safeguarding, and pastoral escalation procedures
 
-This module is launch-blocking and cannot be finalized until PRO-026 is resolved.
+This module is launch-blocking. DEC-028 approves the minimum boundaries, but training cannot be finalized until the governing policy locations and primary and backup escalation contacts are confirmed.
 
 ### 5. Relational Discipleship
 
@@ -75,7 +75,11 @@ This module is launch-blocking and cannot be finalized until PRO-026 is resolved
 
 ## Schedule
 
-Training follows the July 28, August 11, and August 25 Team Night sign-up and discernment period and precedes final group assignments and commissioning. Exact dates and completion requirements are not yet confirmed.
+Paul facilitates training after the July 28, August 11, and August 25 Team Night sign-up and discernment period and before final group assignments and commissioning. Exact dates and completion requirements are not yet confirmed.
+
+## Relationship to CoJourner
+
+[[CoJourner]] is the approved longer-term leader-development pathway. Its four sessions—Presence, Orientation, Cultivation, and Multiplication—may be delivered to cohorts biweekly or monthly for approximately thirty minutes over Zoom. CoJourner does not replace fall launch preparation, role-specific instruction, safeguarding, assessment, appointment, or commissioning. Cohort details and curriculum content remain unresolved.
 
 ## Training Delivery Checklist
 
@@ -125,13 +129,14 @@ The completion standard remains pending. At minimum, an approved standard should
 
 **Launch priority:** Launch-blocking for every City Group leader who will serve in fall 2026.
 
-**Approval status:** The framework is proposed. Russ or the appropriately delegated pastoral authority must approve the role standard, required modules, safeguarding content, completion criteria, facilitator, and appointment authority before training becomes governing.
+**Approval status:** The minimum role standard, safeguarding boundaries, pastoral baseline, and facilitator are confirmed under DEC-027, DEC-028, DEC-031, and DEC-033. Russ or the appropriately delegated pastoral authority still must approve the required modules, completion criteria, schedule, role-specific details, and appointments before training is complete.
 
 ## Notes
 
 ## Connections
 
 - [[05 Leadership/Group Leaders]] — Initial candidates come through the Launch Team and Team Night pathway.
+- [[CoJourner]] — Shared four-session pathway for ongoing leader development.
 - [[05 Leadership/Hosts]] — Host training remains conditional on approval of the role and its requirements.
 - [[05 Leadership/Group Coaches]] — Coach training is deferred unless a coaching layer is approved.
 - [[Values]] — Church values shape the content and priorities of leader training.

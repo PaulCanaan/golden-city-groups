@@ -19,12 +19,11 @@ Becoming is not synonymous with receiving a title. People may help form others t
 - helping others follow Jesus without seeking status
 - accepting bounded responsibility only after appropriate discernment and preparation
 
-## Across the Four Environments
+## Across the Three Branches
 
-- **City Groups:** practice the weekend message through care, prayer, service, and shared life.
-- **Bible Clubs:** respond faithfully to Scripture rather than stopping at interpretation.
-- **Classes:** develop understanding and practices that equip people to serve and form others.
+- **City Groups:** practice everyday discipleship through care, prayer, service, and shared life.
 - **Collectives:** encourage faithful response, service, and formation among men and among women.
+- **Bible Clubs:** respond faithfully to Scripture rather than stopping at interpretation; future Classes may develop understanding and practices that equip people to serve and form others.
 
 ## Guardrails
 

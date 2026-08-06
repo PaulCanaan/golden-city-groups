@@ -2,15 +2,15 @@
 
 ## Document Status
 
-**Confirmed City Group content function; format and ownership still in development.** Weekly recaps provide further discussion questions from the weekend message for launch-ready City Groups. This is a participant discussion resource, not an administrative leader report.
+**Approved optional City Group resource; format and ownership still in development.** Weekly Recap may provide discussion questions from the weekend message. It is not required, does not define a City Group, and is not an administrative leader report.
 
 ## Purpose
 
-Help people carry the weekend message into shared reflection, prayer, pastoral connection, and faithful response while preserving the confirmed City Group purpose.
+When a group chooses to use it, help people carry the weekend message into shared reflection, prayer, pastoral connection, and faithful response while preserving the City Group purpose of doing life together.
 
 ## Suggested Shape
 
-A concise weekly recap should include:
+A concise weekly recap may include:
 
 1. The weekend message title, primary text, and central emphasis.
 2. A short reminder of the main movement or claim without reproducing the sermon.

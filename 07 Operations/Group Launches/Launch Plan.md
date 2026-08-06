@@ -6,9 +6,9 @@
 
 ## Purpose
 
-Move prayerfully from the relationships already formed in the church plant to a small number of accountable, prepared, and truthfully communicated City Groups.
+Recruit Launch Team members to host a small number of accountable, prepared, and truthfully communicated City Groups.
 
-City Groups provide community, pastoral connection, prayer, and weekend-message application. The [[Weekly Recaps|Weekend Message Group Guide]] extends the weekend message through discussion and faithful response without turning City Groups into classes.
+City Groups help people do life together through community, pastoral connection, prayer, and everyday discipleship. [[Weekly Recaps|Weekly Recap]] is an optional discussion resource rather than a defining practice.
 
 ## Launch Sequence
 
@@ -19,7 +19,7 @@ City Groups provide community, pastoral connection, prayer, and weekend-message 
 | July 28 Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and preparation begin or continue. |
 | August 11 Team Night | **Confirmed; intake workflow approved** | Paul supports Planning Center leader-interest form submission and owns intake and initial applicant follow-up. |
 | August 25 Team Night | **Confirmed; intake workflow approved** | Paul repeats the approved form-intake and immediate follow-up workflow. |
-| Leader discernment | **Planned; standards pending approval** | Potential leaders are prayerfully identified and invited from within the Launch Team. |
+| Leader discernment | **Planned; minimum standard approved** | Potential leaders are prayerfully identified and invited from within the Launch Team; Paul owns interviews and assessment. |
 | Leader training | **Planned** | Invited candidates complete required preparation after discernment. |
 | Group assignments | **Planned** | Approved leaders, groups, hosts or locations, and capacities are matched. |
 | Planning Center build | **Planned; controls pending approval** | Paul operates the ministry in Planning Center. Approved offerings receive complete draft records, leaders, schedules, locations, capacities, events, and tested enrollment paths while remaining unlisted until readiness approval. |
@@ -51,10 +51,11 @@ Use [[Planning Center Groups]] for the detailed operating procedure.
 
 ## Pending Operational Decisions
 
-- Discernment participants, standards, and approval authority
-- Training dates, curriculum, facilitator, and completion standard
+- Standardized interview format and records, role-specific assessment details, and appointment record
+- Training dates, curriculum, and completion standard; Paul is the confirmed facilitator
 - Group communities, leader pairings, hosts or locations, and capacities
 - Commissioning date, setting, and approving pastor
 - Participant placement and follow-up ownership
 - Final readiness review date and designated pastoral backup
 - Planning Center backup, group type managers, remaining permission boundaries, data controls, and public enrollment-response workflow
+- Squarespace access handoff from Russ to Paul and the approved page-review workflow

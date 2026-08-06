@@ -8,7 +8,7 @@
 
 Provide a gender-specific ministry environment in which women can build Christ-centered community, receive pastoral connection, engage Scripture and prayer, and respond faithfully as disciples of Jesus.
 
-Women's Collective is not a subtype of City Groups, Bible Clubs, or Classes. It shares the Belonging, Beholding, and Becoming framework while serving a distinct ministry purpose.
+Women's Collective belongs to the Collectives branch and shares the Belonging, Beholding, and Becoming framework while serving the purpose of helping women grow together.
 
 ## Current Boundaries
 

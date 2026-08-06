@@ -12,7 +12,7 @@
 
 ## 1. Recenter
 
-Golden City Church exists to see the city fully following Jesus by equipping people to forge their faith, find freedom in Christ, and follow him fully. Review the ministry as a servant of that mission: cultivating Christ-centered community, pastoral care, prayer, discipleship, Scripture formation, and equipping across City Groups, Bible Clubs, Classes, and Collectives through **Belonging → Beholding → Becoming**.
+Golden City Church exists to see the city fully following Jesus by equipping people to forge their faith, find freedom in Christ, and follow him fully. Review Groups Ministry as a servant of that mission through City Groups that do life, Collectives that grow together, and Bible Clubs that study the Word, all shaped by **Belonging → Beholding → Becoming**.
 
 - [ ] Pray for the people, leaders, staff, and ministry decisions represented in this vault.
 - [ ] Reaffirm that formation and faithful care take priority over information or administrative completion alone.
@@ -36,18 +36,18 @@ Golden City Church exists to see the city fully following Jesus by equipping peo
 - [ ] Identify follow-up requiring Russ or staff involvement.
 - [ ] Escalate pastoral care or safeguarding concerns through the approved restricted process.
 
-Paul owns leader-interest intake, initial applicant follow-up, and arranging interviews under DEC-026. This review does not give Paul final appointment authority or settle the standards governed by PRO-025, PRO-027, PRO-029, PRO-030, and related decisions. Do not record confidential interview, pastoral, safeguarding, screening, or participant details here.
+Paul owns leader-interest intake, initial applicant follow-up, interviews, assessment, and training facilitation under DEC-026 and DEC-031. DEC-027 governs the minimum standard. This review does not give Paul final appointment authority or settle the remaining offering, training, appointment, commissioning, and systems details in PRO-027, PRO-029, and PRO-030. Do not record confidential interview, pastoral, safeguarding, screening, or participant details here.
 
-## 4. Review the Four Ministry Environments
+## 4. Review the Three Ministry Branches
 
-For each environment, review current offering or launch status, leader or owner status, next action, blockers, and decisions needed. Update the linked governing or operating page rather than copying its full status here.
+For each branch, review current offering or launch status, leader or owner status, next action, blockers, and decisions needed. Update the linked governing or operating page rather than copying its full status here.
 
-| Environment | Review page | Review complete |
+| Branch | Review page | Review complete |
 |---|---|---|
 | City Groups | [[City Groups Overview]] | [ ] |
-| Bible Clubs | [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together\|Ministry Model — Bible Clubs]] | [ ] |
-| Classes | [[Classes Overview]] | [ ] |
 | Collectives | [[Men's Ministry]] and [[Women's Ministry]] | [ ] |
+| Bible Clubs | [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together\|Ministry Model — Bible Clubs]] | [ ] |
+| Future ministry | [[Classes Overview]] and [[Groups Overview#Future Ministry\|Freedom Groups]] | [ ] |
 
 ## 5. Review Launch and Operations
 
@@ -56,9 +56,10 @@ For each environment, review current offering or launch status, leader or owner 
 - [ ] Test or verify approved Planning Center forms and workflows in [[Planning Center Groups]] and [[Forms]].
 - [ ] Review current messages, owners, and follow-up in [[Communication]].
 - [ ] Review leader preparation in [[Leader Training]] without treating participation as appointment.
+- [ ] Review CoJourner cohort planning and leader-resource/SOP research without inventing curriculum or policy.
 - [ ] Review participant pathways and unresolved system decisions.
 - [ ] Check [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall and Winter 2026]] against current reality.
-- [ ] Review unresolved PRO-025 through PRO-032 matters in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
+- [ ] Review the unresolved portions of PRO-026 through PRO-030 in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 
 ## 6. Review Decisions
 

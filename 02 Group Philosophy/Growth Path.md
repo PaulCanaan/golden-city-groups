@@ -13,7 +13,7 @@ Help leaders offer a truthful next step without treating people as entries in an
 1. A person encounters Golden City Church through a gathering or relationship.
 2. The person receives a clear invitation and simple next step.
 3. A ministry leader follows up and helps connect the person to an appropriate, launch-ready environment.
-4. City Groups, Bible Clubs, Classes, or Collectives serve the person's current need according to their distinct purposes.
+4. City Groups, Collectives, or Bible Clubs serve the person's current need according to their distinct purposes; a future approved Class may serve a topic-specific need under Bible Clubs.
 5. The person grows through belonging, beholding Christ, and faithful becoming.
 6. Gifts, capacity, and service opportunities are discerned relationally.
 7. Some people enter approved preparation for bounded ministry responsibility.
@@ -26,7 +26,7 @@ Movement is relational, prayerful, and non-linear. Participation in one environm
 - Use a tested participant path and timely human follow-up.
 - Do not promise placement, leadership, or readiness before review.
 - Keep sensitive pastoral and safeguarding information out of this repository.
-- Follow PRO-030 once participant-path and data decisions are approved.
+- Follow DEC-032 for system ownership and PRO-030 for the remaining participant-path and data implementation decisions.
 
 ## Source Note
 

@@ -9,13 +9,15 @@ Connected to [[07 Operations/Calendar]]
 ## Outline
 
 1. **Confirmed context:** Church plant gatherings form the Launch Team.
-2. **Confirmed dates and workflow:** July 28, August 11, and August 25 Team Nights support City Group leadership preparation; in August, Paul owns Planning Center leader-interest intake and immediate applicant follow-up.
-3. **Planned:** Interviews, assessment, safeguarding review, and approval within the Launch Team under standards still requiring approval.
+2. **Confirmed dates and workflow:** July 28, August 11, and August 25 Team Nights support the Fall 2026 objective of recruiting Launch Team members to host City Groups; in August, Paul owns Planning Center leader-interest intake and immediate applicant follow-up.
+3. **Partially confirmed:** Paul owns interviews and assessment within the DEC-027 minimum standard; role-specific details and appointments remain open.
 4. **Planned:** Leader training after discernment.
 5. **Planned:** Group assignments and location or host confirmation.
 6. **Planned:** Commissioning after readiness review.
 7. **Confirmed:** September 20 public church launch.
 8. **Planned:** Launch-ready offerings begin in the approved fall ministry window.
+
+Spring 2027 prioritizes intentional leader development and multiplication through CoJourner; cohort details remain open.
 
 ## Key dates
 

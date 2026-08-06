@@ -9,11 +9,18 @@
 - [[God With Us]] — future curriculum scaffold
 - [[Covenant, Kingdom, People of God]] — future curriculum scaffold
 
+## Future Class Examples
+
+- Financial class
+- Marriage class
+
+These examples are not approved offerings, schedules, or curricula.
+
 ## Development Questions
 
 For each possible offering, identify:
 
-- whether it is a Bible Club or Class
+- whether it is a Bible Club or a future Class under Bible Clubs
 - the pastoral and participant need it serves
 - theological rationale and relationship to Belonging, Beholding, and Becoming
 - facilitator or instructor and approval status

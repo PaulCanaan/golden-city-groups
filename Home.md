@@ -1,4 +1,4 @@
-# Golden City Church Groups & Classes Ministry
+# Golden City Church Groups Ministry
 
 **Obsidian navigation hub.** For the repository overview and working agreements, see [[README]].
 
@@ -19,15 +19,16 @@
 
 ## Ministry Areas
 
-- **City Groups:** [[City Groups Overview]]
-- **Bible Clubs:** [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together|Bible Clubs overview]]
-- **Classes:** [[Classes Overview]]
-- **Collectives:** [[Men's Ministry]] · [[Women's Ministry]]
+- **City Groups — Do life:** [[City Groups Overview]]
+- **Collectives — Grow together:** [[Men's Ministry]] · [[Women's Ministry]]
+- **Bible Clubs — Study the Word:** [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together|Bible Clubs overview]] · [[Planted. Bible Study]]
+- **Future development:** [[Classes Overview]] · Freedom Groups planning in [[Groups Overview]]
 
 ## Resources and Operations
 
 - [[Resources Overview]]
 - [[Leadership Overview]]
+- [[CoJourner]]
 - [[Operation Overview]]
 - [[07 Operations/Calendar|Calendar]]
 - [[Planning Center Groups]]

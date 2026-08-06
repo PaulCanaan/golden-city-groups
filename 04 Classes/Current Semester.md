@@ -2,18 +2,20 @@
 
 ## Document Status
 
-**Working Fall 2026 class snapshot.** A listing here does not establish enrollment, final curriculum approval, or launch readiness.
+**Working Fall 2026 Bible Clubs and future Classes snapshot.** A listing here does not establish enrollment or final launch readiness.
 
 ## Fall 2026
 
 ### Planted
 
-- **Environment:** Class
-- **Instructor:** Paul — confirmed under DEC-023
-- **Length:** nine or ten weeks leading to Christmas 2026 — confirmed direction
-- **Exact dates, location, capacity, materials, participant path, curriculum review, and final readiness:** unresolved under PRO-028
+- **Environment:** Bible Club
+- **Leader / facilitator:** Paul — confirmed under DEC-030
+- **Length and start:** twelve weeks beginning Tuesday evening, October 6, 2026
+- **Curriculum development:** approved; do not mark incomplete
+- **Publishing:** being finalized in Notion
+- **Still unresolved operationally:** location, full session calendar, capacity, participant path, support role, tested Church Center page, and final readiness under PRO-028
 
-No Bible Club is recorded as launch-ready in the current decision register. [[God With Us]] and [[Covenant, Kingdom, People of God]] remain curriculum scaffolds, not approved fall offerings.
+Planted is not yet recorded as launch-ready. [[God With Us]] and [[Covenant, Kingdom, People of God]] remain curriculum scaffolds, not approved fall offerings.
 
 ## Source Note
 
@@ -21,6 +23,6 @@ Built from [[Planted. Bible Study]], [[07 Operations/Annual Rhythm/2026/Fall and
 
 ## Connections
 
-- [[Classes Overview]] — Governing Class purpose.
+- [[Classes Overview]] — Future Class development under Bible Clubs.
 - [[Upcoming]] — Future or not-yet-scheduled curriculum.
 - [[Curriculum Overview]] — Curriculum status and review boundaries.

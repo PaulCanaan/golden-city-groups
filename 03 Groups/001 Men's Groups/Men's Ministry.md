@@ -6,7 +6,9 @@
 
 ## Ministry Emphasis
 
-Men's Collective is a confirmed expression of the Collectives environment: a gender-specific ministry context for men. Its gatherings should cultivate community, prayer, pastoral connection, biblical formation, and faithful response without being treated as a subtype of City Groups, Bible Clubs, or Classes.
+Men's Collective is a confirmed expression of the Collectives branch, whose purpose is to grow together. Its gatherings should cultivate community, prayer, pastoral connection, biblical formation, and faithful response among men.
+
+The approved long-term direction is for Men's Collective to mature into a broader Men's Ministry. This does not activate additional programs or establish their leaders, rhythms, or readiness.
 
 The environment classification is confirmed. The gathering format, leader, location, capacity, curriculum, safeguarding plan, participant path, and final launch readiness remain subject to the active decision and readiness process.
 
@@ -19,5 +21,5 @@ The environment classification is confirmed. The gathering format, leader, locat
 - [[03 Groups/Monthly Gatherings]] — Historical or design scaffolding; the public fall rhythm currently differs and governs communication.
 - [[Breakout Sessions]] — Unconfirmed possible structure, not an active launch assignment.
 - [[Discipleship]] — Proposed resource for approved ministry environments.
-- [[Classes Overview]] — Describes the more concentrated formation environment that complements the Collective.
+- [[Classes Overview]] — Future Classes may provide topic-based equipping under Bible Clubs.
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Records the fall launch sequence and readiness dependencies.

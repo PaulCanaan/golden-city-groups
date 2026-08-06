@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Mixed confirmed and proposed procedure.** DEC-026 confirms the August Team Night leader-interest form owner and initial follow-up workflow. Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted; public participant ownership, backups, response timing, placement, fields, consent, and retention remain prepared for decision in PRO-026, PRO-027, and PRO-030.
+**Mixed confirmed and proposed procedure.** DEC-026 confirms the August Team Night leader-interest form owner and initial follow-up workflow. DEC-032 assigns the public participant system to Russ with Paul as backup. Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted; response timing, placement, offering paths, fields, consent, and retention remain open under PRO-026, PRO-027, and PRO-030.
 
 ## Purpose
 
@@ -18,13 +18,15 @@ The initial City Group leader pipeline runs through the July 28, August 11, and 
 2. Paul receives the submissions through his Planning Center admin access.
 3. Paul reviews and organizes the submissions.
 4. Paul emails applicants to arrange interviews and communicate immediate next steps without implying appointment.
-5. Applicants move into the remaining assessment, approval, training, and assignment process.
+5. Applicants move through the standardized interview stage, leader assessment, approval, training, assignment, appointment, and commissioning workflow.
 
 Keep pastoral discernment notes, background-check information, and confidential references out of Planning Center group membership and this repository. Add a candidate as a Planning Center group leader only after approved assessment and appointment.
 
-**Still unresolved:** approved form fields and consent, backup coverage, response-time standard, interview standards and interviewers, candidate qualifications, safeguarding review, final approval authority, training requirements, role assignment, appointment, and commissioning.
+**Still unresolved:** approved form fields and consent, leader-interest backup coverage, response-time standard, standardized interview format and records, role-specific assessment details, training requirements, role assignment, appointment records, and commissioning. Paul owns interviews, assessment, and training facilitation; Russ retains primary appointment authority.
 
 ### Public participant enrollment
+
+Russ owns this system, with Paul as backup. Offering-specific notification and follow-up assignments still must be tested and recorded.
 
 For an approved, launch-ready offering:
 

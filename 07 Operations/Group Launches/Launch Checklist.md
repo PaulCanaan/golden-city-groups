@@ -8,6 +8,7 @@
 
 - [x] Pre-launch gatherings have formed a Launch Team of more than 50 committed volunteers.
 - [x] Initial City Group leaders will be identified and trained from within the Launch Team.
+- [x] Fall 2026 primarily focuses on recruiting Launch Team members to host City Groups.
 - [x] July 28 Team Night is scheduled for City Group leadership preparation.
 - [x] August 11 Team Night is scheduled for City Group leadership preparation.
 - [x] August 25 Team Night is scheduled for City Group leadership preparation.
@@ -21,14 +22,15 @@
 ## Team Night Follow-Through
 
 - [x] Planning Center form sign-up method and Paul as intake owner are confirmed for the August Team Nights.
-- [ ] Review the Team Night invitation, Planning Center confirmation, and applicant follow-up copy against the approved offering scope and interview process.
+- [ ] Review the Team Night host invitation, Planning Center confirmation, and applicant follow-up copy against the approved workflow.
 - [ ] Every submitted expression of leader interest receives Paul's initial follow-up email.
 - [ ] Interest is clearly distinguished from appointment.
 - [ ] Interview and placement records use an approved, privacy-conscious method.
 
 ## Leader Discernment and Approval
 
-- [ ] Leadership standards and discernment process receive pastoral approval.
+- [x] Minimum leadership and host standard received pastoral approval under DEC-027.
+- [ ] Standardized interview format, records, and role-specific assessment details are confirmed.
 - [ ] Potential leaders are prayerfully identified and invited from within the Launch Team.
 - [ ] Character, theological alignment, relational trust, capacity, and teachability are considered.
 - [ ] Final appointment authority is confirmed.
@@ -36,7 +38,8 @@
 
 ## Training and Assignment
 
-- [ ] Training curriculum and facilitator are approved.
+- [x] Paul is confirmed as training facilitator.
+- [ ] Launch-training curriculum is approved.
 - [ ] Training dates and completion expectations are confirmed.
 - [ ] Required safeguarding and escalation preparation is included.
 - [ ] Each proposed group has approved leadership.
@@ -53,13 +56,13 @@
 - [ ] Confirmed descriptions, schedules, locations, capacities, and fall events are entered.
 - [ ] Participant fields, consent, access, correction, retention, and deletion practices are approved.
 - [ ] Public Church Center links, mobile display, notifications, confirmations, and capacity behavior are tested.
-- [ ] The website and Church Center display the same approved information.
+- [ ] Russ grants Paul Squarespace access; after handoff, Paul confirms the website and Church Center display the same approved information.
 
 ## Commissioning and Launch Readiness
 
 - [ ] Commissioning form, date, setting, and approving pastor are confirmed.
-- [ ] Participant-data and privacy practices are approved.
-- [ ] Pastoral-care and safeguarding procedures are approved.
+- [x] Minimum participant-data, pastoral-care, and safeguarding boundaries are approved under DEC-028.
+- [ ] Governing policies, escalation contacts, and operating procedures are approved.
 - [ ] Public description and participant next step are accurate.
 - [ ] Enrollment is opened only after the owner and response process are active.
 - [ ] Attendance, event-note, chat, and pastoral-escalation boundaries are included in leader preparation.

@@ -12,8 +12,8 @@ If future Women's Collective gatherings need smaller conversations, this page wi
 
 - confirmed need within the approved Women's Collective gathering plan
 - appointed Collective leader and accountable breakout facilitators
-- approved leader standards under PRO-025
-- approved care, confidentiality, safeguarding, and data boundaries under PRO-026
+- approved leader standards under DEC-027
+- approved minimum care, confidentiality, safeguarding, and data boundaries under DEC-028
 - location, room, capacity, accessibility, and participant-flow plan
 - approved content and follow-up responsibility
 

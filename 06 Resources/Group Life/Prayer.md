@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Proposed baseline practice; detailed prayer-ministry expectations await PRO-032 and pastoral approval.**
+**Confirmed minimum baseline under DEC-033; detailed prayer-ministry practices still require explicit pastoral approval and training.**
 
 ## Ministry Purpose
 
@@ -38,6 +38,6 @@ The approved leader facilitates prayer within the church's boundaries. Practices
 ## Connections
 
 - [[Leader Training]] — Includes prayer and escalation preparation.
-- [[Policies]] — Proposed confidentiality and safeguarding boundaries.
+- [[Policies]] — Approved minimum confidentiality and safeguarding boundaries with implementation still developing.
 - [[Conflict]] — Prayer must not be used to avoid necessary repair or escalation.
 - [[Leader Support Check-In]] — Leaders also receive prayer and pastoral support.

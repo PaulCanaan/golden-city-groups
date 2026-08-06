@@ -284,6 +284,141 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** Active documents may identify Paul as Ministry Director. Paul is the Team Night point person for leader-interest sign-ups, owner of Planning Center form intake, owner of initial applicant follow-up, and the person responsible for arranging interviews and communicating immediate next steps. Active Team Night, Forms, Planning Center, Dashboard, launch-readiness, and communication materials should treat those responsibilities as implementation rather than decisions still needed.
 - **Boundary:** Form submission is not appointment. This decision does not approve interview standards, candidate qualifications, assessors, final approval authority, role assignment, training requirements, safeguarding review, appointment, or commissioning. Paul does not receive final appointment authority through this workflow.
 
+### DEC-027 — Minimum Leader, Host, and Instructor Standard
+
+- **Decision:** Before appointment, a leader, host, or instructor must complete a pastoral or delegated relational conversation; align with Golden City Church's mission, values, and beliefs; receive a role description with authority and escalation boundaries; complete appropriate preparation; agree to confidentiality, safeguarding, reporting, and participant-data practices; demonstrate capacity for the ministry rhythm; complete any church-required screening or background check; and receive an explicitly recorded appointment. Russ or his designated pastor appoints or removes primary leaders and instructors. Paul may coordinate discernment, training, records, and recommendations within DEC-021.
+- **Status:** Confirmed
+- **Date and approver:** August 5, 2026; Russ
+- **Evidence:** PRO-025 in the Staff Decision Brief was approved as recommended.
+- **Implications:** These requirements now govern appointment and preparation across the four ministry environments.
+- **Boundary:** This decision does not appoint any person or document a role-specific training plan, correction process, or screening procedure beyond church requirements.
+
+### DEC-028 — Minimum Care, Safeguarding, and Participant-Data Boundaries
+
+- **Decision:** The minimum care, safeguarding, and participant-data boundaries in PRO-026 are approved. Leaders do not promise absolute confidentiality; urgent danger, suspected abuse, threats of harm, and other urgent concerns follow the church-approved reporting process; leaders offer prayer, presence, practical care, and pastoral connection without acting as sole crisis responders or licensed counselors; applicable safeguards must be confirmed before meetings involving minors, childcare, vulnerable people, transportation, or private homes; Planning Center access is role-based; and sensitive care, screening, or discernment details stay out of general notes, chat, this repository, and personal spreadsheets.
+- **Status:** Confirmed in part
+- **Date and approver:** August 5, 2026; Russ
+- **Evidence:** PRO-026 in the Staff Decision Brief records approval of the minimum boundaries and participant-data rules.
+- **Implications:** Active ministry guidance may treat these minimum boundaries as governing while staff completes the church-wide policy and escalation structure.
+- **Boundary:** Governing policy locations and primary and backup escalation contacts were not identified. Russ directed that those be formed and confirmed in future meetings. This decision is not legal guidance and does not replace mandated-reporting requirements.
+
+### DEC-029 — Initial Offering Operational Owners
+
+- **Decision:** Operational ownership is assigned to Russ and Paul for City Groups, Russ for Men's Collective, Miranda for Women's Collective, and Paul for Planted. Paul remains Planted's primary leader.
+- **Status:** Confirmed in part
+- **Date and approver:** August 5, 2026; Russ
+- **Evidence:** The ownership table in PRO-027 was completed and dated in the Staff Decision Brief.
+- **Implications:** Readiness work and unresolved details have a named operational owner for each initial offering.
+- **Boundary:** The decision does not name City Group or Collective primary leaders, pastoral escalation contacts, or Launch / Develop / Defer dispositions. Operational ownership does not confer final readiness or appointment authority.
+
+### DEC-030 — Planted as a Twelve-Week Bible Club
+
+- **Decision:** Planted is a twelve-week Bible Club beginning on the first Tuesday evening of October 2026, October 6. Paul will lead it. Pastoral and theological curriculum review and required-materials review are complete.
+- **Status:** Confirmed in part; supersedes DEC-023's course length and prior Class classification
+- **Date and approver:** August 5, 2026; Russ and Paul
+- **Evidence:** PRO-028 in the Staff Decision Brief records the revised length, start window, Bible Club classification, completed curriculum review, and completed materials review.
+- **Implications:** Planted planning and communication should use the Bible Club model, twelve-week length, and October 6 start. It should no longer be described as a nine- or ten-week Class.
+- **Boundary:** The location remains unresolved. Capacity, enrollment method, support or backup role, tested Church Center path, complete session calendar, and final readiness approval also remain open. The checked materials item confirms review, but the brief does not document particular materials or cost.
+
+### DEC-031 — Leader Interview, Assessment, and Training Ownership
+
+- **Decision:** Paul owns the leader interview and assessment process and will facilitate leader training.
+- **Status:** Confirmed in part
+- **Date and approver:** August 5, 2026; Russ
+- **Evidence:** PRO-029 in the Staff Decision Brief names Paul as interview and assessment owner and training facilitator.
+- **Implications:** Paul may organize these parts of the approved leader-development sequence within DEC-027 and DEC-021.
+- **Boundary:** Interview standards, duration, training dates, completion requirements, assignment deadline, appointment-record owner, and commissioning date and form remain open. Russ retains appointment authority.
+
+### DEC-032 — Public Participant System Ownership
+
+- **Decision:** Russ owns the public participant system, with Paul as backup.
+- **Status:** Confirmed in part
+- **Date and approver:** August 5, 2026; Russ
+- **Evidence:** PRO-030 in the Staff Decision Brief records the public participant system owner and backup.
+- **Implications:** Public participant-path configuration and follow-up decisions now have a primary and backup owner.
+- **Boundary:** Offering-specific participant paths, the leader-interest intake backup, response standards, access boundaries, placement, capacity, waitlist, consent, permissions, and data-setting details remain open.
+
+### DEC-033 — Minimum Pastoral Formation and Prayer Baseline
+
+- **Decision:** Groups and Classes will teach freedom in Christ through the gospel, repentance, grace, truth, prayer, the Spirit's work, and faithful community without promising a particular emotional or circumstantial outcome; describe flourishing as life ordered toward Christ, love of neighbor, holiness, service, and gospel witness rather than comfort or success; expect Scripture-shaped prayer and dependence on the Holy Spirit in every environment; keep detailed spiritual-gifts, discernment, deliverance, and prayer-ministry practices within boundaries approved by Russ and supported by training and pastoral presence; and escalate significant pastoral or spiritual-care concerns rather than making a group leader the sole responder.
+- **Status:** Confirmed
+- **Date and approver:** August 5, 2026; Russ
+- **Evidence:** PRO-032 in the Staff Decision Brief was approved as recommended.
+- **Implications:** The baseline now governs leader training and ministry guidance across City Groups, Bible Clubs, Classes, and Collectives.
+- **Boundary:** This decision does not approve additional detailed practices for spiritual gifts, deliverance, healing, discernment, or extended prayer ministry.
+
+### DEC-034 — Three-Branch Groups Ministry Architecture
+
+- **Decision:** Groups Ministry has three branches: City Groups, whose purpose is to “do life”; Collectives, whose purpose is to “grow together”; and Bible Clubs, whose purpose is to “study the Word.” Classes are not a current fourth branch; they are a future development path under Bible Clubs.
+- **Status:** Confirmed; supersedes DEC-025's active architecture and its four-environment clarification
+- **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
+- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Implications:** Active architecture, navigation, dashboards, ministry overviews, leader resources, and communication should use the three branches and their purposes.
+- **Boundary:** This does not erase the historical development recorded in DEC-024–025 or approve a future Class offering.
+
+### DEC-035 — Long-Term Ministry Development Pathways
+
+- **Decision:** Location-based City Groups may mature into future home groups, activity-based groups, demographic-based groups, and other approved expressions. Weekly Recap is an optional City Group resource rather than a defining practice. Men's Collective and Women's Collective may mature into broader Men's Ministry and Women's Ministry. Bible Clubs may later develop Classes; financial and marriage classes are examples, not approved offerings.
+- **Status:** Confirmed long-term direction
+- **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
+- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Implications:** Planning may preserve these development pathways without representing future expressions as active ministry.
+- **Boundary:** No home, activity-based, demographic, financial, marriage, or other future expression is approved merely by this pathway.
+
+### DEC-036 — Freedom Groups as Future Featured Ministry
+
+- **Decision:** Freedom Groups, drawing on the Church of the Highlands model, may be considered as a future featured ministry under the Golden City Church umbrella.
+- **Status:** Confirmed future planning direction
+- **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
+- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Implications:** Future-ministry planning may name and research the concept.
+- **Boundary:** Freedom Groups are not an active Groups Ministry branch or an approved launch offering. The model, adaptation, curriculum, ownership, policy, and readiness would require later review.
+
+### DEC-037 — Groups Ministry Website Ownership
+
+- **Decision:** Russ will provide Paul with Squarespace access. Paul becomes responsible for maintaining the Groups Ministry pages after access is granted.
+- **Status:** Confirmed; implementation pending
+- **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
+- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Implications:** Website maintenance has a named future owner and a clear handoff condition.
+- **Boundary:** Access has not been recorded as granted. Paul should not be represented as having current Squarespace access, and website maintenance does not confer authority to publish unapproved ministry claims or offerings.
+
+### DEC-038 — Planted Notion Finalization and October Readiness Target
+
+- **Decision:** Planted's curriculum is approved and is being finalized and published in Notion toward its October Bible Club launch. Curriculum development, Notion publishing, and operational readiness are separate workstreams.
+- **Status:** Confirmed
+- **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
+- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Implications:** Active documents should not describe the curriculum as incomplete. Notion publishing may continue while location, capacity, enrollment, support, session calendar, and final readiness are completed.
+- **Boundary:** Notion completion does not itself establish operational readiness or supersede DEC-030's twelve-week plan and October 6 start.
+
+### DEC-039 — Leader Resources and SOP Research Direction
+
+- **Decision:** Leader resources and standard operating procedures should be developed from research into healthy church practices. The research roadmap includes safeguarding, pastoral care, mandatory reporting, leader expectations, volunteer care, and incident response.
+- **Status:** Confirmed development direction
+- **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
+- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Implications:** The repository should maintain research and approval placeholders for these topics and connect them to leader development and launch readiness.
+- **Boundary:** This decision does not import another church's policies, establish legal conclusions, name escalation contacts, or approve a final SOP.
+
+### DEC-040 — Fall 2026 and Spring 2027 Leadership Objectives
+
+- **Decision:** The Fall 2026 primary objective is to recruit Launch Team members to host City Groups. The Spring 2027 primary objective is to expand intentional leader development and multiplication.
+- **Status:** Confirmed
+- **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
+- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Implications:** Launch and annual-rhythm documents should prioritize host recruitment in fall and leader development and multiplication in spring.
+- **Boundary:** This does not appoint hosts, set numerical targets, approve new groups, or establish Spring 2027 dates and offerings.
+
+### DEC-041 — CoJourner Leader-Development Pathway
+
+- **Decision:** CoJourner is the approved leader-development pathway for Groups Ministry. It serves developing and active leaders through four training sessions corresponding to Presence, Orientation, Cultivation, and Multiplication. Leader cohorts may meet biweekly or monthly for approximately thirty minutes over Zoom.
+- **Status:** Confirmed
+- **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
+- **Evidence:** August 5, 2026 Staff Meeting minutes supplied for repository implementation.
+- **Implications:** Leadership architecture, resources, and Spring 2027 planning should integrate the pathway and preserve its four-session structure.
+- **Boundary:** This decision does not supply curriculum content, select cohort members, choose a cadence, set dates, or replace the appointment, safeguarding, role-specific, or launch-readiness requirements in DEC-027–031.
+
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 
 ## Open Questions
@@ -295,38 +430,38 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 
 ### OQ-003 — Launch-Ready Group Expressions
 
-- **Status:** Classification resolved by the August 1 clarification to DEC-025; launch readiness remains open
-- **Question:** Which offerings within City Groups, Bible Clubs, Classes, and Collectives have completed launch-readiness review, and which existing geographic City Group pages are active, tentative, future, or archival?
+- **Status:** Three-branch classification resolved by DEC-034; launch readiness remains open
+- **Question:** Which offerings within City Groups, Collectives, and Bible Clubs have completed launch-readiness review, and which existing geographic City Group pages are active, tentative, future, or archival?
 
 ### OQ-004 — Planted Curriculum Readiness
 
-- **Status:** Awaiting Pastoral Approval
-- **Question:** Paul is confirmed as the first instructor under DEC-023. What pastoral, theological, and launch-readiness review must the Planted curriculum complete before the class begins?
+- **Status:** Curriculum review resolved by DEC-030; final operating readiness remains open
+- **Question:** What location, capacity, enrollment method, support role, session calendar, tested Church Center path, and final approval will govern the first Planted Bible Club?
 
 ### OQ-005 — Leadership Standards and Discernment
 
-- **Status:** Awaiting Pastoral Approval
-- **Question:** Within the confirmed Launch Team and Team Night pipeline, what discernment, qualifications, training, authority, reporting, appointment, correction, and removal processes govern leaders, hosts, coaches, and instructors?
+- **Status:** Minimum standard resolved by DEC-027; implementation details remain open
+- **Question:** What role-specific interview, training, correction, removal, recordkeeping, assignment, and commissioning details will implement the approved minimum standard?
 
 ### OQ-006 — Pastoral Care and Safeguarding
 
-- **Status:** Awaiting Pastoral Approval
-- **Question:** Which church-wide policies govern confidentiality, reporting, abuse, crises, minors, vulnerable people, childcare, homes, background checks, referrals, and the announced meeting environments?
+- **Status:** Minimum boundaries resolved by DEC-028; governing policies and contacts remain open
+- **Question:** Where will the church-wide policies be maintained, and who are the primary and backup escalation contacts?
 
 ### OQ-007 — Sign-Up and Placement
 
-- **Status:** Open
-- **Question:** Who owns the Church Center enrollment paths identified in DEC-016, submission notifications, timely follow-up, placement, capacity or waitlist handling, and the enrollment path for offerings without a reliable offering-specific link?
+- **Status:** System ownership resolved by DEC-032; workflow details remain open
+- **Question:** What offering-specific paths, notification recipients, response standards, placement, capacity, and waitlist process will Russ own with Paul as backup?
 
 ### OQ-008 — Mission Language in Practice
 
-- **Status:** Awaiting Pastoral Approval
-- **Question:** How should Groups and Classes teach and practice freedom in Christ, flourishing, service, and generosity?
+- **Status:** Minimum freedom and flourishing baseline resolved by DEC-033; detailed practices may develop within that boundary
+- **Question:** What additional formation practices, if any, should be approved for particular environments?
 
 ### OQ-009 — Holy Spirit Practices
 
-- **Status:** Awaiting Pastoral Approval
-- **Question:** What practices related to prayer, spiritual gifts, discernment, and ministry in the Spirit should be expected in Groups, Classes, and leader training?
+- **Status:** Minimum prayer and escalation baseline resolved by DEC-033; detailed practices remain open
+- **Question:** What additional trained and pastorally supported practices related to spiritual gifts, discernment, deliverance, or prayer ministry should be approved?
 
 ### OQ-010 — Fall Launch Operations
 
@@ -336,17 +471,17 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 ### OQ-011 — Planted Operational Readiness
 
 - **Status:** Open
-- **Question:** Paul is confirmed as instructor for a nine- or ten-week course leading to Christmas. Which dates and location will Planted use, and what capacity, materials, support roles, and Church Center registration requirements will govern it?
+- **Question:** Planted is confirmed as a twelve-week Bible Club beginning October 6 with Paul leading. Which location, capacity, support role, complete session calendar, and Church Center registration requirements will govern it?
 
 ### OQ-012 — Participant Data Governance
 
-- **Status:** Awaiting Pastoral Approval
-- **Question:** What participant information may be collected, where may it be stored, who may access it, how long may it be retained, and what privacy and consent practices are required?
+- **Status:** Minimum storage and access boundaries resolved by DEC-028; implementation details remain open
+- **Question:** What approved fields, consent language, retention period, access-review rhythm, and correction or deletion process will implement the minimum boundaries?
 
 ### OQ-014 — Classes and Bible Club Naming
 
-- **Status:** Resolved by DEC-025
-- **Question:** Bible Clubs and Classes are distinct ministry environments. Offering-specific classification remains part of OQ-003.
+- **Status:** Superseded and resolved by DEC-034–035
+- **Question:** Classes are a future development path under Bible Clubs, not a current branch. Any future Class still requires offering-specific approval.
 
 ### OQ-016 — Public Groups Page Participant Paths
 

@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Draft stewardship process; collection and publication rules await approval.** Do not store identifiable stories here until consent, review, storage, and publication practices are approved under PRO-026 and PRO-030.
+**Draft stewardship process within approved minimum data boundaries; collection and publication rules remain open.** Do not store identifiable stories here until consent, review, storage, and publication practices are approved under PRO-030.
 
 ## Purpose
 

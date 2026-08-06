@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Draft role companion; leader standards and appointment remain awaiting pastoral approval.** This page applies shared GCC resources to Men's Collective without creating a separate leadership policy.
+**Draft role companion under the approved minimum standard; individual leadership and appointment remain open.** This page applies shared GCC resources to Men's Collective without creating a separate leadership policy.
 
 ## Leader Responsibility
 
@@ -37,7 +37,7 @@ This guide applies original GCC resources developed after review of Church of th
 
 ## Approval Still Required
 
-PRO-025, PRO-026, PRO-027, and PRO-030 must resolve appointment, care, ownership, readiness, and participant-system details.
+DEC-027–029 resolve the minimum appointment and care standards and assign operational ownership. PRO-027 and PRO-030 must still resolve individual leaders, escalation contacts, readiness, and participant-system details.
 
 ## Connections
 

@@ -9,13 +9,13 @@ This is a planning framework. The public church launch date and approved ministr
 - Golden City Church plans to launch publicly on September 20, 2026.
 - The church website currently identifies Legacy High School in Broomfield as the public launch location.
 - Since March 2026, Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have formed a Launch Team of more than 50 committed volunteers.
-- Initial City Group leaders will be prayerfully identified, invited, discerned, and trained from within the Launch Team rather than recruited from the general public.
+- Fall 2026 primarily focuses on recruiting Launch Team members to host City Groups through the approved discernment and appointment process rather than recruiting from the general public.
 - Team Nights on July 28, August 11, and August 25 include dedicated City Group leadership preparation.
 - Paul is the operational point person for the ministry and Planning Center; Russ or his designated pastor gives final readiness approval.
 - Initial scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas.
-- Paul will teach the first Planted class as a nine- or ten-week course leading to Christmas.
-- Golden City Groups has four confirmed environments: City Groups for community, pastoral connection, and weekend-message application; Bible Clubs for facilitated study of Scripture; Classes for teacher-led, topic-specific equipping and disciple-maker development; and Collectives for gender-specific ministry through Men's and Women's Collectives.
-- Groups and Classes should support the launch without creating structures too complicated to operate.
+- Planted is a twelve-week Bible Club beginning Tuesday evening, October 6, 2026, with Paul leading. Its curriculum is approved and is being finalized and published in Notion; location and final operational readiness remain open.
+- Groups Ministry has three confirmed branches: City Groups to do life, Collectives to grow together, and Bible Clubs to study the Word. Classes are a future development path under Bible Clubs.
+- Groups Ministry should support the launch without creating structures too complicated to operate.
 - The minimum viable launch model must be distinguished from the ideal future model.
 
 The currently published location should be reverified before it is used in ministry communication.
@@ -24,7 +24,7 @@ The currently published location should be reverified before it is used in minis
 
 By launch, an interested person should be able to:
 
-1. Understand the distinct purposes of City Groups, Bible Clubs, Classes, and Collectives.
+1. Understand the distinct purposes of City Groups, Collectives, and Bible Clubs.
 2. Express interest through a simple, approved process.
 3. Receive timely personal follow-up.
 4. Receive an accurate next step into a launch-ready group or a clearly communicated future opportunity.
@@ -45,7 +45,7 @@ This outcome is **proposed** and requires operational and pastoral confirmation.
 
 - Launch-ready City Groups, Men's Collective, Women's Collective, and Planted
 - Deferred ideas removed from launch-critical planning and represented truthfully in public communication
-- Gathering design consistent with each environment's confirmed purpose, location, content, and leadership pattern
+- Gathering design consistent with each branch's confirmed purpose, location, content, and leadership pattern
 - Clear distinction between active, upcoming, and future offerings
 
 ### People
@@ -56,6 +56,7 @@ This outcome is **proposed** and requires operational and pastoral confirmation.
 - Role descriptions and authority boundaries
 - Backup and escalation contacts
 - Basic launch training
+- Clear separation between fall role-specific launch training and the longer-term CoJourner pathway
 
 ### Pastoral Care and Safeguarding
 
@@ -81,6 +82,7 @@ This outcome is **proposed** and requires operational and pastoral confirmation.
 - Confirmation and follow-up messages
 - Leader communication rhythm
 - Privacy and consent practices
+- Squarespace access granted by Russ before Paul assumes maintenance of the Groups Ministry pages
 
 ### Evaluation
 
@@ -114,8 +116,8 @@ The following sequence distinguishes confirmed context from work that remains pl
 | Church Plant Gatherings | **Confirmed** | Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have gathered prospective members since March 2026. | No additional decision is required to recognize this context. |
 | Launch Team | **Confirmed** | More than 50 committed volunteers are preparing to become the church's initial ministry teams. | Individual ministry assignments are not established by Launch Team participation alone. |
 | Team Night leader sign-ups | **Confirmed; August intake workflow approved** | Paul is the on-site point person, helps Launch Team members submit the Planning Center interest form, receives and organizes submissions through admin access, and emails applicants to arrange interviews and communicate immediate next steps. | Backup coverage, form fields and consent, interview standards, assessment records, and later approval stages remain unresolved. |
-| Leader discernment | **Planned; standards awaiting pastoral approval** | Initial candidates will be prayerfully identified and invited from within the Launch Team. | Qualifications, discernment process, decision authority, and appointment record are prepared for staff review in PRO-025. |
-| Leader training | **Planned** | Training must follow initial sign-up and discernment and precede final assignment and commissioning. | Dates, curriculum, facilitators, attendance requirements, and completion standard are not yet confirmed. |
+| Leader discernment | **Planned; minimum standard approved** | Initial candidates will be prayerfully identified and invited from within the Launch Team. DEC-027 governs the minimum standard, and Paul owns interviews and assessment under DEC-031. | Interview format, assessment details, appointment record, and role-specific implementation remain unresolved. |
+| Leader training | **Planned; facilitator and long-term pathway confirmed** | Paul will facilitate launch training. CoJourner provides four ongoing development sessions: Presence, Orientation, Cultivation, and Multiplication. | Launch-training dates, content and completion requirements; CoJourner cohort, cadence, Zoom ownership, and start date are not yet confirmed. |
 | Group assignments and Planning Center build | **Planned; platform controls awaiting approval** | Assignments follow discernment and training. Approved offerings should receive complete draft Planning Center records before publication. | Leader names, co-leaders, hosts, group communities, locations, capacities, participant placement, permissions, data controls, and enrollment ownership are not yet confirmed. |
 | Commissioning | **Planned; pastoral direction required** | Commissioning belongs after readiness review and before leaders begin serving publicly. | Date, setting, form, and approving pastor are not yet confirmed. |
 | September 20 launch | **Confirmed** | Golden City Church launches publicly on September 20, 2026. | This date does not by itself confirm that every City Group begins that day. |
@@ -130,12 +132,14 @@ These may wait until after launch unless pastoral leadership explicitly prioriti
 - Simultaneously launching every possible group expression
 - Run Club, Youth City Group, and Young Adults Group unless later reactivated through a separate readiness decision
 - A complete class catalogue
+- Financial, marriage, or other future Classes under Bible Clubs
+- Freedom Groups, which are a potential future featured ministry rather than a launch offering
 - Advanced curriculum tracks
 - A formal multi-level coaching organization
 - Sophisticated dashboards
 - Extensive books, articles, podcasts, and video libraries
 - Retreats and specialized events
-- Detailed multiplication systems
+- Detailed multiplication systems beyond the Spring 2027 objective and CoJourner framework
 - Full Spring and Summer 2027 programming
 - Advanced leader certification
 - A playbook for every possible ministry scenario
@@ -152,15 +156,20 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 6. Safeguarding, care, and authority boundaries
 7. Leader training, group assignments, and commissioning
 8. Locations, capacity, calendar, and Planning Center configuration
-9. Planted curriculum and operational readiness with Paul as the confirmed instructor
-10. Intake, data, privacy, and placement practices
-11. Internal and public communication
-12. Launch readiness review
-13. Feedback and pastoral adaptation
+9. Remaining Planted Bible Club operational readiness with Paul as the confirmed leader
+10. Completion of Planted publishing in Notion without confusing publishing with readiness
+11. Intake, data, privacy, and placement practices
+12. Internal and public communication, including the conditional Squarespace handoff
+13. Launch readiness review
+14. Feedback and pastoral adaptation
+
+## Spring 2027 Direction
+
+Spring 2027 primarily focuses on expanding intentional leader development and multiplication. CoJourner supplies the approved four-session leader-development architecture. Specific cohorts, cadence, dates, facilitators, multiplication targets, offerings, and public commitments remain unresolved.
 
 ## Open Launch Decisions
 
-- Which specific City Groups, Bible Clubs, Classes, and Collectives will complete readiness?
+- Which specific City Groups, Collectives, and Bible Clubs will complete readiness?
 - Which city or community pages represent real launch-ready groups?
 - Will men's or women's gatherings launch, and at what rhythm?
 - Who owns participant intake, placement, later applicant assessment, backup follow-up, and calendar accuracy beyond Paul's approved leader-interest intake and initial follow-up?
@@ -169,5 +178,8 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 - Which safeguarding policies and training are required?
 - What fields, consent, retention, backup, and assessment record should govern the approved Planning Center leader-interest workflow?
 - When and how will approved City Group leaders be trained, assigned, and commissioned?
+- When will Russ grant Squarespace access, and what review workflow will govern Paul's page maintenance afterward?
+- Which sources, reviewers, and approval process will govern the leader-resource and SOP research roadmap?
+- Will the first CoJourner cohort meet biweekly or monthly, who will participate, and when will it begin?
 - What budget and facilities are available?
 - When will Paul recommend each offering for launch, and when will Russ or his designated pastor complete final readiness review?

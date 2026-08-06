@@ -30,7 +30,7 @@ Each practice was evaluated against:
 
 - Golden City Church's mission, values, beliefs, and pastoral authority
 - the Belonging-Beholding-Becoming framework
-- the confirmed sermon-based City Group model
+- the confirmed location-based City Group launch model and optional Weekly Recap
 - the Launch Team leadership pipeline
 - the September 20, 2026 launch and early-October ministry window
 - actual leader and administrative capacity
@@ -41,16 +41,16 @@ Each practice was evaluated against:
 | Source pattern | GCC treatment | Reason |
 |---|---|---|
 | Leaders cultivate welcome, prayer, Scripture, participation, and personal care. | **Adapt for launch.** | Directly supports Belonging, Beholding, and Becoming. |
-| Leaders facilitate rather than dominate conversation. | **Adapt for launch.** | Appropriate for sermon-based discussion and shared participation. |
+| Leaders facilitate rather than dominate conversation. | **Adapt for launch.** | Appropriate for Scripture-centered conversation and shared participation. |
 | Leaders set clear meeting expectations and prepare the environment. | **Adapt for launch.** | Simple, practical, and sustainable. |
 | A short relational conversation helps discern prospective leaders. | **Adapt with approval gate.** | Useful within the Launch Team pipeline, but standards and appointment authority remain unresolved. |
 | Leaders receive relational support, prayer, practical guidance, and timely escalation. | **Adapt without requiring coaches.** | Paul or another approved leader can provide this support at launch; a formal coaching layer is still unconfirmed. |
 | Support conversations attend to relationship, protection, development, and operational follow-through. | **Adapt in GCC language.** | A balanced check-in can serve leaders without importing a large hierarchy. |
 | Group visits are supportive rather than supervisory inspections. | **Defer as an optional practice.** | Helpful later, but only with leader consent, clear authority, and sufficient capacity. |
-| Ongoing leader development continues after initial training. | **Adapt for future use.** | Formation is ongoing, but a video library is not launch-critical. |
+| Ongoing leader development continues after initial training. | **Adapt through CoJourner.** | DEC-041 supplies GCC's approved four-session pathway; a video library is not launch-critical. |
 | Semester preparation, launch, care, and review form a recurring cycle. | **Adapt to GCC's confirmed dates.** | The cycle is transferable; Highlands' annual calendar is not. |
 | Aggregate reporting supports care and planning. | **Adapt minimally.** | GCC should track only useful measures within approved data practices. |
-| A free-market model allows leaders to form groups around personal interests. | **Do not adopt for City Groups.** | GCC's confirmed City Group model is weekly and sermon-based. |
+| A free-market model allows leaders to form groups around personal interests. | **Do not import as a launch model.** | Fall 2026 begins with location-based City Groups. Future activity-based, demographic-based, and other expressions still require GCC-specific approval. |
 | Anyone completing a standard pathway may immediately lead. | **Do not adopt for fall 2026.** | Initial leaders come from the Launch Team through discernment, training, assignment, and approval. |
 | Every leader is assigned a coach within a multi-level team structure. | **Defer.** | A formal coaching layer is not approved and may be premature for launch scale. |
 | Highlands-specific programs, campuses, teams, conferences, apps, databases, and terminology. | **Exclude.** | These belong to another church's ministry ecosystem. |
@@ -69,8 +69,13 @@ Each practice was evaluated against:
 - [[Prayer]] — prayer practice with pastoral boundaries
 - [[Conflict]] — healthy discussion, repair, and escalation
 - [[Discipleship]] — relational next steps through Belonging, Beholding, and Becoming
-- [[Policies]] — proposed minimum boundaries awaiting pastoral approval
+- [[Policies]] — approved minimum boundaries with church-wide policy implementation still open
 - [[Icebreakers]] — low-pressure conversation prompts
+- [[CoJourner]] — approved GCC leader-development pathway
+
+## Freedom Groups Boundary
+
+DEC-036 permits Freedom Groups, drawing on the Church of the Highlands model, to remain in future planning as a potential featured ministry under the Golden City Church umbrella. This does not import Highlands curriculum or policy, approve the ministry for launch, or establish ownership, leadership, safeguarding, participant path, or readiness.
 
 ## Copyright and Attribution Boundary
 

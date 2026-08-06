@@ -11,9 +11,11 @@
 - **August 25:** Team Night with dedicated City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation
 - **September 20:** Golden City Church public launch
 
-During the August Team Nights, Paul serves as the on-site leader-interest point person, helps Launch Team members submit the Planning Center form, receives and organizes submissions through his admin access, and emails applicants to arrange interviews and communicate immediate next steps. Later assessment, approval, training, assignment, appointment, safeguarding, and commissioning standards remain unresolved.
+During the August Team Nights, Paul serves as the on-site leader-interest point person, helps Launch Team members submit the Planning Center form, receives and organizes submissions through his admin access, and emails applicants to arrange interviews and communicate immediate next steps. Paul also owns interviews, assessment, and training facilitation under DEC-031. Detailed standards, dates, assignment, appointment records, and commissioning remain unresolved.
 
 ## Planned Sequence After Team Nights
+
+The primary Fall 2026 objective is to recruit Launch Team members to host City Groups.
 
 1. Complete leader discernment within the Launch Team.
 2. Invite approved candidates into leader training.
@@ -21,9 +23,9 @@ During the August Team Nights, Paul serves as the on-site leader-interest point 
 4. Confirm group assignments, hosts or locations, and participant capacity.
 5. Commission approved leaders through a practice still requiring confirmation.
 6. Open or continue participant sign-up only for launch-ready offerings.
-7. Begin fall ministry in the approved early-October window.
+7. Begin each offering only in its approved window; Planted begins Tuesday evening, October 6, subject to final readiness.
 
-Training dates, commissioning details, leader names, City Group assignments, and exact start dates remain pending.
+Training dates, commissioning details, leader names, City Group assignments, and start dates other than Planted remain pending.
 
 ## Planned Fall Offerings
 
@@ -38,18 +40,19 @@ Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-
 
 ### Internal Development Orientation
 
-- City Groups: community, pastoral connection, and weekend-message application
-- Bible Clubs: facilitator-led study and response to Scripture
-- Classes, including Planted: topic-based equipping and disciple-maker development
-- Collectives: gender-specific ministry through Men's and Women's Collectives
+- City Groups: do life; Weekly Recap is optional
+- Collectives: grow together through Men's and Women's Collectives
+- Bible Clubs: study the Word through facilitator-led study and response to Scripture
+- Planted Bible Club: facilitator-led study of Scripture
+- Future Classes: development path under Bible Clubs, not a fall offering category
 
-Paul is confirmed as the first Planted instructor. Plan a nine- or ten-week course leading to Christmas; exact dates and remaining readiness details are still open.
+Paul is confirmed to lead the twelve-week Planted Bible Club beginning Tuesday evening, October 6. Curriculum is approved and is being finalized and published in Notion. Notion publishing, location, full session calendar, and remaining operational readiness details are tracked separately.
 
 ## Connections
 
 - [[07 Operations/Calendar]] — Separates confirmed dates from pending milestones.
 - [[Group Launch Overview]] — Applies readiness gates to the fall sequence.
-- [[Planted. Bible Study]] — Planned fall class; operational readiness remains open.
+- [[Planted. Bible Study]] — Confirmed fall Bible Club; operational readiness remains open.
 - [[City Groups Overview]] — Initial leaders are developed through the Launch Team pathway.
 - [[Men's Ministry]] — Planned Men's Collective scaffolding.
 - [[Women's Ministry]] — Planned Women's Collective scaffolding.

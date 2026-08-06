@@ -2,11 +2,11 @@
 
 ## Document Status
 
-**Central resource library with mixed-status materials.** This page is the single entry point for reusable Groups and Classes Ministry resources. Each linked document retains its own approval status. A resource does not become governing merely because it appears here.
+**Central resource library with mixed-status materials.** This page is the single entry point for reusable Groups Ministry resources. Each linked document retains its own approval status. A resource does not become governing merely because it appears here.
 
 ## Purpose
 
-Make the right resource easy to find without copying the same material into Groups, Classes, Leadership, and Operations. Resources support ministry practice; role definitions remain under [[Leadership Overview]], operational instructions remain under [[Operation Overview]], and curriculum remains under [[Classes Overview]].
+Make the right resource easy to find without copying the same material into ministry branches, future Classes, Leadership, and Operations. Resources support ministry practice; role definitions remain under [[Leadership Overview]], operational instructions remain under [[Operation Overview]], and curriculum remains under [[Classes Overview]].
 
 ## How This Library Is Organized
 
@@ -27,20 +27,34 @@ Resources for discerning, preparing, and supporting approved leaders:
 
 - [[Leader Conversation Guide]] — proposed Launch Team discernment conversation
 - [[Leader Training]] — proposed curriculum for discerned and invited candidates
+- [[CoJourner]] — approved four-session pathway for ongoing leader development
 - [[First Meetings Checklist]] — preparation before, during, and after a group's first gatherings
 - [[Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
-- [[Policies]] — proposed minimum group boundaries awaiting pastoral approval
+- [[Policies]] — approved minimum group boundaries with church-wide policy implementation still open
 
 Role authority, appointment, and expectations are governed by [[Leadership Overview]] and [[05 Leadership/Group Leaders]], not by these resources alone.
 
-### Classes and Curriculum
+### Leader Resources and SOP Research Roadmap
 
-Class resources remain with the curriculum they support so instructors can find content in context:
+DEC-039 directs the ministry to develop leader resources and standard operating procedures from research into healthy church practices. Research and placeholders may be developed for:
 
-Classes provide topic-based equipping and disciple-maker development while holding intellectual and spiritual formation together. Resources should be adapted to the confirmed purpose of each of the four environments rather than copied unchanged across City Groups, Bible Clubs, Classes, and Collectives.
+- safeguarding;
+- pastoral care;
+- mandatory reporting;
+- leader expectations;
+- volunteer care; and
+- incident response.
+
+For each topic, record the source, relevance to Golden City Church, proposed owner, required reviewer, approval status, and unresolved questions. Do not import another church's policy, state legal conclusions, or represent research notes as governing direction. Governing policies, escalation contacts, and final SOP approval remain open.
+
+### Bible Clubs and Future Classes
+
+Bible Club and future Class resources remain with the curriculum they support so facilitators and future instructors can find content in context:
+
+Future Classes may provide topic-based equipping under Bible Clubs while holding intellectual and spiritual formation together. Resources should be adapted to the confirmed purpose of the three branches rather than copied unchanged across City Groups, Collectives, and Bible Clubs.
 
 - [[Curriculum Overview]] — entry point for the current curriculum library
-- [[Planted. Bible Study]] — planned nine- or ten-week Fall 2026 offering led by Paul
+- [[Planted. Bible Study]] — confirmed twelve-week Bible Club beginning October 6, 2026, led by Paul; final readiness remains open
 - [[God With Us]] — curriculum scaffold
 - [[Covenant, Kingdom, People of God]] — curriculum scaffold
 
@@ -68,7 +82,9 @@ Original external source files remain outside this repository. Golden City resou
 | I need to… | Start here |
 |---|---|
 | prepare a prospective leader conversation | [[Leader Conversation Guide]] |
-| train an approved leader | [[Leader Training]] |
+| train an approved leader for a role | [[Leader Training]] |
+| develop leaders over time | [[CoJourner]] |
+| research a leader SOP | [[Resources Overview#Leader Resources and SOP Research Roadmap\|Leader Resources and SOP Research Roadmap]] |
 | prepare a new group's first gathering | [[First Meetings Checklist]] |
 | lead sermon-based discussion | [[Bible Study]] |
 | strengthen welcome and participation | [[Hospitality]] |
@@ -82,7 +98,7 @@ Original external source files remain outside this repository. Golden City resou
 
 ## Resource Stewardship
 
-Paul currently owns resource development within confirmed church direction. Russ or the appropriately delegated pastoral authority must approve leadership standards, safeguarding, participant-data policy, disputed theological claims, and any resource explicitly marked as awaiting pastoral approval.
+Paul currently owns resource development within confirmed church direction. DEC-027, DEC-028, and DEC-033 govern the approved minimum leadership, safeguarding, participant-data, and pastoral baselines. Russ or the appropriately delegated pastoral authority retains approval of their remaining policy implementation, disputed theological claims, and any resource explicitly marked as awaiting pastoral approval.
 
 Before adding a new resource:
 

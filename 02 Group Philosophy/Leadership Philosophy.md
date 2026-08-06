@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Draft ministry interpretation; standards awaiting pastoral approval.** DEC-021 establishes operational and final-readiness authority. PRO-025 must approve qualifications, appointment, correction, and removal standards before this page can govern leader selection.
+**Confirmed leadership interpretation under DEC-027, with role-specific implementation still developing.** DEC-021 establishes operational and final-readiness authority; DEC-027 establishes the minimum appointment standard.
 
 ## Leadership as Stewardship
 
@@ -22,15 +22,15 @@ Leaders should:
 
 Interest begins discernment; it does not confer appointment. Responsibility should grow through relationship, character, alignment, capacity, preparation, demonstrated faithfulness, and explicit approval.
 
-For fall 2026, the City Group pipeline begins with Launch Team members expressing interest at Team Nights. During the August Team Nights, Paul owns Planning Center form intake and immediate applicant follow-up. Interviews, assessment, safeguarding review, approval, training, assignment, appointment, and commissioning remain subject to approved standards and authority. Other environments require role-appropriate standards and approval.
+For fall 2026, the City Group pipeline begins with Launch Team members expressing interest at Team Nights. During the August Team Nights, Paul owns Planning Center form intake and immediate applicant follow-up. Paul owns interviews, assessment, and training facilitation under DEC-031. Role-specific interview details, training dates and completion requirements, assignment, appointment records, and commissioning remain subject to approved standards and authority. Other environments require role-appropriate preparation and appointment.
 
 ## Source Note
 
 Developed from [[01 Governance/Theological Framework|Theological Framework]], [[Leadership Overview]], [[Leader Conversation Guide]], [[Leader Training]], and the adaptation boundary in [[Highlands Resource Adaptation]].
 
-## Approval Still Required
+## Implementation Still Required
 
-See [[00 Dashboard/Staff Decision Brief#PRO-025 — Leader, Host, and Instructor Standards|PRO-025]] and [[00 Dashboard/Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]].
+See DEC-027–028 in the [[00 Dashboard/Decision Log|Decision Log]] and the remaining items in [[00 Dashboard/Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan|PRO-029]].
 
 ## Connections
 

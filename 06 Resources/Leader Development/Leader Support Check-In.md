@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Proposed support rhythm; no coaching layer is established.** Paul or another approved ministry leader may use this guide to care for group leaders. A future coach could use an approved version if PRO-025 and the ministry model later establish that role.
+**Proposed support rhythm; no coaching layer is established.** Paul or another approved ministry leader may use this guide to care for group leaders. A future coach could use an approved version if the ministry model later establishes that role.
 
 ## Ministry Purpose
 
@@ -70,7 +70,7 @@ Record only approved action items and operational follow-up in the approved syst
 
 **Launch priority:** Medium-high. A simple support rhythm is valuable at launch; a formal coaching organization is deferred.
 
-**Approval status:** The support principle is proposed. DEC-021 establishes the ministry authority boundary; correction, group visits, documentation, and any coach role still require the decisions prepared in PRO-025 and PRO-026.
+**Approval status:** The support principle is proposed. DEC-021 establishes the ministry authority boundary, and DEC-027–028 establish minimum leadership and care boundaries; correction, group visits, documentation, and any coach role still require specific approval.
 
 ## Connections
 

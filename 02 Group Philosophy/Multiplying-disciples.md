@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Draft long-term direction; not a launch program.** Detailed multiplication systems are intentionally deferred. This page states the minimum formation posture supported by current documents.
+**Confirmed Spring 2027 objective with detailed systems still open.** Intentional leader development and multiplication are the primary Spring 2027 objective; numerical targets and detailed multiplication systems are not approved.
 
 ## Purpose
 
@@ -20,7 +20,7 @@ Mature disciples increasingly welcome, serve, teach, encourage, witness, and hel
 
 ## Current Boundary
 
-For the fall 2026 launch, City Group leaders come from the Launch Team through the confirmed pathway. A broader apprenticeship model, formal coaching layer, multiplication targets, and process for starting new groups remain future proposals requiring pastoral direction and real ministry capacity.
+For Fall 2026, the primary objective is to recruit Launch Team members to host City Groups through the confirmed pathway. For Spring 2027, [[CoJourner]] provides the approved leader-development architecture through Presence, Orientation, Cultivation, and Multiplication. A broader apprenticeship model, formal coaching layer, multiplication targets, and process for starting new groups remain future proposals requiring pastoral direction and real ministry capacity.
 
 ## Source Note
 
@@ -31,3 +31,4 @@ Developed from [[01 Governance/Theological Framework#Becoming|Theological Framew
 - [[Becoming]] — Formation expressed through service and helping form others.
 - [[Growth Path]] — Relational participant journey.
 - [[Leader Support Check-In]] — Ongoing care after appointment.
+- [[CoJourner]] — Approved four-session leader-development pathway.

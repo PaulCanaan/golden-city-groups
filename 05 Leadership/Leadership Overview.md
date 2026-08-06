@@ -2,13 +2,13 @@
 
 ## Document Status
 
-**Confirmed initial pipeline; most roles and appointments still developing.** Initial City Group leaders will be identified and trained from among the Launch Team. No person becomes a leader through public interest, Launch Team participation, or Team Night sign-up alone. Paul is confirmed as the first Planted instructor under DEC-023.
+**Confirmed initial pipeline and minimum appointment standard; individual roles and appointments still developing.** Initial City Group leaders will be identified and trained from among the Launch Team. No person becomes a leader through public interest, Launch Team participation, or Team Night sign-up alone. Paul is confirmed to lead the first Planted Bible Club under DEC-030.
 
 ## Initial City Group Pathway
 
 Church plant gatherings → Launch Team → Team Night Planning Center form → Paul reviews and follows up → interview and assessment → leader training → group assignments → appointment and commissioning → September 20 launch
 
-The July 28, August 11, and August 25 Team Nights are the confirmed initial environment for vision, sign-ups, discernment, placement conversations, and launch preparation. Under DEC-026, Paul serves as the August Team Night sign-up point person, owns Planning Center form intake, reviews and organizes submissions, and emails applicants to arrange interviews and communicate immediate next steps. Leader standards, interviews and assessment, appointments, assignments, training, safeguarding, and commissioning remain subject to the appropriate approval and readiness review.
+The July 28, August 11, and August 25 Team Nights are the confirmed initial environment for vision, sign-ups, discernment, placement conversations, and launch preparation. Under DEC-026 and DEC-031, Paul owns the August intake, initial follow-up, interviews, assessment, and training facilitation. DEC-027 establishes the minimum standard. Detailed interview and training requirements, appointments, assignments, and commissioning remain subject to the appropriate approval and readiness review.
 
 ## Role Documents
 
@@ -20,25 +20,31 @@ The July 28, August 11, and August 25 Team Nights are the confirmed initial envi
 
 Group leaders are planned for launch. Host requirements remain unresolved. A formal coaching layer is a possible future structure and should not be represented as staffed or assigned for initial launch.
 
-## Four-Environment Role Map
+## Three-Branch Role Map
 
-| Environment | Primary ministry role | Current status |
+| Branch | Primary ministry role | Current status |
 |---|---|---|
-| City Groups | Group leader; host where applicable | Initial pipeline confirmed; appointments and standards pending |
-| Bible Clubs | Facilitator | Role standards and any offering assignment pending |
-| Classes | Instructor | Paul confirmed for Planted; broader standards pending |
-| Collectives | Collective leader | Men's and Women's offering ownership and appointments pending |
+| City Groups | Host and group leader | Fall 2026 prioritizes Launch Team host recruitment; appointments pending |
+| Collectives | Collective leader | Operational owners confirmed; appointments pending |
+| Bible Clubs | Facilitator | Paul confirmed to lead Planted; other assignments pending |
 
-Pastoral direction must establish shared and role-specific standards before unconfirmed leaders, facilitators, hosts, or instructors are entrusted.
+Future Class instructors remain subject to DEC-027 and offering-specific approval; Classes are not a current branch.
+
+## CoJourner Pathway
+
+[[CoJourner]] is the approved shared leader-development pathway across the three branches. It uses four sessions: Presence, Orientation, Cultivation, and Multiplication. Cohorts may meet biweekly or monthly for approximately thirty minutes over Zoom. Implementation details and curriculum content remain open.
+
+DEC-027 governs the shared minimum standard. Role-specific preparation and explicit appointment are still required before a person is entrusted.
 
 ## Connections
 
 - [[Home]] — Leadership is a top-level area of the groups and classes ministry hub.
 - [[Groups Overview]] — Describes the planned group environments leadership may eventually serve.
 - [[Leader Training]] — Planned preparation for discerned and invited candidates.
+- [[CoJourner]] — Approved four-session leader-development pathway.
 - [[05 Leadership/Group Leaders]] — Initial City Group leader pathway and pending standards.
 - [[05 Leadership/Hosts]] — Proposed host role with requirements still awaiting confirmation.
 - [[05 Leadership/Group Coaches]] — Possible future support layer, not a confirmed launch assignment.
-- [[05 Leadership/Class Instructors]] — Records Paul's confirmed Planted assignment and the standards that remain open.
+- [[05 Leadership/Class Instructors]] — Records the Class-role standard and notes Planted's reclassification as a Bible Club.
 - [[Planning Center Groups]] — Defines the operational role a leader may receive only after appointment and training.
 - [[Resources Overview]] — Central library for leader development and group-life practice.

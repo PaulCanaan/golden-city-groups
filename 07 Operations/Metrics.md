@@ -52,7 +52,7 @@ New groups
 
 Do not evaluate every environment as though it serves the same purpose.
 
-- **City Groups:** notice belonging, relational connection, care, participation, and whether the weekly recap helps people carry the weekend message into life. Do not judge health by classroom-style content completion.
+- **City Groups:** notice belonging, relational connection, care, and participation. If a group uses Weekly Recap, ask whether it helps people carry the weekend message into life. Do not require the resource or judge health by content completion.
 - **Bible Clubs:** notice faithful engagement with Scripture, shared participation, prayer, and response without reducing health to material completed.
 - **Classes:** notice understanding, equipping, spiritual response, and growth in helping form others. Content completion alone does not demonstrate formation.
 - **Collectives:** notice gender-specific community, pastoral connection, biblical formation, prayer, and faithful response in Men's and Women's Collectives.

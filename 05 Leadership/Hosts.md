@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Proposed role; requirements and appointments pending.** The confirmed Launch Team pathway applies specifically to initial City Group leaders. This repository does not yet establish how hosts will be identified, approved, or trained.
+**Fall 2026 recruitment priority; requirements and appointments pending.** DEC-040 directs the ministry to recruit Launch Team members to host City Groups. Interest does not constitute approval, appointment, or location readiness.
 
 ## Pending Decisions
 
@@ -12,7 +12,7 @@
 - Relationship between host and group leader responsibilities
 - Training and escalation expectations
 
-No home or public meeting location should be represented as approved because a potential host expresses interest.
+The DEC-027 minimum standard applies. No home or public meeting location should be represented as approved because a potential host expresses interest.
 
 ## Resources
 

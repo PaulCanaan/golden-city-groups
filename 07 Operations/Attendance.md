@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Proposed launch procedure; participant-data and pastoral-care controls await approval.** Planning Center Groups supports event attendance and leader reminders, but PRO-026 must be resolved before this procedure becomes governing.
+**Proposed launch procedure within approved minimum care and data boundaries.** DEC-028 governs minimum access, storage, and escalation boundaries. Attendance fields, retention, permissions, and correction procedures still require approval before this procedure becomes governing.
 
 ## Purpose
 

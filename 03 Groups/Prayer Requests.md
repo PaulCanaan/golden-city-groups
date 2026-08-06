@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Awaiting Decision — operating guidance only.** PRO-026 and PRO-030 must establish approved confidentiality, consent, storage, sharing, retention, and escalation practices.
+**Minimum boundaries confirmed; operating guidance only.** DEC-028 and DEC-033 govern confidentiality limits, sensitive-data storage, and escalation. PRO-030 still must establish approved consent, sharing, retention, and system settings.
 
 ## Purpose
 

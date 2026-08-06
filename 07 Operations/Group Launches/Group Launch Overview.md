@@ -11,7 +11,7 @@ Connected to [[Semester Planning]] and [[07 Operations/Calendar]]
 1. **Confirmed:** Pre-launch gatherings form the Launch Team.
 2. **Confirmed:** July 28, August 11, and August 25 Team Nights provide City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation.
 3. **Approved for August Team Nights:** Paul helps interested Launch Team members submit the Planning Center form, owns intake, and emails applicants to arrange interviews and communicate immediate next steps.
-4. **Planned; awaiting approved standards:** Interview, assessment, safeguarding review, and approval within the Launch Team.
+4. **Partially confirmed:** Paul owns a standardized interview stage and leader assessment within DEC-027; format, records, and role-specific criteria remain open.
 5. **Planned:** Leader training.
 6. **Planned:** Group assignments, hosts or locations, and capacity confirmation.
 7. **Planned; awaiting pastoral direction:** Leader appointment and commissioning.
@@ -19,6 +19,8 @@ Connected to [[Semester Planning]] and [[07 Operations/Calendar]]
 9. **Planned:** Launch-ready groups begin in the approved fall ministry window.
 
 Public leadership pathways may be developed later but are not part of the initial pre-launch recruitment process.
+
+The primary Fall 2026 objective is to recruit Launch Team members to host City Groups. Host interest does not establish appointment or location readiness.
 
 ## Readiness Check
 

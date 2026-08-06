@@ -1,14 +1,14 @@
-# Proposed Group Boundaries
+# Group Boundaries
 
 ## Document Status
 
-**Draft for pastoral approval; not yet governing policy.** This document gathers minimum boundaries needed for launch and points to proposed decisions PRO-025, PRO-026, and PRO-032. DEC-021 governs final readiness approval. This document does not replace church-wide policy, legal guidance, mandated-reporting requirements, or pastoral authority.
+**Approved minimum boundaries with church-wide policy implementation still open.** DEC-027, DEC-028, and DEC-033 govern the minimum leadership, care, safeguarding, participant-data, and formation boundaries reflected here. Additional operating details remain draft until approved. This document does not replace church-wide policy, legal guidance, mandated-reporting requirements, or pastoral authority.
 
 ## Theological Rationale
 
 Group leadership is stewardship of people made in God's image. Boundaries serve truth, hospitality, holiness, safety, accountability, and the flourishing of Christ's church; they are not merely risk-management rules.
 
-## Proposed Minimum Boundaries
+## Approved Minimum Boundaries and Draft Implementation
 
 ### Leadership and teaching
 
@@ -42,9 +42,9 @@ Group leadership is stewardship of people made in God's image. Boundaries serve 
 - No offering, fee, sale, solicitation, or financial assistance process is introduced through a group without church authorization.
 - Leaders and hosts do not make facility, transportation, childcare, or financial commitments on behalf of the church without approval.
 
-## Approval Needed
+## Remaining Policy Work
 
-Russ or the appropriately delegated pastoral authority must approve, revise, or replace these boundaries. The final policy should identify:
+The minimum boundaries above are approved. Russ directed staff to continue forming governing policies and confirm the primary and backup escalation contacts. The completed policy should identify:
 
 - appointment, correction, pause, and removal authority
 - primary and backup escalation contacts

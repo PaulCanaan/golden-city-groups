@@ -2,15 +2,15 @@
 
 ## Document Status
 
-**Working curriculum index.** The inherited `Curriculum (Bible Club)` folder name does not classify every document inside it and does not make Bible Clubs a subtype of Classes.
+**Working Bible Club curriculum and future Class index.** Bible Clubs are a current Groups Ministry branch; Classes are a future development path under that branch.
 
 ## Current Materials
 
-- [[Planted. Bible Study]] — planned Class; Paul is confirmed as instructor, with curriculum and operating readiness still pending
+- [[Planted. Bible Study]] — confirmed twelve-week Bible Club beginning October 6 with Paul leading; curriculum approved, Notion publishing underway, and operating readiness still pending
 - [[God With Us]] — curriculum scaffold; offering classification and approval unresolved
 - [[Covenant, Kingdom, People of God]] — curriculum scaffold; offering classification and approval unresolved
 
-No named Bible Club is currently recorded as launch-ready. A future curriculum decision should identify whether each offering is a facilitator-led Bible Club or a teacher-led Class before it is scheduled or communicated.
+Planted is not yet recorded as operationally launch-ready. A future curriculum decision should identify whether each other offering is a facilitator-led Bible Club or a future teacher-led Class before it is scheduled or communicated.
 
 ## Possible Supporting Materials
 

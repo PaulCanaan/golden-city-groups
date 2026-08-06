@@ -7,14 +7,14 @@
 ## Current Planning Horizon
 
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall and Winter 2026]] — active pre-launch and launch-season planning
-- [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]] — blocked planning scaffold
+- [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]] — leader-development and multiplication planning
 - [[07 Operations/Annual Rhythm/2027/Summer 2027|Summer 2027]] — blocked planning scaffold
 
 ## Annual Review Pattern
 
 For each ministry window:
 
-1. Review the four environments and real pastoral needs.
+1. Review the three branches and real pastoral needs.
 2. Identify offerings to launch, develop, defer, continue, or close.
 3. Confirm owners, leaders, locations, capacity, safeguarding, and participant paths.
 4. Align the church calendar, Planning Center, Church Center, and communication.

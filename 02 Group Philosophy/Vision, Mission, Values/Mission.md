@@ -12,7 +12,7 @@ The Groups and Classes Ministry participates in this mission through an approved
 
 > Groups provide the primary environment for Christ-centered community, pastoral care, prayer, mutual encouragement, and everyday discipleship. Classes provide intentional environments for deeper biblical, theological, and ministry formation, equipping people to live faithfully, serve the church, and help form others. Together they support Golden City Church in seeing people forge their faith, find freedom in Christ, and follow Jesus fully for the flourishing of the church and the witness of the gospel in the city.
 
-This purpose is a ministry-level expression of Golden City Church's mission. It does not establish an independent ministry identity.
+This previously approved purpose remains intact. DEC-034 now places future Classes under Bible Clubs rather than treating Classes as a current branch. The purpose is a ministry-level expression of Golden City Church's mission and does not establish an independent ministry identity.
 
 ## The three mission movements
 
@@ -34,19 +34,19 @@ Following Jesus reaches the whole person and the whole of life. It includes wors
 
 This is the ordinary horizon of discipleship, not a requirement that every mature believer hold a formal ministry title.
 
-## One ministry, four complementary environments
+## One ministry, three branches
 
-**City Groups** cultivate community, pastoral connection, and weekend-message application through:
+**City Groups — do life** through:
 
 - Christ-centered shared life
 - Pastoral care
 - Prayer
 - Mutual encouragement
-- Conversation and response connected to the weekend message
+- Scripture-centered conversation and faithful response; Weekly Recap may be used as an optional resource
 
-**Bible Clubs** cultivate Scripture-focused formation through facilitator-led study and discussion of a book or section of the Bible.
+**Collectives — grow together** through Men's Collective and Women's Collective, with a long-term path toward broader Men's Ministry and Women's Ministry.
 
-**Classes** provide topic-based equipping and disciple-maker development. They cultivate:
+**Bible Clubs — study the Word** through facilitator-led study and discussion of a book or section of the Bible. Future Classes may develop under Bible Clubs to provide:
 
 - Biblical formation
 - Theological formation
@@ -55,15 +55,13 @@ This is the ordinary horizon of discipleship, not a requirement that every matur
 - Service
 - Helping form others
 
-**Collectives** are gender-specific ministry environments currently expressed through Men's Collective and Women's Collective. They provide community, prayer, pastoral connection, biblical formation, and faithful response among men and among women.
-
-The four environments strengthen one another without becoming interchangeable. Learning is embodied through prayer, relationships, service, and faithful practice across the church.
+Financial and marriage Classes are future examples, not approved offerings. The three branches strengthen one another without becoming interchangeable. Learning is embodied through prayer, relationships, service, and faithful practice across the church.
 
 ## Theological posture
 
 The mission begins with Christ rather than with ministry structures. Jesus calls and commissions his church to make disciples, teaching people to obey all he commanded (Matthew 28:18–20). Scripture is the ministry's authority, the Holy Spirit is the source of transformation and power, and the church is the community in which disciples are formed and equipped (Ephesians 4:11–16).
 
-Groups must not become social environments without spiritual purpose. Classes must not become academic environments detached from worship, community, service, and mission. Both exist to help people follow Jesus within the life and witness of Golden City Church.
+Groups must not become social environments without spiritual purpose. Future Classes must not become academic environments detached from worship, community, service, and mission. Both exist to help people follow Jesus within the life and witness of Golden City Church.
 
 ## Ministry interpretation and boundaries
 

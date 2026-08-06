@@ -2,9 +2,9 @@
 
 ## Document Status
 
-**Proposed discernment tool; awaiting approval under PRO-025.** This guide may support relational conversations with Launch Team members who express City Group leadership interest. It does not establish qualifications, authorize appointment, or replace a pastorally approved process.
+**Working standardized interview guide under the approved minimum standard.** DEC-027 establishes the governing standard, and DEC-031 assigns interviews and assessment to Paul. The suggested format, duration, questions, and records remain working guidance; this page does not authorize appointment.
 
-DEC-026 confirms that Paul emails applicants to arrange interviews and communicate immediate next steps. It does not approve this guide's questions, name the interviewer or assessment team, or give Paul final appointment authority.
+DEC-026 confirms that Paul emails applicants to arrange interviews and communicate immediate next steps. DEC-031 names Paul as interview and assessment owner. Neither decision approves every question in this guide or gives Paul final appointment authority.
 
 ## Ministry Purpose
 
@@ -60,7 +60,7 @@ Record the outcome and owner. Do not place narrative discernment notes, referenc
 
 **Launch priority:** High, because Team Night interest requires a truthful follow-up path.
 
-**Approval required:** Russ or the person authorized under the final PRO-025 decision must approve the standards, interviewers, records, and appointment process before this guide governs leader selection.
+**Remaining approval:** Interview format, duration, records, and appointment implementation remain open under PRO-029. Russ or his designated pastor retains primary appointment authority.
 
 ## Connections
 

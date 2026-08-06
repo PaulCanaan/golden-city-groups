@@ -2,7 +2,9 @@
 
 ## Current Launch Focus
 
-Fall 2026 operations support the Launch Team leadership pipeline: Team Night sign-ups, Paul-owned Planning Center form intake and initial applicant follow-up, interview and assessment, training, group assignments, appointment and commissioning, and launch readiness. DEC-026 confirms intake and immediate follow-up; later stages remain planned or approval-dependent.
+Fall 2026 operations prioritize recruiting Launch Team members to host City Groups through Team Night interest, Paul-owned Planning Center intake and follow-up, a standardized interview stage, leader assessment, training, group assignments, appointment and commissioning, and launch readiness. DEC-026, DEC-027, and DEC-031 govern the approved portions; unresolved details remain marked in the linked workflows.
+
+Spring 2027 operations prioritize intentional leader development and multiplication through the approved [[CoJourner]] pathway. Leader-resource and SOP development follows the research roadmap in [[Resources Overview#Leader Resources and SOP Research Roadmap|Resources Overview]].
 
 - [[07 Operations/Calendar]]
 - [[Planning Center Groups]]

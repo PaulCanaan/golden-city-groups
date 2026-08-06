@@ -101,10 +101,20 @@ Ministry content should not treat one dimension as sufficient by itself.
 - Do not present Paul's theological interests as official church positions without approval.
 - Do not make Groups and Classes substitutes for gathered worship or the broader life of the church.
 
+## Approved Pastoral Baseline
+
+Under DEC-033, Groups and Classes:
+
+- teach freedom in Christ through the gospel, repentance, grace, truth, prayer, the Spirit's work, and faithful community without promising a particular emotional or circumstantial outcome;
+- describe flourishing as life ordered toward Christ, love of neighbor, holiness, service, and gospel witness rather than comfort or success;
+- expect Scripture-shaped prayer and dependence on the Holy Spirit in every environment;
+- keep detailed spiritual-gifts, discernment, deliverance, and prayer-ministry practices within boundaries explicitly approved by Russ and supported by training and pastoral presence; and
+- escalate significant pastoral or spiritual-care concerns rather than making a group leader the sole responder.
+
+DEC-034 later changed the operating architecture, not this pastoral baseline. The baseline applies across City Groups, Collectives, and Bible Clubs and to any future approved Class.
+
 ## Open Theological Questions
 
-- How should “find freedom in Christ” be taught and practiced in Groups and Classes?
-- How should flourishing be described in the church's pastoral and theological language?
-- What practices related to spiritual gifts should be expected in groups, classes, and leader training?
+- What additional trained and pastorally supported practices related to spiritual gifts, discernment, deliverance, or prayer ministry should be approved beyond the DEC-033 baseline?
 - Will Belonging, Beholding, Becoming be public-facing church language or primarily an internal ministry framework?
 - How should baptism, communion, membership, and church discipline relate to the participant journey?

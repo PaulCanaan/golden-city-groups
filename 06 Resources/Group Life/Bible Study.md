@@ -8,7 +8,7 @@
 
 Help participants behold Christ through Scripture and respond together in worship, repentance, faith, obedience, care, service, and witness. The goal is formation through God's Word, not displaying the leader's knowledge.
 
-For City Groups, use this resource through the [[Weekly Recaps|Weekend Message Group Guide]] in service of community, pastoral connection, and application. Bible Clubs may use a fuller facilitator-led flow through a book or section of Scripture. Collectives should adapt Scripture engagement to their approved gender-specific ministry purpose and offering plan.
+For City Groups, use this resource directly or through the optional [[Weekly Recaps|Weekly Recap]] in service of shared life, pastoral connection, and faithful response. Bible Clubs may use a fuller facilitator-led flow through a book or section of Scripture. Collectives should adapt Scripture engagement to their approved gender-specific ministry purpose and offering plan.
 
 ## Preparation
 

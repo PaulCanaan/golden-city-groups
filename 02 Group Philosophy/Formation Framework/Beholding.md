@@ -16,22 +16,21 @@ Beholding directs people toward Jesus through Scripture, prayer, worship, the wo
 - responding through worship, repentance, gratitude, and obedience
 - learning to recognize truth without separating the Spirit's work from scriptural authority
 
-## Across the Four Environments
+## Across the Three Branches
 
-- **City Groups:** respond to Christ through the Weekend Message Group Guide, prayer, and application.
-- **Bible Clubs:** study and discuss a book or section of Scripture together.
-- **Classes:** pursue topic-based understanding, practice, and disciple-maker development.
+- **City Groups:** attend to Christ through shared life, prayer, Scripture, and faithful response; Weekly Recap is optional.
 - **Collectives:** attend to Christ through Scripture, prayer, and formation in gender-specific community.
+- **Bible Clubs:** study and discuss a book or section of Scripture together; future Classes may provide topic-based equipping.
 
 ## Guardrails
 
 - Do not reduce beholding to content consumption or emotional experience.
 - Do not present Paul's theological interests as official church positions.
-- Keep detailed spiritual-gifts and prayer-ministry practices within the boundaries approved through PRO-032.
+- Keep detailed spiritual-gifts and prayer-ministry practices within the baseline approved by DEC-033 and any later explicitly approved training and pastoral direction.
 
 ## Source Note
 
-Developed from [[01 Governance/Theological Framework|Theological Framework]], [[01 Governance/Ministry Model|Ministry Model]], and [[00 Dashboard/Staff Decision Brief#PRO-032 — Pastoral Formation and Prayer Practices|PRO-032]].
+Developed from [[01 Governance/Theological Framework|Theological Framework]], [[01 Governance/Ministry Model|Ministry Model]], and DEC-033 in the [[00 Dashboard/Decision Log|Decision Log]].
 
 ## Connections
 

@@ -13,7 +13,7 @@
 
 ## Key dates
 
-| Date | Event | Status | Groups and Classes significance |
+| Date | Event | Status | Groups Ministry significance |
 |---|---|---|---|
 | July 28, 2026 | Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation |
 | August 11, 2026 | Team Night | **Confirmed; intake workflow approved** | Paul supports Planning Center form submission, owns intake, and begins applicant follow-up |
@@ -38,4 +38,4 @@ Dates, owners, and approval status for these milestones remain unresolved.
 - [[Group Launch Overview]] — Governs the ordered sequence and readiness requirements behind these dates.
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Current semester rhythm with fall launch items.
 - [[Groups Overview]] — Planned group rhythms should be added only after confirmation.
-- [[Classes Overview]] — Planned class rhythms should be added only after confirmation.
+- [[Classes Overview]] — Future Class rhythms should be added only after offering-specific approval.
