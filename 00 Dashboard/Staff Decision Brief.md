@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Reviewed August 5, 2026. Approved direction is governing through DEC-027–041 in the [[Decision Log|Active Decision Register]]. The outcomes recorded as DEC-034–041 are preserved in the [[08 Archive/Decisions/2026-08-05 Staff Meeting Minutes|August 5 Staff Meeting Minutes]]. This brief retains the proposal record and identifies the portions still requiring staff or pastoral direction.**
+**Reviewed August 10, 2026. Approved direction is governing through DEC-027–041 in the [[Decision Log|Active Decision Register]]. The outcomes recorded as DEC-034–041 are preserved in the [[08 Archive/Decisions/2026-08-05 Staff Meeting Minutes|August 5 Staff Meeting Minutes]]. This brief retains the proposal record and identifies the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].**
 
 ## Confirmed Ministry Language
 
@@ -18,7 +18,7 @@ Classes are not a current fourth branch. Financial and marriage Classes are futu
 
 ### Meeting 1 — Governance and Safety
 
-Complete the unresolved portions of PRO-026 and PRO-027: governing policies, escalation contacts, primary leaders, and offering readiness.
+Complete the unresolved portions of PRO-026 and PRO-027. For PRO-026, first identify governing sources and owners, name escalation coverage, confirm which conditional safeguards apply, and approve the implementation path. Then address primary leaders and offering readiness without treating operational ownership as safety or launch approval.
 
 ### Meeting 2 — Launch Readiness and Systems
 
@@ -71,6 +71,8 @@ Russ or his designated pastor appoints or removes primary leaders and instructor
 - **Why it matters:** People should receive compassionate care without leaders promising secrecy, acting beyond their role, or storing sensitive information in inappropriate systems.
 - **Formation relationship:** Faithful belonging requires safety, truth, accountability, and appropriate pastoral care.
 
+**Evidence update — August 10:** The [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|gap audit]] found an approved minimum boundary but no located church-wide policy set, named escalation contacts, approved incident/reporting path, role-specific misconduct process, home/location standard, or complete participant-data lifecycle. Absence from this repository does not prove that a church policy does not exist.
+
 ### Recommended minimum direction
 
 - Leaders do not promise absolute confidentiality.
@@ -83,7 +85,7 @@ Russ or his designated pastor appoints or removes primary leaders and instructor
 
 These recommendations are not a substitute for church policy, legal guidance, or mandated-reporting requirements.
 
-### Direction to record
+### Existing recorded direction
 
 - [ ] Governing policies identified
 - [ ] Primary and backup escalation contacts named
@@ -97,6 +99,53 @@ These recommendations are not a substitute for church policy, legal guidance, or
 **Direction / revisions:** We will continue to form governing policies, and confirm primary and backup escalation contacts in future meetings
 **Approver:** Russ
 **Date:** 08/05/26
+
+### Decisions to request at the next staff meeting
+
+#### 1. Governing sources and owners
+
+- [ ] For each relevant church-wide resource, record whether it exists, where the controlled version is maintained, who owns it, and whether it applies to Groups Ministry: safeguarding or child/vulnerable-person protection; staff or volunteer conduct; mandatory reporting; pastoral care and crisis response; emergency and incident response; privacy and records retention; screening/background checks; and home, facility, or transportation requirements.
+- [ ] Where a required resource does not exist, name the person authorized to prepare it, the required reviewer, and the approving authority. Do not create policy by filling a repository gap.
+
+#### 2. Escalation coverage
+
+- [ ] Name the primary and backup pastoral/safeguarding escalation contacts.
+- [ ] Confirm the approved route for immediate danger, suspected abuse, participant crisis or self-harm concern, medical emergency, leader misconduct—including a route when the normal recipient is implicated—Planning Center or data concerns, unsafe locations, and after-hours concerns where applicable. One approved role may cover multiple functions.
+- [ ] Confirm the access-controlled channel through which leaders receive names and contact details.
+
+#### 3. Mandatory-reporting authority
+
+- [ ] Name the authorized church leader and qualified legal or policy source responsible for determining applicable mandatory-reporting duties and keeping that guidance current.
+- [ ] Confirm that the internal church escalation process will be documented separately and will not be represented as replacing an applicable legal duty.
+
+#### 4. Care, misconduct, incident, and data implementation
+
+- [ ] Identify the owner and approval path for the pastoral handoff, crisis/emergency, leader allegation or misconduct, interim pause/removal, and follow-up procedures.
+- [ ] Identify the approved incident form or authorize its development, name the restricted record location, and assign access, notification, correction, retention, and review decisions.
+- [ ] Confirm who will decide applicant and participant fields, consent, permissions, access removal, correction, retention, deletion, exports, and data-issue response for Planning Center and any other approved system.
+
+#### 5. Current ministry applicability and readiness gate
+
+- [ ] Confirm whether minors, childcare, vulnerable participants, transportation, overnight activity, or alcohol or weapons rules apply to any current City Group, Collective, or Planted plan. Do not assume that a category applies merely because it appears in the audit.
+- [ ] Name the approver and minimum evidence required for a private home or other meeting location.
+- [ ] Confirm whether host/leader approval, operational safeguarding training, public listing, participant placement, and Planted's first meeting remain blocked until their applicable policy, contact, procedure, location, data, training, and final-readiness evidence is complete.
+
+#### 6. Minimum implementation package
+
+- [ ] After the decisions above are supplied, authorize Paul to assemble the proposed minimum package: controlled source links, role boundaries, contact card, short scenario escalation guide, incident-record link, required training segment, acknowledgment or completion record, and readiness evidence checklist.
+- [ ] Name the pastoral approver for the completed package and its role-specific use.
+
+- **Governing documents / owners:**
+- **Primary escalation:**
+- **Backup / after-hours escalation:**
+- **Mandatory-reporting authority or guidance owner:**
+- **Incident form and restricted system:**
+- **Current applicability decisions:**
+- **Home / location approver:**
+- **Implementation owner and pastoral approver:**
+- **Direction / revisions:**
+- **Approver:**
+- **Date:**
 
 ## PRO-027 — Active Offering Ownership and Readiness
 

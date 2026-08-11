@@ -33,7 +33,7 @@
 - [ ] Standardized interview format, records, and role-specific assessment details are confirmed.
 - [ ] Potential leaders are prayerfully identified and invited from within the Launch Team.
 - [ ] Character, theological alignment, relational trust, capacity, and teachability are considered.
-- [ ] Final appointment authority is confirmed.
+- [x] Russ or his designated pastor retains final appointment authority under DEC-027.
 - [ ] Approved and deferred candidates receive clear communication.
 
 ## Training and Assignment

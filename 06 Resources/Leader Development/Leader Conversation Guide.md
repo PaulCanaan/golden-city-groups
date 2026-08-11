@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Working standardized interview guide under the approved minimum standard.** DEC-027 establishes the governing standard, and DEC-031 assigns interviews and assessment to Paul. The suggested format, duration, questions, and records remain working guidance; this page does not authorize appointment.
+**Working interview guide; standardized format not yet approved.** DEC-027 establishes the governing minimum standard, and DEC-031 assigns interviews and assessment to Paul. The suggested format, duration, questions, and records remain working guidance; this page does not authorize appointment.
 
 DEC-026 confirms that Paul emails applicants to arrange interviews and communicate immediate next steps. DEC-031 names Paul as interview and assessment owner. Neither decision approves every question in this guide or gives Paul final appointment authority.
 

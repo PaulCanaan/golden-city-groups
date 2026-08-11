@@ -14,7 +14,7 @@ Group leadership is stewardship of people made in God's image. Boundaries serve 
 
 - Only explicitly appointed people are represented as group leaders.
 - Leaders operate within approved role descriptions, church beliefs, and pastoral oversight.
-- City Groups use approved sermon-based material and do not introduce unapproved speakers, curriculum, doctrinal claims, political campaigning, fundraising, or commercial promotion.
+- When City Groups use sermon-based material such as [[Weekly Recaps|Weekly Recap]], they use approved material and do not introduce unapproved speakers, curriculum, doctrinal claims, political campaigning, fundraising, or commercial promotion.
 - Training attendance, Launch Team participation, or a Planning Center role does not constitute appointment.
 
 ### Participant care

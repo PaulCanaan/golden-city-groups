@@ -51,8 +51,9 @@ For each branch, review current offering or launch status, leader or owner statu
 
 ## 5. Review Launch and Operations
 
+- [ ] Review and refresh [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] from source evidence; do not mark `Ready` without a supporting link and required approval.
 - [ ] Review upcoming Team Nights in [[07 Operations/Calendar|Calendar]] and [[01 Governance/Launch Roadmap|Launch Roadmap]].
-- [ ] Review launch-readiness items in [[Launch Checklist]] and [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]].
+- [ ] Reconcile detailed gates in [[Launch Checklist]] with the primary launch-control dashboard.
 - [ ] Test or verify approved Planning Center forms and workflows in [[Planning Center Groups]] and [[Forms]].
 - [ ] Review current messages, owners, and follow-up in [[Communication]].
 - [ ] Review leader preparation in [[Leader Training]] without treating participation as appointment.
@@ -116,5 +117,6 @@ Record only the minimum non-sensitive reference needed for follow-up. Put confid
 - **[[00 Dashboard/Inbox|Inbox]]:** temporary capture and triage.
 - **Weekly Review:** recurring review workflow and record.
 - **[[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]]:** current priorities, readiness, and operational status.
+- **[[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]:** primary Fall 2026 launch implementation, blocker, ownership, and risk control page.
 - **[[00 Dashboard/Staff Decision Brief|Staff Decision Brief]]:** matters requiring staff discussion or direction.
 - **[[00 Dashboard/Decision Log|Decision Log]]:** approved decisions and current governing direction.

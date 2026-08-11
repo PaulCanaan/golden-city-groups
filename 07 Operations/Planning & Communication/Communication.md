@@ -118,7 +118,7 @@ Golden City Church
 
 - [[Operation Overview]] — Communication is a core operations function.
 - [[Semester Planning]] — Communication plans are built during semester planning.
-- [[Weekly Recaps]] — Proposed future check-in practice, not a current launch channel.
+- [[Weekly Recaps]] — Optional City Group discussion resource, not a ministry communication channel.
 - [[05 Leadership/Group Leaders]] — Discerned and invited candidates receive training and assignment communication after Team Night follow-up.
 - [[Planning Center Groups]] — Governs Church Center visibility, enrollment, email, chat, and platform roles.
 - [[Forms]] — Defines Team Night interest and public participant intake paths.
