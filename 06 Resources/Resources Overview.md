@@ -31,6 +31,7 @@ Resources for discerning, preparing, and supporting approved leaders:
 - [[First Meetings Checklist]] — preparation before, during, and after a group's first gatherings
 - [[Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
 - [[Policies]] — approved minimum group boundaries with church-wide policy implementation still open
+- [[Safeguarding and Escalation Resource Gap Audit]] — evidence, policy-location, escalation, data, and launch-blocker audit for pastoral review
 
 Role authority, appointment, and expectations are governed by [[Leadership Overview]] and [[05 Leadership/Group Leaders]], not by these resources alone.
 
@@ -85,6 +86,7 @@ Original external source files remain outside this repository. Golden City resou
 | train an approved leader for a role | [[Leader Training]] |
 | develop leaders over time | [[CoJourner]] |
 | research a leader SOP | [[Resources Overview#Leader Resources and SOP Research Roadmap\|Leader Resources and SOP Research Roadmap]] |
+| review safeguarding and escalation gaps | [[Safeguarding and Escalation Resource Gap Audit]] |
 | prepare a new group's first gathering | [[First Meetings Checklist]] |
 | lead sermon-based discussion | [[Bible Study]] |
 | strengthen welcome and participation | [[Hospitality]] |

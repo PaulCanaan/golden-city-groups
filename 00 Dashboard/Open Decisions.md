@@ -67,6 +67,7 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 - **Blocking impact:** Launch-blocking where an approved minimum boundary requires an escalation path.
 - **Expected decision owner:** Russ or designated pastoral authority, with staff implementation support.
 - **Sources:** [[Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]], [[08 Archive/Decisions/Decision History#OQ-006 — Pastoral Care and Safeguarding|OQ-006]].
+- **Decision support:** [[01 Governance/Safeguarding and Escalation Decision Brief|Safeguarding and Escalation Decision Brief]]; evidence in [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]].
 
 ### Leader Resources and SOP Research
 
@@ -131,6 +132,7 @@ No unresolved curriculum approval is currently recorded for Planted: its curricu
 - [[Decision Log|Decision Log]] — canonical chronological decision register.
 - [[08 Archive/Decisions/Decision History|Decision History]] — canonical full records and historical open-question evidence.
 - [[Governance Index|Governance Index]] — browse approved decisions by domain, status, recency, and supersession.
+- [[Launch Readiness Dashboard|Launch Readiness Dashboard]] — operational implementation status, blockers, ownership, and risk; it does not resolve these questions.
 - [[Staff Decision Brief|Staff Decision Brief]] — active proposals and recorded staff direction.
 - [[Groups Ministry Dashboard|Groups Ministry Dashboard]] — current priorities and readiness.
 - [[01 Governance/Launch Roadmap|Launch Roadmap]] — launch sequence, dependencies, and readiness gates.
