@@ -6,9 +6,19 @@
 
 ## Review Metadata
 
-- **Week of:**
+- **Week of:** August 17, 2026
 - **Reviewed by:** Paul
 - **Review status:** Not Started / In Progress / Complete
+
+## Current Review Emphasis
+
+For the August 17–23 review, keep the working focus narrow:
+
+- [ ] Follow up with potential future group leaders from the August 11 Team Night and August 16 Interest Night.
+- [ ] Help each person connect to a known next step and continue relational support through the September 20 launch.
+- [ ] Prepare the August 25 Team Night to recruit additional potential City Group leaders and hosts.
+
+Current status and dependencies remain in the [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]] and [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]; do not reproduce them here.
 
 ## 1. Recenter
 
@@ -28,11 +38,12 @@ Golden City Church exists to see the city fully following Jesus by equipping peo
 
 ## 3. Review People and Follow-Up
 
-- [ ] Review new Planning Center leader-interest forms.
-- [ ] Confirm initial or confirmation emails have been sent as appropriate.
-- [ ] Confirm interviews have been scheduled.
+- [ ] Reconcile potential leaders from the August 11 Team Night and August 16 Interest Night in the approved system.
+- [ ] Review new Planning Center leader-interest forms and other approved interest records.
+- [ ] Confirm each person has received the appropriate acknowledgment or follow-up from the [[07 Operations/Planning & Communication/Communication#Reusable leader communication templates|leader communication templates]].
+- [ ] Confirm Group Leader Conversations have been scheduled where appropriate.
 - [ ] Record which interviews are complete in the approved operational system.
-- [ ] Identify applicants awaiting an immediate next step.
+- [ ] Identify potential leaders awaiting connection, support, or an immediate next step.
 - [ ] Identify follow-up requiring Russ or staff involvement.
 - [ ] Escalate pastoral care or safeguarding concerns through the approved restricted process.
 
@@ -52,7 +63,7 @@ For each branch, review current offering or launch status, leader or owner statu
 ## 5. Review Launch and Operations
 
 - [ ] Review and refresh [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] from source evidence; do not mark `Ready` without a supporting link and required approval.
-- [ ] Review upcoming Team Nights in [[07 Operations/Calendar|Calendar]] and [[01 Governance/Launch Roadmap|Launch Roadmap]].
+- [ ] Review the completed August 11 Team Night and August 16 Interest Night follow-up, then prepare the August 25 Team Night in [[07 Operations/Calendar|Calendar]] and [[01 Governance/Launch Roadmap|Launch Roadmap]].
 - [ ] Reconcile detailed gates in [[Launch Checklist]] with the primary launch-control dashboard.
 - [ ] Test or verify approved Planning Center forms and workflows in [[Planning Center Groups]] and [[Forms]].
 - [ ] Review current messages, owners, and follow-up in [[Communication]].
@@ -97,6 +108,9 @@ Record only the minimum non-sensitive reference needed for follow-up. Put confid
 
 | Priority | Owner | Due | Related Page | Status |
 |---|---|---|---|---|
+| Contact, connect, and support potential future group leaders from August 11 and 16. | Paul | Immediate and ongoing through September 20 | [[00 Dashboard/Launch Readiness Dashboard#D. Leader Interviews and Assessment\|Leader Interviews and Assessment]] | In Progress |
+| Schedule Group Leader Conversations and give each potential leader a known next step. | Paul | Before August 25; ongoing afterward | [[06 Resources/Leader Development/Leader Conversation Guide\|Leader Conversation Guide]] | In Progress |
+| Prepare and test the August 25 Team Night recruitment and follow-up workflow. | Paul | August 25 | [[00 Dashboard/Launch Readiness Dashboard#C. Team Night Execution\|Team Night Execution]] | In Progress |
 
 ## 10. Review Completion
 

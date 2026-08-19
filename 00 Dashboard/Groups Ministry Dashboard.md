@@ -2,7 +2,7 @@
 
 ## Dashboard Status
 
-**Operational summary; not a governing decision record.** Last reviewed **August 6, 2026** from the [[00 Dashboard/Decision Log|Decision Log]], [[08 Archive/Decisions/Decision History|Decision History]], [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]], and [[01 Governance/Launch Roadmap|Launch Roadmap]]. Update those sources before updating this dashboard when direction changes.
+**Operational summary; not a governing decision record.** Last reviewed **August 17, 2026** from the [[00 Dashboard/Decision Log|Decision Log]], [[08 Archive/Decisions/Decision History|Decision History]], [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]], [[01 Governance/Launch Roadmap|Launch Roadmap]], and Paul's August 17 timeline update. Update governing sources before this dashboard when approved direction changes.
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
@@ -26,17 +26,22 @@ The Inbox captures; the Weekly Review reconciles; this Dashboard reports current
 | Item | Current status |
 |---|---|
 | Public church launch | **September 20, 2026 — confirmed** |
-| Current phase | Launch Team leader follow-up, discernment, and operational preparation |
-| Next confirmed ministry milestone | **Team Night — August 11, 2026** |
+| Current phase | Potential leader communication, connection, support, and August 25 recruitment preparation |
+| Most recent milestones | **Team Night — August 11; final pre-launch Interest Night — August 16** |
+| Next confirmed ministry milestone | **Team Night — August 25, 2026** |
 | Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
 | Planted October 6 readiness | **At Risk** — see [[00 Dashboard/Launch Readiness Dashboard#J. Planted Operational Readiness\|Planted Operational Readiness]] |
 | Ministry architecture | City Groups — do life; Collectives — grow together; Bible Clubs — study the Word |
-| Operational authority | Paul serves as Ministry Director and owns Team Night leader-interest intake, Planning Center form intake, and initial applicant follow-up |
+| Paul's focus through September 20 | Communicate with potential future group leaders, help each person connect to an appropriate next step, and provide ongoing support without implying appointment |
 | Final readiness authority | Russ or a pastor explicitly designated by Russ |
 
 ## Next Actions
 
-Launch-critical actions, owners, dependencies, and targets are maintained in [[00 Dashboard/Launch Readiness Dashboard#Immediate Priorities|Launch Readiness Dashboard — Immediate Priorities]]. Longer-term CoJourner and resource-development work remains visible here only when it affects current ministry priorities.
+- Follow up with potential leaders from the August 11 Team Night and August 16 Interest Night so each person has a known next step.
+- Prepare the August 25 Team Night to recruit additional City Group leaders and hosts through the approved interest workflow.
+- Continue relational communication, connection, and support through the September 20 church launch while keeping discernment, training, appointment, and readiness boundaries clear.
+
+Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboard/Launch Readiness Dashboard#Immediate Priorities|Launch Readiness Dashboard — Immediate Priorities]].
 
 ## Approved Leader-Interest Intake
 

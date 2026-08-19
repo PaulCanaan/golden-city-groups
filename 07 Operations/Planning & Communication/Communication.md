@@ -62,7 +62,7 @@ Do not reintroduce superseded percentage-based definitions. Run Club, Youth City
 
 **Status:** Working implementation copy aligned with DEC-026 and the DEC-040 Fall 2026 host-recruitment objective. The decisions approve Paul's intake and follow-up responsibilities, not this exact wording or the unresolved interview format and duration.
 
-**Source note:** Consolidated on August 1, 2026 from four Inbox captures whose original dates and sources were not recorded. The two captured applicant emails and the previous follow-up template were combined below to avoid competing versions.
+**Source note:** Consolidated on August 1, 2026 from four Inbox captures whose original dates and sources were not recorded. The Team Night invitation and Planning Center confirmation remain below. Stage-specific applicant and leader messages are maintained as separate templates.
 
 ### Team Night leader-interest invitation
 
@@ -84,28 +84,12 @@ For Fall 2026, invite Launch Team members to explore hosting City Groups. Do not
 >
 > Submitting this form begins a conversation—it does not confirm a leadership appointment or group assignment. We're grateful for your willingness to explore how God may use you to help people belong, behold Jesus, and become more like him.
 
-### Applicant follow-up and interview invitation
+### Reusable leader communication templates
 
-**Owner:** Paul
-**Subject:** Golden City Groups leader-interest next step
-
-Hi [First Name],
-
-Thank you for expressing interest in hosting a City Group at Golden City Church. I've received your Planning Center form and appreciate your willingness to explore serving through Groups Ministry.
-
-I'd like to arrange a conversation so we can learn more about your story, your connection with Golden City Church, your leadership experience and spiritual formation, and the ministry environment in which you may be interested in serving. We will also explain the possible next steps in the leadership process.
-
-Please reply with a few times that work well for you, or use this approved scheduling link: [link]. Plan for [approved duration].
-
-The interest form and interview begin a discernment conversation; they do not confirm placement, assignment, or appointment. Paul owns interviews and assessment under DEC-031. The format, duration, records, role-specific assessment details, and final approval process remain subject to PRO-029 and DEC-027.
-
-Thank you again for your willingness to serve and help others find community, grow through Scripture, and follow Jesus.
-
-Paul
-
-Ministry Director, Groups Ministry
-
-Golden City Church
+- [[Leader Communication Templates/Leader Interest Acknowledgment|Leader Interest Acknowledgment]]
+- [[Leader Communication Templates/Group Leader Conversation Invitation|Group Leader Conversation Invitation]]
+- [[Leader Communication Templates/Candidate Next-Step Invitation|Candidate Next-Step Invitation]]
+- [[Leader Communication Templates/Groups Ministry Leader Welcome|Groups Ministry Leader Welcome]]
 
 ## Schedule
 

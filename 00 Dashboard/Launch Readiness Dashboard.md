@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Primary operational launch-control page; not a canonical governance record.** Last reviewed **August 10, 2026**. Approved direction remains governed by the [[Decision Log|Decision Log]] and [[08 Archive/Decisions/Decision History|Decision History]]. Unresolved governance questions remain organized in [[Open Decisions|Open Decisions]]. This dashboard tracks implementation evidence, dependencies, ownership, risk, and next actions only.
+**Primary operational launch-control page; not a canonical governance record.** Last reviewed **August 17, 2026**. Approved direction remains governed by the [[Decision Log|Decision Log]] and [[08 Archive/Decisions/Decision History|Decision History]]. Unresolved governance questions remain organized in [[Open Decisions|Open Decisions]]. This dashboard tracks implementation evidence, dependencies, ownership, risk, and next actions only.
 
 Do not record applicant names, participant information, interview notes, screening details, safeguarding reports, or pastoral narratives here. Those belong in the approved restricted church system.
 
@@ -24,13 +24,14 @@ Do not record applicant names, participant information, interview notes, screeni
 
 | Launch track | Overall status | Major progress | Top blockers | Next critical action | Russ decision or action | Paul action |
 |---|---|---|---|---|---|---|
-| September 20 church launch / Fall City Groups readiness | **Blocked** | Launch Team pipeline, August intake ownership, minimum leader standard, minimum care boundaries, ministry ownership, and fall host-recruitment objective are approved. | No appointed City Group hosts or leaders, locations, capacities, approved interview/training implementation, escalation contacts, participant path, tested listings, or final readiness approval are recorded. | Prepare and execute the August 11 Team Night workflow while bringing the safety, interview, offering-readiness, and system decisions to staff. | Name policies and escalation contacts; complete offering, leader-process, system, appointment, and final-readiness decisions. | Reconcile July 28, prepare August 11 intake, follow up applicants, prepare interviews, and maintain the operational tracker. |
+| September 20 church launch / Fall City Groups readiness | **Blocked** | The August 11 Team Night and August 16 final pre-launch Interest Night have occurred; the Launch Team pipeline, August intake ownership, minimum leader standard, minimum care boundaries, ministry ownership, and fall host-recruitment objective are approved. | No appointed City Group hosts or leaders, locations, capacities, approved interview/training implementation, escalation contacts, participant path, tested listings, or final readiness approval are recorded. | Follow up and support potential leaders from August 11 and 16 while preparing the August 25 Team Night to recruit additional leaders and hosts. | Name policies and escalation contacts; complete offering, leader-process, system, appointment, and final-readiness decisions. | Keep each potential leader connected to a known next step, schedule conversations, prepare August 25 recruitment, and maintain the operational tracker. |
 | October 6 Planted Bible Club | **At Risk** | Twelve-week model, October 6 start, Paul as leader, curriculum review, and required-materials review are confirmed; Notion publishing is underway. | Location, full calendar, capacity, support role, participant path, Church Center testing, communication, and final readiness approval remain open. | Confirm a location and build the complete operating-readiness plan separately from Notion publishing. | Participate in location/readiness decisions and provide final approval with Paul. | Finish Notion publishing and prepare location, calendar, capacity, registration, support, communication, and system details. |
 
 **Scope correction:** September 20 is the confirmed Golden City Church public launch date. It is not a confirmed City Group start date. City Groups may begin only after their readiness gates are complete and a start window is approved. Planted retains its separate confirmed October 6 start date, subject to final readiness.
 
 ### Major Progress
 
+- The August 11 Team Night and August 16 final pre-launch Interest Night have occurred; execution and follow-up details still require reconciliation in the approved system.
 - DEC-026 confirms Paul's August Team Night form-intake and initial follow-up workflow.
 - DEC-027 confirms the minimum leader, host, and instructor standard.
 - DEC-028 confirms minimum care, safeguarding, confidentiality, and participant-data boundaries.
@@ -56,8 +57,9 @@ Do not record applicant names, participant information, interview notes, screeni
 | Date | Milestone | Current interpretation | Readiness implication |
 |---|---|---|---|
 | July 28, 2026 | Team Night | Historical confirmed opportunity; repository evidence does not record execution or reconciliation. | Reconcile any interest and follow-up before the next Team Night. |
-| August 11, 2026 | Team Night | Confirmed leader-interest and preparation opportunity with approved August intake ownership. | Immediate preparation deadline. |
-| August 25, 2026 | Team Night | Confirmed final scheduled pre-launch Team Night opportunity. | Repeat the approved workflow and close gaps found on August 11. |
+| August 11, 2026 | Team Night | Completed event; detailed execution and follow-up are not recorded in this repository. | Reconcile interest and ensure each potential leader has a known next step. |
+| August 16, 2026 | Interest Night | Completed final Interest Night before public launch, as reported by Paul on August 17. | Reconcile potential leader interest and continue personal follow-up and support. |
+| August 25, 2026 | Team Night | Next and final scheduled pre-launch Team Night opportunity. | Recruit additional potential leaders and hosts, repeat the approved workflow, and close gaps found in prior events. |
 | September 20, 2026 | Golden City Church public launch | Confirmed church launch; not an automatic City Group start date. | Participant-facing Groups information must be truthful and route only to approved next steps. |
 | October 6, 2026 | Planted begins | Confirmed first Tuesday start for the twelve-week Bible Club, subject to final readiness. | Location, calendar, registration, support, communication, and approval must be complete first. |
 
@@ -76,14 +78,15 @@ Do not record applicant names, participant information, interview notes, screeni
 
 | Priority | Action | Owner | Target | Dependency / evidence |
 |---:|---|---|---|---|
-| 1 | Reconcile July 28 Team Night interest, form submissions, confirmation delivery, applicant follow-up, and unresolved cases in the approved system. | Paul | Before August 11 | No completion evidence is recorded; [[07 Operations/Forms\|Forms]]. |
-| 2 | Verify the August 11 invitation, form/QR access, confirmation message, Paul's on-site role, and post-event reconciliation plan. | Paul | August 11 | Workflow approved; implementation testing not evidenced; [[Communication#Leader-Interest Communication Kit\|Communication Kit]]. |
-| 3 | Name backup coverage for Team Night intake and applicant follow-up. | Russ with Paul | Before August 11 | Open under [[Open Decisions#Participant Paths and Data Governance\|Participant Paths and Data Governance]]. |
-| 4 | Identify governing policy locations and primary and backup escalation contacts. | Russ with Paul | Next staff review; before training or readiness approval | Launch-blocking under [[Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data\|PRO-026]]. |
-| 5 | Approve the minimum interview format, recordkeeping method, assessment implementation, and candidate disposition process. | Paul prepares; Russ approves appointment boundary | Before interviews advance to training | [[Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan\|PRO-029]]. |
-| 6 | Confirm which City Group host/leader prospects can proceed toward approved assignments without recording sensitive details here. | Paul with staff | Begin before August 11; reconcile after each Team Night | No candidate or assignment completion evidence is recorded. |
-| 7 | Define the City Group participant path and the minimum Planning Center settings and test plan. | Russ; Paul backup | Before public promotion or enrollment | Launch-blocking under [[Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance\|PRO-030]]. |
-| 8 | Confirm a Planted location search owner and next decision date while continuing Notion publishing. | Paul and Russ | Within 7–14 days | Location is explicitly unresolved; [[Planted. Bible Study#Remaining Readiness Needs\|Planted readiness]]. |
+| 1 | Reconcile potential leaders from the August 11 Team Night and August 16 Interest Night in the approved system, with each person at a known next step. | Paul | Immediate; before August 25 | Event occurrence is confirmed, but follow-up completion is not recorded; [[07 Operations/Forms\|Forms]]. |
+| 2 | Communicate with potential future group leaders, schedule Group Leader Conversations, help them connect, and provide ongoing support without promising appointment. | Paul | Ongoing through September 20 | [[Communication#Reusable leader communication templates\|Leader communication templates]] and [[06 Resources/Leader Development/Leader Conversation Guide\|Leader Conversation Guide]]. |
+| 3 | Verify the August 25 invitation, form/QR access, confirmation messages, Paul's on-site role, and post-event reconciliation plan. | Paul | August 25 | Workflow approved; current implementation testing not evidenced; [[Communication#Leader-Interest Communication Kit\|Communication Kit]]. |
+| 4 | Name backup coverage for Team Night intake and applicant follow-up. | Russ with Paul | Before August 25 | Open under [[Open Decisions#Participant Paths and Data Governance\|Participant Paths and Data Governance]]. |
+| 5 | Identify governing policy locations and primary and backup escalation contacts. | Russ with Paul | Next staff review; before training or readiness approval | Launch-blocking under [[Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data\|PRO-026]]. |
+| 6 | Approve the minimum interview format, recordkeeping method, assessment implementation, and candidate disposition process. | Paul prepares; Russ approves appointment boundary | Before interviews advance to training | [[Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan\|PRO-029]]. |
+| 7 | Confirm which City Group host/leader prospects can proceed toward approved assignments without recording sensitive details here. | Paul with staff | Reconcile after each contact and after August 25 | No candidate or assignment completion evidence is recorded. |
+| 8 | Define the City Group participant path and the minimum Planning Center settings and test plan. | Russ; Paul backup | Before public promotion or enrollment | Launch-blocking under [[Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance\|PRO-030]]. |
+| 9 | Confirm a Planted location search owner and next decision date while continuing Notion publishing. | Paul and Russ | Within 7–14 days | Location is explicitly unresolved; [[Planted. Bible Study#Remaining Readiness Needs\|Planted readiness]]. |
 
 ## A. Governance and Pastoral Approval
 
@@ -103,36 +106,37 @@ Do not record applicant names, participant information, interview notes, screeni
 | Deliverable or readiness requirement | Status | Evidence or source | Owner | Next action | Due / target | Blocking dependency | Approval required | Notes |
 |---|---|---|---|---|---|---|---|---|
 | August leader-interest workflow and Paul's intake ownership | **Ready** | [[08 Archive/Decisions/Decision History#DEC-026 — August Team Night Leader-Interest Intake Workflow\|DEC-026]] | Paul | Execute and reconcile after each Team Night. | August 11 and 25 | — | Recorded | Workflow approval does not prove each submission was processed. |
-| Leader-interest form and on-site QR/access test | **At Risk** | [[07 Operations/Forms#Internal City Group leader interest\|Forms]] | Paul | Test the exact form and access path as a user. | Before August 11 | No test evidence or backup recorded | No new decision for testing; settings may require approval | Do not claim the form is launch-tested. |
+| Leader-interest form and on-site QR/access test | **At Risk** | [[07 Operations/Forms#Internal City Group leader interest\|Forms]] | Paul | Test the exact form and access path as a user. | Before August 25 | No test evidence or backup recorded | No new decision for testing; settings may require approval | Do not claim the form is launch-tested. |
 | Form routing and Paul admin receipt | **Ready** | [[Planning Center Groups#1. Establish ownership\|Planning Center ownership]] | Paul | Verify actual delivery after each event. | After each Team Night | Backup coverage open | Recorded for Paul | Exact least-privilege boundary remains open. |
-| Confirmation and applicant follow-up messaging | **In Progress** | [[Communication#Leader-Interest Communication Kit\|Communication Kit]] | Paul | Review placeholders, approve the usable version, and test delivery. | Before August 11 | Duration, scheduling link, and approval unresolved | Working copy requires operational confirmation | Exact wording is not a governance decision. |
+| Confirmation and applicant follow-up messaging | **In Progress** | [[Communication#Reusable leader communication templates\|Leader templates]] | Paul | Select the appropriate stage-specific message, complete placeholders, and test delivery. | Ongoing; verify before August 25 | Duration, scheduling details, and operational review remain unresolved | Working copy requires operational confirmation | Exact wording is not a governance decision. |
 | Applicant status and interview records | **Blocked** | [[Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan\|PRO-029]] | Paul | Define the minimum approved status/outcome record and restricted location. | Before interviews are recorded | Fields, consent, retention, privacy, and assessment method | **Russ / pastoral where required** | No applicant data belongs here. |
 | Group types and current three-branch taxonomy | **At Risk** | [[Planning Center Groups#Current Fall 2026 Context\|Planning Center snapshot]] | Paul with Russ | Reconcile the observed `Classes` type and current records with DEC-034 before publication. | Before building public groups | Approved type/settings review | Russ owns public system | July 27 snapshot predates the three-branch decision. |
 | Draft City Group records and leader/host assignments | **Not Started** | [[Launch Plan#Planning Center Implementation\|Launch Plan]] | Paul after appointments | Build only approved groups; keep provisional records closed/unlisted. | After assignment; before testing | No approved groups, leaders, hosts, locations, or capacities | Final listing approval required | Technical records cannot create readiness. |
 | Public participant listings and join flow | **Blocked** | [[Open Decisions#Participant Paths and Data Governance\|Open Decisions]] | Russ; Paul backup | Approve offering-specific destinations, enrollment modes, owners, and responses. | Before public promotion | PRO-027 and PRO-030 | **Russ** | No City Group public path is evidenced. |
 | Permissions, privacy, consent, retention, chat, and event-note settings | **Blocked** | [[Planning Center Groups#Approval Gates\|Planning Center approval gates]] | Russ with Paul | Approve minimum settings and test with non-admin access. | Before leader access or registration | Policy, data, and system decisions | **Russ / pastoral** | Minimum boundaries exist; implementation settings do not. |
 | End-to-end mobile/desktop, notification, capacity, and failure-path testing | **Not Started** | [[07 Operations/Forms#Pre-Publication Test\|Pre-Publication Test]] | Paul with assigned owner/backup | Test after approved records and settings exist. | Before publication | Listings, settings, owners, and paths | Final readiness approval after testing | No completed test evidence is recorded. |
-| Backup ownership and response coverage | **Blocked** | [[Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance\|PRO-030]] | Russ | Name leader-interest backup and offering-specific notification backup. | Before August 11 for leader intake; before registration for participants | Human coverage decision | **Russ** | Paul is public-system backup, but specific workflow backup remains open. |
+| Backup ownership and response coverage | **Blocked** | [[Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance\|PRO-030]] | Russ | Name leader-interest backup and offering-specific notification backup. | Before August 25 for leader intake; before registration for participants | Human coverage decision | **Russ** | Paul is public-system backup, but specific workflow backup remains open. |
 
 ## C. Team Night Execution
 
 | Deliverable or readiness requirement | Status | Evidence or source | Owner | Next action | Due / target | Blocking dependency | Approval required | Notes |
 |---|---|---|---|---|---|---|---|---|
-| July 28 Team Night execution and reconciliation | **At Risk** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul with staff | Record whether invitation, form access, interest capture, confirmation, and follow-up occurred in the approved systems. | Before August 11 | Historical execution evidence absent | No new decision | Date is historical; scheduled does not mean completed. |
-| August 11 Team Night operational pack | **At Risk** | [[Group Launch Overview#Fall 2026 Sequence\|Launch sequence]] | Paul | Verify invitation, form/QR, explanation, confirmation, follow-up, and reconciliation steps. | August 11 | Testing, backup, and exact working copy incomplete | Existing workflow governs | Confirmed opportunity, not proof of readiness. |
-| August 25 Team Night operational pack | **In Progress** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul | Reuse only verified August 11 materials and correct observed gaps. | August 25 | August 11 execution and review | Existing workflow governs | Preserve as future confirmed date. |
-| City Group host-interest invitation | **In Progress** | [[Communication#Team Night leader-interest invitation\|Working invitation]] | Paul with staff | Review for truthful host language and remove placeholders. | Before August 11 | Working copy not formally approved | Operational review | Interest must not imply approval or location readiness. |
-| On-site explanation and Paul's point-person role | **Ready** | [[08 Archive/Decisions/Decision History#DEC-026 — August Team Night Leader-Interest Intake Workflow\|DEC-026]] | Paul | Deliver the approved role explanation. | August 11 and 25 | — | Recorded | Paul may help with form access and next steps. |
-| Form/QR access and backup | **Blocked** | [[07 Operations/Forms#Internal City Group leader interest\|Forms]] | Paul; backup unassigned | Test access and name backup coverage. | Before August 11 | Backup and test evidence | **Russ for backup** | QR code existence is not evidenced. |
+| July 28 Team Night execution and reconciliation | **At Risk** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul with staff | Record whether invitation, form access, interest capture, confirmation, and follow-up occurred in the approved systems. | Overdue; before August 25 | Historical execution evidence absent | No new decision | Date is historical; scheduled does not mean completed. |
+| August 11 Team Night execution and reconciliation | **At Risk** | [[Group Launch Overview#Fall 2026 Sequence\|Launch sequence]] | Paul | Reconcile interest capture, confirmations, follow-up, and lessons for August 25 in the approved system. | Immediate; before August 25 | Detailed execution evidence absent from the repository | Existing workflow governs | The event occurred; that alone does not prove each workflow step was completed. |
+| August 16 Interest Night follow-through | **At Risk** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul | Reconcile potential leader interest and ensure each person has a known next step. | Immediate; before August 25 | Follow-up completion is not recorded | Existing discernment and appointment boundaries govern | Final Interest Night before public launch; not a leadership appointment event. |
+| August 25 Team Night operational pack | **In Progress** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul | Prepare the invitation, form access, on-site explanation, confirmation, and follow-up plan to recruit additional potential leaders and hosts. | August 25 | Review of prior-event gaps and current workflow testing | Existing workflow governs | Next recruitment focus. |
+| City Group host-interest invitation | **In Progress** | [[Communication#Team Night leader-interest invitation\|Working invitation]] | Paul with staff | Review for truthful host language and remove placeholders. | Before August 25 | Working copy not formally approved | Operational review | Interest must not imply approval or location readiness. |
+| On-site explanation and Paul's point-person role | **Ready** | [[08 Archive/Decisions/Decision History#DEC-026 — August Team Night Leader-Interest Intake Workflow\|DEC-026]] | Paul | Deliver the approved role explanation. | August 25 | — | Recorded | Paul may help with form access and next steps. |
+| Form/QR access and backup | **Blocked** | [[07 Operations/Forms#Internal City Group leader interest\|Forms]] | Paul; backup unassigned | Test access and name backup coverage. | Before August 25 | Backup and test evidence | **Russ for backup** | QR code existence is not evidenced. |
 | Form confirmation and applicant follow-up | **In Progress** | [[Communication#Planning Center form confirmation\|Confirmation copy]] | Paul | Verify automatic/manual delivery and reconcile every submission. | Same day / after each Team Night; response standard unapproved | System routing and response standard | Russ for response standard | No completion records are present here. |
-| Attendance or interest capture and post-event reconciliation | **Not Started** | [[Launch Checklist#Team Night Follow-Through\|Launch Checklist]] | Paul with staff | Define a privacy-conscious reconciliation step and complete it after each event. | After August 11 and 25 | Record method unresolved | May require PRO-029/030 decisions | Do not store personal data in this dashboard. |
+| Attendance or interest capture and post-event reconciliation | **Not Started** | [[Launch Checklist#Team Night Follow-Through\|Launch Checklist]] | Paul with staff | Define a privacy-conscious reconciliation step and complete it for past events and after August 25. | Immediate and after August 25 | Record method unresolved | May require PRO-029/030 decisions | Do not store personal data in this dashboard. |
 
 ## D. Leader Interviews and Assessment
 
 | Deliverable or readiness requirement | Status | Evidence or source | Owner | Next action | Due / target | Blocking dependency | Approval required | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Candidate list in approved restricted system | **Not Started** | [[05 Leadership/Group Leaders#Current Selection Sequence\|Selection sequence]] | Paul | Reconcile form submissions and candidate next steps outside this repository. | Begin before August 11; update after each Team Night | Form reconciliation and approved record method | No public approval; privacy rules apply | No candidate list is evidenced here. |
-| Applicant invitation and scheduling workflow | **In Progress** | [[Communication#Applicant follow-up and interview invitation\|Interview invitation]] | Paul | Replace placeholders and begin/continue scheduling. | After each submission | Format, duration, scheduling link, response standard | Operational confirmation | Ownership is approved; execution is not evidenced. |
+| Candidate list in approved restricted system | **Not Started** | [[05 Leadership/Group Leaders#Current Selection Sequence\|Selection sequence]] | Paul | Reconcile form submissions and candidate next steps outside this repository. | Immediate; update after August 25 | Form reconciliation and approved record method | No public approval; privacy rules apply | No candidate list is evidenced here. |
+| Applicant invitation and scheduling workflow | **In Progress** | [[07 Operations/Planning & Communication/Leader Communication Templates/Leader Interest Acknowledgment\|Leader Interest Acknowledgment]] and [[07 Operations/Planning & Communication/Leader Communication Templates/Group Leader Conversation Invitation\|Conversation Invitation]] | Paul | Continue personal follow-up and scheduling with the appropriate stage-specific template. | After each submission or expression of interest | Format, duration, scheduling details, response standard | Operational confirmation | Ownership is approved; execution is not evidenced. |
 | Standardized interview procedure | **Blocked** | [[Open Decisions#Leader Interview, Assessment, Training, Appointment, and Commissioning\|Open Decisions]] | Paul prepares | Submit minimum format, duration, participants, and outcome flow for approval. | Before interviews become the basis for training/placement | PRO-029 | **Russ / pastoral boundary** | A working guide exists but is not approved as the standard. |
 | Interview guide | **In Progress** | [[Leader Conversation Guide\|Leader Conversation Guide]] | Paul | Review questions against the approved standard and privacy boundary. | Before standardized interviews | Procedure approval | Operational/pastoral review | Do not invent a scoring rubric. |
 | Role-specific assessment criteria | **Blocked** | [[Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan\|PRO-029]] | Paul with Russ | Define only the minimum criteria needed for host/leader disposition. | Before training invitation | Host role and assessment details unresolved | **Russ / pastoral** | DEC-027 supplies the shared baseline, not a rubric. |
@@ -177,7 +181,7 @@ Do not record applicant names, participant information, interview notes, screeni
 | Deliverable or readiness requirement | Status | Evidence or source | Owner | Next action | Due / target | Blocking dependency | Approval required | Notes |
 |---|---|---|---|---|---|---|---|---|
 | Location-based City Group launch model | **Ready** | [[City Groups Overview#Ministry Emphasis\|City Groups model]] | Paul within confirmed direction | Use the model in discernment and planning. | Ongoing | — | Recorded under DEC-034–035 | Does not approve a specific group. |
-| Prospective host/leader pool | **Not Started** | [[05 Leadership/Hosts\|Hosts]] | Paul | Reconcile interest in the approved restricted system. | Begin before August 11; update after each Team Night | Submission/reconciliation evidence absent | Appointment later required | No names belong here. |
+| Prospective host/leader pool | **In Progress** | [[05 Leadership/Hosts\|Hosts]] | Paul | Reconcile interest, communicate with each potential leader, and keep next steps current in the approved restricted system. | Ongoing through September 20; update after August 25 | Submission/reconciliation evidence absent from this repository | Appointment later required | No names belong here. |
 | Geographic community selection | **Not Started** | [[City Groups Overview#Community Scaffolding\|Community scaffolding]] | Russ and Paul | Select communities only after candidate, location, and pastoral-fit evidence exists. | Before assignments | Hosts/leaders and readiness | Staff/pastoral as applicable | All nine city pages are planning scaffolds. |
 | Primary leaders and hosts | **Blocked** | [[Staff Decision Brief#PRO-027 — Active Offering Ownership and Readiness\|PRO-027]] | Russ and Paul | Discern, approve, and record appointments. | Before preparation/assignment is represented as final | Interviews, assessment, policies, and people | **Russ / designated pastor** | None are recorded. |
 | Group assignments | **Not Started** | [[Launch Plan#Launch Sequence\|Launch Plan]] | Staff | Match only approved leaders, hosts, communities, and capacity. | After discernment/training | Leaders, hosts, and locations | Readiness/appointment authority | No assignments are recorded. |
@@ -269,7 +273,7 @@ Likelihood values are operational judgments from current repository evidence. Ro
 
 | Risk | Likelihood | Impact | Current mitigation | Owner | Trigger or warning sign | Contingency | Related decision or source |
 |---|---|---|---|---|---|---|---|
-| Insufficient approved City Group hosts | Unknown | High | Launch Team recruitment focus and two remaining Team Nights | Paul with staff | Few or no candidates advance through discernment | Launch only the small number of groups that complete readiness; do not activate scaffolds | **Operational inference** from [[05 Leadership/Hosts\|Hosts]] and DEC-040 |
+| Insufficient approved City Group hosts | Unknown | High | Launch Team recruitment focus and the remaining August 25 Team Night | Paul with staff | Few or no candidates advance through discernment | Launch only the small number of groups that complete readiness; do not activate scaffolds | **Operational inference** from [[05 Leadership/Hosts\|Hosts]] and DEC-040 |
 | Interviews or follow-up do not keep pace with Team Night interest | Possible | High | Paul owns intake, follow-up, interviews, and assessment | Paul | Unreconciled submissions or applicants without a scheduled next step | Escalate capacity and timing at staff review; no alternate process is approved | **Operational inference** from DEC-026, DEC-031, and [[Launch Checklist#Team Night Follow-Through\|checklist]] |
 | Safeguarding policy or escalation contacts remain missing | Present | High | Minimum DEC-028 boundaries are approved | Russ with Paul | Training or group plan cannot name the governing process and contacts | Do not mark affected leaders, homes, or offerings ready | [[Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data\|PRO-026]] |
 | Planning Center configuration or testing is delayed | Possible | High | Platform guidance and pre-publication checklist exist | Russ; Paul backup | Paths, owners, settings, or non-admin tests remain incomplete near promotion | Keep listings closed/unlisted and delay enrollment | **Operational inference** from [[Planning Center Groups#Approval Gates\|Approval Gates]] |
@@ -282,23 +286,24 @@ Likelihood values are operational judgments from current repository evidence. Ro
 
 ## This Week
 
-Current operating week: **August 6–12, 2026**.
+Current operating week: **August 17–23, 2026**.
 
-- [ ] Reconcile July 28 leader interest and follow-up in the approved system.
-- [ ] Test the exact August 11 form/QR access and Paul receipt path.
-- [ ] Remove placeholders from the Team Night invitation, confirmation, and applicant email before use.
+- [ ] Reconcile potential leaders from the August 11 Team Night and August 16 Interest Night in the approved system.
+- [ ] Contact each potential future group leader, help the person connect to a known next step, and continue relational support.
+- [ ] Schedule or continue Group Leader Conversations without promising appointment.
+- [ ] Prepare and test the August 25 invitation, form/QR access, Paul receipt path, confirmation, and follow-up workflow.
+- [ ] Complete placeholders in the stage-specific leader communication templates before use.
 - [ ] Name backup coverage for on-site intake and immediate applicant follow-up.
 - [ ] Prepare a privacy-conscious post-Team Night reconciliation step.
 - [ ] Bring policies, escalation contacts, offering readiness, interview implementation, and participant-system decisions to staff.
-- [ ] Begin or continue scheduling applicant conversations without promising appointment.
 - [ ] Assign a concrete next step and decision date for the Planted location search.
 
 ## Next Review
 
 Paul and Russ should review:
 
-1. What actually happened on July 28, and is every applicant at a known next step?
-2. Is the August 11 form/QR, confirmation, intake owner, backup, and reconciliation process tested?
+1. Is every potential leader from the August 11 Team Night and August 16 Interest Night connected, supported, and at a known next step?
+2. Is the August 25 invitation, form/QR, confirmation, intake owner, backup, and reconciliation process ready?
 3. Which governing church policies apply, and who are the primary and backup escalation contacts?
 4. What minimum interview, assessment, outcome record, training, and appointment implementation will govern candidates?
 5. Which proposed City Groups, if any, have enough evidence to continue toward assignment?
@@ -308,6 +313,8 @@ Paul and Russ should review:
 
 ## Recently Completed
 
+- August 11 Team Night occurred; detailed execution and follow-up remain to be reconciled in the approved system.
+- August 16 final pre-launch Interest Night occurred; potential leader follow-up is now part of Paul's launch focus.
 - Safeguarding and escalation evidence, policy-location gaps, scenarios, data boundaries, and launch-critical minimum audited on August 10; no policy or contacts were approved by the audit.
 - Minimum leader, host, and instructor standard approved under DEC-027.
 - Minimum care, safeguarding, confidentiality, and participant-data boundaries approved under DEC-028.
