@@ -33,6 +33,8 @@ Listen prayerfully for a person's story, faith, character, availability, alignme
 
 ## Suggested Questions
 
+Use the detailed [[07 Operations/Planning & Communication/Group Leader Conversation Questions|Group Leader Conversation Questions]] as an operational prompt bank. The questions below remain a shorter core set; neither list is an approved scoring rubric.
+
 1. How did you become connected with Golden City Church, and what has your experience on the Launch Team been like?
 2. Tell me about your relationship with Jesus and how you are currently growing in faith.
 3. What draws you toward helping people belong, behold Christ, and become more like him through a City Group?
@@ -64,6 +66,7 @@ Record the outcome and owner. Do not place narrative discernment notes, referenc
 
 ## Connections
 
+- [[07 Operations/Planning & Communication/Group Leader Conversation Questions|Group Leader Conversation Questions]] — Detailed operational prompt bank.
 - [[Leader Training]] — Training follows discernment and invitation.
 - [[05 Leadership/Group Leaders]] — Defines the confirmed initial pipeline.
 - [[Planning Center Groups]] — A leader role is assigned only after appointment.

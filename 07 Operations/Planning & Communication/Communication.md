@@ -91,6 +91,11 @@ For Fall 2026, invite Launch Team members to explore hosting City Groups. Do not
 - [[Leader Communication Templates/Candidate Next-Step Invitation|Candidate Next-Step Invitation]]
 - [[Leader Communication Templates/Groups Ministry Leader Welcome|Groups Ministry Leader Welcome]]
 
+### Group Leader Conversation
+
+- [[Group Leader Conversation Questions]] — Working operational question bank for pastoral discernment conversations.
+- [[06 Resources/Leader Development/Leader Conversation Guide|Leader Conversation Guide]] — Governing purpose, boundaries, and approval status.
+
 ## Schedule
 
 - July 28, August 11, and August 25 Team Nights: confirmed leadership preparation opportunities
