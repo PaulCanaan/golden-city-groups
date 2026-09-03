@@ -17,9 +17,11 @@ The three branches share the Belonging, Beholding, and Becoming framework but ar
 - **Classes:** Future financial, marriage, and other topic-based Classes may develop under Bible Clubs. These are examples, not approved offerings.
 - **Freedom Groups:** A potential future featured ministry under the Golden City Church umbrella, drawing on the Church of the Highlands model. Freedom Groups are not approved for launch.
 
-Initial City Group leaders will be prayerfully identified, invited, discerned, and trained from within the Launch Team through the July 28, August 11, and August 25 Team Nights. During the August Team Nights, Paul helps interested Launch Team members submit the Planning Center form, owns intake, and communicates immediate next steps. This is the confirmed initial pipeline, not a permanent restriction on future leadership development or a grant of final appointment authority.
+The confirmed initial pipeline called for City Group leaders to be prayerfully identified, invited, discerned, and trained from within the Launch Team, with the July 28, August 11, and August 25 Team Nights serving as planned intake opportunities. Paul was assigned to help interested Launch Team members submit the Planning Center form, own intake, and communicate immediate next steps. Actual event outcomes remain under review. This is the confirmed initial pipeline, not a permanent restriction on future leadership development or a grant of final appointment authority.
 
 Specific leaders, hosts, communities, locations, capacities, and assignments remain pending until they complete the applicable approval and launch-readiness gates.
+
+For Collectives, the current direction is Men's Collective on first and third Wednesdays with intended co-leads Conner O'Brien and Russ Daly, and Women's Collective on second and fourth Wednesdays with intended co-leads Rachel O'Brien and Miranda Daly. Times, venue, October start dates, participant paths, and final appointments/readiness remain open; Conner's and Rachel's expressed interest is not appointment.
 
 Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-022 and are not required for the initial Groups ministry launch.
 

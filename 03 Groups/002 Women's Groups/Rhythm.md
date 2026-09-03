@@ -2,14 +2,14 @@
 
 ## Document Status
 
-**Confirmed public baseline; re-verification and launch readiness required.** DEC-015 records the July 23, 2026 public schedule and location. Publication does not establish staffing or final approval.
+**Confirmed current cadence; exact start, time, and location unresolved.** DEC-043 supersedes the July 23 Monday rhythm and prior Women's location.
 
-## Published Fall 2026 Rhythm
+## Current Fall 2026 Rhythm
 
-- **When:** first and third Mondays at 7:00 p.m.
-- **Location:** I Can Workspace, 11878 Bradburn Boulevard, Westminster, Colorado 80031
+- **When:** second and fourth Wednesdays; time TBD
+- **Location:** TBD; Russ is seeking a suitable October venue
 
-Reverify the schedule, facility permission, room, accessibility, and capacity before derivative communication or enrollment opens.
+Do not publish individual dates until the October start date, time, and venue are confirmed.
 
 ## Operating Requirements
 
@@ -17,7 +17,7 @@ Before a gathering begins, confirm the owner, appointed leader, capacity, safegu
 
 ## Source Note
 
-Schedule and location drawn from DEC-015 in [[08 Archive/Decisions/Decision History#DEC-015 — Published Fall 2026 Rhythms and Locations|Decision History]]. No additional dates or facility commitments are inferred here.
+Cadence drawn from DEC-043. DEC-015 preserves the superseded public baseline; no start date, time, or venue is inferred here.
 
 ## Connections
 

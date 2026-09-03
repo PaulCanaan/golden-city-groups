@@ -4,14 +4,16 @@
 
 **Mixed confirmed and planned launch calendar.** Only dates and ministry context recorded as confirmed in the decision log should be treated as fixed. Offerings still require their applicable readiness gates.
 
-## Confirmed Pre-Launch Dates
+## Fall Launch Dates
 
-- **July 28:** Team Night with dedicated City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation
-- **August 11:** Team Night with dedicated City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation
-- **August 25:** Team Night with dedicated City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation
+- **July 28:** Team Night planned for City Group leadership preparation; actual outcome and follow-up are not recorded.
+- **August 11:** Team Night occurred; detailed execution and follow-up are not recorded.
+- **August 25:** Team Night was planned as the final pre-launch opportunity; actual outcome and follow-up are not recorded.
+
+The July and August events are now historical. Their missing outcomes are tracked in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] rather than left as future plans.
 - **September 20:** Golden City Church public launch
 
-During the August Team Nights, Paul serves as the on-site leader-interest point person, helps Launch Team members submit the Planning Center form, receives and organizes submissions through his admin access, and emails applicants to arrange interviews and communicate immediate next steps. Paul also owns interviews, assessment, and training facilitation under DEC-031. Detailed standards, dates, assignment, appointment records, and commissioning remain unresolved.
+During the August Team Nights, Paul was the assigned on-site leader-interest point person, helping Launch Team members submit the Planning Center form, receiving and organizing submissions through his admin access, and emailing applicants about Group Leader Conversations and immediate next steps. Actual execution still requires Paul's confirmation. Paul owns interviews, assessment, and training facilitation under DEC-031. Detailed standards, dates, assignment, appointment records, and commissioning remain unresolved.
 
 ### Completed Operational Milestone
 
@@ -27,7 +29,7 @@ The primary Fall 2026 objective is to recruit Launch Team members to host City G
 4. Confirm group assignments, hosts or locations, and participant capacity.
 5. Commission approved leaders through a practice still requiring confirmation.
 6. Open or continue participant sign-up only for launch-ready offerings.
-7. Begin each offering only in its approved window; Planted begins Tuesday evening, October 6, subject to final readiness.
+7. Prepare Collectives and Bible Clubs to operate in October; Planted begins Tuesday evening, October 6, while Collective start dates remain TBD and every offering remains subject to final readiness.
 
 Training dates, commissioning details, leader names, City Group assignments, and start dates other than Planted remain pending.
 
@@ -39,6 +41,13 @@ Training dates, commissioning details, leader names, City Group assignments, and
 - Planted Bible Study
 
 Their inclusion in planning does not mean each offering is staffed, approved, or launch-ready.
+
+Current Collective architecture:
+
+- **Men's Collective:** biweekly on first and third Wednesdays; intended co-leads Conner O'Brien and Russ Daly.
+- **Women's Collective:** biweekly on second and fourth Wednesdays; intended co-leads Rachel O'Brien and Miranda Daly.
+
+Times, venue, start dates, participant paths, communications, leader-path completion, and final readiness remain open. Conner's and Rachel's expressed interest is not formal appointment. Russ is responsible for securing an appropriate October classroom or venue for Collectives and Bible Clubs; Paul owns downstream setup after the venue is known.
 
 Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-022 and are not required for the initial launch.
 

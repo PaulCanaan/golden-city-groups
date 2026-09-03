@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Reviewed August 10, 2026. Approved direction is governing through DEC-027–041 in the [[Decision Log|Active Decision Register]]. The outcomes recorded as DEC-034–041 are preserved in the [[08 Archive/Decisions/2026-08-05 Staff Meeting Minutes|August 5 Staff Meeting Minutes]]. This brief retains the proposal record and identifies the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].**
+**Reviewed August 10 and reconciled September 3, 2026 with the [[08 Archive/Decisions/2026-08-28 Staff Meeting Updates|August 28 staff-meeting updates]]. Approved direction is governing through DEC-046 in the [[Decision Log|Active Decision Register]]. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].**
 
 ## Confirmed Ministry Language
 
@@ -158,11 +158,13 @@ These recommendations are not a substitute for church policy, legal guidance, or
 | Offering           | Operational owner | Primary leader   | Pastoral escalation | Decision                 |
 | ------------------ | ----------------- | ---------------- | ------------------- | ------------------------ |
 | City Group(s)      | Russ, Paul        |                  |                     | Launch / Develop / Defer |
-| Men's Collective   | Russ              |                  |                     | Launch / Develop / Defer |
-| Women's Collective | Miranda           |                  |                     | Launch / Develop / Defer |
+| Men's Collective   | Russ              | Intended co-leads: Conner O'Brien and Russ Daly; appointments pending |                     | Launch / Develop / Defer |
+| Women's Collective | Miranda           | Intended co-leads: Rachel O'Brien and Miranda Daly; appointments pending |                     | Launch / Develop / Defer |
 | Planted            | Paul              | Paul, Bible Club leader |                | Launch / Develop / Defer |
 
 Run Club, Youth City Group, and Young Adults Group remain deferred ideas under DEC-022 and should not be added to this active table unless staff reactivates them.
+
+DEC-043 confirms first/third-Wednesday Men's and second/fourth-Wednesday Women's cadence. DEC-044 records the intended co-lead teams without treating Conner's or Rachel's expressed interest as appointment. Time, venue, October start dates, participant paths, leader-path completion, escalation contacts, and readiness dispositions remain open.
 
 **Question surfaced through Inbox processing:** Which of the three branches should the August Team Night leader-interest invitation name as actively receiving interest? Fall 2026 now prioritizes recruiting Launch Team members to host City Groups; naming another branch must not imply that a role or offering is approved or launch-ready.
 
@@ -203,28 +205,39 @@ Run Club, Youth City Group, and Young Adults Group remain deferred ideas under D
 
 ## PRO-029 — Leader Training, Assignment, and Commissioning Plan
 
-- **Approval status:** Partially confirmed August 5, 2026 under DEC-031; detailed standards, dates, assignments, records, and commissioning remain open
+- **Approval status:** Stage lifecycle confirmed under DEC-042; detailed standards, dates, assignments, records, and commissioning remain open
 - **Launch priority:** Launch-blocking for City Groups
-- **Decision needed:** Confirm how applicants move from the approved intake and initial follow-up workflow into interview, assessment, training, assignment, appointment, and commissioning.
-- **Why it matters:** DEC-026 confirms intake ownership and immediate follow-up, but interview standards, assessment, dates, training requirements, assignments, appointment, and commissioning remain unresolved.
+- **Decision needed:** Confirm the implementation details inside and around the approved stages: interview records and criteria, training completion, assignment, appointment, and commissioning.
+- **Why it matters:** DEC-042 confirms the intake triggers, four workflow stages, Groups Director ownership, and actual launch as completion. The remaining requirements still determine whether a candidate may advance responsibly and serve.
 - **Formation relationship:** Preparation should form leaders in character, theology, hospitality, care, facilitation, prayer, and responsible use of Planning Center.
 
 **Question surfaced through Inbox processing:** What interview format and expected duration should applicants be told? The captured 30–45 minute estimate remains an unapproved placeholder.
 
-### Approved implementation under DEC-026
+The canonical [[07 Operations/Planning & Communication/Group Leader Conversation Questions|Group Leader Conversation Questions]] already exists and is linked from the Planning Center workflow. The remaining work is approval of format, outcome records, role-specific criteria, and use—not question-bank design.
 
-1. Paul helps interested Launch Team members submit the Planning Center interest form during the August Team Nights.
-2. Paul receives, reviews, and organizes the submissions through his Planning Center admin access.
-3. Paul emails applicants to arrange interviews and communicate immediate next steps.
+### Approved workflow under DEC-042
 
-### Remaining proposed sequence
+0. `Lead a Group` or group-leading interest on the `Serve Team Interest Form` triggers the shared workflow.
+1. **Welcome Email / Call** — acknowledge interest, make contact, and arrange a Group Leader Conversation.
+2. **Interviewed** — complete the conversation and record the permitted outcome and next action.
+3. **Attended Training** — record required training attendance without treating it as appointment.
+4. **Small Group Launched** — complete the workflow only after the group has actually begun meeting.
 
-4. Paul conducts interviews and assessment within the DEC-027 minimum standard; the detailed format and records remain open.
-5. Approved candidates complete role-specific training.
-6. Staff confirms leaders, hosts or locations, group communities, and capacities.
-7. Primary leaders receive explicit pastoral appointment.
-8. Paul configures only approved groups and roles in Planning Center.
-9. Leaders are commissioned through the approved church practice.
+The Groups Director owns the next action through launch. See [[07 Operations/Planning Center Groups#3. Move prospective leaders from intake to launch|the canonical operating workflow]].
+
+### Remaining implementation decisions
+
+- interview format, records, and role-specific assessment criteria;
+- approved training curriculum, dates, completion standard, and record location;
+- group assignments, hosts or locations, communities, and capacities;
+- explicit pastoral appointment and appointment record;
+- Planning Center permissions for approved roles;
+- commissioning practice; and
+- final group readiness approval before launch.
+
+### Fall 2026 and Spring 2027 training boundary
+
+Fall 2026 leaders still need the minimum transitional role-specific preparation required for their actual assignment. DEC-045 establishes CoJourner as four biweekly sessions over approximately two months before the Spring 2027 group launch, but does not require current Fall leaders to complete all or part of it. Paul should prepare a focused recommendation; Russ retains the applicable pastoral and appointment decisions.
 
 ### Direction to record
 
@@ -250,7 +263,7 @@ Run Club, Youth City Group, and Young Adults Group remain deferred ideas under D
 
 - Paul owns the Planning Center leader-interest form intake during the August Team Nights.
 - Paul receives submissions through his Planning Center admin access, reviews and organizes them, and owns initial applicant follow-up.
-- Paul emails applicants to arrange interviews and communicate immediate next steps.
+- Paul emails applicants about Group Leader Conversations and communicates immediate next steps under the workflow later confirmed by DEC-042.
 - Form submission and administrative access do not confer appointment authority.
 
 ### Items still to decide

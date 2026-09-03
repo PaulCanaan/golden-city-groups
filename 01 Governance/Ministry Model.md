@@ -114,9 +114,9 @@ For the fall 2026 launch season, the first City Group leaders will be identified
 The confirmed launch sequence is:
 
 1. Pre-launch church plant gatherings form the Launch Team.
-2. Team Nights on July 28, August 11, and August 25 provide City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation.
-3. During the August Team Nights, Paul helps interested Launch Team members submit the Planning Center form, receives and organizes submissions, and emails applicants to arrange interviews and communicate immediate next steps.
-4. Potential leaders proceed through approved interview, assessment, safeguarding, and approval steps still requiring definition.
+2. Team Nights on July 28, August 11, and August 25 were scheduled to provide City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation; actual outcomes remain under review.
+3. Paul was assigned during the August Team Nights to help interested Launch Team members submit the Planning Center form, receive and organize submissions, and email applicants about Group Leader Conversations and immediate next steps.
+4. Potential leaders proceed through the Group Leader Conversation, assessment, safeguarding, and approval steps whose remaining implementation details still require definition.
 5. Approved candidates receive the required training.
 6. Leaders and participants are assigned to launch-ready groups.
 7. Leaders receive explicit appointment and are commissioned through practices still requiring pastoral and operational confirmation.
@@ -126,11 +126,11 @@ Leader sign-up is an expression of interest rather than appointment. Paul owns r
 
 This initial internal pipeline does not establish the permanent leadership-development model. Broader public leadership pathways may be developed after launch as pastoral oversight, ministry maturity, and real participant relationships allow.
 
-### Approved CoJourner Development Pathway
+### Approved CoJourner Training Architecture
 
-CoJourner provides four leader-development sessions organized around **Presence, Orientation, Cultivation, and Multiplication**. It serves developing and active Groups Ministry leaders. Cohorts may meet biweekly or monthly for approximately thirty minutes over Zoom. Exact dates, cadence, cohort membership, facilitation details, and curriculum content remain unresolved.
+The CoJourner Program from The Garden Project Ministry is the selected group-leader training program. Its approved architecture is four biweekly sessions over approximately two months, intended for completion before the Spring 2027 group launch. Source materials, curriculum details, facilitators, dates, location, requirements, assessment, commissioning relationship, Fall 2026 applicability, and Planning Center tracking remain unresolved.
 
-CoJourner supports ongoing formation; it does not replace role-specific training, safeguarding, assessment, appointment, or readiness approval.
+CoJourner does not replace role-specific preparation, safeguarding, assessment, appointment, or readiness approval.
 
 ## Existing and Possible Group Expressions
 

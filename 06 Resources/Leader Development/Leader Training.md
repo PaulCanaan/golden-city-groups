@@ -79,7 +79,7 @@ Paul facilitates training after the July 28, August 11, and August 25 Team Night
 
 ## Relationship to CoJourner
 
-[[CoJourner]] is the approved longer-term leader-development pathway. Its four sessions—Presence, Orientation, Cultivation, and Multiplication—may be delivered to cohorts biweekly or monthly for approximately thirty minutes over Zoom. CoJourner does not replace fall launch preparation, role-specific instruction, safeguarding, assessment, appointment, or commissioning. Cohort details and curriculum content remain unresolved.
+[[CoJourner]] is the selected four-session group-leader training program from The Garden Project Ministry. The approved architecture uses a biweekly training cohort over approximately two months so leaders can complete it before the Spring 2027 group launch. Source material, session content, facilitator, dates, location, participant and completion requirements, assessment, commissioning relationship, and Planning Center tracking remain open. CoJourner does not automatically apply retroactively to Fall 2026 leaders or replace the transitional role-specific preparation, safeguarding, assessment, appointment, or commissioning they require.
 
 ## Training Delivery Checklist
 
@@ -135,6 +135,7 @@ The completion standard remains pending. At minimum, an approved standard should
 
 ## Connections
 
+- [[07 Operations/Planning & Communication/Communication#Step 3 — Attended Training|Group Leader Communication Library — Training]] — Canonical training invitation and leader-resource messages.
 - [[05 Leadership/Group Leaders]] — Initial candidates come through the Launch Team and Team Night pathway.
 - [[CoJourner]] — Shared four-session pathway for ongoing leader development.
 - [[05 Leadership/Hosts]] — Host training remains conditional on approval of the role and its requirements.

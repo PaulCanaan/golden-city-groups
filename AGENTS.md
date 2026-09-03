@@ -39,7 +39,8 @@ When preparing or reviewing staff decisions, also read `00 Dashboard/Staff Decis
 ## Operational Pages
 
 - `00 Dashboard/Inbox.md` is temporary capture and triage. File clarified items in their permanent location; do not treat raw notes as approved direction or leave resolved items there.
-- `00 Dashboard/Weekly Review.md` is the recurring review workflow. Use it to process the Inbox and reconcile active documents; do not turn it into a second status dashboard.
+- `07 Operations/Biweekly Ministry Review.md` is the sole recurring review workflow. Use its queue-based first/third-Monday process to reconcile the Inbox, active documents, decisions, events, readiness, and next actions; do not create a parallel review cadence.
+- Biweekly Review checkboxes record that a review step was inspected and reconciled; they never establish ministry-task completion, readiness, appointment, or approval.
 - `00 Dashboard/Groups Ministry Dashboard.md` reports current priorities, readiness, and operational status.
 - `00 Dashboard/Staff Decision Brief.md` prepares matters requiring staff discussion or direction.
 - `00 Dashboard/Decision Log.md` records approved decisions and current governing direction.

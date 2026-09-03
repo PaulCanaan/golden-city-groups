@@ -167,6 +167,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** Golden City Church's official [Groups page](https://www.goldencity.church/groups), reviewed July 23, 2026.
 - **Implications:** These details are the current public baseline for calendar, facilities, communication, leader preparation, and participant follow-up. Internal documents should not publish conflicting details without a recorded update.
 - **Boundary:** “To be determined” locations remain unresolved, and public publication alone does not verify leader approval, capacity, safeguarding, childcare, supplies, or final launch readiness. Dates and locations should be reverified before derivative communication is released.
+- **Subsequent direction:** DEC-043 supersedes the Men's and Women's Collective rhythms and the prior Women's location. The other July 23 public-baseline facts remain historical unless separately superseded.
 
 ### DEC-016 — Public Church Center Enrollment Paths
 
@@ -379,11 +380,12 @@ Optimize for long-term maintainability over completeness. Most entries should us
 ### DEC-037 — Groups Ministry Website Ownership
 
 - **Decision:** Russ will provide Paul with Squarespace access. Paul becomes responsible for maintaining the Groups Ministry pages after access is granted.
-- **Status:** Confirmed; implementation pending
+- **Status:** Confirmed; implemented August 28, 2026
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
 - **Evidence:** [[2026-08-05 Staff Meeting Minutes#4 — Website Ownership|August 5, 2026 Staff Meeting Minutes]].
-- **Implications:** Website maintenance has a named future owner and a clear handoff condition.
-- **Boundary:** Access has not been recorded as granted. Paul should not be represented as having current Squarespace access, and website maintenance does not confer authority to publish unapproved ministry claims or offerings.
+- **Implications:** Russ granted access by August 28. Paul now owns implementation work on `goldencity.church/groups` and may maintain approved Groups Ministry content.
+- **Boundary:** The completed access handoff does not confer authority to publish unapproved ministry claims, offerings, leaders, schedules, locations, or readiness statuses. Material-change review remains to be clarified.
+- **Implementation evidence:** Paul supplied the August 28 staff-meeting update that Russ had granted Squarespace access.
 
 ### DEC-038 — Planted Notion Finalization and October Readiness Target
 
@@ -415,11 +417,61 @@ Optimize for long-term maintainability over completeness. Most entries should us
 ### DEC-041 — CoJourner Leader-Development Pathway
 
 - **Decision:** CoJourner is the approved leader-development pathway for Groups Ministry. It serves developing and active leaders through four training sessions corresponding to Presence, Orientation, Cultivation, and Multiplication. Leader cohorts may meet biweekly or monthly for approximately thirty minutes over Zoom.
-- **Status:** Confirmed
+- **Status:** Superseded by DEC-045
 - **Date and approver:** August 5, 2026; approved Staff Meeting outcome supplied as human direction
 - **Evidence:** [[2026-08-05 Staff Meeting Minutes#9 — CoJourner Leader Development|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Leadership architecture, resources, and Spring 2027 planning should integrate the pathway and preserve its four-session structure.
 - **Boundary:** This decision does not supply curriculum content, select cohort members, choose a cadence, set dates, or replace the appointment, safeguarding, role-specific, or launch-readiness requirements in DEC-027–031.
+- **Subsequent direction:** DEC-045 replaces this record's session-title, optional-monthly, duration, and Zoom details with the August 28 approved architecture.
+
+### DEC-042 — Group Leader Intake-to-Launch Workflow
+
+- **Decision:** Group Leader interest enters one shared Planning Center workflow when a person submits the `Lead a Group` form or selects the group-leading option on the `Serve Team Interest Form`. Intake is Step 0, not an official workflow stage. The four stages are **Welcome Email / Call**, **Interviewed**, **Attended Training**, and **Small Group Launched**. The Groups Director owns follow-up and the next action from intake through actual launch. Planning Center is the operational system of record for each prospective leader's current stage.
+- **Status:** Confirmed
+- **Recorded:** September 3, 2026. The approved operational direction was supplied by Paul; the original decision date and approving authority were not stated.
+- **Domain:** Operations
+- **Owner:** Groups Director
+- **Evidence:** Approved Planning Center Group Leader Intake → Launch workflow supplied by Paul for integration into the Golden City Groups OS.
+- **Implications:** Active Planning Center, form, communication, leader-development, launch, and dashboard materials should use the shared lifecycle `Interest → Welcome / Contact → Group Leader Conversation → Training → Launch`. External communication calls the interview a **Group Leader Conversation**. A person reaches **Small Group Launched** only after the group has actually begun meeting.
+- **Boundary:** This decision does not approve form fields, response times, backup coverage, interview criteria or records, safeguarding requirements, training curriculum or completion criteria, role assignment, appointment authority, commissioning, a group location, or final readiness. It does not prove that the live Planning Center workflow has been configured. DEC-018 continues to govern the Fall 2026 Launch Team recruitment boundary.
+
+- **Implementation update — August 28, 2026:** Paul reported that the `Lead a Group` workflow and its documented email templates and automations are configured. This resolves the live-configuration gap but does not prove candidate-stage completion, end-to-end testing, appointment, or offering readiness.
+
+### DEC-043 — Biweekly Collective Cadence
+
+- **Decision:** Men's Collective will use a biweekly first-and-third-Wednesday rhythm. Women's Collective will use a biweekly second-and-fourth-Wednesday rhythm.
+- **Status:** Confirmed
+- **Date and approver:** August 28, 2026; authoritative staff-meeting direction supplied by Paul. The individual approver was not separately recorded.
+- **Evidence:** [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]].
+- **Implications:** Collective, calendar, launch, readiness, and communication documents should use the Wednesday architecture and no longer treat the July 23 Monday rhythms or prior Women's location as current.
+- **Boundary:** This decision does not establish start dates, times, locations, capacity, participant paths, appointed leaders, communications readiness, or final readiness.
+
+### DEC-044 — Intended Collective Leadership Structure
+
+- **Decision:** The intended Men's Collective leadership structure is Conner O'Brien co-leading with Russ Daly. The intended Women's Collective leadership structure is Rachel O'Brien co-leading with Miranda Daly.
+- **Status:** Confirmed direction; appointments pending
+- **Date and approver:** August 28, 2026; authoritative staff-meeting direction supplied by Paul. The individual approver was not separately recorded.
+- **Evidence:** [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]].
+- **Implications:** Readiness work may proceed around these intended teams through the canonical conversation, qualification, safeguarding, preparation, approval, and commissioning pathway.
+- **Boundary:** Conner's and Rachel's expressed interest is not formal approval or commissioning. This record does not establish that any named person has completed the applicable leader pathway or that either Collective is launch-ready.
+
+### DEC-045 — CoJourner Group-Leader Training Architecture
+
+- **Decision:** The CoJourner Program, developed by The Garden Project Ministry, is Golden City Groups' selected group-leader training program. It has four sessions on a biweekly cadence over approximately two months and is intended to prepare leaders before the Spring 2027 group launch.
+- **Status:** Confirmed; supersedes DEC-041
+- **Date and approver:** August 28, 2026; approved ministry-direction update supplied by Paul. The individual approver was not separately recorded.
+- **Evidence:** [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]].
+- **Implications:** Leader-development and Spring 2027 planning should use this architecture and await the later source-material upload before developing curriculum details.
+- **Boundary:** Session titles, curriculum, facilitator, exact dates, location, participant requirements, completion criteria, assessment, commissioning relationship, Fall 2026 applicability, and Planning Center tracking remain unresolved. CoJourner does not bypass safeguarding, assessment, appointment, or offering readiness.
+
+### DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target
+
+- **Decision:** Collectives and Bible Clubs need to be ready to operate in October 2026. Russ is responsible for finding or securing an appropriate classroom or venue; Paul owns downstream setup planning, system configuration, communication, and leader coordination after a venue is known.
+- **Status:** Confirmed
+- **Date and approver:** August 28, 2026; authoritative staff-meeting direction supplied by Paul. The individual approver was not separately recorded.
+- **Evidence:** [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]].
+- **Implications:** Venue acquisition is a high-priority shared readiness dependency for Men's and Women's Collectives and Planted, the confirmed Bible Club. October readiness should be tracked separately from the September 20 public church launch.
+- **Boundary:** No venue, Collective start date, time, location, readiness approval, or additional Bible Club offering is established by this decision. Each offering still must complete its applicable gates.
 
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 
@@ -442,7 +494,7 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 
 ### OQ-005 — Leadership Standards and Discernment
 
-- **Status:** Minimum standard resolved by DEC-027; implementation details remain open
+- **Status:** Minimum standard resolved by DEC-027 and stage lifecycle resolved by DEC-042; implementation details remain open
 - **Question:** What role-specific interview, training, correction, removal, recordkeeping, assignment, and commissioning details will implement the approved minimum standard?
 
 ### OQ-006 — Pastoral Care and Safeguarding

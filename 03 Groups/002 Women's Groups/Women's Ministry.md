@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Planned Women's Collective; launch readiness pending.** The collective model and current public rhythm and location are confirmed in the decision log, but leadership, capacity, curriculum, and final approval remain unresolved.
+**Planned Women's Collective; October readiness at risk.** The biweekly second-and-fourth-Wednesday cadence and intended co-lead structure are confirmed direction. Time, location, leader-path completion, participant path, communication, and final readiness remain unresolved.
 
 ## Ministry Emphasis
 
@@ -10,7 +10,9 @@ Women's Collective is a confirmed expression of the Collectives branch, whose pu
 
 The approved long-term direction is for Women's Collective to mature into a broader Women's Ministry. This does not activate additional programs or establish their leaders, rhythms, or readiness.
 
-The environment classification is confirmed. The gathering format, leader, capacity, curriculum, safeguarding plan, participant path, location verification, and final launch readiness remain subject to the active decision and readiness process.
+The intended co-leads are Rachel O'Brien and Miranda Daly. Rachel expressed interest during a Group Leader Conversation; that interest is not formal approval or commissioning. Each named leader remains subject to the applicable qualification, conversation, safeguarding, preparation, appointment, and readiness requirements.
+
+The current cadence is the second and fourth Wednesdays of each month. The October start date, time, classroom or venue, capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.
 
 - [[03 Groups/Monthly Gatherings]]
 - [[Breakout Sessions]]

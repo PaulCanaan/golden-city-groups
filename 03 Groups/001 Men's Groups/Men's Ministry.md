@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Planned Men's Collective; launch readiness pending.** The collective model and current public rhythm are confirmed in the decision log, but leadership, location, capacity, curriculum, and final approval remain unresolved.
+**Planned Men's Collective; October readiness at risk.** The biweekly first-and-third-Wednesday cadence and intended co-lead structure are confirmed direction. Time, location, leader-path completion, participant path, communication, and final readiness remain unresolved.
 
 ## Ministry Emphasis
 
@@ -10,7 +10,9 @@ Men's Collective is a confirmed expression of the Collectives branch, whose purp
 
 The approved long-term direction is for Men's Collective to mature into a broader Men's Ministry. This does not activate additional programs or establish their leaders, rhythms, or readiness.
 
-The environment classification is confirmed. The gathering format, leader, location, capacity, curriculum, safeguarding plan, participant path, and final launch readiness remain subject to the active decision and readiness process.
+The intended co-leads are Conner O'Brien and Russ Daly. Conner expressed interest during a Group Leader Conversation; that interest is not formal approval or commissioning. Each named leader remains subject to the applicable qualification, conversation, safeguarding, preparation, appointment, and readiness requirements.
+
+The current cadence is the first and third Wednesdays of each month. The October start date, time, classroom or venue, capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.
 
 - [[03 Groups/Monthly Gatherings]]
 - [[Breakout Sessions]]

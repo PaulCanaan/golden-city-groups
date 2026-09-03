@@ -25,14 +25,16 @@ Group leaders are planned for launch. Host requirements remain unresolved. A for
 | Branch | Primary ministry role | Current status |
 |---|---|---|
 | City Groups | Host and group leader | Fall 2026 prioritizes Launch Team host recruitment; appointments pending |
-| Collectives | Collective leader | Operational owners confirmed; appointments pending |
+| Collectives | Collective co-leaders | Intended teams identified; expressed interest and appointments remain distinct |
 | Bible Clubs | Facilitator | Paul confirmed to lead Planted; other assignments pending |
 
 Future Class instructors remain subject to DEC-027 and offering-specific approval; Classes are not a current branch.
 
 ## CoJourner Pathway
 
-[[CoJourner]] is the approved shared leader-development pathway across the three branches. It uses four sessions: Presence, Orientation, Cultivation, and Multiplication. Cohorts may meet biweekly or monthly for approximately thirty minutes over Zoom. Implementation details and curriculum content remain open.
+[[CoJourner]] is the selected group-leader training program from The Garden Project Ministry. Its approved architecture is four biweekly sessions over approximately two months, completed before the Spring 2027 group launch. Curriculum and implementation details remain open until source material is supplied.
+
+For Fall 2026, transitional role-specific preparation remains separate. Paul and Russ still need to decide whether current Fall leaders must complete any part of CoJourner; no retroactive requirement is inferred.
 
 DEC-027 governs the shared minimum standard. Role-specific preparation and explicit appointment are still required before a person is entrusted.
 

@@ -95,7 +95,7 @@ CoJourner is the approved Groups Ministry leader-development pathway. Its four t
 - [[00 Dashboard/Decision Log|Active Decision Register]] — governing summaries.
 - [[Decision History]] — full decision records and boundaries.
 - [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]] — unresolved staff and pastoral decisions.
-- [[00 Dashboard/Weekly Review|Weekly Review]] — Inbox processing record and recurring reconciliation workflow.
+- [[08 Archive/Operations/Weekly Review|Superseded Weekly Review]] — preserved historical Inbox processing record; its recurring functions now belong to the Biweekly Ministry Review.
 - [[01 Governance/Launch Roadmap|Launch Roadmap]] — implementation sequence and readiness gates.
 - [[06 Resources/Leader Development/Leader Training|Leader Training]] — onboarding and CoJourner pathway operations.
 - [[06 Resources/Resources Overview#Leader Resources and SOP Research Roadmap|Leader Resources and SOP Research Roadmap]] — SOP research roadmap and placeholders.

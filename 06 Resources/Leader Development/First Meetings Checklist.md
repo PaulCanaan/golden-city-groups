@@ -52,6 +52,7 @@ The approved group leader owns this checklist with support from Paul or the assi
 
 ## Connections
 
+- [[07 Operations/Planning & Communication/Communication#Step 4 — Small Group Launched|Group Leader Communication Library — Launch]] — Canonical pre-launch encouragement and first-gathering check-in.
 - [[Hospitality]] — Welcoming and participatory practices.
 - [[Bible Study]] — Sermon-based discussion preparation.
 - [[Prayer]] — Prayer and confidentiality boundaries.

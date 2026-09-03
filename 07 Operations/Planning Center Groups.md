@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Mixed confirmed and proposed operating guidance.** Golden City Church uses Planning Center Groups and Church Center for group records and selected public enrollment paths. DEC-026 confirms Paul's admin access and leader-interest intake work; DEC-032 assigns the public participant system to Russ with Paul as backup. Other controls remain approval-dependent. This document does not approve an offering or appoint a leader.
+**Mixed confirmed and proposed operating guidance.** Golden City Church uses Planning Center Groups and Church Center for group records and selected public enrollment paths. DEC-042 establishes the Group Leader Intake → Launch workflow and confirms the Groups Director as its operational owner; Paul reported on August 28 that the workflow and documented email templates/automations are configured. DEC-032 assigns the public participant system to Russ with Paul as backup. Other controls remain approval-dependent. This document does not approve an offering or appoint a leader.
 
 Current governing summaries remain in `00 Dashboard/Decision Log.md`, with full records in [[08 Archive/Decisions/Decision History]]. Detailed procedures for intake, attendance, communication, metrics, and launch readiness remain in their linked operational documents.
 
@@ -21,8 +21,8 @@ Planning Center is a connected suite. **People** is the shared people database. 
 | Ministry need | Planning Center area | Use |
 |---|---|---|
 | Person and contact details | People | Maintain one profile per person and avoid duplicates. |
-| Launch Team leader interest | Planning Center interest form | Paul supports submission, owns intake, and communicates immediate next steps under DEC-026. |
-| Assigned follow-up | People Workflow, if approved | Track operational next steps without treating a card as appointment. |
+| Group leader interest | `Lead a Group` form or the group-leading option on the `Serve Team Interest Form` | Trigger the shared Group Leader workflow. |
+| Prospective leader follow-up | People Workflow | Keep each person at one current stage with an owner and next action; a Workflow Card is not an appointment. |
 | Public discovery | Church Center | Show accurate, launch-ready offerings and clear next steps. |
 | Join requests and rosters | Groups | Review requests and maintain leaders, members, and visitors. |
 | Meetings and RSVPs | Groups events | Schedule confirmed gatherings and optional reminders or RSVPs. |
@@ -126,25 +126,34 @@ Use only existing or approved launch types. Review:
 
 Create a temporary test group when changing important defaults. View and test it as an ordinary Church Center user, then archive the test record.
 
-### 3. Handle Launch Team leader interest
+### 3. Move prospective leaders from intake to launch
 
-For Fall 2026, initial City Group leaders are identified, invited, discerned, and trained from within the Launch Team through the July 28, August 11, and August 25 Team Nights under DEC-018 and DEC-019. Do not publish a general public leader application for this pipeline.
+Planning Center is the operational system of record for this pipeline. The approved lifecycle is:
 
-During the August Team Nights, Paul helps interested Launch Team members access and submit the appropriate Planning Center interest form. Paul receives the submissions through his admin access, reviews and organizes them, and emails applicants to arrange interviews and communicate immediate next steps. The form remains limited to the Launch Team pipeline and must state that interest is not appointment or assignment.
+`Interest → Welcome / Contact → Group Leader Conversation → Training → Launch`
 
-The approved workflow begins:
+Step 0 is an intake trigger, not one of the four official workflow stages. A person enters the same workflow when either:
 
-`Team Night form submission → Paul reviews and organizes → Paul emails applicant and arranges interview`
+- the person submits the `Lead a Group` form; or
+- the person submits the `Serve Team Interest Form` and selects the group-leading option.
 
-Use the working copy in [[Communication#Leader-Interest Communication Kit]] for the Team Night invitation, form confirmation, and applicant follow-up. Fall 2026 focuses on Launch Team members interested in hosting City Groups. The standardized interview format and duration remain unresolved.
+The Groups Director receives the notification and/or assigned Workflow Card and owns the next action through launch. For Fall 2026, DEC-018 still limits initial City Group leader recruitment to the Launch Team; the two form triggers do not create a general-public appointment pathway.
 
-The remaining workflow is still approval-dependent:
+**Implementation state:** The shared workflow and its documented email automations are configured. Continue to verify live routing, merge fields, delivery, backup coverage, and each candidate's current stage; configuration alone does not prove successful use or completion.
 
-`standardized interview → leader assessment → safeguarding review → approval decision → communicate outcome → training → group assignment → appointment → Planning Center leader access → commissioning → CoJourner and post-launch support`
+| Step / Planning Center stage | Meaning and entry | Groups Director action | Advance only when | Communication / resource |
+|---|---|---|---|---|
+| **Step 0 — Intake Trigger** | Either approved intake path records group-leading interest. This is not a workflow stage. | Confirm the person entered the workflow once and assign the next action. | A card exists in **Welcome Email / Call** with the Groups Director responsible. | [[Communication#Step 0 — Interest Submitted\|Acknowledgment and form confirmation]]; [[Forms#Group leader interest\|Forms]] |
+| **Step 1 — Welcome Email / Call** | Interest has been received and relational follow-up is due. | Acknowledge the interest, make contact, and invite the person to grab coffee for a Group Leader Conversation. | Welcome/contact is sent or completed and the conversation has been invited or arranged. | [[Communication#Step 1 — Welcome / Group Leader Conversation\|Invitation and reminder]] |
+| **Step 2 — Interviewed** | The Group Leader Conversation has occurred. “Interviewed” is the internal stage name; use “Group Leader Conversation” with the person. | Record only the minimum approved outcome and next action. If the person is ready to continue, invite them toward training; otherwise follow the approved discernment path. | The conversation is complete and its permitted outcome/next action is recorded. Moving forward still depends on the approved discernment and appointment boundaries. | [[Communication#Step 2 — Interviewed\|Ready-to-move-forward messages and pending outcomes]]; [[06 Resources/Leader Development/Leader Conversation Guide\|Conversation Guide]]; [[Planning & Communication/Group Leader Conversation Questions\|Question Bank]] |
+| **Step 3 — Attended Training** | Attendance at the required Group Leader Training has been recorded. | Confirm any remaining preparation, assignment, appointment, and launch-readiness actions; introduce leader resources. | Required attendance is recorded. Do not mark the person “trained” beyond this stage until the completion standard is approved and met; attendance is not appointment. | [[Communication#Step 3 — Attended Training\|Training and resource messages]]; [[06 Resources/Leader Development/Leader Training\|Leader Training]]; [[06 Resources/Resources Overview\|Resources Overview]] |
+| **Step 4 — Small Group Launched** | The assigned group has actually begun meeting. Approval, appointment, assignment, or training alone does not qualify. | Confirm the first gathering occurred, record the actual launch, and begin the approved leader-support rhythm. | The first group gathering has occurred and the Planning Center record reflects the launch. This is workflow completion. | [[Communication#Step 4 — Small Group Launched\|Launch messages]]; [[Communication#Ongoing Leader Support\|Ongoing support messages]]; [[Group Launches/Launch Checklist\|Launch Checklist]]; [[06 Resources/Leader Development/Leader Support Check-In\|Support Guide]] |
 
-Keep workflow notes brief: status, owner, and immediate next step. The exact approved fields, consent, retention, backup, interview records, and assessment documentation remain unresolved. Do not store background-check details, confession, diagnoses, unverified allegations, or unnecessary pastoral narrative in a form, workflow, group record, or this repository. A completed workflow does not appoint a leader, and Paul's intake ownership does not grant final appointment authority.
+At every stage, the Workflow Card should make the current stage, responsible owner, immediate next action, and due date clear. Open the linked canonical message, personalize and send it, record the completed action and next step, then advance the card only when the stated condition is met. Keep notes brief and non-sensitive. The exact approved fields, consent, retention, backup coverage, response standard, interview records, assessment criteria, training completion standard, assignment, appointment record, and commissioning practice remain unresolved. Do not store background-check details, confession, diagnoses, unverified allegations, or unnecessary pastoral narrative in a form, workflow, group record, or this repository.
 
-See [[Forms]] and [[05 Leadership/Group Leaders]].
+Russ or his designated pastor retains primary appointment and final-readiness authority. Workflow movement documents operational progress; it does not appoint a leader, approve a location, or make a group launch-ready.
+
+See [[Forms]], [[05 Leadership/Group Leaders]], and the [[Communication#Journey Map|Group Leader Communication Library]].
 
 ### 4. Build the group record
 

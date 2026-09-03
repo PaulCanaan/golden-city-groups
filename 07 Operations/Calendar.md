@@ -15,11 +15,14 @@
 
 | Date | Event | Status | Groups Ministry significance |
 |---|---|---|---|
-| July 28, 2026 | Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation |
+| July 28, 2026 | Team Night | **Past; outcome review required** | Planned for City Group leadership preparation; actual execution and follow-up are not recorded |
 | August 11, 2026 | Team Night | **Completed; intake workflow approved** | Potential leader interest and follow-up should be reconciled in the approved system |
 | August 16, 2026 | Interest Night | **Completed; reported by Paul on August 17** | Final Interest Night before public launch; continue connecting with and supporting potential future group leaders |
-| August 25, 2026 | Team Night | **Confirmed next focus; intake workflow approved** | Recruit additional potential City Group leaders and hosts, then continue immediate follow-up |
+| August 25, 2026 | Team Night | **Past; outcome review required** | Planned as the final pre-launch Team Night opportunity; actual execution and follow-up are not recorded |
 | September 20, 2026 | Golden City Church public launch | **Confirmed** | Public church launch; not the automatic start date for every Group or Class |
+| October 6, 2026 | Planted Bible Club begins | **Confirmed date; final readiness open** | Location, operating details, participant path, testing, and final approval remain incomplete |
+| October 2026, date TBD | Men's Collective begins | **Target; readiness incomplete** | First/third-Wednesday cadence confirmed; time, venue, leader-path completion, participant path, communication, and final approval remain open |
+| October 2026, date TBD | Women's Collective begins | **Target; readiness incomplete** | Second/fourth-Wednesday cadence confirmed; time, venue, leader-path completion, participant path, communication, and final approval remain open |
 
 ## Pending Milestones
 
@@ -28,7 +31,8 @@
 - Group assignments and location confirmation
 - Leader commissioning
 - Final launch-readiness review
-- Exact early-October start dates
+- Exact October Collective start dates and times
+- Appropriate October venue(s) for Collectives and Bible Clubs
 
 Dates, owners, and approval status for these milestones remain unresolved.
 

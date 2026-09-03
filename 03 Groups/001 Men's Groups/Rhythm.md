@@ -2,14 +2,14 @@
 
 ## Document Status
 
-**Confirmed public baseline; re-verification and launch readiness required.** DEC-015 records the July 23, 2026 public schedule. Publication does not establish staffing or final approval.
+**Confirmed current cadence; exact start, time, and location unresolved.** DEC-043 supersedes the July 23 Monday rhythm.
 
-## Published Fall 2026 Rhythm
+## Current Fall 2026 Rhythm
 
-- **When:** second and fourth Mondays at 7:00 p.m.
-- **Location:** to be determined in the public baseline
+- **When:** first and third Wednesdays; time TBD
+- **Location:** TBD; Russ is seeking a suitable October venue
 
-Reverify the schedule and location before derivative communication or enrollment opens.
+Do not publish individual dates until the October start date, time, and venue are confirmed.
 
 ## Operating Requirements
 
@@ -17,7 +17,7 @@ Before a gathering begins, confirm the owner, appointed leader, location, capaci
 
 ## Source Note
 
-Schedule drawn from DEC-015 in [[08 Archive/Decisions/Decision History#DEC-015 — Published Fall 2026 Rhythms and Locations|Decision History]]. No additional dates are inferred here.
+Cadence drawn from DEC-043. DEC-015 preserves the superseded public baseline; no start date, time, or venue is inferred here.
 
 ## Connections
 

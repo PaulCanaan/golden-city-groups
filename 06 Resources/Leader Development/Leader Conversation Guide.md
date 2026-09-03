@@ -4,7 +4,7 @@
 
 **Working interview guide; standardized format not yet approved.** DEC-027 establishes the governing minimum standard, and DEC-031 assigns interviews and assessment to Paul. The suggested format, duration, questions, and records remain working guidance; this page does not authorize appointment.
 
-DEC-026 confirms that Paul emails applicants to arrange interviews and communicate immediate next steps. DEC-031 names Paul as interview and assessment owner. Neither decision approves every question in this guide or gives Paul final appointment authority.
+DEC-026 confirms Paul's applicant follow-up responsibility, DEC-031 names Paul as conversation and assessment owner, and DEC-042 defines the current Group Leader Conversation workflow. None approves every question in this guide or gives Paul final appointment authority.
 
 ## Ministry Purpose
 

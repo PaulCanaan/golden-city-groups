@@ -6,7 +6,7 @@
 
 ## Document Status
 
-**Working operational question bank; standardized format not yet approved.** Use with the governing boundaries in [[06 Resources/Leader Development/Leader Conversation Guide|Leader Conversation Guide]]. These prompts do not authorize appointment, establish a scoring rubric, or change the approved interview, privacy, safeguarding, or pastoral-escalation boundaries.
+**Existing canonical operational question bank; use remains subject to the approved conversation and privacy boundaries.** Use with [[06 Resources/Leader Development/Leader Conversation Guide|Leader Conversation Guide]]. These prompts do not authorize appointment, establish a scoring rubric, or settle the still-open interview format, outcome record, role-specific criteria, safeguarding, or pastoral-escalation implementation.
 
 > The goal is not to conduct a job interview or find perfect leaders. The goal is to hear the person's story, understand their desire to serve, and discern together whether leading, co-leading, or hosting a group is a healthy next step.
 
@@ -156,5 +156,5 @@ The interview is therefore not merely a gatekeeping step. It is an early step in
 ## Connections
 
 - [[06 Resources/Leader Development/Leader Conversation Guide|Leader Conversation Guide]] — Governing purpose, privacy, safeguarding, recordkeeping, and approval boundaries.
-- [[Leader Communication Templates/Group Leader Conversation Invitation|Group Leader Conversation Invitation]] — Scheduling template for the conversation.
+- [[Communication#Step 1 — Welcome / Group Leader Conversation|Group Leader Conversation Invitation]] — Canonical scheduling and reminder messages.
 - [[05 Leadership/Group Leaders|Group Leaders]] — Confirmed discernment and appointment pathway.

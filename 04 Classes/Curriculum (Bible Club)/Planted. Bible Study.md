@@ -39,7 +39,7 @@ Completion of Notion publishing does not establish operational readiness.
 ## Remaining Readiness Needs
 
 - Confirm the complete twelve-session calendar and holiday implications after the October 6 start.
-- Confirm location, room setup, capacity, and participant path.
+- Russ is seeking an appropriate October classroom or venue; after confirmation, Paul completes room setup, capacity, and participant-path planning.
 - Complete and verify the Notion publishing package and document any participant cost.
 - Confirm support roles, communication, and Planning Center setup.
 - Complete final readiness review under DEC-021.

@@ -69,7 +69,7 @@ Operational resources remain under Operations because they govern repeatable min
 - [[Forms]] — leader-interest and participant-intake procedures
 - [[Attendance]] — attendance practice and pastoral boundaries
 - [[Launch Checklist]] — readiness gates before an offering opens
-- [[Communication]] — public and internal communication guidance
+- [[Communication]] — canonical Group Leader communication library and related ministry communication guidance
 - [[07 Operations/Metrics]] — formation-aware evaluation
 
 ### External Adaptations

@@ -2,7 +2,7 @@
 
 ## Current Launch Focus
 
-Fall 2026 operations prioritize recruiting Launch Team members to host City Groups through Team Night interest, Paul-owned Planning Center intake and follow-up, a standardized interview stage, leader assessment, training, group assignments, appointment and commissioning, and launch readiness. DEC-026, DEC-027, and DEC-031 govern the approved portions; unresolved details remain marked in the linked workflows.
+Fall 2026 operations prioritize moving Launch Team interest through the DEC-042 Group Leader Conversation workflow, Paul-owned assessment and training, group assignments, appointment and commissioning, and launch readiness. DEC-026, DEC-027, DEC-031, and DEC-042 govern the approved portions; unresolved details remain marked in the linked workflows.
 
 Spring 2027 operations prioritize intentional leader development and multiplication through the approved [[CoJourner]] pathway. Leader-resource and SOP development follows the research roadmap in [[Resources Overview#Leader Resources and SOP Research Roadmap|Resources Overview]].
 
@@ -17,6 +17,7 @@ Spring 2027 operations prioritize intentional leader development and multiplicat
 - [[Launch Checklist]]
 - [[Communication]]
 - [[07 Operations/Metrics]]
+- [[Biweekly Ministry Review]]
 
 ## Connections
 
@@ -32,4 +33,5 @@ Spring 2027 operations prioritize intentional leader development and multiplicat
 - [[Launch Checklist]] — Readiness tasks that preserve pastoral and safeguarding approval gates.
 - [[Communication]] — Channels and templates for ministry-wide communication.
 - [[07 Operations/Metrics]] — Formation metrics to track group and ministry health.
+- [[Biweekly Ministry Review]] — First/third-Monday review procedure; the dashboard queue carries unresolved work and dated reports preserve history.
 - [[Resources Overview]] — Central access to reusable tools while operational instructions remain here.

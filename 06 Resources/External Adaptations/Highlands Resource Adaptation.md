@@ -47,7 +47,7 @@ Each practice was evaluated against:
 | Leaders receive relational support, prayer, practical guidance, and timely escalation. | **Adapt without requiring coaches.** | Paul or another approved leader can provide this support at launch; a formal coaching layer is still unconfirmed. |
 | Support conversations attend to relationship, protection, development, and operational follow-through. | **Adapt in GCC language.** | A balanced check-in can serve leaders without importing a large hierarchy. |
 | Group visits are supportive rather than supervisory inspections. | **Defer as an optional practice.** | Helpful later, but only with leader consent, clear authority, and sufficient capacity. |
-| Ongoing leader development continues after initial training. | **Adapt through CoJourner.** | DEC-041 supplies GCC's approved four-session pathway; a video library is not launch-critical. |
+| Ongoing leader development continues after initial training. | **Adapt through CoJourner.** | DEC-045 supplies GCC's selected four-session biweekly program architecture; a video library is not launch-critical. |
 | Semester preparation, launch, care, and review form a recurring cycle. | **Adapt to GCC's confirmed dates.** | The cycle is transferable; Highlands' annual calendar is not. |
 | Aggregate reporting supports care and planning. | **Adapt minimally.** | GCC should track only useful measures within approved data practices. |
 | A free-market model allows leaders to form groups around personal interests. | **Do not import as a launch model.** | Fall 2026 begins with location-based City Groups. Future activity-based, demographic-based, and other expressions still require GCC-specific approval. |

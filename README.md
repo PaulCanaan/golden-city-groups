@@ -34,7 +34,7 @@ The Decision Log and [Decision History](08%20Archive/Decisions/Decision%20Histor
 
 | Area | Contents |
 |---|---|
-| [`00 Dashboard`](00%20Dashboard/) | Temporary intake, weekly review, current decisions, approvals, next actions, readiness, and launch milestones |
+| [`00 Dashboard`](00%20Dashboard/) | Temporary intake, biweekly review queue, current decisions, approvals, next actions, readiness, and launch milestones |
 | [`01 Governance`](01%20Governance/) | Durable ministry context, theology, model, and launch roadmap |
 | [`02 Group Philosophy`](02%20Group%20Philosophy/) | Mission, formation, healthy groups, and leadership philosophy |
 | [`03 Groups`](03%20Groups/) | City Groups and men's and women's ministry scaffolding |
@@ -43,6 +43,7 @@ The Decision Log and [Decision History](08%20Archive/Decisions/Decision%20Histor
 | [`06 Resources`](06%20Resources/) | Group life and leader-development resources |
 | [`07 Operations`](07%20Operations/) | Calendar, Planning Center, launches, communication, and metrics |
 | [`08 Archive`](08%20Archive/) | Historical decisions, inactive groups, and past programs |
+| [`09 Reports`](09%20Reports/) | Dated biweekly review history; unresolved work remains in the dashboard queue |
 
 ## Working Agreements
 

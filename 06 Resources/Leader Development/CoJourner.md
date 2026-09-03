@@ -2,17 +2,16 @@
 
 ## Document Status
 
-**Approved leader-development pathway; curriculum content and implementation details remain open.** DEC-041 establishes the pathway, four-session structure, and permitted cohort rhythm.
+**Approved group-leader training architecture; source material and implementation details remain open.** DEC-045 establishes the selected program, source ministry, four-session biweekly structure, approximate duration, and Spring 2027 target.
 
 ## Purpose
 
-Form Groups Ministry leaders who are present with people, able to orient them toward Christ and the church, prepared to cultivate faithful growth, and able to participate in healthy multiplication.
+Prepare Golden City Groups leaders before the Spring 2027 group launch through the CoJourner Program developed by The Garden Project Ministry.
 
 ## Audience
 
 - developing Groups Ministry leaders;
-- appointed leaders continuing in formation; and
-- future leaders invited into an approved cohort.
+- current or prospective leaders invited into an approved training cohort.
 
 Participation does not constitute appointment, replace role-specific training, or bypass safeguarding and readiness requirements.
 
@@ -20,24 +19,26 @@ Participation does not constitute appointment, replace role-specific training, o
 
 CoJourner supports leader development across City Groups, Collectives, and Bible Clubs. It provides a shared formation pathway while each branch retains its distinct purpose and role requirements.
 
-## Four Training Sessions
+## Approved Architecture
 
-1. **Presence**
-2. **Orientation**
-3. **Cultivation**
-4. **Multiplication**
+- **Program:** CoJourner
+- **Source:** The Garden Project Ministry
+- **Sessions:** four
+- **Cadence:** biweekly
+- **Duration:** approximately two months
+- **Format:** group-leader collective / training cohort
+- **Strategic target:** completion before the Spring 2027 group launch
 
-These four movements correspond to four training sessions. This page does not develop or approve the curriculum content for those sessions.
+## Details Still Needed
 
-## Training Rhythm
+- session titles and curriculum details;
+- facilitator(s), exact dates, and location;
+- participant requirements, attendance, completion criteria, and assessment;
+- relationship to commissioning;
+- whether Fall 2026 leaders complete all or part of the program; and
+- Planning Center tracking.
 
-Leader cohorts may meet:
-
-- biweekly or monthly;
-- for approximately thirty minutes;
-- over Zoom.
-
-The cohort, cadence, facilitator, Zoom owner, start date, attendance expectation, materials, and completion record remain unresolved.
+Await the promised source-material upload before developing these details.
 
 ## Connections
 

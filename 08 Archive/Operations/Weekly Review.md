@@ -1,22 +1,22 @@
-# Weekly Review
+# Weekly Review — Superseded
 
 ## Document Status
 
-**Reusable operating checklist and review record; not a status dashboard or governing decision record.** Use it to process the vault, prepare the coming week, and keep active documents aligned with ministry reality.
+**Historical operating checklist; superseded September 3, 2026 by the [[07 Operations/Biweekly Ministry Review|Biweekly Ministry Review]].** Do not run this as an active cadence. Its Inbox processing, operational reconciliation, event cleanup, decision follow-up, leader-pipeline review, dashboard refresh, blocker review, and next-action functions now belong to the queue-based biweekly procedure.
 
 ## Review Metadata
 
-- **Week of:** August 17, 2026
+- **Week of:** August 31, 2026
 - **Reviewed by:** Paul
 - **Review status:** Not Started / In Progress / Complete
 
 ## Current Review Emphasis
 
-For the August 17–23 review, keep the working focus narrow:
+For the August 31–September 6 review, keep the working focus narrow:
 
-- [ ] Follow up with potential future group leaders from the August 11 Team Night and August 16 Interest Night.
-- [ ] Help each person connect to a known next step and continue relational support through the September 20 launch.
-- [ ] Prepare the August 25 Team Night to recruit additional potential City Group leaders and hosts.
+- [ ] Reconcile outcomes from the July 28, August 11, August 16, and August 25 events.
+- [ ] Confirm that each prospective leader has an approved workflow stage and known next action in the restricted system.
+- [ ] Prepare the minimum launch-blocking decisions and Planted readiness facts for the September 7 biweekly review.
 
 Current status and dependencies remain in the [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]] and [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]; do not reproduce them here.
 
@@ -40,7 +40,7 @@ Golden City Church exists to see the city fully following Jesus by equipping peo
 
 - [ ] Reconcile potential leaders from the August 11 Team Night and August 16 Interest Night in the approved system.
 - [ ] Review new Planning Center leader-interest forms and other approved interest records.
-- [ ] Confirm each person has received the appropriate acknowledgment or follow-up from the [[07 Operations/Planning & Communication/Communication#Reusable leader communication templates|leader communication templates]].
+- [ ] Confirm each person has received the appropriate acknowledgment or follow-up from the [[07 Operations/Planning & Communication/Communication#Journey Map|Group Leader Communication Library]].
 - [ ] Confirm Group Leader Conversations have been scheduled where appropriate.
 - [ ] Record which interviews are complete in the approved operational system.
 - [ ] Identify potential leaders awaiting connection, support, or an immediate next step.
@@ -63,7 +63,7 @@ For each branch, review current offering or launch status, leader or owner statu
 ## 5. Review Launch and Operations
 
 - [ ] Review and refresh [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] from source evidence; do not mark `Ready` without a supporting link and required approval.
-- [ ] Review the completed August 11 Team Night and August 16 Interest Night follow-up, then prepare the August 25 Team Night in [[07 Operations/Calendar|Calendar]] and [[01 Governance/Launch Roadmap|Launch Roadmap]].
+- [ ] Reconcile the past July 28, August 11, August 16, and August 25 events through the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]; do not infer unrecorded outcomes.
 - [ ] Reconcile detailed gates in [[Launch Checklist]] with the primary launch-control dashboard.
 - [ ] Test or verify approved Planning Center forms and workflows in [[Planning Center Groups]] and [[Forms]].
 - [ ] Review current messages, owners, and follow-up in [[Communication]].
@@ -109,8 +109,9 @@ Record only the minimum non-sensitive reference needed for follow-up. Put confid
 | Priority | Owner | Due | Related Page | Status |
 |---|---|---|---|---|
 | Contact, connect, and support potential future group leaders from August 11 and 16. | Paul | Immediate and ongoing through September 20 | [[00 Dashboard/Launch Readiness Dashboard#D. Leader Interviews and Assessment\|Leader Interviews and Assessment]] | In Progress |
-| Schedule Group Leader Conversations and give each potential leader a known next step. | Paul | Before August 25; ongoing afterward | [[06 Resources/Leader Development/Leader Conversation Guide\|Leader Conversation Guide]] | In Progress |
-| Prepare and test the August 25 Team Night recruitment and follow-up workflow. | Paul | August 25 | [[00 Dashboard/Launch Readiness Dashboard#C. Team Night Execution\|Team Night Execution]] | In Progress |
+| Reconcile past event outcomes and every potential leader's next step. | Paul | September 7 | [[00 Dashboard/Biweekly Review Queue\|Biweekly Review Queue]] | In Progress |
+| Prepare the minimum launch-blocking decisions for Paul and Russ. | Paul with Russ | September 7 | [[00 Dashboard/Staff Decision Brief\|Staff Decision Brief]] | In Progress |
+| Advance Planted's location and operating-readiness package. | Paul and Russ | September 7 review | [[00 Dashboard/Launch Readiness Dashboard#K. Planted Operational Readiness\|Planted Operational Readiness]] | In Progress |
 
 ## 10. Review Completion
 
@@ -129,7 +130,8 @@ Record only the minimum non-sensitive reference needed for follow-up. Put confid
 ## Operating Boundaries
 
 - **[[00 Dashboard/Inbox|Inbox]]:** temporary capture and triage.
-- **Weekly Review:** recurring review workflow and record.
+- **Weekly Review:** superseded historical workflow and record.
+- **[[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]:** persistent carry-forward queue for the first/third-Monday review.
 - **[[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]]:** current priorities, readiness, and operational status.
 - **[[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]:** primary Fall 2026 launch implementation, blocker, ownership, and risk control page.
 - **[[00 Dashboard/Staff Decision Brief|Staff Decision Brief]]:** matters requiring staff discussion or direction.

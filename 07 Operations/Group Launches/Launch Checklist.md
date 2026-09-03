@@ -16,14 +16,17 @@
 - [x] Paul is the operational point person for the ministry and Planning Center.
 - [x] Paul is the August Team Night leader-interest sign-up point person.
 - [x] Paul owns Planning Center form intake, submission organization, initial applicant emails, and interview scheduling under DEC-026.
+- [x] DEC-042 confirms both Group Leader intake triggers, the four Planning Center stages, Groups Director ownership through launch, and actual launch as workflow completion.
 - [x] Paul recommends offering readiness; Russ or his designated pastor gives final approval.
 - [x] Run Club, Youth City Group, and Young Adults Group are deferred ideas rather than required launch offerings.
 
 ## Team Night Follow-Through
 
 - [x] Planning Center form sign-up method and Paul as intake owner are confirmed for the August Team Nights.
+- [ ] Test that both the `Lead a Group` form and the group-leading option on the `Serve Team Interest Form` create or route to the shared workflow.
 - [ ] Review the Team Night host invitation, Planning Center confirmation, and applicant follow-up copy against the approved workflow.
 - [ ] Every submitted expression of leader interest receives Paul's initial follow-up email.
+- [ ] Every prospective leader has one current stage, a responsible owner, an immediate next action, and a due date in Planning Center.
 - [ ] Interest is clearly distinguished from appointment.
 - [ ] Interview and placement records use an approved, privacy-conscious method.
 
@@ -56,7 +59,8 @@
 - [ ] Confirmed descriptions, schedules, locations, capacities, and fall events are entered.
 - [ ] Participant fields, consent, access, correction, retention, and deletion practices are approved.
 - [ ] Public Church Center links, mobile display, notifications, confirmations, and capacity behavior are tested.
-- [ ] Russ grants Paul Squarespace access; after handoff, Paul confirms the website and Church Center display the same approved information.
+- [x] Russ granted Paul Squarespace access by August 28.
+- [ ] Paul confirms the website and Church Center display the same approved information and tested destinations.
 
 ## Commissioning and Launch Readiness
 
@@ -68,6 +72,7 @@
 - [ ] Attendance, event-note, chat, and pastoral-escalation boundaries are included in leader preparation.
 - [ ] Russ or the pastor he designates records final readiness approval after Paul's recommendation.
 - [ ] Deferred offerings are clearly communicated as future rather than active.
+- [ ] After the first gathering occurs, the prospective leader's Workflow Card moves to **Small Group Launched** and the leader-support rhythm begins.
 
 ## Recordkeeping Boundary
 

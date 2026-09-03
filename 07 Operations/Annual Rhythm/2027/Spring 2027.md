@@ -13,7 +13,7 @@ Provide the planning home for expanded intentional leader development and multip
 - fall 2026 offering and leader review
 - fall 2026 host, leader, and offering review
 - three-branch ministry priorities for spring
-- CoJourner cohort, facilitator, biweekly or monthly cadence, Zoom owner, and start date
+- CoJourner source material, cohort, facilitator, exact biweekly dates, location, and start date
 - offering owners and readiness dispositions
 - approved leaders or instructors
 - locations, schedules, capacity, safeguarding, and participant paths
@@ -25,7 +25,7 @@ Provide the planning home for expanded intentional leader development and multip
 - What should continue, change, pause, or close after fall?
 - Which real pastoral needs should City Groups, Collectives, or Bible Clubs serve?
 - What leader and operational capacity actually exists?
-- How should CoJourner's four sessions—Presence, Orientation, Cultivation, and Multiplication—be scheduled without inventing curriculum content?
+- How should CoJourner's four biweekly sessions be scheduled over approximately two months so training finishes before the Spring 2027 group launch?
 - What faithful multiplication practices are appropriate after the fall review?
 - Which decisions require Russ or a designated pastor?
 

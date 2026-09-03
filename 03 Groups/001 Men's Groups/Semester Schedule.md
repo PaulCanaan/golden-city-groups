@@ -9,13 +9,13 @@
 | Milestone | Status |
 |---|---|
 | September 20 church launch | Confirmed church milestone; not the automatic Collective start date |
-| Second and fourth Monday rhythm at 7:00 p.m. | Published baseline under DEC-015; reverify |
-| Location | Awaiting confirmation |
+| First and third Wednesday biweekly rhythm | Confirmed under DEC-043; time TBD |
+| Classroom or suitable venue | Russ is seeking; unresolved |
 | First gathering | Awaiting readiness decision |
 | Final fall gathering | Awaiting schedule confirmation |
 | End-of-season review | Working recommendation |
 
-Do not calculate or publish individual dates until the start window, location, leader, and readiness disposition are confirmed.
+Do not calculate or publish individual dates until the October start date, time, venue, leader-path status, and readiness disposition are confirmed.
 
 ## Source Note
 

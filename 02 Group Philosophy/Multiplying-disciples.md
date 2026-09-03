@@ -20,7 +20,7 @@ Mature disciples increasingly welcome, serve, teach, encourage, witness, and hel
 
 ## Current Boundary
 
-For Fall 2026, the primary objective is to recruit Launch Team members to host City Groups through the confirmed pathway. For Spring 2027, [[CoJourner]] provides the approved leader-development architecture through Presence, Orientation, Cultivation, and Multiplication. A broader apprenticeship model, formal coaching layer, multiplication targets, and process for starting new groups remain future proposals requiring pastoral direction and real ministry capacity.
+For Fall 2026, the primary objective is to recruit Launch Team members to host City Groups through the confirmed pathway. For Spring 2027, [[CoJourner]] provides the selected four-session, biweekly group-leader training architecture over approximately two months. A broader apprenticeship model, formal coaching layer, multiplication targets, and process for starting new groups remain future proposals requiring pastoral direction and real ministry capacity.
 
 ## Source Note
 

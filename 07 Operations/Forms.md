@@ -2,27 +2,28 @@
 
 ## Document Status
 
-**Mixed confirmed and proposed procedure.** DEC-026 confirms the August Team Night leader-interest form owner and initial follow-up workflow. DEC-032 assigns the public participant system to Russ with Paul as backup. Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted; response timing, placement, offering paths, fields, consent, and retention remain open under PRO-026, PRO-027, and PRO-030.
+**Mixed confirmed and proposed procedure.** DEC-042 confirms the two Group Leader intake triggers, the shared Planning Center workflow, and the Groups Director's operational ownership through launch. Paul reported on August 28 that the workflow and documented email automations are configured. DEC-032 assigns the public participant system to Russ with Paul as backup. Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted; response timing, placement, offering paths, fields, consent, and retention remain open under PRO-026, PRO-027, and PRO-030.
 
 ## Purpose
 
 Give each person a clear next step and a timely human response while collecting only the information required to serve them faithfully.
 
-## Two Distinct Intake Paths
+## Two Distinct Intake Purposes
 
-### Internal City Group leader interest
+### Group leader interest
 
-The initial City Group leader pipeline runs through the July 28, August 11, and August 25 Team Nights. The following intake and initial follow-up steps are approved for the August Team Nights under DEC-026:
+Either intake path triggers the same Group Leader workflow:
 
-1. Paul serves as the on-site point person and helps interested Launch Team members access and submit the appropriate Planning Center interest form.
-2. Paul receives the submissions through his Planning Center admin access.
-3. Paul reviews and organizes the submissions.
-4. Paul emails applicants to arrange interviews and communicate immediate next steps without implying appointment.
-5. Applicants move through the standardized interview stage, leader assessment, approval, training, assignment, appointment, and commissioning workflow.
+1. The person submits the `Lead a Group` form; or
+2. the person submits the `Serve Team Interest Form` and selects the group-leading option.
+
+Submission is **Step 0 — Intake Trigger**, not an official workflow stage. The Groups Director receives the notification and/or Workflow Card and moves the person into **Welcome Email / Call**. The canonical stage definitions, actions, and completion conditions are in [[Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]].
+
+For Fall 2026, the initial City Group pipeline remains limited to the Launch Team under DEC-018. The July 28, August 11, and August 25 Team Nights were the confirmed recruitment setting, with Paul serving as on-site point person under DEC-026. The existence of either form does not create a general-public appointment path or imply appointment.
 
 Keep pastoral discernment notes, background-check information, and confidential references out of Planning Center group membership and this repository. Add a candidate as a Planning Center group leader only after approved assessment and appointment.
 
-**Still unresolved:** approved form fields and consent, leader-interest backup coverage, response-time standard, standardized interview format and records, role-specific assessment details, training requirements, role assignment, appointment records, and commissioning. Paul owns interviews, assessment, and training facilitation; Russ retains primary appointment authority.
+**Still unresolved:** approved form fields and consent, live routing/delivery test evidence, leader-interest backup coverage, response-time standard, interview format and records, role-specific assessment details, training completion requirements, role assignment, appointment records, and commissioning. The workflow and email automations no longer need to be designed. Paul owns interviews, assessment, training facilitation, and operational movement through the workflow; Russ retains primary appointment authority.
 
 ### Public participant enrollment
 

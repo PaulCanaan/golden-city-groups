@@ -6,7 +6,9 @@
 
 - [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]] — current actions, readiness, and launch milestones
 - [[00 Dashboard/Inbox|Inbox]] — temporary capture and triage
-- [[00 Dashboard/Weekly Review|Weekly Review]] — recurring ministry operating checklist
+- [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] — unresolved work carried between first/third-Monday reviews
+- [[07 Operations/Biweekly Ministry Review|Biweekly Ministry Review]] — sole recurring review procedure
+- [[09 Reports/Biweekly Reviews/Biweekly Review Index|Biweekly Review Index]] — completed review history
 - [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — visual ministry system
 
 ## Governance

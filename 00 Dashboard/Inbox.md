@@ -39,6 +39,7 @@ The Inbox may temporarily hold conversation notes, Team Night observations, lead
 | Staff decision still needed | [[00 Dashboard/Staff Decision Brief\|Staff Decision Brief]] or the relevant proposal |
 | Current priority or readiness status | [[00 Dashboard/Groups Ministry Dashboard\|Groups Ministry Dashboard]] |
 | Scheduled operational work | [[01 Governance/Launch Roadmap\|Launch Roadmap]], [[07 Operations/Calendar\|Calendar]], a checklist, or the relevant operating document |
+| Operational consequence requiring future review | [[00 Dashboard/Biweekly Review Queue\|Biweekly Review Queue]] after the source item is clarified |
 | Leadership matter | [[Leadership Overview]] or the relevant leader-pipeline material |
 | Ministry-specific content | The relevant City Groups, Collectives, Bible Clubs, or future-ministry page |
 | Reusable resource | [[Resources Overview]] |
@@ -48,7 +49,8 @@ The Inbox may temporarily hold conversation notes, Team Night observations, lead
 ## Operating Boundaries
 
 - **Inbox:** temporary capture and triage.
-- **[[00 Dashboard/Weekly Review|Weekly Review]]:** recurring review workflow.
+- **[[07 Operations/Biweekly Ministry Review|Biweekly Ministry Review]]:** sole recurring review workflow; it processes the Inbox and reconciles canonical sources.
+- **[[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]:** unresolved, review-worthy operational work carried between reviews.
 - **[[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]]:** current priorities, readiness, and operational status.
 - **[[00 Dashboard/Staff Decision Brief|Staff Decision Brief]]:** matters requiring staff discussion or direction.
 - **[[00 Dashboard/Decision Log|Decision Log]]:** approved decisions and current governing direction.

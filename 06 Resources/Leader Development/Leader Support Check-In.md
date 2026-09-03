@@ -74,6 +74,7 @@ Record only approved action items and operational follow-up in the approved syst
 
 ## Connections
 
+- [[07 Operations/Planning & Communication/Communication#Ongoing Leader Support|Group Leader Communication Library — Ongoing Support]] — Canonical email and text check-ins.
 - [[05 Leadership/Group Leaders]] — Approved leaders are the recipients of support.
 - [[05 Leadership/Group Coaches]] — Coaching remains a possible future structure.
 - [[07 Operations/Metrics]] — Aggregate signals may prompt conversation but do not replace it.

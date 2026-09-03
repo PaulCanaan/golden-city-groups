@@ -1,0 +1,4 @@
+interface:
+  display_name: "Complexity Discipline"
+  short_description: "Keep repository changes small and justified"
+  default_prompt: "Use $complexity-discipline to implement or review this repository change with the smallest correct solution."

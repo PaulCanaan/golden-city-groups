@@ -43,7 +43,7 @@
 		{"id":"16f9f16a0a49087f","type":"file","file":"Groups Ministry/03 Groups/002 Women's Groups/Women's Ministry.md","x":230,"y":-310,"width":360,"height":70,"color":"5"},
 		{"id":"ca7154c83bb6f30c","type":"file","file":"Groups Ministry/04 Classes/Classes Overview.md","x":-110,"y":-210,"width":300,"height":70,"color":"5"},
 		{"id":"launch-planted","type":"file","file":"Groups Ministry/04 Classes/Curriculum (Bible Club)/Planted. Bible Study.md","x":230,"y":-210,"width":360,"height":70,"color":"5"},
-		{"id":"collectives-open","type":"text","text":"### Collectives — grow together\nMen's Collective and Women's Collective may mature into broader Men's and Women's Ministries. Each still requires launch-readiness review.","x":-110,"y":-110,"width":700,"height":100,"color":"4"},
+		{"id":"collectives-open","type":"text","text":"### Collectives — grow together\nMen: first/third Wednesdays · Conner + Russ intended\nWomen: second/fourth Wednesdays · Rachel + Miranda intended\nOctober target; venue, times, appointments, and readiness open.","x":-110,"y":-110,"width":700,"height":100,"color":"4"},
 		{"id":"launch-public-extra","type":"text","text":"## Deferred Ideas\nRun Club · Youth City Group · Young Adults Group\n\n**Not required for the initial Groups Ministry launch.**","x":-110,"y":10,"width":700,"height":100,"color":"6"},
 		{"id":"launch-status","type":"text","text":"## Launch Status Rule\nA public listing confirms communication—not staffing, readiness, or ministry ownership. Every offering still needs an accountable leader, approved location or host, capacity, safeguarding, and a truthful participant next step.","x":-110,"y":130,"width":700,"height":150,"color":"5"},
 		{"id":"54e0fd8a0981d2c7","type":"file","file":"Groups Ministry/04 Classes/Curriculum (Bible Club)/Curriculum Overview.md","x":-110,"y":320,"width":300,"height":70},
@@ -56,12 +56,12 @@
 		{"id":"readiness-training","type":"file","file":"Groups Ministry/06 Resources/Leader Development/Leader Training.md","x":1170,"y":-410,"width":360,"height":70,"color":"6"},
 		{"id":"7ffd3c8fe1184ca1","type":"file","file":"Groups Ministry/07 Operations/Operation Overview.md","x":820,"y":-300,"width":310,"height":70,"color":"6"},
 		{"id":"a28c1c1e4aa3ab73","type":"file","file":"Groups Ministry/07 Operations/Planning & Communication/Semester Planning.md","x":1170,"y":-300,"width":360,"height":70,"color":"6"},
-		{"id":"readiness-blockers","type":"text","text":"## Remaining Launch Blockers\n- Active offering leaders and readiness dispositions\n- Training dates, assignments, and commissioning\n- Hosts or locations and capacity\n- Planted Notion publishing and separate operational readiness\n- Safeguarding policy, escalation contacts, and data governance\n- Planning Center permissions, enrollment workflow, and Church Center accuracy","x":820,"y":-180,"width":710,"height":300,"color":"6"},
+		{"id":"readiness-blockers","type":"text","text":"## Remaining Launch Blockers\n- Active offering appointments and readiness dispositions\n- Fall training, assignments, and commissioning\n- October venue, times, and capacity\n- Planted Notion publishing and separate operational readiness\n- Safeguarding policy, escalation contacts, and data governance\n- Participant paths, permissions, and Church Center accuracy","x":820,"y":-180,"width":710,"height":300,"color":"6"},
 		{"id":"readiness-rule","type":"text","text":"## Readiness Rule\nNothing moves from **planned** to **launch-ready** until its pastoral, leadership, location, capacity, safeguarding, communication, and participant-path gates are complete.","x":820,"y":170,"width":710,"height":170,"color":"6"},
 		{"id":"future-how-to","type":"text","text":"## How Future Ideas Branch\n1. Add the idea in this zone.\n2. Label it **Idea**, **Open Question**, or **Proposed**.\n3. Connect it to the ministry need it may serve.\n4. Move it left only after pastoral direction and a Decision Log entry.\n\nFuture space is valuable—but it must not masquerade as current ministry.","x":1760,"y":-640,"width":840,"height":240,"color":"5"},
 		{"id":"future-groups","type":"text","text":"## Future City Group Expressions\n- Home groups\n- Activity-based groups\n- Demographic-based groups\n- Other approved expressions\n\n**Path approved · offerings inactive**","x":1760,"y":-350,"width":260,"height":260,"color":"5"},
 		{"id":"future-classes","type":"text","text":"## Future Bible Clubs & Classes\n- Bible book studies\n- Financial Classes\n- Marriage Classes\n- Freedom Groups under GCC umbrella\n\n**Future · not launch offerings**","x":2050,"y":-350,"width":260,"height":260,"color":"5"},
-		{"id":"future-leadership","type":"text","text":"## Leader Development\n- CoJourner\n- Presence · Orientation\n- Cultivation · Multiplication\n- Four sessions\n- Biweekly or monthly Zoom cohort\n\n**Approved · details pending**","x":2340,"y":-350,"width":260,"height":260,"color":"5"},
+		{"id":"future-leadership","type":"text","text":"## Leader Development\n- CoJourner\n- The Garden Project Ministry\n- Four sessions\n- Biweekly · about two months\n- Before Spring 2027 launch\n\n**Approved architecture · details pending**","x":2340,"y":-350,"width":260,"height":260,"color":"5"},
 		{"id":"dc16440c228f5cfe","type":"file","file":"Groups Ministry/04 Classes/Recurring Classes.md","x":1760,"y":-40,"width":260,"height":70},
 		{"id":"87139e58c11397ad","type":"file","file":"Groups Ministry/04 Classes/Seasonal Classes.md","x":2050,"y":-40,"width":260,"height":70},
 		{"id":"06098d3c1ca3ccc8","type":"file","file":"Groups Ministry/06 Resources/Group Life/Discipleship.md","x":2340,"y":-40,"width":260,"height":70},
@@ -74,7 +74,7 @@
 		{"id":"archive-note","type":"text","text":"The Archive preserves full decision history and retired ministry content. Archived decisions remain governing unless a later decision supersedes them; archived briefs are historical records.","x":-1840,"y":950,"width":540,"height":100},
 		{"id":"archive-decisions","type":"file","file":"Groups Ministry/08 Archive/Decisions/Decision History.md","x":-1840,"y":1080,"width":540,"height":70},
 		{"id":"operating-inbox","type":"file","file":"Groups Ministry/00 Dashboard/Inbox.md","x":-1110,"y":580,"width":240,"height":60,"color":"3"},
-		{"id":"operating-weekly-review","type":"file","file":"Groups Ministry/00 Dashboard/Weekly Review.md","x":-830,"y":580,"width":220,"height":60,"color":"3"},
+		{"id":"operating-biweekly-review","type":"file","file":"Groups Ministry/07 Operations/Biweekly Ministry Review.md","x":-830,"y":580,"width":220,"height":60,"color":"3"},
 		{"id":"operating-dashboard","type":"file","file":"Groups Ministry/00 Dashboard/Groups Ministry Dashboard.md","x":-570,"y":580,"width":240,"height":60,"color":"3"}
 	],
 	"edges":[
@@ -125,7 +125,7 @@
 		{"id":"edge-archive-inactive","fromNode":"ad4ec70e94e0d010","fromSide":"bottom","toNode":"4e1ac3d45dc02713","toSide":"top"},
 		{"id":"edge-archive-past","fromNode":"ad4ec70e94e0d010","fromSide":"bottom","toNode":"5c048fda245146a4","toSide":"top"},
 		{"id":"edge-archive-decisions","fromNode":"ad4ec70e94e0d010","fromSide":"bottom","toNode":"archive-decisions","toSide":"top"},
-		{"id":"edge-inbox-weekly-review","fromNode":"operating-inbox","fromSide":"right","toNode":"operating-weekly-review","toSide":"left","label":"process and file"},
-		{"id":"edge-weekly-review-dashboard","fromNode":"operating-weekly-review","fromSide":"right","toNode":"operating-dashboard","toSide":"left","label":"reconcile current status"}
+		{"id":"edge-inbox-biweekly-review","fromNode":"operating-inbox","fromSide":"right","toNode":"operating-biweekly-review","toSide":"left","label":"process and file"},
+		{"id":"edge-biweekly-review-dashboard","fromNode":"operating-biweekly-review","fromSide":"right","toNode":"operating-dashboard","toSide":"left","label":"reconcile current status"}
 	]
 }

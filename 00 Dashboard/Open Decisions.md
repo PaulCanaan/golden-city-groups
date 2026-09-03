@@ -8,10 +8,10 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 
 ## Leadership
 
-### Leader Interview, Assessment, Training, Appointment, and Commissioning
+### Leader Workflow Implementation Details
 
-- **Question:** What role-specific interview format, duration, assessment records, training dates and completion requirements, assignments, appointment record, correction and removal process, and commissioning practice will implement DEC-027 and DEC-031?
-- **Why unresolved:** DEC-027 approves the minimum standard and DEC-031 assigns interviews, assessment, and training facilitation, but the implementation details remain open.
+- **Question:** What interview format and records, role-specific assessment criteria, training dates and completion requirements, assignments, appointment record, correction and removal process, and commissioning practice will complete the workflow governed by DEC-042?
+- **Why unresolved:** DEC-042 resolves the intake triggers, four Planning Center stages, ownership, and completion point. DEC-027 and DEC-031 establish the minimum standard and ownership, but these implementation details remain open.
 - **Blocking impact:** Launch-blocking for City Groups.
 - **Expected decision owner:** Paul develops and facilitates the process; Russ retains primary-leader appointment authority.
 - **Sources:** [[Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan|PRO-029]], [[08 Archive/Decisions/Decision History#OQ-005 — Leadership Standards and Discernment|OQ-005]].
@@ -24,20 +24,20 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 - **Expected decision owner:** Russ.
 - **Sources:** [[01 Governance/Ministry Context#Open Context Questions|Ministry Context]], [[08 Archive/Decisions/Decision History#DEC-021 — Ministry Authority and Final Readiness Approval|DEC-021]].
 
-### CoJourner Cohort Implementation
+### CoJourner Implementation and Fall Relationship
 
-- **Question:** When will the first cohort begin, who will participate, will it meet biweekly or monthly, who owns Zoom and facilitation, and how will it relate to launch-specific training?
-- **Why unresolved:** DEC-041 approves the four-session pathway and permitted rhythms but not a cohort, cadence, dates, or curriculum content.
-- **Blocking impact:** It affects Spring 2027 leader-development planning; CoJourner does not replace fall role-specific launch training.
+- **Question:** After source material is uploaded, who will facilitate the four-session biweekly cohort, what exact dates/location and completion criteria will apply, how will progress be tracked, and must any Fall 2026 leaders complete all or part of it?
+- **Why unresolved:** DEC-045 approves CoJourner from The Garden Project Ministry as the four-session biweekly program to complete before the Spring 2027 group launch. It does not settle curriculum or implementation details or apply the program retroactively to Fall leaders.
+- **Blocking impact:** It affects Spring 2027 leader-development planning. Fall 2026 still requires transitional role-specific preparation, but no CoJourner requirement is inferred.
 - **Expected decision owner:** Paul with Russ.
-- **Sources:** [[01 Governance/Launch Roadmap#Spring 2027 Direction|Launch Roadmap]], [[08 Archive/Decisions/Decision History#DEC-041 — CoJourner Leader-Development Pathway|DEC-041]].
+- **Sources:** [[01 Governance/Launch Roadmap#Spring 2027 Direction|Launch Roadmap]], [[08 Archive/Decisions/Decision History#DEC-045 — CoJourner Group-Leader Training Architecture|DEC-045]].
 
 ## Launch Readiness
 
 ### Offering Readiness
 
-- **Question:** Which City Groups, Collectives, and Bible Clubs will launch, and who are their primary leaders, escalation contacts, locations, rhythms, capacities, participant paths, and readiness dispositions?
-- **Why unresolved:** DEC-029 assigns operational owners but does not name all leaders, contacts, or Launch / Develop / Defer outcomes.
+- **Question:** Which City Groups, Collectives, and Bible Clubs will launch, and what remaining leader approvals, escalation contacts, locations, times, start dates, capacities, participant paths, and readiness dispositions apply?
+- **Why unresolved:** DEC-043–044 establish Collective cadences and intended co-leads, but expressed interest is not appointment. DEC-029 assigns operational owners without completing these offering-level gates.
 - **Blocking impact:** Launch-blocking for each offering.
 - **Expected decision owner:** Assigned operational owners prepare readiness; staff and pastoral leadership decide the remaining items within DEC-021.
 - **Sources:** [[Staff Decision Brief#PRO-027 — Active Offering Ownership and Readiness|PRO-027]], [[08 Archive/Decisions/Decision History#OQ-003 — Launch-Ready Group Expressions|OQ-003]].
@@ -95,12 +95,12 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 - **Expected decision owner:** Russ, with Paul as backup.
 - **Sources:** [[Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance|PRO-030]], [[08 Archive/Decisions/Decision History#OQ-007 — Sign-Up and Placement|OQ-007]], [[08 Archive/Decisions/Decision History#OQ-012 — Participant Data Governance|OQ-012]], [[08 Archive/Decisions/Decision History#OQ-016 — Public Groups Page Participant Paths|OQ-016]].
 
-### Squarespace Access and Review Workflow
+### Groups Webpage Review and Publication
 
-- **Question:** When will Russ grant Paul Squarespace access, and what review workflow will govern maintenance of approved Groups Ministry pages afterward?
-- **Why unresolved:** DEC-037 approves the conditional handoff, but access has not been recorded as granted and the review workflow is not established.
-- **Blocking impact:** No separate launch-blocking designation is recorded; Paul cannot assume page maintenance before access is granted.
-- **Expected decision owner:** Russ grants access; Paul maintains the pages after the handoff.
+- **Question:** What review workflow will govern Paul's implementation and publication of material changes to `goldencity.church/groups`?
+- **Why unresolved:** Squarespace access is resolved and Paul owns implementation, but the review path for material changes is not established.
+- **Blocking impact:** Access no longer blocks work; content, offering readiness, links, and material-change approval can still block publication.
+- **Expected decision owner:** Paul implements; Russ or the appropriate pastoral reviewer confirms the review boundary.
 - **Sources:** [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership|DEC-037]], [[01 Governance/Launch Roadmap#Communication|Launch Roadmap]].
 
 ## Communication

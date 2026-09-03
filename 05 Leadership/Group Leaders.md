@@ -2,19 +2,17 @@
 
 ## Document Status
 
-**Initial pipeline confirmed; individual leaders not yet recorded.** Initial City Group leaders will be prayerfully identified, invited, discerned, and trained from among the Launch Team. Team Night sign-up expresses interest and availability but does not constitute appointment.
+**Intake-to-launch workflow confirmed; individual leaders not yet recorded.** DEC-042 governs the Planning Center stage lifecycle. Initial Fall 2026 City Group leaders will be prayerfully identified, invited, discerned, and trained from among the Launch Team. Form submission expresses interest and availability but does not constitute appointment.
 
 ## Current Selection Sequence
 
-1. City Group vision and leader-interest sign-ups at the July 28, August 11, and August 25 Team Nights
-2. During the August Team Nights, Paul helps interested Launch Team members submit the Planning Center form.
-3. Paul receives, reviews, and organizes submissions, then emails applicants to arrange interviews and communicate immediate next steps.
-4. Paul conducts interviews and assessment under DEC-031 and the approved minimum standard in DEC-027.
-5. Approved candidates enter and complete the required training process.
-6. Staff completes group assignment and readiness review.
-7. Primary leaders receive explicit appointment and are commissioned before public service.
+0. The `Lead a Group` form or the group-leading option on the `Serve Team Interest Form` triggers the shared Planning Center workflow.
+1. **Welcome Email / Call:** the Groups Director acknowledges the interest and arranges a Group Leader Conversation.
+2. **Interviewed:** the conversation occurs and the permitted outcome and next action are recorded.
+3. **Attended Training:** required attendance is recorded; the approved completion standard must still be met before the person is treated as trained.
+4. **Small Group Launched:** the workflow completes only after the assigned group has actually begun meeting.
 
-Steps 2–4 and Paul's training-facilitator role are approved under DEC-026, DEC-027, and DEC-031. Training details, assignments, appointment records, and commissioning remain approval-dependent. Russ or his designated pastor retains primary appointment authority.
+The canonical entry, exit, owner, communication, and resource guidance is in [[Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]]. Assignment, appointment, and readiness actions occur within the path toward launch but are not separate Planning Center stages. Training details, assignments, appointment records, and commissioning remain approval-dependent. Russ or his designated pastor retains primary appointment and final-readiness authority.
 
 ## Responsibilities and Expectations
 

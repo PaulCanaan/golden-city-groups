@@ -4,19 +4,23 @@ Connected to [[Semester Planning]] and [[07 Operations/Calendar]]
 
 ## Document Status
 
-**Confirmed initial recruitment context; later launch stages planned.** The Launch Team and three Team Nights govern the initial City Group leader pipeline. This document does not establish leader appointments, training dates, assignments, or commissioning details.
+**Confirmed intake-to-launch lifecycle; offering details remain incomplete.** DEC-042 governs the Planning Center leader workflow, while the Launch Team and three Team Nights govern the initial Fall 2026 recruitment context. This document does not establish leader appointments, training dates, assignments, or commissioning details.
 
 ## Fall 2026 Sequence
 
 1. **Confirmed:** Pre-launch gatherings form the Launch Team.
-2. **Confirmed:** July 28, August 11, and August 25 Team Nights provide City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation.
-3. **Approved for August Team Nights:** Paul helps interested Launch Team members submit the Planning Center form, owns intake, and emails applicants to arrange interviews and communicate immediate next steps.
-4. **Partially confirmed:** Paul owns a standardized interview stage and leader assessment within DEC-027; format, records, and role-specific criteria remain open.
-5. **Planned:** Leader training.
+2. **Confirmed schedule:** July 28, August 11, and August 25 Team Nights were planned to provide City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation; actual outcomes require reconciliation.
+3. **Confirmed workflow:** Either approved group-leader intake path triggers **Welcome Email / Call**; Paul owns follow-up and invites the person to a Group Leader Conversation.
+4. **Confirmed stage:** After the conversation, the card moves to **Interviewed**; format, records, and role-specific criteria remain open.
+5. **Confirmed stage:** Required training attendance moves the card to **Attended Training**; curriculum and completion requirements remain open.
 6. **Planned:** Group assignments, hosts or locations, and capacity confirmation.
 7. **Planned; awaiting pastoral direction:** Leader appointment and commissioning.
 8. **Confirmed:** Golden City Church launches publicly September 20.
-9. **Planned:** Launch-ready groups begin in the approved fall ministry window.
+9. **Confirmed workflow completion; launch timing still requires approval:** After a launch-ready group actually begins meeting, the card moves to **Small Group Launched**.
+
+The shared Planning Center workflow and documented email automations are configured. Live use, candidate-stage reconciliation, testing, and all appointment/readiness gates remain separate.
+
+Collectives and Bible Clubs have an October 2026 readiness target. Men's Collective uses a first/third-Wednesday cadence and Women's Collective a second/fourth-Wednesday cadence; exact starts, times, venue, and final readiness remain open. Russ owns venue acquisition, and Paul owns downstream operational setup after confirmation.
 
 Public leadership pathways may be developed later but are not part of the initial pre-launch recruitment process.
 
