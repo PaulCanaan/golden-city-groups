@@ -1,0 +1,31 @@
+filters:
+  and:
+    - file.inFolder("11 Database/People Database/People")
+    - record_type == "group-leader"
+    - leader_status == "Current"
+properties:
+  file.name:
+    displayName: Name
+  group_interest:
+    displayName: Group Interest
+  email:
+    displayName: Email
+  phone:
+    displayName: Phone
+  workflow_stage:
+    displayName: Workflow Stage
+  last_contact:
+    displayName: Last Contact
+views:
+  - type: table
+    name: Current Leaders
+    order:
+      - file.name
+      - group_interest
+      - email
+      - phone
+      - workflow_stage
+      - last_contact
+    sort:
+      - property: file.name
+        direction: ASC

@@ -20,6 +20,8 @@ Practical resources for hospitable, Scripture-centered, prayerful, and formative
 - [[Discipleship]] — notice relational next steps through Belonging, Beholding, and Becoming
 - [[Conflict]] — respond to difficult conversations and know when to escalate
 - [[Icebreakers]] — optional, low-pressure conversation prompts
+- [[Weekly Recaps]] — optional weekend-message discussion resource for City Groups
+- [[Prayer Requests]] — privacy-conscious prayer-request guidance and escalation boundaries
 
 ### Leader Development
 
@@ -30,6 +32,7 @@ Resources for discerning, preparing, and supporting approved leaders:
 - [[CoJourner]] — approved four-session pathway for ongoing leader development
 - [[First Meetings Checklist]] — preparation before, during, and after a group's first gatherings
 - [[Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
+- [[Collective Leader Guide]] — shared role companion for approved Men's and Women's Collective leaders
 - [[Policies]] — approved minimum group boundaries with church-wide policy implementation still open
 - [[Safeguarding and Escalation Resource Gap Audit]] — evidence, policy-location, escalation, data, and launch-blocker audit for pastoral review
 
@@ -55,9 +58,9 @@ Bible Club and future Class resources remain with the curriculum they support so
 Future Classes may provide topic-based equipping under Bible Clubs while holding intellectual and spiritual formation together. Resources should be adapted to the confirmed purpose of the three branches rather than copied unchanged across City Groups, Collectives, and Bible Clubs.
 
 - [[Curriculum Overview]] — entry point for the current curriculum library
-- [[Planted. Bible Study]] — confirmed twelve-week Bible Club beginning October 6, 2026, led by Paul; final readiness remains open
-- [[God With Us]] — curriculum scaffold
-- [[Covenant, Kingdom, People of God]] — curriculum scaffold
+- [[04 Classes/Curriculum/Planted Bible Study]] — confirmed twelve-week Bible Club beginning October 6, 2026, led by Paul; final readiness remains open
+- [[08 Archive/Classes/God With Us|God With Us]] — archived unapproved curriculum scaffold
+- [[08 Archive/Classes/Covenant, Kingdom, People of God|Covenant, Kingdom, People of God]] — archived unapproved curriculum scaffold
 
 Future biblical, systematic, or applied theology libraries should be created only when approved content exists. Empty subject folders are not maintained as placeholders.
 

@@ -109,10 +109,10 @@ Near the top, list three to five matters derived from launch-critical queue item
 
 | Ministry environment | Canonical source | Reviewed this cycle |
 |---|---|---|
-| City Groups | [[03 Groups/003 City Groups/City Groups Overview\|City Groups Overview]] | [ ] |
-| Men's Collective | [[03 Groups/001 Men's Groups/Men's Ministry\|Men's Ministry]] | [ ] |
-| Women's Collective | [[03 Groups/002 Women's Groups/Women's Ministry\|Women's Ministry]] | [ ] |
-| Bible Clubs / Planted | [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together\|Ministry Model — Bible Clubs]] and [[Planted. Bible Study]] | [ ] |
+| City Groups | [[03 Groups/City Groups/City Groups Overview\|City Groups Overview]] | [ ] |
+| Men's Collective | [[03 Groups/Collectives/Men's Collective\|Men's Collective]] | [ ] |
+| Women's Collective | [[03 Groups/Collectives/Women's Collective\|Women's Collective]] | [ ] |
+| Bible Clubs / Planted | [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together\|Ministry Model — Bible Clubs]] and [[04 Classes/Curriculum/Planted Bible Study]] | [ ] |
 | Classes / future ministry | [[04 Classes/Classes Overview\|Classes Overview]] and [[03 Groups/Groups Overview#Future Ministry\|Groups Overview — Future Ministry]] | [ ] |
 
 This matrix records inspection, not offering readiness.

@@ -2,7 +2,11 @@
 
 ## Document Status
 
-**Approved future development path under Bible Clubs; no Class offering is currently active or approved for launch.** Planted is a Bible Club, not a Class.
+**Bible Club-first curriculum and ministry-development home.** Bible Clubs are a current Groups Ministry branch. Teacher-led Classes remain an approved future development path under Bible Clubs; no Class offering is currently active or approved for launch. This folder does not establish a fourth ministry branch.
+
+## Current Focus — Bible Clubs
+
+Bible Clubs are facilitator-led gatherings that study a book or section of Scripture. [[04 Classes/Curriculum/Planted Bible Study|Planted]] is the first confirmed Bible Club offering. Its curriculum is approved, while its operational readiness remains governed by the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]], [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Annual Rhythm]], and Planning Center.
 
 ## Ministry Emphasis
 
@@ -17,21 +21,18 @@ Financial classes and marriage classes are approved examples of possible future 
 
 ## Curriculum
 
-- [[Curriculum Overview]]
-- [[04 Classes/Recurring Classes]]
-- [[04 Classes/Seasonal Classes]]
+- [[04 Classes/Curriculum/Curriculum Overview|Curriculum Overview]]
+- [[04 Classes/Curriculum/Planted Bible Study|Planted Bible Study]]
 
 ## Archive
 
-- [[04 Classes/Classes Archive]]
+- [[08 Archive/Classes/Classes Archive|Classes Archive]]
 
 ## Connections
 
 - [[Home]] — Classes appear as future development under Bible Clubs, not as a current top-level branch.
-- [[Curriculum Overview]] — Core curriculum taught by class instructors.
-- [[04 Classes/Recurring Classes]] — Classes that run on a regular schedule each semester.
-- [[04 Classes/Seasonal Classes]] — Classes offered during specific seasons of the year.
-- [[04 Classes/Classes Archive]] — Retired or past class content preserved for reference.
+- [[04 Classes/Curriculum/Curriculum Overview|Curriculum Overview]] — Bible Club curriculum and future Class development.
+- [[08 Archive/Classes/Classes Archive|Classes Archive]] — Retired or superseded Class planning preserved for reference.
 - [[Leadership Overview]] — Class instructors are part of the broader leadership structure.
 - [[05 Leadership/Class Instructors]] — Shared minimum standards are confirmed; Class assignments remain open.
 - [[Resources Overview]] — Central access to class curriculum and shared ministry resources.

@@ -44,13 +44,12 @@ Broader public leadership pathways may be developed after launch. The initial in
 - [[Leader Training]]
 - [[First Meetings Checklist]]
 - [[Leader Support Check-In]]
-- [[05 Leadership/Group Coaches]]
 
 ## Connections
 
 - [[Leadership Overview]] — Governs the initial Launch Team pathway and status of leadership roles.
 - [[Leader Training]] — Planned training for candidates who have been discerned and invited.
-- [[05 Leadership/Group Coaches]] — Possible future support; no coaching assignments are confirmed.
+- [[Leader Support Check-In]] — Current support guidance without a formal coaching structure.
 - [[City Groups Overview]] — Describes the confirmed City Group model and pending launch expressions.
 - [[Weekly Recaps]] — Optional weekend-message discussion resource for City Groups.
 - [[Groups Overview]] — Places City Group leadership within the wider planned ministry.

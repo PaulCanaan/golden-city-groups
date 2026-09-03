@@ -139,7 +139,7 @@ The completion standard remains pending. At minimum, an approved standard should
 - [[05 Leadership/Group Leaders]] — Initial candidates come through the Launch Team and Team Night pathway.
 - [[CoJourner]] — Shared four-session pathway for ongoing leader development.
 - [[05 Leadership/Hosts]] — Host training remains conditional on approval of the role and its requirements.
-- [[05 Leadership/Group Coaches]] — Coach training is deferred unless a coaching layer is approved.
+- [[08 Archive/Legacy Group Scaffolds/Group Coaches]] — Coach training is deferred unless a coaching layer is approved.
 - [[Values]] — Church values shape the content and priorities of leader training.
 - [[02 Group Philosophy/Formation Framework/Belonging, Beholding, Becoming]] — Training forms leaders through the Belonging → Beholding → Becoming framework.
 - [[Planning Center Groups]] — Defines the platform workflow, permissions, and approval-dependent settings leaders must understand.

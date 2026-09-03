@@ -1,0 +1,132 @@
+filters:
+  and:
+    - file.inFolder("11 Database/People Database/People")
+    - record_type == "group-leader"
+formulas:
+  stage_order: if(workflow_stage == "Welcome email / call", 1, if(workflow_stage == "Interviewed", 2, if(workflow_stage == "Attended Training", 3, if(workflow_stage == "Small Group Launched", 4, 99))))
+properties:
+  file.name:
+    displayName: Name
+  workflow_stage:
+    displayName: Workflow Stage
+  status:
+    displayName: Status
+  leader_status:
+    displayName: Leader Status
+  group_interest:
+    displayName: Group Interest
+  email:
+    displayName: Email
+  phone:
+    displayName: Phone
+  interest_date:
+    displayName: Interest Date
+  interview_date:
+    displayName: Interview Date
+  training_date:
+    displayName: Training Date
+  launch_date:
+    displayName: Launch Date
+  next_action:
+    displayName: Next Action
+  next_action_date:
+    displayName: Next Action Date
+  last_contact:
+    displayName: Last Contact
+  owner:
+    displayName: Owner
+  planning_center_url:
+    displayName: Planning Center
+views:
+  - type: table
+    name: All Leaders
+    order:
+      - file.name
+      - workflow_stage
+      - status
+      - leader_status
+      - group_interest
+      - email
+      - phone
+      - next_action
+      - next_action_date
+      - last_contact
+    sort:
+      - property: formula.stage_order
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Needs Action
+    filters:
+      and:
+        - status == "Active"
+        - next_action
+    order:
+      - file.name
+      - workflow_stage
+      - next_action
+      - next_action_date
+      - last_contact
+      - owner
+    sort:
+      - property: next_action_date
+        direction: ASC
+  - type: table
+    name: Welcome email / call
+    filters:
+      and:
+        - workflow_stage == "Welcome email / call"
+    order:
+      - file.name
+      - group_interest
+      - next_action
+      - next_action_date
+      - last_contact
+      - owner
+  - type: table
+    name: Interviewed
+    filters:
+      and:
+        - workflow_stage == "Interviewed"
+    order:
+      - file.name
+      - group_interest
+      - interview_date
+      - next_action
+      - next_action_date
+      - owner
+  - type: table
+    name: Attended Training
+    filters:
+      and:
+        - workflow_stage == "Attended Training"
+    order:
+      - file.name
+      - group_interest
+      - training_date
+      - next_action
+      - next_action_date
+      - owner
+  - type: table
+    name: Small Group Launched
+    filters:
+      and:
+        - workflow_stage == "Small Group Launched"
+    order:
+      - file.name
+      - group_interest
+      - launch_date
+      - next_action
+      - owner
+  - type: table
+    name: Completed
+    filters:
+      and:
+        - status == "Completed"
+    order:
+      - file.name
+      - group_interest
+      - launch_date
+      - last_contact
+      - owner

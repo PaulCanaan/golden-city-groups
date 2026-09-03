@@ -27,6 +27,6 @@ DEC-027 now governs the shared minimum standard for instructors, hosts, and lead
 ## Connections
 
 - [[Classes Overview]] — Defines the purpose and formation emphasis of Classes.
-- [[Planted. Bible Study]] — Confirmed Bible Club led by Paul; retained here only as related curriculum and role context.
+- [[04 Classes/Curriculum/Planted Bible Study]] — Confirmed Bible Club led by Paul; retained here only as related curriculum and role context.
 - [[Leadership Overview]] — Places instructors within the wider ministry leadership structure.
 - [[Leader Training]] — Some shared preparation may apply after instructor standards are approved.

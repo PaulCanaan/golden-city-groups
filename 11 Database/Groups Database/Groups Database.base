@@ -1,0 +1,84 @@
+filters:
+  and:
+    - file.inFolder("11 Database/Groups Database/Groups")
+properties:
+  file.name:
+    displayName: Group Name
+  branch:
+    displayName: Branch
+  group_status:
+    displayName: Group Status
+  leaders:
+    displayName: Leaders
+  location_area:
+    displayName: Location Area
+  meeting_day:
+    displayName: Meeting Day
+  meeting_time:
+    displayName: Meeting Time
+  launch_date:
+    displayName: Launch Date
+  planning_center_url:
+    displayName: Planning Center
+views:
+  - type: table
+    name: All Groups
+    order:
+      - file.name
+      - branch
+      - group_status
+      - leaders
+      - location_area
+      - meeting_day
+      - meeting_time
+      - launch_date
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: City Groups
+    filters:
+      and:
+        - branch == "City Groups"
+    order:
+      - file.name
+      - group_status
+      - leaders
+      - location_area
+      - meeting_day
+      - meeting_time
+  - type: table
+    name: Collectives
+    filters:
+      and:
+        - branch == "Collectives"
+    order:
+      - file.name
+      - group_status
+      - leaders
+      - meeting_day
+      - meeting_time
+  - type: table
+    name: Bible Clubs
+    filters:
+      and:
+        - branch == "Bible Clubs"
+    order:
+      - file.name
+      - group_status
+      - leaders
+      - location_area
+      - meeting_day
+      - meeting_time
+  - type: table
+    name: Active Groups
+    filters:
+      and:
+        - group_status == "Active"
+    order:
+      - file.name
+      - branch
+      - leaders
+      - location_area
+      - meeting_day
+      - meeting_time

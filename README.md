@@ -37,13 +37,15 @@ The Decision Log and [Decision History](08%20Archive/Decisions/Decision%20Histor
 | [`00 Dashboard`](00%20Dashboard/) | Temporary intake, biweekly review queue, current decisions, approvals, next actions, readiness, and launch milestones |
 | [`01 Governance`](01%20Governance/) | Durable ministry context, theology, model, and launch roadmap |
 | [`02 Group Philosophy`](02%20Group%20Philosophy/) | Mission, formation, healthy groups, and leadership philosophy |
-| [`03 Groups`](03%20Groups/) | City Groups and men's and women's ministry scaffolding |
-| [`04 Classes`](04%20Classes/) | Bible Club curriculum and future Class planning; not a current fourth branch |
-| [`05 Leadership`](05%20Leadership/) | Leaders, hosts, coaches, and instructors |
+| [`03 Groups`](03%20Groups/) | City Groups and Collectives ministry-environment documentation |
+| [`04 Classes`](04%20Classes/) | Bible Club-first curriculum and development, with future Classes under Bible Clubs; not a current fourth branch |
+| [`05 Leadership`](05%20Leadership/) | Leader, host, and instructor role and authority documentation |
 | [`06 Resources`](06%20Resources/) | Group life and leader-development resources |
 | [`07 Operations`](07%20Operations/) | Calendar, Planning Center, launches, communication, and metrics |
 | [`08 Archive`](08%20Archive/) | Historical decisions, inactive groups, and past programs |
 | [`09 Reports`](09%20Reports/) | Dated biweekly review history; unresolved work remains in the dashboard queue |
+| [`10 Templates`](10%20Templates/) | Reusable communication, gathering, and record patterns |
+| [`11 Database`](11%20Database/) | Non-sensitive ministry working views and ignored local records; Planning Center remains operationally authoritative |
 
 ## Working Agreements
 
