@@ -1,8 +1,10 @@
 filters:
   and:
-    - file.inFolder("11 Database/People Database/People")
+    - file.inFolder("Groups Ministry/11 Database/People Database/All Leaders") || file.inFolder("11 Database/People Database/All Leaders")
+    - file.ext == "md"
     - record_type == "group-leader"
 formulas:
+  assigned_groups: file.backlinks.map(file(value)).filter(value && (value.inFolder("Groups Ministry/11 Database/Groups Database/All Groups") || value.inFolder("11 Database/Groups Database/All Groups")) && value.properties.record_type == "group" && list(value.properties.leaders).contains(file)).map(value.asLink())
   stage_order: if(workflow_stage == "Welcome email / call", 1, if(workflow_stage == "Interviewed", 2, if(workflow_stage == "Attended Training", 3, if(workflow_stage == "Small Group Launched", 4, 99))))
 properties:
   file.name:
@@ -15,6 +17,10 @@ properties:
     displayName: Leader Status
   group_interest:
     displayName: Group Interest
+  formula.assigned_groups:
+    displayName: Assigned Groups
+  leading_group:
+    displayName: Leading Group Note
   email:
     displayName: Email
   phone:
@@ -45,6 +51,7 @@ views:
       - workflow_stage
       - status
       - leader_status
+      - formula.assigned_groups
       - group_interest
       - email
       - phone

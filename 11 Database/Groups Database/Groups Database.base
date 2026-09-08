@@ -1,6 +1,10 @@
 filters:
   and:
-    - file.inFolder("11 Database/Groups Database/Groups")
+    - file.inFolder("Groups Ministry/11 Database/Groups Database/All Groups") || file.inFolder("11 Database/Groups Database/All Groups")
+    - file.ext == "md"
+    - record_type == "group"
+# Edit Leaders and Current Semester here; Current Leaders derives its rows from them.
+# Clear Current Semester for groups no longer participating when the semester changes.
 properties:
   file.name:
     displayName: Group Name
@@ -8,6 +12,10 @@ properties:
     displayName: Branch
   group_status:
     displayName: Group Status
+  current_semester:
+    displayName: Current Semester
+  semester:
+    displayName: Semester
   leaders:
     displayName: Leaders
   location_area:
@@ -27,11 +35,30 @@ views:
       - file.name
       - branch
       - group_status
+      - current_semester
+      - semester
       - leaders
       - location_area
       - meeting_day
       - meeting_time
       - launch_date
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Current Semester
+    filters:
+      and:
+        - current_semester == true
+    order:
+      - file.name
+      - branch
+      - group_status
+      - current_semester
+      - semester
+      - leaders
+      - meeting_day
+      - meeting_time
     sort:
       - property: file.name
         direction: ASC

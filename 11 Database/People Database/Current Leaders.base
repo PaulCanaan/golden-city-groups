@@ -1,13 +1,18 @@
 filters:
   and:
-    - file.inFolder("11 Database/People Database/People")
+    - file.inFolder("Groups Ministry/11 Database/People Database/All Leaders") || file.inFolder("11 Database/People Database/All Leaders")
+    - file.ext == "md"
     - record_type == "group-leader"
-    - leader_status == "Current"
+    - formula.current_groups.length > 0
+formulas:
+  current_groups: file.backlinks.map(file(value)).filter(value && (value.inFolder("Groups Ministry/11 Database/Groups Database/All Groups") || value.inFolder("11 Database/Groups Database/All Groups")) && value.properties.record_type == "group" && value.properties.current_semester == true && list(value.properties.leaders).contains(file)).map(value.asLink())
 properties:
   file.name:
     displayName: Name
   group_interest:
     displayName: Group Interest
+  formula.current_groups:
+    displayName: Current Semester Groups
   email:
     displayName: Email
   phone:
@@ -21,7 +26,7 @@ views:
     name: Current Leaders
     order:
       - file.name
-      - group_interest
+      - formula.current_groups
       - email
       - phone
       - workflow_stage

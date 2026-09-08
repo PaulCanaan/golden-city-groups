@@ -202,16 +202,32 @@ The primary dashboard links only the newest review, current window, next review,
 
 ## Automation Contract
 
-The repository contains no scheduler. ChatGPT's Scheduled interface can run a task in a local project, but that management interface is not available in this repository session, so one external setup step remains.
+**Installed and verified September 8, 2026:** Paul reported that the desktop app has no Scheduled/Automations controls. At his request, Codex installed the local macOS LaunchAgent `church.goldencity.groups-biweekly-review` with the repository-owned runner at `scripts/biweekly_review.py`. The catch-up report was delivered into the vault, links and the success receipt were checked, and a repeat invocation was idle. BWR-013 is complete; see the [[09 Reports/Biweekly Reviews/2026-09-08 Groups Ministry Biweekly Review#Post-Run Scheduler Verification|verification record]].
 
 - **Trigger:** first and third Monday of each month at 7:00 AM
 - **Time zone:** `America/Denver`
 - **Working directory:** repository root
 - **Recurrence:** `DTSTART;TZID=America/Denver:20260907T070000` with `RRULE:FREQ=MONTHLY;BYDAY=1MO,3MO;BYHOUR=7;BYMINUTE=0`
 - **Instruction:** use the durable task prompt below
+- **Runner:** installed Codex CLI with the existing ChatGPT sign-in, `gpt-5.6-sol`, workspace-write sandbox, and no interactive approvals. The September 8 test of `gpt-6-astra` was rejected because CLI 0.151.0 requires an upgrade for that model; Sol is advertised by this installed CLI.
 - **Safety:** leave changes reviewable; do not commit, publish, message people, or record human decisions without explicit authority
 
-Create the task in ChatGPT/Codex **Scheduled**, select this local project, and use local-project mode so each run continues the canonical queue. Keep the computer on and the desktop app running for local-file runs. Use a named `America/Denver` schedule; a fixed UTC cron is not acceptable because it would drift by one hour when Mountain Time changes. If GitHub Actions is added later, its ordinary UTC cron needs an explicit DST-aware guard; the current Markdown-only repository does not justify adding that runner now.
+The LaunchAgent checks at login, daily at 7:00 AM system time, and hourly for catch-up. These checks invoke Codex only when the latest first/third-Monday 7:00 AM **America/Denver** occurrence is due and has no successful run. The Mac currently uses America/Denver; the Python date guard uses that named zone independently, including daylight-saving changes. There is still only one ministry-review cadence. Keep the Mac on, logged in, and connected to the internet; the desktop app itself is not required. An overdue run is attempted on a later check when the Mac is available. Multiple missed cycles are covered by one current catch-up report, not fabricated historical reports.
+
+Each report uses its actual execution date and records `Scheduled for` separately. The runner resumes an interrupted same-day report, prevents concurrent runner instances, and records success only after Codex exits successfully and the expected report contains the scheduled occurrence. This records delivery, not the quality or human approval of the review. A failed run remains due for a later check. Human review remains `In Progress`.
+
+### Local operation and verification
+
+- **Installed job:** `/Users/paulcanaan/Library/LaunchAgents/church.goldencity.groups-biweekly-review.plist`; source copy in `scripts/`.
+- **Check due state without running:** `/usr/local/bin/python3 scripts/biweekly_review.py --check` from the repository root.
+- **Run a due review now:** `/usr/local/bin/python3 scripts/biweekly_review.py` from the repository root, or `launchctl kickstart gui/501/church.goldencity.groups-biweekly-review` for this Mac.
+- **Check job:** `launchctl print gui/501/church.goldencity.groups-biweekly-review`.
+- **Pause job:** `launchctl bootout gui/501/church.goldencity.groups-biweekly-review`; restore with `launchctl bootstrap gui/501 /Users/paulcanaan/Library/LaunchAgents/church.goldencity.groups-biweekly-review.plist`.
+- **Local evidence:** `.review-runtime/last-success.json`, `last-run.log`, and `last-message.txt`; runtime files are ignored by Git. Agent output is replaced on each actual attempt; canonical dated reports are preserved.
+- **Delivery destination:** `09 Reports/Biweekly Reviews/` inside this repository, which is already inside the open Golden City Church Obsidian vault. No second vault copy or Git pull is needed for this local job.
+- **Acceptance:** verify the loaded job, a successful due run, its actual report and dashboard/index links, and an idle second invocation before closing BWR-013. An empty application automation registry does not describe this LaunchAgent.
+
+Do not enable a desktop Scheduled task alongside this job. If desktop scheduling becomes available, pause the LaunchAgent before switching, preserve the same procedure and time zone, and verify delivery in the actual vault. The earlier desktop-only setup required the app to remain running; see [OpenAI scheduled-task documentation](https://learn.chatgpt.com/docs/automations). The fallback uses [macOS launchd](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html).
 
 ### Durable scheduled-task prompt
 

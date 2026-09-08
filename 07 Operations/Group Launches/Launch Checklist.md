@@ -9,9 +9,9 @@
 - [x] Pre-launch gatherings have formed a Launch Team of more than 50 committed volunteers.
 - [x] Initial City Group leaders will be identified and trained from within the Launch Team.
 - [x] Fall 2026 primarily focuses on recruiting Launch Team members to host City Groups.
-- [x] July 28 Team Night is scheduled for City Group leadership preparation.
-- [x] August 11 Team Night is scheduled for City Group leadership preparation.
-- [x] August 25 Team Night is scheduled for City Group leadership preparation.
+- [x] July 28 Team Night was scheduled for City Group leadership preparation; the outcome remains under review.
+- [x] August 11 Team Night was scheduled for City Group leadership preparation; detailed execution and follow-up remain under review.
+- [x] August 25 Team Night was scheduled for City Group leadership preparation; the outcome remains under review.
 - [x] Golden City Church's public launch is September 20, 2026.
 - [x] Paul is the operational point person for the ministry and Planning Center.
 - [x] Paul is the August Team Night leader-interest sign-up point person.

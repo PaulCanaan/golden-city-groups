@@ -16,9 +16,9 @@ City Groups help people do life together through community, pastoral connection,
 |---|---|---|
 | Church plant gatherings | **Confirmed context** | Interest Socials, Dinner Parties, Worship Nights, service opportunities, and Team Nights form the Launch Team. |
 | Launch Team | **Confirmed context** | More than 50 committed volunteers prepare to become initial ministry teams. |
-| July 28 Team Night | **Confirmed** | City Group vision, leader sign-ups, discernment, placement conversations, and preparation begin or continue. |
-| August 11 Team Night | **Confirmed; intake workflow approved** | Paul supports Planning Center leader-interest form submission and owns intake and initial applicant follow-up. |
-| August 25 Team Night | **Confirmed; intake workflow approved** | Paul repeats the approved form-intake and immediate follow-up workflow. |
+| July 28 Team Night | **Confirmed schedule; outcome under review** | City Group vision, leader sign-ups, discernment, placement conversations, and preparation were planned; execution evidence is not recorded. |
+| August 11 Team Night | **Occurred; detailed outcome under review** | The intake workflow was approved, but actual interest capture and follow-up remain unreconciled. |
+| August 25 Team Night | **Confirmed schedule; outcome under review** | The approved form-intake and immediate follow-up workflow was planned; execution evidence is not recorded. |
 | Leader discernment | **Planned; minimum standard approved** | Potential leaders are prayerfully identified and invited from within the Launch Team; Paul owns interviews and assessment. |
 | Leader training | **Planned** | Invited candidates complete required preparation after discernment. |
 | Group assignments | **Planned** | Approved leaders, groups, hosts or locations, and capacities are matched. |

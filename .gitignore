@@ -1,4 +1,8 @@
 .DS_Store
 **/.DS_Store
+/.review-runtime/
+/scripts/__pycache__/
 /11 Database/People Database/People/
 /11 Database/Groups Database/Groups/
+/11 Database/People Database/All Leaders/
+/11 Database/Groups Database/All Groups/

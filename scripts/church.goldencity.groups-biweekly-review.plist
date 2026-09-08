@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key><string>church.goldencity.groups-biweekly-review</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/local/bin/python3</string>
+        <string>/Users/paulcanaan/Workspace/Projects/Golden City Church/Groups Ministry/scripts/biweekly_review.py</string>
+    </array>
+    <key>WorkingDirectory</key><string>/Users/paulcanaan/Workspace/Projects/Golden City Church/Groups Ministry</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key><string>/Users/paulcanaan/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+    <key>RunAtLoad</key><true/>
+    <key>StartInterval</key><integer>3600</integer>
+    <key>StartCalendarInterval</key>
+    <dict><key>Hour</key><integer>7</integer><key>Minute</key><integer>0</integer></dict>
+    <key>StandardOutPath</key><string>/Users/paulcanaan/Workspace/Projects/Golden City Church/Groups Ministry/.review-runtime/launcher.log</string>
+    <key>StandardErrorPath</key><string>/Users/paulcanaan/Workspace/Projects/Golden City Church/Groups Ministry/.review-runtime/launcher.log</string>
+</dict>
+</plist>

@@ -2,7 +2,7 @@
 
 ## Dashboard Status
 
-**Executive control surface; not a governing decision record.** Last reconciled **September 3, 2026** with the August 28 staff-meeting updates through the [[09 Reports/Biweekly Reviews/2026-09-03 Groups Ministry Biweekly Review|current Biweekly Ministry Review]]. Update governing sources before this dashboard when approved direction changes.
+**Executive control surface; not a governing decision record.** Last reconciled **September 8, 2026** through the delayed September 7 [[09 Reports/Biweekly Reviews/2026-09-08 Groups Ministry Biweekly Review|current Biweekly Ministry Review]]. Update governing sources before this dashboard when approved direction changes.
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
@@ -27,7 +27,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 | Item | Current status |
 |---|---|
 | Public church launch | **September 20, 2026 — confirmed** |
-| Current phase | Past-event and leader-pipeline reconciliation; launch-blocking decisions; offering-specific readiness |
+| Current phase | Twelve days before public church launch: overdue event and leader-pipeline reconciliation; launch-blocking decisions; offering-specific readiness |
 | Most recent milestone | **Team Night — August 25; outcome awaiting Paul's review** |
 | Next confirmed ministry milestone | **Golden City Church public launch — September 20, 2026** |
 | Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
@@ -41,11 +41,13 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 
 ## Biweekly Ministry Review
 
-- **Latest review:** [[09 Reports/Biweekly Reviews/2026-09-03 Groups Ministry Biweekly Review|September 3, 2026 — repository execution complete; human review in progress]]
-- **Current review window:** Initial baseline through September 3, 2026
-- **Next review:** September 7, 2026 at 7:00 AM America/Denver
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|15 active items]]
-- **Human input outstanding:** Paul — four event outcomes, aggregate leader-pipeline state, Fall training recommendation, Collective leader-stage status, webpage progress, Planted status, and scheduler owner; Russ — October venue, safeguarding, appointments/offerings, participant systems, publication boundary, and final approvals
+- **Latest review:** [[09 Reports/Biweekly Reviews/2026-09-08 Groups Ministry Biweekly Review|September 8, 2026 — repository execution complete; human review in progress]]
+- **Current review window:** After the September 3 repository pass through September 8, 2026; previous human-review questions remain outstanding
+- **Scheduled occurrence:** September 7, 2026 at 7:00 AM America/Denver; catch-up began September 8 after local scheduler repair
+- **Next review:** September 21, 2026 at 7:00 AM America/Denver
+- **Scheduler:** macOS job active; catch-up report delivered and repeat-run guard verified September 8. BWR-013 is complete.
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|14 active items]]
+- **Human input outstanding:** Paul — four event outcomes, aggregate leader-pipeline state, Fall training recommendation, Collective leader-stage status, webpage progress, and Planted status; Russ — October venue, safeguarding, appointments/offerings, participant systems, publication boundary, and final approvals
 - **Critical blockers:** October venue; safeguarding contacts and policies; active-offering appointments/readiness; Fall leader preparation; participant-system governance; offering-specific readiness evidence
 
 ## Next Actions
@@ -54,7 +56,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - Confirm that every prospective leader has an approved workflow stage and known next action in the restricted system.
 - Russ: secure an appropriate October venue for Collectives and Bible Clubs.
 - Paul: advance intended Collective leaders through the canonical pathway, improve the Groups webpage, and prepare downstream setup.
-- Bring the minimum safeguarding, offering, Fall-training, appointment, participant-system, and publication-boundary decisions to the September 7 review.
+- Bring the minimum safeguarding, offering, Fall-training, appointment, participant-system, and publication-boundary decisions to Paul and Russ before any affected offering is promoted or begins.
 
 Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboard/Launch Readiness Dashboard#Immediate Priorities|Launch Readiness Dashboard — Immediate Priorities]].
 
