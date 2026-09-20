@@ -18,7 +18,7 @@ The canonical entry, exit, owner, communication, and resource guidance is in [[P
 
 DEC-027 establishes the minimum qualifications, discernment, preparation, safeguarding, capacity, screening, and explicit appointment standard. Role-specific responsibilities, correction and removal procedures, and each individual appointment still must be documented. No placeholder in this repository should be treated as authorization to lead.
 
-For City Groups, leaders should protect the confirmed purpose of doing life together through community, pastoral connection, prayer, and everyday discipleship. They cultivate shared life, conversation, hospitality, and mutual care. [[Weekly Recaps|Weekly Recap]] may be used when helpful but is not required. City Groups should not be turned into informal classes.
+For City Groups, leaders should protect the confirmed purpose of life together through community, pastoral connection, prayer, and everyday discipleship. They cultivate shared life, conversation, hospitality, and mutual care. [[Weekly Recaps|Weekly Recap]] may be used when helpful but is not required. City Groups should not be turned into informal classes.
 
 ## Planning Center Role After Appointment
 

@@ -8,9 +8,9 @@
 
 Golden City Groups has three approved ministry branches:
 
-- **City Groups — do life:** location-based at launch, with future approved expressions possible; Weekly Recap is optional.
-- **Collectives — grow together:** Men's Collective and Women's Collective, with a long-term path toward broader Men's and Women's Ministries.
-- **Bible Clubs — study the Word:** facilitator-led Bible study; future Classes may develop under this branch.
+- **City Groups — life together:** location-based at launch, with future approved expressions possible; Weekly Recap is optional.
+- **Collectives — shared encouragement:** Men's Collective and Women's Collective, with a long-term path toward broader Men's and Women's Ministries.
+- **Bible Clubs — rooted in Scripture:** facilitator-led Bible study; future Classes may develop under this branch.
 
 Classes are not a current fourth branch. Financial and marriage Classes are future examples only. Freedom Groups are future planning, not a launch offering. Each specific offering still requires ownership and launch-readiness review.
 
@@ -315,3 +315,29 @@ Fall 2026 leaders still need the minimum transitional role-specific preparation 
 **Direction / revisions:**  
 **Approver:** Russ
 **Date:** 08/05/26
+
+## PRO-033 — Collectives Study Content and a Possible Galatians Study
+
+- **Approval status:** **Proposed — not approved.** Recorded September 20, 2026 from Paul's initial thinking; no curriculum, series, or content is approved by this entry.
+- **Launch priority:** Needed before Men's and Women's Collectives begin meeting in October
+- **Decision needed:** Approve the study content Men's and Women's Collectives will use, who writes and reviews it, and whether the first study parallels the church's Fruit of the Spirit weekend series.
+- **Why it matters:** Both Collectives have an October readiness target under DEC-046 and confirmed Wednesday cadences under DEC-043, but no study content, facilitator material, or review path is recorded. Leaders cannot facilitate without approved content.
+- **Formation relationship:** Collectives exist for shared encouragement. Study content should lead toward beholding Christ in Scripture and becoming like him in community, not toward information alone.
+
+### Initial thinking recorded from Paul
+
+- Paul is developing handouts, facilitator guides, and discussion questions for both Collectives. Details will be supplied later.
+- One initial idea is a **Galatians study paralleling the church's Fruit of the Spirit weekend teaching series**, so that Collective formation reinforces what the congregation hears on Sunday.
+- Paul is meeting with Russ, Miranda, Conner, and Rachel to construct the Collectives together. That meeting may change or replace this direction.
+
+### Direction to record
+
+- [ ] Approve a Galatians study paralleling the Fruit of the Spirit series
+- [ ] Approve different study content recorded below
+- [ ] Defer the content decision pending the Collectives construction meeting
+
+**Open questions:** Who writes, reviews, and approves the content? Does it require the same pastoral and theological curriculum review Planted received? Do Men's and Women's Collectives use the same study? What is the content deadline given the October readiness target?
+
+**Direction / revisions:**  
+**Approver:**  
+**Date:**  

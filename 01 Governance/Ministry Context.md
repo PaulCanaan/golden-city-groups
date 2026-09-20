@@ -6,7 +6,7 @@
 
 ## Project
 
-This repository supports the Groups Ministry of Golden City Church, a church plant preparing to launch publicly on September 20, 2026.
+This repository supports the Groups Ministry of Golden City Church, a church plant that launched publicly on September 20, 2026 and is now an established faith community in Broomfield, Colorado. Group Launch Day is Sunday, October 4, 2026 under DEC-048.
 
 Paul serves as Ministry Director and operational point person for Groups Ministry. He owns routine ministry design, coordination, leader support, calendar maintenance, Planning Center operation, ministry presentation, and leader-interest follow-up within confirmed church direction. Russ, or a pastor explicitly designated by Russ, gives final readiness approval and retains the pastoral decisions recorded in DEC-021.
 
@@ -46,9 +46,9 @@ This previously approved wording is preserved rather than rewritten. DEC-034 gov
 
 Groups Ministry has three branches:
 
-- **City Groups — Do life:** location-based groups that cultivate Christ-centered community, prayer, pastoral connection, and everyday discipleship. Weekly Recap is an optional resource, not a defining characteristic.
-- **Collectives — Grow together:** Men's Collective and Women's Collective provide gender-specific community and formation and may mature into broader Men's Ministry and Women's Ministry.
-- **Bible Clubs — Study the Word:** facilitator-led gatherings that study a book or section of Scripture. Classes may develop later under this branch; none is approved for launch merely by being named as a future example.
+- **City Groups — Life together:** location-based groups that cultivate Christ-centered community, prayer, pastoral connection, and everyday discipleship. Weekly Recap is an optional resource, not a defining characteristic.
+- **Collectives — Shared encouragement:** Men's Collective and Women's Collective provide gender-specific community and formation and may mature into broader Men's Ministry and Women's Ministry.
+- **Bible Clubs — Rooted in Scripture:** facilitator-led gatherings that study a book or section of Scripture. Classes may develop later under this branch; none is approved for launch merely by being named as a future example.
 
 All three branches participate in Belonging, Beholding, and Becoming according to their distinct purpose.
 
@@ -102,5 +102,5 @@ The presence of a file or city name does not prove that the ministry expression 
 
 - Who will serve as backup when Paul or the final readiness approver is unavailable?
 - Are there additional internal church documents that supersede or expand the public website?
-- Which specific offerings within the three branches have completed readiness review for the September 2026 launch season?
+- Which specific offerings within the three branches have completed readiness review before the October 4 Group Launch Day?
 - What church-wide privacy, safeguarding, pastoral-care, and leadership policies govern this ministry?

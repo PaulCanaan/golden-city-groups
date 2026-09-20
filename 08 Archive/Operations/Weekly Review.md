@@ -57,7 +57,7 @@ For each branch, review current offering or launch status, leader or owner statu
 |---|---|---|
 | City Groups | [[City Groups Overview]] | [ ] |
 | Collectives | [[03 Groups/Collectives/Men's Collective]] and [[03 Groups/Collectives/Women's Collective]] | [ ] |
-| Bible Clubs | [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together\|Ministry Model — Bible Clubs]] | [ ] |
+| Bible Clubs | [[01 Governance/Ministry Model#Bible Clubs — Rooted in Scripture\|Ministry Model — Bible Clubs]] | [ ] |
 | Future ministry | [[Classes Overview]] and [[Groups Overview#Future Ministry\|Freedom Groups]] | [ ] |
 
 ## 5. Review Launch and Operations

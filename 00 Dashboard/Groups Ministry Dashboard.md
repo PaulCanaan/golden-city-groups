@@ -2,7 +2,7 @@
 
 ## Dashboard Status
 
-**Executive control surface; not a governing decision record.** Last reconciled **September 8, 2026** through the delayed September 7 [[09 Reports/Biweekly Reviews/2026-09-08 Groups Ministry Biweekly Review|current Biweekly Ministry Review]]. Update governing sources before this dashboard when approved direction changes.
+**Executive control surface; not a governing decision record.** Last reconciled **September 20, 2026** with Paul's Launch Sunday update; the last full review was the delayed September 7 occurrence recorded on [[09 Reports/Biweekly Reviews/2026-09-08 Groups Ministry Biweekly Review|September 8, 2026]]. The next review is September 21, 2026. Update governing sources before this dashboard when approved direction changes.
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
@@ -26,17 +26,17 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 
 | Item | Current status |
 |---|---|
-| Public church launch | **September 20, 2026 — confirmed** |
-| Current phase | Twelve days before public church launch: overdue event and leader-pipeline reconciliation; launch-blocking decisions; offering-specific readiness |
-| Most recent milestone | **Team Night — August 25; outcome awaiting Paul's review** |
-| Next confirmed ministry milestone | **Golden City Church public launch — September 20, 2026** |
+| Public church launch | **September 20, 2026 — completed**; the church is established in Broomfield, Colorado |
+| Current phase | Two weeks between the completed church launch and the October 4 Group Launch Day: leader and host preparation, connection-card follow-up, Collectives construction, and launch-blocking decisions |
+| Most recent milestone | **Golden City Church public launch — September 20; completed successfully** |
+| Next confirmed ministry milestone | **Group Launch Day — October 4, 2026** (DEC-048) |
 | Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
 | October Collectives readiness | **At Risk** — cadence and intended teams are clearer; venue, times, exact starts, leader approvals, participant paths, and final readiness remain open |
 | Planted October 6 readiness | **At Risk** — see [[00 Dashboard/Launch Readiness Dashboard#K. Planted Operational Readiness\|Planted Operational Readiness]] |
-| Ministry architecture | City Groups — do life; Collectives — grow together; Bible Clubs — study the Word |
+| Ministry architecture | City Groups — life together; Collectives — shared encouragement; Bible Clubs — rooted in Scripture |
 | Group Leader workflow | **Configured** — `Interest → Welcome / Contact → Group Leader Conversation → Training → Launch`; live use and candidate stages still require reconciliation |
-| Groups webpage | **In Progress — Paul**; Squarespace access resolved, content/link readiness and material-change review remain |
-| Paul's focus through September 20 | Communicate with potential future group leaders, help each person connect to an appropriate next step, and provide ongoing support without implying appointment |
+| Groups webpage | **Rebuilt (DEC-050)**; three-branch structure live. Group details are provisional and TBD until Paul finalizes them before October 4, then publishes and announces |
+| Paul's focus through October 4 | Follow up on the 16 Launch Sunday connection-card responses, prepare additional leaders and hosts, and build the Collectives with Russ, Miranda, Conner, and Rachel without implying appointment |
 | Final readiness authority | Russ or a pastor explicitly designated by Russ |
 
 ## Biweekly Ministry Review
@@ -52,6 +52,9 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 
 ## Next Actions
 
+- Process the 16 Launch Sunday connection-card responses: welcome emails and Group Leader Conversation invitations, with no participant details stored here.
+- Prepare additional leaders and hosts to be ready by the October 4 Group Launch Day.
+- Build Men's and Women's Collectives with Russ, Miranda, Conner, and Rachel, and record the meeting outcome.
 - Reconcile the July 28, August 11, August 16, and August 25 event outcomes without storing participant details here.
 - Confirm that every prospective leader has an approved workflow stage and known next action in the restricted system.
 - Russ: secure an appropriate October venue for Collectives and Bible Clubs.
@@ -79,7 +82,7 @@ Confirmed dates, historical interpretation, and undated targets are maintained i
 ## Governing Direction
 
 - **Formation:** Belonging → Beholding → Becoming guides the ministry.
-- **Architecture:** City Groups help people do life; Collectives help men and women grow together; Bible Clubs help people study the Word. Future Classes develop under Bible Clubs.
+- **Architecture:** City Groups cultivate life together; Collectives provide shared encouragement among men and among women; Bible Clubs keep group life rooted in Scripture. Future Classes develop under Bible Clubs.
 - **Authority:** Paul operates the ministry within confirmed direction; Russ or his designated pastor gives final readiness approval and retains the pastoral decisions in DEC-021.
 - **Leadership:** The Groups Director owns the next action from either approved intake trigger through actual launch; prospective leaders still require the applicable assessment, preparation, assignment, explicit appointment, and readiness approval.
 - **Development:** CoJourner from The Garden Project Ministry is the selected four-session biweekly group-leader training program over approximately two months before the Spring 2027 group launch. Its relationship to Fall 2026 leaders remains open.

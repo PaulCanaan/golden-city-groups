@@ -153,6 +153,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Context:** Run Club, Youth City Group, and Young Adults Group were not included in DEC-007 or DEC-013 but are now represented publicly alongside Groups and Classes offerings.
 - **Boundary:** Public listing confirms what the church is communicating; it does not establish that every offering belongs under Paul's Groups and Classes authority, has completed readiness review, or should be governed by the same leadership and safeguarding processes.
 - **Subsequent direction:** DEC-022 defers Run Club, Youth City Group, and Young Adults Group from the initial Groups and Classes launch scope even while they remain part of this July 23 public-page snapshot.
+- **Later page state:** DEC-050 records the rebuilt September 20, 2026 page. Young Adults Group is no longer listed; Run Club and Youth City Group remain published.
 
 ### DEC-015 — Published Fall 2026 Rhythms and Locations
 
@@ -168,6 +169,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** These details are the current public baseline for calendar, facilities, communication, leader preparation, and participant follow-up. Internal documents should not publish conflicting details without a recorded update.
 - **Boundary:** “To be determined” locations remain unresolved, and public publication alone does not verify leader approval, capacity, safeguarding, childcare, supplies, or final launch readiness. Dates and locations should be reverified before derivative communication is released.
 - **Subsequent direction:** DEC-043 supersedes the Men's and Women's Collective rhythms and the prior Women's location. The other July 23 public-baseline facts remain historical unless separately superseded.
+- **Unresolved publication conflict:** At the September 20, 2026 review recorded in DEC-050, the public page still displayed these superseded Monday rhythms and the prior Women's location. DEC-043 governs; the page requires correction.
 
 ### DEC-016 — Public Church Center Enrollment Paths
 
@@ -176,6 +178,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** Links on Golden City Church's official [Groups page](https://www.goldencity.church/groups), reviewed July 23, 2026.
 - **Implications:** Launch operations may treat Church Center as the current public enrollment platform for these three offerings and should define form ownership, notifications, placement, capacity handling, follow-up timing, and participant-data access around it.
 - **Boundary:** This does not confirm a complete or tested participant journey. The public page does not provide a reliable offering-specific enrollment path for every listed offering, and participant-data governance remains unresolved in OQ-012.
+- **Later page state:** DEC-050 confirms these three Church Center enrollment paths remain in use on the rebuilt September 20, 2026 page, alongside a Church Center leader application.
 
 ### DEC-017 — Pre-Launch Gatherings and Launch Team
 
@@ -358,6 +361,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [[2026-08-05 Staff Meeting Minutes#1 — Groups Ministry Architecture|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Active architecture, navigation, dashboards, ministry overviews, leader resources, and communication should use the three branches and their purposes.
 - **Boundary:** This does not erase the historical development recorded in DEC-024–025 or approve a future Class offering.
+- **Subsequent direction:** DEC-047 supersedes the branch purpose language recorded above. The three-branch architecture and the placement of Classes under Bible Clubs remain governed by this decision.
 
 ### DEC-035 — Long-Term Ministry Development Pathways
 
@@ -473,14 +477,57 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** Venue acquisition is a high-priority shared readiness dependency for Men's and Women's Collectives and Planted, the confirmed Bible Club. October readiness should be tracked separately from the September 20 public church launch.
 - **Boundary:** No venue, Collective start date, time, location, readiness approval, or additional Bible Club offering is established by this decision. Each offering still must complete its applicable gates.
 
+### DEC-047 — Revised Three-Branch Purpose Language
+
+- **Decision:** The purpose statement for each Groups Ministry branch is revised to: City Groups — “Life together”; Collectives — “Shared encouragement”; Bible Clubs — “Rooted in Scripture.” These replace the DEC-034 purposes “do life,” “grow together,” and “study the Word” throughout active ministry documentation.
+- **Status:** Confirmed; supersedes the DEC-034 branch purpose language
+- **Date and approver:** September 20, 2026; Paul as Ministry Director, under the ministry design and presentation responsibility recorded in DEC-021.
+- **Context:** Groups Ministry is still early in its growth, so its governing language remains under active formation. Paul directed this revision as a canonical change rather than a stylistic preference.
+- **Evidence:** Direction supplied by Paul on September 20, 2026.
+- **Implications:** Governing documents, dashboards, navigation, ministry overviews, leader resources, templates, and internal communication language should use the revised purposes. Historical records — DEC-025, DEC-034, the August 5, 2026 Staff Meeting Minutes, and completed biweekly reports — preserve the earlier wording as written.
+- **Boundary:** This decision changes purpose language only. The three-branch architecture, each branch’s ministry substance, the Belonging–Beholding–Becoming framework, Classes as a future development path under Bible Clubs, and every offering’s readiness status are unchanged. It does not by itself authorize revised participant-facing publication; public, website, and Church Center language should be confirmed with Russ under the Church Alignment requirement in [[01 Governance/Ministry Context#Church Alignment|Ministry Context]] before release.
+
+### DEC-048 — October 4, 2026 Group Launch Day
+
+- **Decision:** Group Launch Day is Sunday, October 4, 2026. The two weeks between the September 20 public church launch and Group Launch Day are reserved for preparing additional leaders and hosts.
+- **Status:** Confirmed
+- **Date and approver:** September 20, 2026; Paul as Ministry Director, under the operational coordination responsibility recorded in DEC-021.
+- **Context:** Golden City Church launched publicly on September 20, 2026 and is now an established faith community in Broomfield, Colorado. No City Group start date had previously been approved, and the missing start date was recorded as a launch-critical gap.
+- **Evidence:** Direction supplied by Paul on September 20, 2026.
+- **Implications:** Group Launch Day gives the leader pipeline, group assignments, locations, participant paths, and communication a dated target. Readiness work previously bounded only by “before any City Group is published or starts” is now bounded by October 4.
+- **Boundary:** This decision sets a date only. It does not appoint any leader or host, approve a specific group, location, or capacity, or establish that any offering has completed its readiness gates. Final readiness approval remains with Russ or his designated pastor under DEC-021. Planted retains its separate October 6 start and the Collectives retain their confirmed Wednesday cadences. Whether October 4 governs City Groups alone or every launch-season offering is not yet recorded.
+
+### DEC-049 — Belonging, Beholding, Becoming as Public-Facing Language
+
+- **Decision:** Belonging, Beholding, Becoming is public-facing ministry language, not only an internal framework. Whenever the vision, mission, and values of Golden City Groups are shared, the formation model is introduced alongside them. The approved simple introduction is:
+  - **Belonging** — before you believe anything we believe as a church, you will find belonging when you come to a group.
+  - **Beholding** — beholding the glory of the Son of God is the posture, orientation of life, and act of worship we take as the groups ministry.
+  - **Becoming** — formation is the goal. We are becoming more like Jesus as the Holy Spirit is renewing us day by day.
+- **Status:** Confirmed; resolves OQ-002
+- **Date and approver:** September 20, 2026; Paul as Ministry Director, under the ministry design and presentation responsibility recorded in DEC-021.
+- **Context:** OQ-002 had asked since July 27, 2026 whether the framework would be public-facing or primarily internal, and stood at “Awaiting Pastoral Approval.” Leaders and participant-facing material could not speak about formation consistently while the question stayed open.
+- **Evidence:** Direction supplied by Paul on September 20, 2026.
+- **Implications:** Leader training, communication templates, group introductions, and participant-facing material may introduce the framework using this wording. [[02 Group Philosophy/Formation Framework/Belonging, Beholding, Becoming|the Formation Framework pages]] carry the fuller explanation for leaders.
+- **Boundary:** This approves ministry language, not new doctrine. It does not alter the [[01 Governance/Theological Framework|Theological Framework]] or its guardrails, and it does not by itself authorize website or Church Center publication; published use travels with the participant-facing language confirmation tracked in BWR-020. Belonging that precedes agreement is a welcome extended to newcomers, not a statement that Golden City Church holds no doctrinal expectations for membership, leadership, or teaching.
+
+### DEC-050 — Rebuilt Public Groups Page (September 20, 2026)
+
+- **Decision:** Golden City Church's public Groups page has been rebuilt by Paul under DEC-037 and now presents the three-branch structure — City Groups, Collectives, and Bible Club — under the headline "Find your people. Grow in faith." with "Find a Group" and "Lead a Group" as the primary calls to action. Published offerings are four named City Groups (Broomfield, Westminster, Thornton, Lafayette) routed to /contact, Run Club, Youth City Group ("Coming soon"), Men's Collective, Women's Collective, and Planted Bible Study, with Church Center enrollment links for the two Collectives and Planted and a Church Center leader application behind "Explore Leading."
+- **Status:** Confirmed as a record of current public communication; supersedes the DEC-014 offering set and the still-published portions of DEC-015
+- **Date and approver:** Reviewed September 20, 2026 at Paul's request. Paul owns the page under DEC-037.
+- **Evidence:** Golden City Church's official [Groups page](https://www.goldencity.church/groups), reviewed September 20, 2026.
+- **Implications:** The page now reflects the confirmed three-branch architecture, keeps City Groups on a contact route rather than an untested enrollment path, retains the DEC-016 Church Center enrollment paths, and no longer lists Young Adults Group. Communication, readiness, and safeguarding planning should work from this page state rather than the July 23 snapshot.
+- **Boundary:** Recording what is published does not approve it. Material conflicts between the published page and confirmed direction are recorded in the [[00 Dashboard/Launch Readiness Dashboard#Published Page Conflicts|Launch Readiness Dashboard]] and carried as queue items. The published Monday Collective rhythms and the published Women's Collective address are **superseded information** under DEC-043 and must not be treated as current by any other document.
+- **Publication posture (Paul, September 20, 2026):** Published group details are **provisional**. Most group information remains TBD until Paul specifies it. He will determine, check, correct, and finalize the details before the October 4 Group Launch Day, and publish and announce them at and after launch. Reconciling page-to-vault differences is therefore **not a priority before that finalization pass**. The conflicts below remain recorded as inputs to it, not as active blockers. The vault, not the page, is authoritative in the meantime.
+
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 
 ## Open Questions
 
 ### OQ-002 — Public Formation Language
 
-- **Status:** Awaiting Pastoral Approval
-- **Question:** Will Belonging, Beholding, Becoming be public-facing language or primarily an internal framework?
+- **Status:** Resolved by DEC-049 on September 20, 2026
+- **Question:** Belonging, Beholding, Becoming is public-facing language introduced alongside the ministry's vision, mission, and values. DEC-049 records the approved simple introduction. 
 
 ### OQ-003 — Launch-Ready Group Expressions
 

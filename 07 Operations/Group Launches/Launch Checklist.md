@@ -12,7 +12,8 @@
 - [x] July 28 Team Night was scheduled for City Group leadership preparation; the outcome remains under review.
 - [x] August 11 Team Night was scheduled for City Group leadership preparation; detailed execution and follow-up remain under review.
 - [x] August 25 Team Night was scheduled for City Group leadership preparation; the outcome remains under review.
-- [x] Golden City Church's public launch is September 20, 2026.
+- [x] Golden City Church's public launch on September 20, 2026 is complete.
+- [x] Group Launch Day is confirmed as October 4, 2026 under DEC-048.
 - [x] Paul is the operational point person for the ministry and Planning Center.
 - [x] Paul is the August Team Night leader-interest sign-up point person.
 - [x] Paul owns Planning Center form intake, submission organization, initial applicant emails, and interview scheduling under DEC-026.

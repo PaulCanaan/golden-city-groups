@@ -32,7 +32,7 @@ Each practice was evaluated against:
 - the Belonging-Beholding-Becoming framework
 - the confirmed location-based City Group launch model and optional Weekly Recap
 - the Launch Team leadership pipeline
-- the September 20, 2026 launch and early-October ministry window
+- the completed September 20, 2026 church launch, the October 4 Group Launch Day, and the early-October ministry window
 - actual leader and administrative capacity
 - unresolved safeguarding, participant-data, leadership, and approval questions
 

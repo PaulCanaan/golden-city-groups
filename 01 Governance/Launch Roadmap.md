@@ -6,7 +6,8 @@ This is a planning framework. The public church launch date and approved ministr
 
 ## Confirmed Launch Context
 
-- Golden City Church plans to launch publicly on September 20, 2026.
+- Golden City Church launched publicly on September 20, 2026. Paul reported the launch went smoothly and that the church is now an established faith community in Broomfield, Colorado.
+- Group Launch Day is Sunday, October 4, 2026 under DEC-048. The two weeks after the church launch are reserved for preparing additional leaders and hosts.
 - The church website currently identifies Legacy High School in Broomfield as the public launch location.
 - Since March 2026, Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have formed a Launch Team of more than 50 committed volunteers.
 - Fall 2026 primarily focuses on recruiting Launch Team members to host City Groups through the approved discernment and appointment process rather than recruiting from the general public.
@@ -17,7 +18,7 @@ This is a planning framework. The public church launch date and approved ministr
 - Men's Collective will meet biweekly on first and third Wednesdays; Women's Collective will meet biweekly on second and fourth Wednesdays. Both have an October readiness target, while exact start dates, times, venue, and final readiness remain open.
 - The intended co-leads are Conner O'Brien and Russ Daly for Men's Collective and Rachel O'Brien and Miranda Daly for Women's Collective. Conner's and Rachel's expressed interest is not appointment; the canonical leader pathway still applies.
 - Russ is seeking an appropriate classroom or venue for October Collectives and Bible Clubs. Paul owns downstream setup after a venue is known.
-- Groups Ministry has three confirmed branches: City Groups to do life, Collectives to grow together, and Bible Clubs to study the Word. Classes are a future development path under Bible Clubs.
+- Groups Ministry has three confirmed branches: City Groups for life together, Collectives for shared encouragement, and Bible Clubs rooted in Scripture. Classes are a future development path under Bible Clubs.
 - Groups Ministry should support the launch without creating structures too complicated to operate.
 - The minimum viable launch model must be distinguished from the ideal future model.
 

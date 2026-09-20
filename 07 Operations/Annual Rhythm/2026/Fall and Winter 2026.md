@@ -11,7 +11,8 @@
 - **August 25:** Team Night was planned as the final pre-launch opportunity; actual outcome and follow-up are not recorded.
 
 The July and August events are now historical. Their missing outcomes are tracked in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] rather than left as future plans.
-- **September 20:** Golden City Church public launch
+- **September 20:** Golden City Church public launch — completed; the church is established in Broomfield, Colorado
+- **October 4:** Group Launch Day (DEC-048)
 
 During the August Team Nights, Paul was the assigned on-site leader-interest point person, helping Launch Team members submit the Planning Center form, receiving and organizing submissions through his admin access, and emailing applicants about Group Leader Conversations and immediate next steps. Actual execution still requires Paul's confirmation. Paul owns interviews, assessment, and training facilitation under DEC-031. Detailed standards, dates, assignment, appointment records, and commissioning remain unresolved.
 
@@ -53,9 +54,9 @@ Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-
 
 ### Internal Development Orientation
 
-- City Groups: do life; Weekly Recap is optional
-- Collectives: grow together through Men's and Women's Collectives
-- Bible Clubs: study the Word through facilitator-led study and response to Scripture
+- City Groups: life together; Weekly Recap is optional
+- Collectives: shared encouragement through Men's and Women's Collectives
+- Bible Clubs: rooted in Scripture through facilitator-led study and response to Scripture
 - Planted Bible Club: facilitator-led study of Scripture
 - Future Classes: development path under Bible Clubs, not a fall offering category
 

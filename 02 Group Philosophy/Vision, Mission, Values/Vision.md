@@ -24,6 +24,18 @@ The city is not an abstract ministry territory. It is made up of actual neighbor
 
 Together, the three branches connect belonging, deeper formation, service, and gospel witness. They are servants of the vision, not measures of its success.
 
+## Introducing the Formation Framework
+
+Under DEC-049, Belonging, Beholding, Becoming is public-facing language. Whenever the vision, mission, and values of Golden City Groups are shared, the formation model is introduced alongside them:
+
+> **Belonging** — before you believe anything we believe as a church, you will find belonging when you come to a group.
+>
+> **Beholding** — beholding the glory of the Son of God is the posture, orientation of life, and act of worship we take as the groups ministry.
+>
+> **Becoming** — formation is the goal. We are becoming more like Jesus as the Holy Spirit is renewing us day by day.
+
+The fuller explanation for leaders is in [[Belonging, Beholding, Becoming|the Formation Framework]].
+
 ## Ministry interpretation and boundaries
 
 The vision itself is **confirmed church language**. The ministry interpretation above explains how Groups Ministry participates in it. Specific expressions, future Class offerings, city strategies, ministry practices, and measures of flourishing remain unconfirmed unless recorded in `00 Dashboard/Decision Log.md`.

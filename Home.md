@@ -24,9 +24,9 @@
 
 ## Ministry Areas
 
-- **City Groups — Do life:** [[City Groups Overview]]
-- **Collectives — Grow together:** [[03 Groups/Collectives/Men's Collective]] · [[03 Groups/Collectives/Women's Collective]]
-- **Bible Clubs — Study the Word:** [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together|Bible Clubs overview]] · [[04 Classes/Curriculum/Planted Bible Study]]
+- **City Groups — Life together:** [[City Groups Overview]]
+- **Collectives — Shared encouragement:** [[03 Groups/Collectives/Men's Collective]] · [[03 Groups/Collectives/Women's Collective]]
+- **Bible Clubs — Rooted in Scripture:** [[01 Governance/Ministry Model#Bible Clubs — Rooted in Scripture|Bible Clubs overview]] · [[04 Classes/Curriculum/Planted Bible Study]]
 - **Future development:** [[Classes Overview]] · Freedom Groups planning in [[Groups Overview]]
 
 ## Resources and Operations

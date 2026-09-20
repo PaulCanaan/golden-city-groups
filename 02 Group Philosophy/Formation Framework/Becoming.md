@@ -8,6 +8,12 @@
 
 Becoming describes formation into the likeness of Christ and faithful participation in his mission. It includes everyday obedience, freedom in Christ, service, generosity, wisdom, character, gospel witness, and helping form others.
 
+Under DEC-049, this is how becoming is introduced publicly:
+
+> Formation is the goal — we are becoming more like Jesus as the Holy Spirit is renewing us day by day.
+
+Two things follow from that wording. **Formation is the goal** — not attendance, not completion of a study, not the number of groups. And the renewing is the **Spirit's** work, happening **day by day** (2 Corinthians 4:16): ordinary, incremental, and not something a group produces on a schedule.
+
 Becoming is not synonymous with receiving a title. People may help form others through households, friendships, vocation, hospitality, service, teaching, leadership, and witness.
 
 ## What Becoming Looks Like
@@ -24,6 +30,12 @@ Becoming is not synonymous with receiving a title. People may help form others t
 - **City Groups:** practice everyday discipleship through care, prayer, service, and shared life.
 - **Collectives:** encourage faithful response, service, and formation among men and among women.
 - **Bible Clubs:** respond faithfully to Scripture rather than stopping at interpretation; future Classes may develop understanding and practices that equip people to serve and form others.
+
+## The Pace of Becoming
+
+Day-by-day renewal sets the ministry's expectations honestly. Formation is slow, uneven, and largely invisible to the people undergoing it. A leader who expects visible change on a semester timeline will misread faithful people as stalled, and will be tempted to manufacture evidence of growth.
+
+What a group can do is keep the conditions in place: belonging that holds someone through a hard season, and beholding that keeps turning attention back to Christ. The renewing itself belongs to the Spirit.
 
 ## Guardrails
 

@@ -2,7 +2,7 @@
 
 This vault supports the development and launch of Golden City Church's Groups Ministry. It gathers the ministry's governing direction, theological framework, ministry plans, leadership resources, operations, and decision history.
 
-Golden City Church plans to launch publicly on **September 20, 2026**. Paul serves as Ministry Director and operational point person; Russ, or a pastor he designates, retains final readiness approval and the pastoral decisions recorded in the [Decision Log](00%20Dashboard/Decision%20Log.md).
+Golden City Church launched publicly on **September 20, 2026** and is now an established faith community in Broomfield, Colorado. **Group Launch Day is Sunday, October 4, 2026** (DEC-048). Paul serves as Ministry Director and operational point person; Russ, or a pastor he designates, retains final readiness approval and the pastoral decisions recorded in the [Decision Log](00%20Dashboard/Decision%20Log.md).
 
 ## Ministry at a Glance
 
@@ -10,9 +10,9 @@ Golden City Groups has three branches:
 
 | Branch | Purpose | Current form | Development path |
 |---|---|---|---|
-| **City Groups** | Do life | Location-based groups | Future home, activity-based, demographic-based, and other approved expressions |
-| **Collectives** | Grow together | Men's Collective and Women's Collective | Broader Men's Ministry and Women's Ministry |
-| **Bible Clubs** | Study the Word | Facilitator-led study through a book or section of Scripture | Future Classes, subject to offering-specific approval |
+| **City Groups** | Life together | Location-based groups | Future home, activity-based, demographic-based, and other approved expressions |
+| **Collectives** | Shared encouragement | Men's Collective and Women's Collective | Broader Men's Ministry and Women's Ministry |
+| **Bible Clubs** | Rooted in Scripture | Facilitator-led study through a book or section of Scripture | Future Classes, subject to offering-specific approval |
 
 All three branches support **Belonging → Beholding → Becoming** while serving distinct ministry purposes. Weekly Recap is optional for City Groups. Financial and marriage Classes are future examples, not approved offerings.
 

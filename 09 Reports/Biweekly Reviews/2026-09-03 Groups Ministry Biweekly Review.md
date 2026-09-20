@@ -50,7 +50,7 @@ Checked means the source was inspected, material changes were reconciled, write-
 | City Groups | [[03 Groups/City Groups/City Groups Overview\|City Groups Overview]] | [x] |
 | Men's Collective | [[03 Groups/Collectives/Men's Collective\|Men's Collective]] | [x] |
 | Women's Collective | [[03 Groups/Collectives/Women's Collective\|Women's Collective]] | [x] |
-| Bible Clubs / Planted | [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together\|Ministry Model — Bible Clubs]] and [[04 Classes/Curriculum/Planted Bible Study]] | [x] |
+| Bible Clubs / Planted | [[01 Governance/Ministry Model#Bible Clubs — Rooted in Scripture\|Ministry Model — Bible Clubs]] and [[04 Classes/Curriculum/Planted Bible Study]] | [x] |
 | Classes / future ministry | [[04 Classes/Classes Overview\|Classes Overview]] and [[03 Groups/Groups Overview#Future Ministry\|Groups Overview — Future Ministry]] | [x] |
 
 The checks confirm review coverage, not offering readiness.

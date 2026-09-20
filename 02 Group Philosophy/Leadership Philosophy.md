@@ -13,6 +13,7 @@ Leaders should:
 - remain centered on Jesus, grounded in Scripture, and dependent on the Holy Spirit
 - align with Golden City Church's mission, values, beliefs, and pastoral oversight
 - cultivate trustworthy belonging and direct attention toward Christ
+- be able to introduce Belonging, Beholding, Becoming in their own words without changing what each dimension means (DEC-049)
 - model repentance, teachability, prayer, service, and appropriate boundaries
 - facilitate participation rather than dominate
 - recognize needs beyond their role and escalate them promptly

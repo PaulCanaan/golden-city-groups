@@ -3,8 +3,6 @@ filters:
     - file.inFolder("Groups Ministry/11 Database/Groups Database/All Groups") || file.inFolder("11 Database/Groups Database/All Groups")
     - file.ext == "md"
     - record_type == "group"
-# Edit Leaders and Current Semester here; Current Leaders derives its rows from them.
-# Clear Current Semester for groups no longer participating when the semester changes.
 properties:
   file.name:
     displayName: Group Name

@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Confirmed model; launch expressions pending.** City Groups begin as location-based groups that help people do life together in homes or public spaces. No geographic page, leader, host, coach, location, capacity, or assignment is confirmed merely because it appears in this repository.
+**Confirmed model; Group Launch Day is October 4, 2026 (DEC-048); individual launch expressions pending.** City Groups begin as location-based groups that help people share life together in homes or public spaces. No geographic page, leader, host, coach, location, capacity, or assignment is confirmed merely because it appears in this repository.
 
 ## Ministry Emphasis
 
@@ -19,6 +19,8 @@ These are approved development categories, not active offerings. Each expression
 ## Initial Leadership Pipeline
 
 The Fall 2026 primary objective is to recruit Launch Team members to host City Groups. Team Nights on July 28, August 11, and August 25 were scheduled as the initial setting for City Group vision, interest, discernment, placement conversations, and September launch preparation; actual outcomes remain under review. Paul was assigned to help interested Launch Team members submit the Planning Center form, own intake, and email applicants about Group Leader Conversations and immediate next steps.
+
+Following the completed September 20 church launch, 16 connection-card responses expressed interest in participating in Groups Ministry. Welcome emails are Paul's immediate follow-up; Group Leader Conversation invitations go to those expressing leadership interest, which participation interest does not establish. The two weeks before the October 4 Group Launch Day are reserved for preparing additional leaders and hosts.
 
 A sign-up does not constitute appointment, and Paul's intake role does not confer final appointment authority. Group Leader Conversation and assessment standards, candidate qualifications, safeguarding review, final approval authority, training details, group assignments, appointment, and commissioning remain pending.
 

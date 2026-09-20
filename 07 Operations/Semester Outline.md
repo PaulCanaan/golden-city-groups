@@ -14,7 +14,7 @@ Connected to [[07 Operations/Calendar]]
 4. **Planned:** Leader training after discernment.
 5. **Planned:** Group assignments and location or host confirmation.
 6. **Planned:** Commissioning after readiness review.
-7. **Confirmed:** September 20 public church launch.
+7. **Confirmed:** September 20 public church launch, completed. Group Launch Day is October 4, 2026 under DEC-048.
 8. **Planned:** Launch-ready offerings begin in the approved fall ministry window.
 
 Spring 2027 prioritizes intentional leader development and multiplication through CoJourner; cohort details remain open.

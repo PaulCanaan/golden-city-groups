@@ -15,7 +15,7 @@ Connected to [[Semester Planning]] and [[07 Operations/Calendar]]
 5. **Confirmed stage:** Required training attendance moves the card to **Attended Training**; curriculum and completion requirements remain open.
 6. **Planned:** Group assignments, hosts or locations, and capacity confirmation.
 7. **Planned; awaiting pastoral direction:** Leader appointment and commissioning.
-8. **Confirmed:** Golden City Church launches publicly September 20.
+8. **Confirmed:** Golden City Church launched publicly September 20; groups launch October 4 under DEC-048.
 9. **Confirmed workflow completion; launch timing still requires approval:** After a launch-ready group actually begins meeting, the card moves to **Small Group Launched**.
 
 The shared Planning Center workflow and documented email automations are configured. Live use, candidate-stage reconciliation, testing, and all appointment/readiness gates remain separate.

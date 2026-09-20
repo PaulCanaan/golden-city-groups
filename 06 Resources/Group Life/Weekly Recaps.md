@@ -6,7 +6,7 @@
 
 ## Purpose
 
-When a group chooses to use it, help people carry the weekend message into shared reflection, prayer, pastoral connection, and faithful response while preserving the City Group purpose of doing life together.
+When a group chooses to use it, help people carry the weekend message into shared reflection, prayer, pastoral connection, and faithful response while preserving the City Group purpose of life together.
 
 ## Suggested Shape
 

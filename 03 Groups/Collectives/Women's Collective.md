@@ -6,11 +6,13 @@
 
 ## Ministry Emphasis
 
-Women's Collective is a confirmed expression of the Collectives branch, whose purpose is to grow together. Its gatherings should cultivate community, prayer, pastoral connection, biblical formation, and faithful response among women.
+Women's Collective is a confirmed expression of the Collectives branch, whose purpose is shared encouragement. Its gatherings should cultivate community, prayer, pastoral connection, biblical formation, and faithful response among women.
 
 The approved long-term direction is for Women's Collective to mature into a broader Women's Ministry. This does not activate additional programs or establish their leaders, rhythms, or readiness.
 
 The intended co-leads are Rachel O'Brien and Miranda Daly. Rachel expressed interest during a Group Leader Conversation; that interest is not formal approval or commissioning. Each named leader remains subject to the applicable qualification, conversation, safeguarding, preparation, appointment, and readiness requirements.
+
+Paul is convening a Collectives construction meeting with Russ, Miranda, Conner, and Rachel and is developing handouts, facilitator guides, and discussion questions. A Galatians study paralleling the church's Fruit of the Spirit weekend series is an initial idea recorded in [[00 Dashboard/Staff Decision Brief#PRO-033 — Collectives Study Content and a Possible Galatians Study|PRO-033]]. No study content is approved.
 
 The current cadence is the second and fourth Wednesdays of each month. The October start date, time, classroom or venue, capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.
 

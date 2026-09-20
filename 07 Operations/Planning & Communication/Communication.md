@@ -462,9 +462,9 @@ Russ granted Paul Squarespace access by August 28. Paul now owns implementation 
 
 Keep website and Church Center names, descriptions, schedules, locations, enrollment status, and participant next steps aligned. Do not publish unapproved offerings, doctrinal claims, policies, leaders, locations, or readiness statuses.
 
-- **City Groups — do life:** location-based community, pastoral connection, prayer, and everyday discipleship; Weekly Recap is optional.
-- **Collectives — grow together:** Men's Collective and Women's Collective, with a long-term path toward broader Men's and Women's Ministries.
-- **Bible Clubs — study the Word:** facilitator-led Bible study through a book or section of Scripture.
+- **City Groups — life together:** location-based community, pastoral connection, prayer, and everyday discipleship; Weekly Recap is optional.
+- **Collectives — shared encouragement:** Men's Collective and Women's Collective, with a long-term path toward broader Men's and Women's Ministries.
+- **Bible Clubs — rooted in Scripture:** facilitator-led Bible study through a book or section of Scripture.
 - **Planted Bible Club:** a twelve-week study beginning October 6, with Paul leading; curriculum is approved and Notion publishing is underway, but final readiness remains open.
 - **Future Classes:** possible topic-based equipping under Bible Clubs, not active offerings.
 

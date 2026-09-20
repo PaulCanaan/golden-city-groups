@@ -20,7 +20,7 @@ City Groups, Collectives, and Bible Clubs are not disconnected departments or in
 - A participant pathway toward faithful life in Christ
 - A leadership-development ecosystem
 
-### City Groups — Do Life
+### City Groups — Life Together
 
 City Groups begin as location-based groups that meet in homes or local meeting places throughout the city. They build relationships, pray together, offer pastoral connection and mutual care, and practice everyday discipleship. The [[Weekly Recaps|Weekly Recap]] may help a group respond to the weekend message, but it is optional rather than defining.
 
@@ -43,7 +43,7 @@ The approved long-term pathway is:
 
 This pathway permits development; it does not activate or approve a particular future expression.
 
-### Bible Clubs — Study the Bible Together
+### Bible Clubs — Rooted in Scripture
 
 Bible Clubs meet on-site at a designated gathering place to work through a book or section of the Bible together. They are discussion-based and led by a facilitator.
 
@@ -73,7 +73,7 @@ Intellectual formation should deepen understanding of Scripture and theology. Sp
 
 Future curriculum may address covenant, temple, ecclesiology, Christian metaphysics and metanarrative, discipleship, spiritual formation, biblical theology, finances, or marriage. These subjects are **future possibilities**, not an approved catalogue.
 
-### Collectives — Grow Together
+### Collectives — Shared Encouragement
 
 Collectives are centralized, gender-specific ministry environments currently expressed through Men's Collective and Women's Collective. They create space for community, prayer, pastoral connection, biblical formation, and faithful response among men and among women.
 
@@ -81,7 +81,7 @@ Men's Collective and Women's Collective are intended to mature over time into br
 
 ## How the Environments Reinforce One Another
 
-- City Groups provide sustained relational belonging and a place to do life together.
+- City Groups provide sustained relational belonging and a place for life together.
 - Bible Clubs help people study and respond to Scripture together.
 - Collectives provide gender-specific community and formation through Men's and Women's Collectives.
 - The three branches surface questions, needs, gifts, and emerging leaders that future Classes may help equip.
@@ -120,7 +120,7 @@ The confirmed launch sequence is:
 5. Approved candidates receive the required training.
 6. Leaders and participants are assigned to launch-ready groups.
 7. Leaders receive explicit appointment and are commissioned through practices still requiring pastoral and operational confirmation.
-8. Golden City Church launches publicly on September 20, 2026.
+8. Golden City Church launched publicly on September 20, 2026; groups launch on October 4, 2026 under DEC-048.
 
 Leader sign-up is an expression of interest rather than appointment. Paul owns routine coordination and leader-interest follow-up; Russ or his designated pastor gives final readiness approval. Exact leaders, groups, assignments, training content, and commissioning details remain unresolved until recorded in `00 Dashboard/Decision Log.md`.
 

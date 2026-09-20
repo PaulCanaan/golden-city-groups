@@ -20,6 +20,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-024 — Distinct Formation Emphases Across Ministry Environments|DEC-024 — Distinct Formation Emphases Across Ministry Environments]]
 - [[08 Archive/Decisions/Decision History#DEC-025 — Golden City Groups Ministry Environments|DEC-025 — Golden City Groups Ministry Environments]]
 - [[08 Archive/Decisions/Decision History#DEC-034 — Three-Branch Groups Ministry Architecture|DEC-034 — Three-Branch Groups Ministry Architecture]]
+- [[08 Archive/Decisions/Decision History#DEC-047 — Revised Three-Branch Purpose Language|DEC-047 — Revised Three-Branch Purpose Language]]
 
 ### Leadership
 
@@ -48,6 +49,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-017 — Pre-Launch Gatherings and Launch Team|DEC-017 — Pre-Launch Gatherings and Launch Team]]
 - [[08 Archive/Decisions/Decision History#DEC-022 — Initial Launch Scope and Deferred Public Ideas|DEC-022 — Initial Launch Scope and Deferred Public Ideas]]
 - [[08 Archive/Decisions/Decision History#DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target|DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target]]
+- [[08 Archive/Decisions/Decision History#DEC-048 — October 4, 2026 Group Launch Day|DEC-048 — October 4, 2026 Group Launch Day]]
 
 ### Curriculum
 
@@ -61,6 +63,8 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-014 — Public Groups Page Offering Set|DEC-014 — Public Groups Page Offering Set]]
 - [[08 Archive/Decisions/Decision History#DEC-015 — Published Fall 2026 Rhythms and Locations|DEC-015 — Published Fall 2026 Rhythms and Locations]]
 - [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership|DEC-037 — Groups Ministry Website Ownership]]
+- [[08 Archive/Decisions/Decision History#DEC-049 — Belonging, Beholding, Becoming as Public-Facing Language|DEC-049 — Belonging, Beholding, Becoming as Public-Facing Language]]
+- [[08 Archive/Decisions/Decision History#DEC-050 — Rebuilt Public Groups Page (September 20, 2026)|DEC-050 — Rebuilt Public Groups Page (September 20, 2026)]]
 
 ### Technology & Systems
 
@@ -92,7 +96,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–014, DEC-016–022, DEC-026–027, DEC-033–034, DEC-037–040, DEC-042–043, and DEC-045–046.
+DEC-001–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042–043, and DEC-045–050.
 
 ### Confirmed in Part
 
@@ -121,21 +125,24 @@ DEC-039.
 - [[08 Archive/Decisions/Decision History#DEC-025 — Golden City Groups Ministry Environments|DEC-025]] — superseded by DEC-034.
 - [[08 Archive/Decisions/Decision History#DEC-015 — Published Fall 2026 Rhythms and Locations|DEC-015]] — Collective rhythms and prior Women's location superseded by DEC-043.
 - [[08 Archive/Decisions/Decision History#DEC-041 — CoJourner Leader-Development Pathway|DEC-041]] — superseded by DEC-045.
+- [[08 Archive/Decisions/Decision History#DEC-034 — Three-Branch Groups Ministry Architecture|DEC-034]] — branch purpose language superseded by DEC-047.
+- [[08 Archive/Decisions/Decision History#DEC-014 — Public Groups Page Offering Set|DEC-014]] — offering set superseded by DEC-050.
+- [[08 Archive/Decisions/Decision History#DEC-015 — Published Fall 2026 Rhythms and Locations|DEC-015]] — still-published details also superseded by DEC-050.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions begin with the August 28 reconciliation:
+The ten most recent numbered decisions begin with the September 20 page review, formation-language, Group Launch Day, and branch purpose decisions:
 
-1. [[08 Archive/Decisions/Decision History#DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target|DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target]]
-2. [[08 Archive/Decisions/Decision History#DEC-045 — CoJourner Group-Leader Training Architecture|DEC-045 — CoJourner Group-Leader Training Architecture]]
-3. [[08 Archive/Decisions/Decision History#DEC-044 — Intended Collective Leadership Structure|DEC-044 — Intended Collective Leadership Structure]]
-4. [[08 Archive/Decisions/Decision History#DEC-043 — Biweekly Collective Cadence|DEC-043 — Biweekly Collective Cadence]]
-5. [[08 Archive/Decisions/Decision History#DEC-042 — Group Leader Intake-to-Launch Workflow|DEC-042 — Group Leader Intake-to-Launch Workflow]]
-6. [[08 Archive/Decisions/Decision History#DEC-041 — CoJourner Leader-Development Pathway|DEC-041 — CoJourner Leader-Development Pathway]]
-7. [[08 Archive/Decisions/Decision History#DEC-040 — Fall 2026 and Spring 2027 Leadership Objectives|DEC-040 — Fall 2026 and Spring 2027 Leadership Objectives]]
-8. [[08 Archive/Decisions/Decision History#DEC-039 — Leader Resources and SOP Research Direction|DEC-039 — Leader Resources and SOP Research Direction]]
-9. [[08 Archive/Decisions/Decision History#DEC-038 — Planted Notion Finalization and October Readiness Target|DEC-038 — Planted Notion Finalization and October Readiness Target]]
-10. [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership|DEC-037 — Groups Ministry Website Ownership]]
+1. [[08 Archive/Decisions/Decision History#DEC-050 — Rebuilt Public Groups Page (September 20, 2026)|DEC-050 — Rebuilt Public Groups Page (September 20, 2026)]]
+2. [[08 Archive/Decisions/Decision History#DEC-049 — Belonging, Beholding, Becoming as Public-Facing Language|DEC-049 — Belonging, Beholding, Becoming as Public-Facing Language]]
+3. [[08 Archive/Decisions/Decision History#DEC-048 — October 4, 2026 Group Launch Day|DEC-048 — October 4, 2026 Group Launch Day]]
+4. [[08 Archive/Decisions/Decision History#DEC-047 — Revised Three-Branch Purpose Language|DEC-047 — Revised Three-Branch Purpose Language]]
+5. [[08 Archive/Decisions/Decision History#DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target|DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target]]
+6. [[08 Archive/Decisions/Decision History#DEC-045 — CoJourner Group-Leader Training Architecture|DEC-045 — CoJourner Group-Leader Training Architecture]]
+7. [[08 Archive/Decisions/Decision History#DEC-044 — Intended Collective Leadership Structure|DEC-044 — Intended Collective Leadership Structure]]
+8. [[08 Archive/Decisions/Decision History#DEC-043 — Biweekly Collective Cadence|DEC-043 — Biweekly Collective Cadence]]
+9. [[08 Archive/Decisions/Decision History#DEC-042 — Group Leader Intake-to-Launch Workflow|DEC-042 — Group Leader Intake-to-Launch Workflow]]
+10. [[08 Archive/Decisions/Decision History#DEC-041 — CoJourner Leader-Development Pathway|DEC-041 — CoJourner Leader-Development Pathway]]
 
 ## Supersession Map
 
@@ -157,6 +164,15 @@ DEC-043
 DEC-041
    ↓ superseded by
 DEC-045
+
+DEC-034
+   ↓ branch purpose language superseded by
+DEC-047
+
+DEC-014 (offering set)
+DEC-015 (still-published details)
+   ↓ superseded by
+DEC-050
 ```
 
 Only the explicit supersession relationships recorded in the [[Decision Log#Chronological Decision Register|chronological register]] appear here.

@@ -36,7 +36,7 @@ This is the ordinary horizon of discipleship, not a requirement that every matur
 
 ## One ministry, three branches
 
-**City Groups — do life** through:
+**City Groups — life together** through:
 
 - Christ-centered shared life
 - Pastoral care
@@ -44,9 +44,9 @@ This is the ordinary horizon of discipleship, not a requirement that every matur
 - Mutual encouragement
 - Scripture-centered conversation and faithful response; Weekly Recap may be used as an optional resource
 
-**Collectives — grow together** through Men's Collective and Women's Collective, with a long-term path toward broader Men's Ministry and Women's Ministry.
+**Collectives — shared encouragement** through Men's Collective and Women's Collective, with a long-term path toward broader Men's Ministry and Women's Ministry.
 
-**Bible Clubs — study the Word** through facilitator-led study and discussion of a book or section of the Bible. Future Classes may develop under Bible Clubs to provide:
+**Bible Clubs — rooted in Scripture** through facilitator-led study and discussion of a book or section of the Bible. Future Classes may develop under Bible Clubs to provide:
 
 - Biblical formation
 - Theological formation
@@ -62,6 +62,18 @@ Financial and marriage Classes are future examples, not approved offerings. The 
 The mission begins with Christ rather than with ministry structures. Jesus calls and commissions his church to make disciples, teaching people to obey all he commanded (Matthew 28:18–20). Scripture is the ministry's authority, the Holy Spirit is the source of transformation and power, and the church is the community in which disciples are formed and equipped (Ephesians 4:11–16).
 
 Groups must not become social environments without spiritual purpose. Future Classes must not become academic environments detached from worship, community, service, and mission. Both exist to help people follow Jesus within the life and witness of Golden City Church.
+
+## Introducing the Formation Framework
+
+Under DEC-049, Belonging, Beholding, Becoming is public-facing language. Whenever the vision, mission, and values of Golden City Groups are shared, the formation model is introduced alongside them:
+
+> **Belonging** — before you believe anything we believe as a church, you will find belonging when you come to a group.
+>
+> **Beholding** — beholding the glory of the Son of God is the posture, orientation of life, and act of worship we take as the groups ministry.
+>
+> **Becoming** — formation is the goal. We are becoming more like Jesus as the Holy Spirit is renewing us day by day.
+
+The fuller explanation for leaders is in [[Belonging, Beholding, Becoming|the Formation Framework]].
 
 ## Ministry interpretation and boundaries
 

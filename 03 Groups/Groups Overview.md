@@ -6,9 +6,9 @@
 
 ## Three Ministry Branches
 
-- **[[03 Groups/City Groups/City Groups Overview|City Groups]] — Do life:** location-based groups with a long-term path toward future home, activity-based, demographic-based, and other approved expressions. [[Weekly Recaps|Weekly Recap]] is optional.
-- **Collectives — Grow together:** [[03 Groups/Collectives/Men's Collective|Men's Collective]] and [[03 Groups/Collectives/Women's Collective|Women's Collective]], intended to mature into broader Men's Ministry and Women's Ministry.
-- **[[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together|Bible Clubs]] — Study the Word:** facilitator-led study of a book or section of Scripture. [[04 Classes/Curriculum/Planted Bible Study|Planted]] is the current planned offering; future Classes may develop under this branch.
+- **[[03 Groups/City Groups/City Groups Overview|City Groups]] — Life together:** location-based groups with a long-term path toward future home, activity-based, demographic-based, and other approved expressions. [[Weekly Recaps|Weekly Recap]] is optional.
+- **Collectives — Shared encouragement:** [[03 Groups/Collectives/Men's Collective|Men's Collective]] and [[03 Groups/Collectives/Women's Collective|Women's Collective]], intended to mature into broader Men's Ministry and Women's Ministry.
+- **[[01 Governance/Ministry Model#Bible Clubs — Rooted in Scripture|Bible Clubs]] — Rooted in Scripture:** facilitator-led study of a book or section of Scripture. [[04 Classes/Curriculum/Planted Bible Study|Planted]] is the current planned offering; future Classes may develop under this branch.
 
 The three branches share the Belonging, Beholding, and Becoming framework but are not interchangeable.
 
@@ -30,7 +30,7 @@ Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-
 - [[Home]] — Groups is a top-level area of the groups and classes ministry hub.
 - [[03 Groups/Collectives/Men's Collective|Men's Collective]] — Planned Collective with readiness still pending.
 - [[03 Groups/Collectives/Women's Collective|Women's Collective]] — Planned Collective with readiness still pending.
-- [[03 Groups/City Groups/City Groups Overview|City Groups Overview]] — Planned location-based groups intended to help people do life together.
+- [[03 Groups/City Groups/City Groups Overview|City Groups Overview]] — Planned location-based groups intended to help people share life together.
 - [[02 Group Philosophy/Formation Framework/Belonging, Beholding, Becoming]] — Group life is shaped by the Belonging → Beholding → Becoming framework.
 - [[Leadership Overview]] — Governs the developing leadership pathway and distinguishes planned roles from approved appointments.
 - [[Resources Overview]] — Practical group-life and leader resources without duplicating governing material.

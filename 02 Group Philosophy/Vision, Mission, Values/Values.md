@@ -14,6 +14,18 @@ Golden City Church's values are:
 
 These are confirmed church values. The interpretations and implications below explain how they orient the Groups and Classes Ministry; they do not establish unapproved ministry practices.
 
+## Introducing the Formation Framework
+
+Under DEC-049, Belonging, Beholding, Becoming is public-facing language. Whenever the vision, mission, and values of Golden City Groups are shared, the formation model is introduced alongside them:
+
+> **Belonging** — before you believe anything we believe as a church, you will find belonging when you come to a group.
+>
+> **Beholding** — beholding the glory of the Son of God is the posture, orientation of life, and act of worship we take as the groups ministry.
+>
+> **Becoming** — formation is the goal. We are becoming more like Jesus as the Holy Spirit is renewing us day by day.
+
+The fuller explanation for leaders is in [[Belonging, Beholding, Becoming|the Formation Framework]].
+
 ## How the values shape the ministry
 
 ### Jesus is our Pursuit

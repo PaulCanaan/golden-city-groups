@@ -16,7 +16,7 @@ Slides, handouts, facilitator or instructor guides, participant guides, reading 
 
 ## Connections
 
-- [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together|Bible Clubs]] — Governing purpose for facilitator-led study of Scripture.
+- [[01 Governance/Ministry Model#Bible Clubs — Rooted in Scripture|Bible Clubs]] — Governing purpose for facilitator-led study of Scripture.
 - [[Classes Overview]] — Governing purpose for teacher-led, topic-based equipping.
 - [[08 Archive/Classes/Upcoming|Archived curriculum planning]] — Preserved unapproved curriculum scaffolds and development questions.
 - [[Leadership Overview]] — Facilitator and instructor responsibilities remain role-specific and approval-dependent.

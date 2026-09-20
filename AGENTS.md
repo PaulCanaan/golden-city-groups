@@ -20,7 +20,7 @@ When preparing or reviewing staff decisions, also read `00 Dashboard/Staff Decis
 2. Faithfulness to Scripture and Christ-centered formation
 3. Belonging–Beholding–Becoming
 4. The approved three-branch model: City Groups, Collectives, and Bible Clubs; Classes are a future development path under Bible Clubs
-5. Practical readiness for the September 20, 2026 launch
+5. Practical readiness for the October 4, 2026 Group Launch Day, following the September 20, 2026 public church launch
 6. Sustainable structures that can grow over time
 
 ## Working Rules

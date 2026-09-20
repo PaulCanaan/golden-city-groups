@@ -23,8 +23,8 @@ The following is a **proposed launch curriculum framework**, adapted after revie
 - GCC's mission, values, beliefs, and approved ministry purpose
 - Groups as the primary environment for Christ-centered community, prayer, care, encouragement, and everyday discipleship
 - Belonging, Beholding, and Becoming as mutually reinforcing dimensions of formation
-- City Groups as location-based communities that help people do life together; Weekly Recap is optional and future expressions require approval
-- the three branches: City Groups to do life, Collectives to grow together, and Bible Clubs to study the Word; future Classes develop under Bible Clubs
+- City Groups as location-based communities that help people share life together; Weekly Recap is optional and future expressions require approval
+- the three branches: City Groups for life together, Collectives for shared encouragement, and Bible Clubs rooted in Scripture; future Classes develop under Bible Clubs
 
 ### 2. The Stewardship of Leadership
 

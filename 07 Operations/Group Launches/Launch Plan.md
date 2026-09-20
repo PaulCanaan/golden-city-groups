@@ -2,13 +2,13 @@
 
 ## Document Status
 
-**Operational plan with mixed confirmation status.** The Launch Team, Team Night dates, initial internal leadership pipeline, and September 20 public launch are confirmed. Leader names, training dates, assignments, commissioning details, group locations, and capacities remain pending.
+**Operational plan with mixed confirmation status.** The Launch Team, Team Night dates, initial internal leadership pipeline, the completed September 20 public launch, and the October 4 Group Launch Day (DEC-048) are confirmed. Leader names, training dates, assignments, commissioning details, group locations, and capacities remain pending.
 
 ## Purpose
 
 Recruit Launch Team members to host a small number of accountable, prepared, and truthfully communicated City Groups.
 
-City Groups help people do life together through community, pastoral connection, prayer, and everyday discipleship. [[Weekly Recaps|Weekly Recap]] is an optional discussion resource rather than a defining practice.
+City Groups help people share life together through community, pastoral connection, prayer, and everyday discipleship. [[Weekly Recaps|Weekly Recap]] is an optional discussion resource rather than a defining practice.
 
 ## Launch Sequence
 
@@ -24,7 +24,8 @@ City Groups help people do life together through community, pastoral connection,
 | Group assignments | **Planned** | Approved leaders, groups, hosts or locations, and capacities are matched. |
 | Planning Center build | **Planned; controls pending approval** | Paul operates the ministry in Planning Center. Approved offerings receive complete draft records, leaders, schedules, locations, capacities, events, and tested enrollment paths while remaining unlisted until readiness approval. |
 | Commissioning | **Planned; pastoral direction required** | Approved leaders are entrusted with responsibility after readiness review. Paul recommends readiness; Russ or his designated pastor gives final approval. |
-| September 20 public launch | **Confirmed** | Golden City Church launches publicly. |
+| September 20 public launch | **Completed** | Golden City Church launched publicly; Paul reported a smooth and successful launch. |
+| October 4 Group Launch Day | **Confirmed date; per-group readiness open** | Groups launch under DEC-048; each group still completes its own readiness gates. |
 | Fall City Group start | **Planned** | Only launch-ready groups begin in the approved fall ministry window. |
 
 ## Boundaries

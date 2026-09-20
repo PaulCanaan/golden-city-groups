@@ -73,6 +73,10 @@ Through belonging and beholding, people are formed into the likeness of Christ a
 
 Becoming is not synonymous with receiving a ministry title. Mature disciples may form others through households, friendships, vocation, hospitality, service, teaching, leadership, and witness.
 
+### Public-Facing Use
+
+Under DEC-049, Belonging, Beholding, Becoming is public-facing ministry language rather than an internal framework only. It is introduced whenever the ministry's vision, mission, and values are shared, using the simple introduction recorded in [[02 Group Philosophy/Formation Framework/Belonging, Beholding, Becoming#Introducing the Framework Publicly|the Formation Framework]]. DEC-049 approves language, not doctrine; the commitments and guardrails in this document are unchanged.
+
 ## Integrated Formation
 
 The dimensions operate together:

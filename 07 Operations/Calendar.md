@@ -19,14 +19,15 @@
 | August 11, 2026 | Team Night | **Completed; intake workflow approved** | Potential leader interest and follow-up should be reconciled in the approved system |
 | August 16, 2026 | Interest Night | **Completed; reported by Paul on August 17** | Final Interest Night before public launch; continue connecting with and supporting potential future group leaders |
 | August 25, 2026 | Team Night | **Past; outcome review required** | Planned as the final pre-launch Team Night opportunity; actual execution and follow-up are not recorded |
-| September 20, 2026 | Golden City Church public launch | **Confirmed** | Public church launch; not the automatic start date for every Group or Class |
+| September 20, 2026 | Golden City Church public launch | **Completed** | Launch Sunday went smoothly; the church is established in Broomfield, Colorado. 16 connection-card responses expressed interest in participating in Groups Ministry |
+| October 4, 2026 | **Group Launch Day** | **Confirmed date; per-group readiness open** | Groups launch under DEC-048; each group still completes its own readiness gates |
 | October 6, 2026 | Planted Bible Club begins | **Confirmed date; final readiness open** | Location, operating details, participant path, testing, and final approval remain incomplete |
 | October 2026, date TBD | Men's Collective begins | **Target; readiness incomplete** | First/third-Wednesday cadence confirmed; time, venue, leader-path completion, participant path, communication, and final approval remain open |
 | October 2026, date TBD | Women's Collective begins | **Target; readiness incomplete** | Second/fourth-Wednesday cadence confirmed; time, venue, leader-path completion, participant path, communication, and final approval remain open |
 
 ## Pending Milestones
 
-- Completion of City Group leader discernment
+- Completion of City Group leader discernment before October 4
 - Leader training
 - Group assignments and location confirmation
 - Leader commissioning

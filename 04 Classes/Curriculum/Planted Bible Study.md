@@ -47,6 +47,6 @@ Completion of Notion publishing does not establish operational readiness.
 ## Connections
 
 - [[Groups Ministry/11 Database/Groups Database/All Groups/Bible Clubs/Planted Bible Study|Planted working Group record]] — Non-sensitive ministry planning; Planning Center remains authoritative for official operational data.
-- [[01 Governance/Ministry Model#Bible Clubs — Study the Bible Together|Ministry Model]] — Governing Bible Club purpose.
+- [[01 Governance/Ministry Model#Bible Clubs — Rooted in Scripture|Ministry Model]] — Governing Bible Club purpose.
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Records the confirmed fall 2026 window.
 - [[05 Leadership/Class Instructors]] — Records the prior Class-role context and current Bible Club assignment.
