@@ -103,16 +103,6 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 - **Expected decision owner:** Paul implements; Russ or the appropriate pastoral reviewer confirms the review boundary.
 - **Sources:** [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership|DEC-037]], [[01 Governance/Launch Roadmap#Communication|Launch Roadmap]].
 
-## Communication
-
-### Public Formation Language
-
-- **Question:** Will Belonging, Beholding, Becoming be public-facing language or primarily an internal ministry framework?
-- **Why unresolved:** DEC-002 approves the framework, while OQ-002 records that its public use still awaits pastoral approval.
-- **Blocking impact:** No launch-blocking designation is recorded; public wording remains unsettled.
-- **Expected decision owner:** Pastoral approval required; no individual decision owner is recorded.
-- **Sources:** [[08 Archive/Decisions/Decision History#OQ-002 — Public Formation Language|OQ-002]], [[01 Governance/Theological Framework#Open Theological Questions|Theological Framework]].
-
 ## Operations
 
 ### Spending and Facility-Commitment Threshold

@@ -31,4 +31,5 @@ Developed from [[01 Governance/Theological Framework#Becoming|Theological Framew
 - [[Becoming]] — Formation expressed through service and helping form others.
 - [[Growth Path]] — Relational participant journey.
 - [[Leader Support Check-In]] — Ongoing care after appointment.
+- [[Supporting Leaders and Groups]] — The leader community and support that make multiplication sustainable.
 - [[CoJourner]] — Approved four-session leader-development pathway.

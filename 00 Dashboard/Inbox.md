@@ -58,3 +58,39 @@ The Inbox may temporarily hold conversation notes, Team Night observations, lead
 ## Active Inbox
 
 <!-- Capture new items below using the Inbox Item Template. -->
+
+## 2026-09-22 — Connection Card is an undocumented intake path
+
+- **Source:** Paul's request for a Connection Card welcome email; repository search on September 22, 2026
+- **Type:** Question
+- **Ministry Area:** Planning Center
+- **Authority Status:** Unresolved Question
+- **Summary:** The Connection Card is the trigger for the Groups welcome email and produced the 16 Launch Sunday participation responses carried in BWR-021, but no Connection Card form, field set, consent language, owner, routing rule, or automation is documented anywhere in this repository. [[07 Operations/Forms|Forms and Intake]] records only the two Group Leader intake paths and the Church Center participant path. It appears to be a church-level instrument rather than a Groups Ministry form, which would place its fields and consent under Russ's participant-system ownership (DEC-032).
+- **Next Action:** Confirm with Russ who owns the Connection Card, what it collects, what consent it carries, and how Groups-related responses route to the Groups Director. Then record it in Forms and Intake as a third intake path.
+- **Owner:** Paul to raise; Russ owns the participant system
+- **Target Destination:** [[07 Operations/Forms|Forms and Intake]], and [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] if unresolved on October 5
+- **Status:** Clarify
+
+## 2026-09-22 — Does DEC-049's publication boundary cover direct email?
+
+- **Source:** Drafting [[07 Operations/Planning & Communication/Participant Welcome and Groups Introduction|the participant welcome email]] on September 22, 2026
+- **Type:** Question
+- **Ministry Area:** Governance
+- **Authority Status:** Unresolved Question
+- **Summary:** DEC-049 approves the Belonging–Beholding–Becoming introduction as public-facing ministry language, and its boundary states that published participant-facing use travels with Russ's confirmation under BWR-020. The record does not say whether a direct pastoral email to an individual counts as publication. The welcome template carries a reduced variant that omits the framework block so it can be sent either way, but the question should be settled rather than worked around.
+- **Next Action:** Ask Russ as part of BWR-020 whether the DEC-047 and DEC-049 language is confirmed for direct participant email as well as for published pages.
+- **Owner:** Paul to raise; Russ confirms
+- **Target Destination:** [[00 Dashboard/Biweekly Review Queue|BWR-020]], then the DEC-049 record if the boundary is clarified
+- **Status:** Clarify
+
+## 2026-09-22 — Group leader collaborations as a future development
+
+- **Source:** Paul's ministry direction on September 22, 2026, recorded in [[02 Group Philosophy/Healthy Groups/Supporting Leaders and Groups|Supporting Leaders and Groups]]
+- **Type:** Decision Candidate
+- **Ministry Area:** Leadership
+- **Authority Status:** Proposal
+- **Summary:** Group leaders serve together for the body of the church without literally serving together, so isolation is the default condition of the role. Paul's direction is that the ministry provides three answers: leader resources (available now), CoJourner training (confirmed under DEC-045), and **group leader collaborations** — a future peer space for leaders to share experience and learn from one another as the ministry is running and growing. A collaboration is distinct from training and from a Groups Director check-in: it is the only one of the three that surfaces knowledge the ministry does not already have. It is not an approved offering and must not be described to any leader as something currently provided.
+- **Next Action:** Develop a proposal for the Staff Decision Brief naming the form, cadence, owner, who participates, and the relationship to CoJourner cohorts and the Leader Support Check-In. Sequence it after Fall 2026 readiness rather than into it.
+- **Owner:** Paul proposes; Russ approves
+- **Target Destination:** [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]] as a PRO item, then the Decision Log if approved
+- **Status:** Clarify

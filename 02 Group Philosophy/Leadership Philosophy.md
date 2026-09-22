@@ -35,6 +35,7 @@ See DEC-027–028 in the [[00 Dashboard/Decision Log|Decision Log]] and the rema
 
 ## Connections
 
+- [[Supporting Leaders and Groups]] — Why leaders cannot be left to lead alone, and what the ministry owes them.
 - [[Healthy Groups]] — Health and readiness implications.
 - [[Multiplying-disciples]] — Long-term development without automatic promotion.
 - [[05 Leadership/Group Leaders]] — Current City Group leader pathway.

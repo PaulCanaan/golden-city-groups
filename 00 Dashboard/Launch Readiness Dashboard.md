@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Primary operational launch-control page; not a canonical governance record.** Last reconciled **September 20, 2026** with Paul's Launch Sunday update; the last full review was the delayed September 7 occurrence recorded on [[09 Reports/Biweekly Reviews/2026-09-08 Groups Ministry Biweekly Review|September 8, 2026]]. Approved direction remains governed by the [[Decision Log|Decision Log]] and [[08 Archive/Decisions/Decision History|Decision History]]. Unresolved governance questions remain organized in [[Open Decisions|Open Decisions]]. This dashboard tracks implementation evidence, dependencies, ownership, risk, and next actions only.
+**Primary operational launch-control page; not a canonical governance record.** Last reconciled **September 21, 2026** through the [[09 Reports/Biweekly Reviews/2026-09-21 Groups Ministry Biweekly Review|September 21 biweekly review]]. Approved direction remains governed by the [[Decision Log|Decision Log]] and [[08 Archive/Decisions/Decision History|Decision History]]. Unresolved governance questions remain organized in [[Open Decisions|Open Decisions]]. This dashboard tracks implementation evidence, dependencies, ownership, risk, and next actions only.
 
 Do not record applicant names, participant information, interview notes, screening details, safeguarding reports, or pastoral narratives here. Those belong in the approved restricted church system.
 
@@ -85,7 +85,7 @@ Per Paul's direction the same day, published group details are provisional and m
 
 | Date | Milestone | Current interpretation | Readiness implication |
 |---|---|---|---|
-| July 28, 2026 | Team Night | Historical confirmed opportunity; repository evidence does not record execution or reconciliation. | Reconcile any interest and follow-up immediately; review again September 21 if evidence remains missing. |
+| July 28, 2026 | Team Night | Historical confirmed opportunity; repository evidence does not record execution or reconciliation. | Reconcile any interest and follow-up immediately; review again October 5 if evidence remains missing. |
 | August 11, 2026 | Team Night | Completed event; detailed execution and follow-up are not recorded in this repository. | Reconcile interest and ensure each potential leader has a known next step. |
 | August 16, 2026 | Interest Night | Completed final Interest Night before public launch, as reported by Paul on August 17. | Reconcile potential leader interest and continue personal follow-up and support. |
 | August 25, 2026 | Team Night | Past planned pre-launch opportunity; actual outcome is not recorded. | Ask Paul for the outcome, reconcile any interest and follow-up, and convert planning language to history. |
@@ -155,21 +155,21 @@ Per Paul's direction the same day, published group details are provisional and m
 
 | Deliverable or readiness requirement | Status | Evidence or source | Owner | Next action | Due / target | Blocking dependency | Approval required | Notes |
 |---|---|---|---|---|---|---|---|---|
-| July 28 Team Night execution and reconciliation | **At Risk** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul with staff | Record whether invitation, form access, interest capture, confirmation, and follow-up occurred in the approved systems. | Overdue; review September 21 | Historical execution evidence absent | No new decision | Date is historical; scheduled does not mean completed. |
-| August 11 Team Night execution and reconciliation | **At Risk** | [[Group Launch Overview#Fall 2026 Sequence\|Launch sequence]] | Paul | Reconcile interest capture, confirmations, and follow-up in the approved system. | Overdue; review September 21 | Detailed execution evidence absent from the repository | Existing workflow governs | The event occurred; that alone does not prove each workflow step was completed. |
-| August 16 Interest Night follow-through | **At Risk** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul | Reconcile potential leader interest and ensure each person has a known next step. | Overdue; review September 21 | Follow-up completion is not recorded | Existing discernment and appointment boundaries govern | Final Interest Night before public launch; not a leadership appointment event. |
-| August 25 Team Night outcome and reconciliation | **At Risk** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul | Record whether the event and planned workflow occurred; reconcile interest, follow-up, decisions, and lessons. | Overdue; review September 21 | Outcome evidence absent from the repository | Existing workflow governs | The scheduled date is past; do not infer success. |
+| July 28 Team Night execution and reconciliation | **At Risk** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul with staff | Record whether invitation, form access, interest capture, confirmation, and follow-up occurred in the approved systems. | Overdue; review October 5 | Historical execution evidence absent | No new decision | Date is historical; scheduled does not mean completed. |
+| August 11 Team Night execution and reconciliation | **At Risk** | [[Group Launch Overview#Fall 2026 Sequence\|Launch sequence]] | Paul | Reconcile interest capture, confirmations, and follow-up in the approved system. | Overdue; review October 5 | Detailed execution evidence absent from the repository | Existing workflow governs | The event occurred; that alone does not prove each workflow step was completed. |
+| August 16 Interest Night follow-through | **At Risk** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul | Reconcile potential leader interest and ensure each person has a known next step. | Overdue; review October 5 | Follow-up completion is not recorded | Existing discernment and appointment boundaries govern | Final Interest Night before public launch; not a leadership appointment event. |
+| August 25 Team Night outcome and reconciliation | **At Risk** | [[07 Operations/Calendar#Key dates\|Calendar]] | Paul | Record whether the event and planned workflow occurred; reconcile interest, follow-up, decisions, and lessons. | Overdue; review October 5 | Outcome evidence absent from the repository | Existing workflow governs | The scheduled date is past; do not infer success. |
 | City Group host-interest invitation | **Not Applicable** | [[Communication#Fall 2026 Recruitment Example\|Retained Team Night invitation]] | Paul with staff | Preserve as season-specific implementation history; update context before reuse. | Completed historical treatment | — | No new decision | The dated invitation is no longer an active launch deliverable. |
-| On-site explanation and Paul's point-person role | **At Risk** | [[08 Archive/Decisions/Decision History#DEC-026 — August Team Night Leader-Interest Intake Workflow\|DEC-026]] | Paul | Report whether the approved role was performed. | Overdue; review September 21 | Event outcome | Recorded | Approval does not prove execution. |
+| On-site explanation and Paul's point-person role | **At Risk** | [[08 Archive/Decisions/Decision History#DEC-026 — August Team Night Leader-Interest Intake Workflow\|DEC-026]] | Paul | Report whether the approved role was performed. | Overdue; review October 5 | Event outcome | Recorded | Approval does not prove execution. |
 | Form/QR access and backup | **At Risk** | [[07 Operations/Forms#Group leader interest\|Forms]] | Paul; backup unassigned | Report whether access worked and name backup coverage before reuse. | Before the next intake use | Backup and outcome evidence | **Russ for backup** | QR code existence is not evidenced. |
 | Form confirmation and applicant follow-up | **In Progress** | [[Communication#Planning Center — Form Confirmation\|Confirmation copy]] | Paul | Verify automatic/manual delivery and reconcile every submission. | Same day / after each Team Night; response standard unapproved | System routing and response standard | Russ for response standard | No completion records are present here. |
-| Attendance or interest capture and post-event reconciliation | **Not Started** | [[Launch Checklist#Team Night Follow-Through\|Launch Checklist]] | Paul with staff | Define a privacy-conscious reconciliation step and complete it for all past events. | Overdue; review September 21 | Record method unresolved | May require PRO-029/030 decisions | Do not store personal data in this dashboard. |
+| Attendance or interest capture and post-event reconciliation | **Not Started** | [[Launch Checklist#Team Night Follow-Through\|Launch Checklist]] | Paul with staff | Define a privacy-conscious reconciliation step and complete it for all past events. | Overdue; review October 5 | Record method unresolved | May require PRO-029/030 decisions | Do not store personal data in this dashboard. |
 
 ## D. Leader Interviews and Assessment
 
 | Deliverable or readiness requirement | Status | Evidence or source | Owner | Next action | Due / target | Blocking dependency | Approval required | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Candidate list in approved restricted system | **Not Started** | [[05 Leadership/Group Leaders#Current Selection Sequence\|Selection sequence]] | Paul | Reconcile form submissions and candidate next steps outside this repository. | September 7 target missed; immediate action; review September 21 | Form reconciliation and approved record method | No public approval; privacy rules apply | No candidate list is evidenced here. |
+| Candidate list in approved restricted system | **Not Started** | [[05 Leadership/Group Leaders#Current Selection Sequence\|Selection sequence]] | Paul | Reconcile form submissions and candidate next steps outside this repository. | September 7 target missed; immediate action; review October 5 | Form reconciliation and approved record method | No public approval; privacy rules apply | No candidate list is evidenced here. |
 | Applicant invitation and scheduling workflow | **In Progress** | [[07 Operations/Planning & Communication/Communication#Step 0 — Interest Submitted\|Interest Acknowledgment]] and [[07 Operations/Planning & Communication/Communication#Step 1 — Welcome / Group Leader Conversation\|Conversation Invitation]] | Paul | Continue personal follow-up and scheduling with the appropriate stage-specific template. | After each submission or expression of interest | Format, duration, scheduling details, response standard | Operational confirmation | Ownership is approved; execution is not evidenced. |
 | Interview implementation details | **Blocked** | [[Open Decisions#Leader Workflow Implementation Details\|Open Decisions]] | Paul prepares | Submit minimum format, duration, participants, records, and outcome rules for approval. | Before interviews become the basis for training/placement | PRO-029 | **Russ / pastoral boundary** | The **Interviewed** stage is approved; its detailed procedure is not. |
 | Group Leader Conversation question resource | **Ready** | [[07 Operations/Planning & Communication/Group Leader Conversation Questions\|Conversation Questions]] | Paul | Use with the canonical guide and approved privacy boundaries. | Before and during conversations | Interview format, outcome record, and role-specific criteria remain open | Operational/pastoral implementation still needed | The question bank exists; no redesign is needed. |
@@ -215,7 +215,7 @@ Per Paul's direction the same day, published group details are provisional and m
 | Deliverable or readiness requirement | Status | Evidence or source | Owner | Next action | Due / target | Blocking dependency | Approval required | Notes |
 |---|---|---|---|---|---|---|---|---|
 | Location-based City Group launch model | **Ready** | [[City Groups Overview#Ministry Emphasis\|City Groups model]] | Paul within confirmed direction | Use the model in discernment and planning. | Ongoing | — | Recorded under DEC-034–035 | Does not approve a specific group. |
-| Prospective host/leader pool | **In Progress** | [[05 Leadership/Hosts\|Hosts]] | Paul | Reconcile interest, communicate with each potential leader, and keep next steps current in the approved restricted system. Paul is recording the leaders interviewed over the past two weeks and the 16 Launch Sunday connection-card responses. | Ongoing through October 4; aggregate report due at the September 21 review | Submission/reconciliation evidence absent from this repository | Appointment later required | No names belong here. |
+| Prospective host/leader pool | **In Progress** | [[05 Leadership/Hosts\|Hosts]] | Paul | Reconcile interest, communicate with each potential leader, and keep next steps current in the approved restricted system. Paul is recording the leaders interviewed over the past two weeks and the 16 Launch Sunday connection-card responses. | Ongoing through October 4; September 21 aggregate report remains missing; review October 5 | Submission/reconciliation evidence absent from this repository | Appointment later required | No names belong here. |
 | Geographic community selection | **Not Started** | [[City Groups Overview#Community Scaffolding\|Community scaffolding]] | Russ and Paul | Select communities only after candidate, location, and pastoral-fit evidence exists. | Before assignments | Hosts/leaders and readiness | Staff/pastoral as applicable | All nine city pages are planning scaffolds. |
 | Primary leaders and hosts | **Blocked** | [[Staff Decision Brief#PRO-027 — Active Offering Ownership and Readiness\|PRO-027]] | Russ and Paul | Discern, approve, and record appointments. | Before preparation/assignment is represented as final | Interviews, assessment, policies, and people | **Russ / designated pastor** | None are recorded. |
 | Group assignments | **Not Started** | [[Launch Plan#Launch Sequence\|Launch Plan]] | Staff | Match only approved leaders, hosts, communities, and capacity. | After discernment/training | Leaders, hosts, and locations | Readiness/appointment authority | No assignments are recorded. |
@@ -330,9 +330,10 @@ Likelihood values are operational judgments from current repository evidence. Ro
 
 ## This Week
 
-Current operating week: **September 7–13, 2026**.
+Current operating week: **September 21–27, 2026**.
 
 - [ ] Reconcile outcomes from the July 28, August 11, August 16, and August 25 events in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]].
+- [ ] Process the 16 Launch Sunday responses, send welcome emails, and report only aggregate workflow movement.
 - [ ] Contact each potential future group leader, help the person connect to a known next step, and continue relational support.
 - [ ] Schedule or continue Group Leader Conversations without promising appointment.
 - [ ] Confirm whether the August 25 form/QR, receipt, confirmation, and follow-up path worked; preserve the invitation as history.
@@ -341,6 +342,8 @@ Current operating week: **September 7–13, 2026**.
 - [ ] Prepare a privacy-conscious post-Team Night reconciliation step.
 - [ ] Bring policies, escalation contacts, offering readiness, Fall preparation, appointment, and participant-system decisions to staff.
 - [ ] Russ: secure an October venue for Collectives and Bible Clubs; Paul: prepare downstream setup and webpage work.
+- [ ] Hold the Collectives construction meeting and route any appointments, structure, or curriculum direction through the decision process.
+- [ ] Prepare the October 4 webpage finalization pass without treating provisional public details as approved offerings.
 
 ## Next Review
 
@@ -355,8 +358,10 @@ Paul and Russ should review:
 7. What material-change review applies to Paul's Groups webpage implementation, and which offering links are ready to publish?
 8. What is the current venue-search outcome for October Collectives and Planted, and by what date must the venue be secured?
 9. What Fall 2026 leader preparation is required, and must current leaders complete any portion of CoJourner before Spring 2027?
+10. What direction emerged from the Collectives construction meeting, and what study content and review path are approved?
+11. Which DEC-047/DEC-049 language and provisional page details are ready for the October 4 finalization pass?
 
-The next scheduled review is **September 21, 2026 at 7:00 AM America/Denver**. The September 7 occurrence was delivered on September 8 through the local catch-up path. The installed job and idle repeat invocation were verified; BWR-013 is complete in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]].
+The next scheduled review is **October 5, 2026 at 7:00 AM America/Denver**. The September 21 repository pass is complete, while required Paul and Russ review remains in progress. Every unresolved item remains in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]].
 
 ## Recently Completed
 

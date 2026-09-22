@@ -22,6 +22,15 @@
 - [[00 Dashboard/Governance Index|Governance Index]] — thematic decision navigation
 - [[00 Dashboard/Open Decisions|Open Decisions]] — unresolved governance questions
 
+## Group Philosophy
+
+- [[02 Group Philosophy/README|Group Philosophy — Why We Do What We Do]] — the reasoning behind the ministry's shape
+- [[02 Group Philosophy/Vision, Mission, Values/Vision|Vision]] · [[02 Group Philosophy/Vision, Mission, Values/Mission|Mission]] · [[02 Group Philosophy/Vision, Mission, Values/Values|Values]]
+- [[Belonging, Beholding, Becoming]] — formation framework · [[Belonging]] · [[Beholding]] · [[Becoming]]
+- [[Growth Path]] — how a person moves into a branch, through it, and toward responsibility
+- [[Leadership Philosophy]] · [[Multiplying-disciples|Multiplying Disciples]]
+- **[[Healthy Groups]]** — what health requires: [[Supporting Leaders and Groups]] · [[Loving Leaders]] · [[Loving Messy People]] · [[Emotional Bypass vs. Spiritual Bypass]] · [[Build to Last]]
+
 ## Ministry Areas
 
 - **City Groups — Life together:** [[City Groups Overview]]

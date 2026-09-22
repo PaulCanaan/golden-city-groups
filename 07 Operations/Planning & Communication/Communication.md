@@ -8,6 +8,8 @@ From [[Operation Overview]]
 
 Template wording is operational copy, not a leadership appointment or readiness decision. Send a message only when its trigger is true and its variables are confirmed. The Groups Director owns these communications; Paul is the current sender unless ownership changes.
 
+**Scope:** this library covers the Group Leader workflow only. Participant-facing templates live in sibling notes and do not enter that workflow — see [[#Participant Communication|Participant Communication]] below.
+
 ## Communication Principles
 
 Group Leader communication should be:
@@ -427,6 +429,17 @@ Golden City Church
 >
 > We'd love to begin that conversation with you.
 
+## Participant Communication
+
+Participant communication is a separate library. A person expressing interest in participating is not a prospective leader, and no participant message may move someone into the Group Leader workflow. Keep the statuses distinct: expressing interest, requesting to join, registering, and joining are different things.
+
+| Participant trigger | Canonical template |
+|---|---|
+| Connection Card interest in Groups | [[Participant Welcome and Groups Introduction]] |
+| Request to join Planted for Fall 2026 | [[Planted Introduction Email]] |
+
+Both templates are drafts. Each carries its own blocking conditions and a pre-send checklist; neither is cleared to send until those are satisfied.
+
 ## Related Ministry Communication Guidance
 
 ### Initial Leadership Language
@@ -476,6 +489,8 @@ Do not reintroduce superseded percentage-based definitions. Run Club, Youth City
 - **Blocked variables:** training dates, duration, location, preparation, and completion requirements.
 - **Blocked variables:** group assignment, appointment, start date, location, public listing, and final readiness evidence.
 - **Verification required:** Confirm live Planning Center routing, merge fields, stage-linked automation, and delivery after the configured workflow is used.
+- **Undocumented intake:** The Connection Card produced 16 Launch Sunday participation responses under BWR-021, but no Connection Card form, field set, consent language, owner, or routing rule is recorded anywhere in this repository. See the 2026-09-22 [[00 Dashboard/Inbox|Inbox]] item.
+- **Scope confirmation required:** Whether DEC-049's boundary on participant-facing *publication* (BWR-020) extends to direct pastoral email is not settled in the record. Ask Russ or use the reduced variant in [[Participant Welcome and Groups Introduction#Reduced Variant — Framework Omitted|the welcome template]].
 - **Operations required:** backup coverage and response expectations.
 
 See [[00 Dashboard/Open Decisions#Leader Workflow Implementation Details|Leader Workflow Implementation Details]], [[00 Dashboard/Open Decisions#Governing Policies and Escalation Contacts|Governing Policies and Escalation Contacts]], and [[00 Dashboard/Open Decisions#Participant Paths and Data Governance|Participant Paths and Data Governance]].
@@ -489,3 +504,5 @@ See [[00 Dashboard/Open Decisions#Leader Workflow Implementation Details|Leader 
 - [[06 Resources/Leader Development/Leader Training|Leader Training]] — formation content and completion gap.
 - [[06 Resources/Resources Overview|Resources Overview]] — canonical leader-development and group-life resources.
 - [[07 Operations/Group Launches/Launch Checklist|Launch Checklist]] — readiness requirements before launch communication.
+- [[Participant Welcome and Groups Introduction]] — participant-facing welcome for Connection Card interest.
+- [[Planted Introduction Email]] — participant-facing response to a Planted join request.

@@ -2,7 +2,7 @@
 
 ## Dashboard Status
 
-**Executive control surface; not a governing decision record.** Last reconciled **September 20, 2026** with Paul's Launch Sunday update; the last full review was the delayed September 7 occurrence recorded on [[09 Reports/Biweekly Reviews/2026-09-08 Groups Ministry Biweekly Review|September 8, 2026]]. The next review is September 21, 2026. Update governing sources before this dashboard when approved direction changes.
+**Executive control surface; not a governing decision record.** Last reconciled **September 21, 2026** through the current [[09 Reports/Biweekly Reviews/2026-09-21 Groups Ministry Biweekly Review|biweekly review]]. Repository execution is complete; required Paul and Russ review remains in progress. The next review is October 5, 2026. Update governing sources before this dashboard when approved direction changes.
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
@@ -41,25 +41,27 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 
 ## Biweekly Ministry Review
 
-- **Latest review:** [[09 Reports/Biweekly Reviews/2026-09-08 Groups Ministry Biweekly Review|September 8, 2026 — repository execution complete; human review in progress]]
-- **Current review window:** After the September 3 repository pass through September 8, 2026; previous human-review questions remain outstanding
-- **Scheduled occurrence:** September 7, 2026 at 7:00 AM America/Denver; catch-up began September 8 after local scheduler repair
-- **Next review:** September 21, 2026 at 7:00 AM America/Denver
-- **Scheduler:** macOS job active; catch-up report delivered and repeat-run guard verified September 8. BWR-013 is complete.
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|14 active items]]
-- **Human input outstanding:** Paul — four event outcomes, aggregate leader-pipeline state, Fall training recommendation, Collective leader-stage status, webpage progress, and Planted status; Russ — October venue, safeguarding, appointments/offerings, participant systems, publication boundary, and final approvals
-- **Critical blockers:** October venue; safeguarding contacts and policies; active-offering appointments/readiness; Fall leader preparation; participant-system governance; offering-specific readiness evidence
+- **Latest review:** [[09 Reports/Biweekly Reviews/2026-09-21 Groups Ministry Biweekly Review|September 21, 2026 — repository execution complete; human review in progress]]
+- **Current review window:** After the September 8 repository pass through September 21, 2026; previous human-review questions remain outstanding
+- **Scheduled occurrence:** September 21, 2026 at 7:00 AM America/Denver; actual start was 7:46:14 AM
+- **Next review:** October 5, 2026 at 7:00 AM America/Denver
+- **Scheduler:** macOS job active; this occurrence began about 46 minutes late. No cause is inferred from repository evidence.
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|21 active items]]
+- **Human input outstanding:** Paul — four earlier event outcomes, Launch Sunday response follow-up, aggregate leader-pipeline state, Fall training recommendation, Collective meeting and leader-stage status, webpage finalization, and Planted status; Russ — October venue, safeguarding, appointments/offerings, participant systems, public-language/review boundary, Collective curriculum, and final approvals
+- **Critical blockers:** October venue; safeguarding contacts and policies; active-offering appointments/readiness; Fall leader preparation; participant-system governance and testing; offering-specific readiness evidence
 
 ## Next Actions
 
 - Process the 16 Launch Sunday connection-card responses: welcome emails and Group Leader Conversation invitations, with no participant details stored here.
 - Prepare additional leaders and hosts to be ready by the October 4 Group Launch Day.
 - Build Men's and Women's Collectives with Russ, Miranda, Conner, and Rachel, and record the meeting outcome.
+- Decide and review Collective study content before the first gathering; the proposed Galatians study remains unapproved.
 - Reconcile the July 28, August 11, August 16, and August 25 event outcomes without storing participant details here.
 - Confirm that every prospective leader has an approved workflow stage and known next action in the restricted system.
 - Russ: secure an appropriate October venue for Collectives and Bible Clubs.
 - Paul: advance intended Collective leaders through the canonical pathway, improve the Groups webpage, and prepare downstream setup.
 - Bring the minimum safeguarding, offering, Fall-training, appointment, participant-system, and publication-boundary decisions to Paul and Russ before any affected offering is promoted or begins.
+- Complete the October 4 webpage finalization pass using confirmed branch language and only readiness-supported offering details.
 
 Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboard/Launch Readiness Dashboard#Immediate Priorities|Launch Readiness Dashboard — Immediate Priorities]].
 

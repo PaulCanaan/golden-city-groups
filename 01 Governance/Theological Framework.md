@@ -120,5 +120,4 @@ DEC-034 later changed the operating architecture, not this pastoral baseline. Th
 ## Open Theological Questions
 
 - What additional trained and pastorally supported practices related to spiritual gifts, discernment, deliverance, or prayer ministry should be approved beyond the DEC-033 baseline?
-- Will Belonging, Beholding, Becoming be public-facing church language or primarily an internal ministry framework?
 - How should baptism, communion, membership, and church discipline relate to the participant journey?

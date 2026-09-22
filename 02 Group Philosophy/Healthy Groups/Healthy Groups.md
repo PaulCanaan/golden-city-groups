@@ -2,7 +2,17 @@
 
 ## Document Status
 
-**Draft evaluation guide.** Readiness gates and approved policies govern whether an offering may operate. This page does not replace pastoral judgment or define spiritual maturity by metrics.
+**Draft evaluation guide, and the anchor note for this folder.** Readiness gates and approved policies govern whether an offering may operate. This page does not replace pastoral judgment or define spiritual maturity by metrics.
+
+The pages beside it work out what health requires in practice:
+
+| Page | The question it answers |
+|---|---|
+| [[Supporting Leaders and Groups]] | Why leaders need each other, and why the ministry supports what it launches |
+| [[Loving Leaders]] | How the ministry cares for the people carrying its groups |
+| [[Loving Messy People]] | How to love like Jesus when people or situations get messy |
+| [[Emotional Bypass vs. Spiritual Bypass]] | How to keep a group from drifting to either extreme |
+| [[Build to Last]] | What gives a group a foundation firm enough to outlast itself |
 
 ## Shared Signs of Health
 
@@ -35,5 +45,10 @@ Developed from [[01 Governance/Launch Roadmap#Launch Readiness Gates|Launch Read
 ## Connections
 
 - [[Growth Path]] — Participant next steps.
+- [[Supporting Leaders and Groups]] — Why consistency and longevity struggle, and what sustains a group past its launch season.
+- [[Loving Leaders]] — Healthy leaders make healthy groups possible.
+- [[Loving Messy People]] — Grace and truth when group life gets hard.
+- [[Emotional Bypass vs. Spiritual Bypass]] — The two drifts, and the test that distinguishes drift from purpose.
+- [[Build to Last]] — Foundations laid early and tested later.
 - [[Leadership Philosophy]] — Stewardship of people.
 - [[Launch Checklist]] — Required offering-readiness review.
