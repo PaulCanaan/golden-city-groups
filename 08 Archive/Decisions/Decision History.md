@@ -104,6 +104,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Context:** City Groups are the distributed small-group expression within the announced launch plan.
 - **Rationale:** Russ stated the geographic aim as helping people “easily find community close to home.” No further rationale for the sermon-based model was stated.
 - **Boundary:** Exact communities, leaders, locations, capacities, and age-specific expressions remain subject to readiness. North Denver is a directional field of ministry, not a formally defined or exclusive territory.
+- **Subsequent direction:** DEC-052 supersedes the weekly, sermon-based rhythm. City Group leaders now choose weekly or biweekly frequency, day, time, and resource.
 
 ### DEC-009 — Men's and Women's Collective Model
 
@@ -229,6 +230,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** Russ's direction on Decision 2 of the Pastoral Approval Brief at the July 27, 2026 staff meeting: “Run Club, Youth City Group, Young Adults Group are just ideas for now, we don't have to start the groups ministry with them.”
 - **Implications:** Launch planning, staffing, safeguarding, Planning Center setup, and participant pathways should prioritize the four confirmed environments. Public website and Church Center presentation should not imply that the three deferred ideas are launch-ready. Ownership of each active launch offering still must be assigned before it opens.
 - **Boundary:** Deferral does not cancel these ideas permanently or assign their future ownership. Any later activation requires an accountable owner and the appropriate readiness, safeguarding, communication, and participant-path review.
+- **Subsequent direction:** Paul's September 29, 2026 clarification of DEC-052 classifies young adults groups, Run Club, and a potential future Youth City Group under City Groups. The deferral above is unchanged.
 
 ### DEC-023 — First Planted Instructor and Course Window
 
@@ -252,7 +254,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Rationale:** People need complementary environments for friendship and belonging, balanced community and discipleship, and concentrated intellectual and spiritual formation.
 - **Boundary:** The percentages are internal ministry-development heuristics, not timed quotas, numerical performance targets, public Groups Ministry language, or a claim that fellowship is outside discipleship. All three environments should include belonging, beholding, and becoming; they differ in emphasis, not in whether formation occurs.
 
-- **Subsequent direction:** DEC-025 supersedes this three-environment framing and its percentage-based development shorthand. The historical rationale remains preserved here.
+- **Subsequent direction:** DEC-025 supersedes this three-environment framing and its percentage-based development shorthand. The historical rationale remains preserved here. DEC-053 later re-adopts the same approximate emphases for the current three-branch architecture.
 
 ### DEC-025 — Golden City Groups Ministry Environments
 
@@ -449,6 +451,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]].
 - **Implications:** Collective, calendar, launch, readiness, and communication documents should use the Wednesday architecture and no longer treat the July 23 Monday rhythms or prior Women's location as current.
 - **Boundary:** This decision does not establish start dates, times, locations, capacity, participant paths, appointed leaders, communications readiness, or final readiness.
+- **Subsequent direction:** DEC-058 supersedes the Women's Collective cadence with an every-other-Friday-evening rhythm. The Men's first-and-third-Wednesday cadence remains governing.
 
 ### DEC-044 — Intended Collective Leadership Structure
 
@@ -467,6 +470,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]].
 - **Implications:** Leader-development and Spring 2027 planning should use this architecture and await the later source-material upload before developing curriculum details.
 - **Boundary:** Session titles, curriculum, facilitator, exact dates, location, participant requirements, completion criteria, assessment, commissioning relationship, Fall 2026 applicability, and Planning Center tracking remain unresolved. CoJourner does not bypass safeguarding, assessment, appointment, or offering readiness.
+- **Subsequent direction:** DEC-056 permits CoJourner to be run during Group Leader Collaborations. The architecture above is unchanged.
 
 ### DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target
 
@@ -496,6 +500,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** Direction supplied by Paul on September 20, 2026.
 - **Implications:** Group Launch Day gives the leader pipeline, group assignments, locations, participant paths, and communication a dated target. Readiness work previously bounded only by “before any City Group is published or starts” is now bounded by October 4.
 - **Boundary:** This decision sets a date only. It does not appoint any leader or host, approve a specific group, location, or capacity, or establish that any offering has completed its readiness gates. Final readiness approval remains with Russ or his designated pastor under DEC-021. Planted retains its separate October 6 start and the Collectives retain their confirmed Wednesday cadences. Whether October 4 governs City Groups alone or every launch-season offering is not yet recorded.
+- **Subsequent direction:** DEC-051 defines Group Launch Sunday as a lobby presentation and sign-up day. DEC-052 allows City Groups to begin one to two weeks afterward. The Collectives and *Planted.* keep their own start dates; DEC-058 sets Women's Collective's.
 
 ### DEC-049 — Belonging, Beholding, Becoming as Public-Facing Language
 
@@ -519,6 +524,107 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** The page now reflects the confirmed three-branch architecture, keeps City Groups on a contact route rather than an untested enrollment path, retains the DEC-016 Church Center enrollment paths, and no longer lists Young Adults Group. Communication, readiness, and safeguarding planning should work from this page state rather than the July 23 snapshot.
 - **Boundary:** Recording what is published does not approve it. Material conflicts between the published page and confirmed direction are recorded in the [[00 Dashboard/Launch Readiness Dashboard#Published Page Conflicts|Launch Readiness Dashboard]] and carried as queue items. The published Monday Collective rhythms and the published Women's Collective address are **superseded information** under DEC-043 and must not be treated as current by any other document.
 - **Publication posture (Paul, September 20, 2026):** Published group details are **provisional**. Most group information remains TBD until Paul specifies it. He will determine, check, correct, and finalize the details before the October 4 Group Launch Day, and publish and announce them at and after launch. Reconciling page-to-vault differences is therefore **not a priority before that finalization pass**. The conflicts below remain recorded as inputs to it, not as active blockers. The vault, not the page, is authoritative in the meantime.
+
+### DEC-051 — Group Launch Sunday Presentation and Detail Finalization
+
+- **Decision:** On Group Launch Sunday, October 4, 2026, groups are presented at tables in the church lobby, where group leaders may introduce their groups to interested people. Paul prepares an information card for each group showing its meeting time, location, and a QR code for joining. A group that still has many open spots after October 4 may present again in the lobby on Sunday, October 11, 2026. Before October 4, Paul finalizes each group's details with its current leaders by email and text and updates the Groups webpage with the finalized information, including leader profile pictures and final meeting times and locations.
+- **Status:** Confirmed
+- **Date and approver:** September 25, 2026; Russ and Paul
+- **Domain:** Launch
+- **Owner:** Paul
+- **Evidence:** [[2026-09-25 Staff Meeting Minutes#1 — Group Launch Sunday Presentation|September 25, 2026 Staff Meeting Minutes, items 1 and 3]].
+- **Implications:** Group Launch Sunday now has a defined format and a second presentation opportunity on October 11. Paul's pre-launch webpage finalization under DEC-050's publication posture now has staff direction and a defined content set.
+- **Boundary:** Presenting a group at a lobby table or publishing its details does not appoint its leader or approve it as launch-ready; DEC-021 and DEC-027 still govern. Each QR code needs a tested destination; offering-specific participant paths remain open under DEC-032 and PRO-030, and City Groups currently route to the contact page (DEC-050). Material public claims still follow the review boundary in DEC-037.
+- **Clarification — September 29, 2026 (Paul):** Addresses and location details are never shown publicly. Information cards and the website show only a rough location, such as "North Thornton"; the full details are emailed to people who join. Source: [[2026-09-25 Staff Meeting Minutes#Clarifications|Paul's clarifications of September 29, 2026]].
+
+### DEC-052 — City Group Leader Design Freedom and Start Timing
+
+- **Decision:** City Group leaders have creative freedom to design their groups, including weekly or biweekly frequency, day of the week, meeting time, resource (the Weekly Recap, a book of the Bible, a Christian book, a devotional, or another resource the leader prefers), and group features. Features are descriptive labels such as young adults, young couples, or single moms; they help people find a fitting group and do not restrict who may join. City Groups need not begin meeting immediately after Group Launch Sunday; a leader may begin one or two weeks later. The first several gatherings should focus mainly on getting to know the people who have joined, and Paul communicates these expectations to City Group leaders.
+- **Status:** Confirmed; supersedes DEC-008's weekly, sermon-based rhythm
+- **Date and approver:** September 25, 2026; Russ and Paul
+- **Domain:** Ministry Architecture
+- **Supersedes:** DEC-008 in part (weekly, sermon-based model)
+- **Owner:** Paul (communicating expectations to leaders)
+- **Evidence:** [[2026-09-25 Staff Meeting Minutes#2 — City Group Leader Design Freedom|September 25, 2026 Staff Meeting Minutes, item 2]].
+- **Implications:** City Groups are no longer required to meet weekly or follow the weekend message. The Weekly Recap stays optional (DEC-035, DEC-055). Group Launch Day (DEC-048) is the day groups are presented and joined; City Group first gatherings may follow within one to two weeks. Information cards, webpage listings, and leader communication should reflect each leader's chosen design.
+- **Boundary:** Design freedom does not waive the leader standard (DEC-027), care and safeguarding boundaries (DEC-028), or the prayer and formation baseline (DEC-033). Russ retains doctrinal authority under DEC-021, and new doctrinal claims or disputed teaching still move to pastoral review.
+- **Clarification — September 29, 2026 (Paul):** (1) Leaders are free to choose the materials their groups go through; no approval step applies to a leader's choice of resource. The approved-material wording in [[06 Resources/Leader Development/Policies|Group Boundaries]] has been reconciled to this decision. (2) Young adults groups, Run Club, and a potential future Youth City Group all sit under City Groups for now. No fourth category, such as "Other Featured Groups," is created; one may be considered in the future. Source: [[2026-09-25 Staff Meeting Minutes#Clarifications|Paul's clarifications of September 29, 2026]].
+- **Classification boundary:** Placing these expressions under City Groups classifies them; it does not activate them. Run Club and Youth City Group remain deferred under DEC-022 until each has an accountable owner and completes readiness review. A Youth City Group would involve minors, so the DEC-028 safeguards for minors must be confirmed first. A possible future "Other Featured Groups" category is distinct from Freedom Groups (DEC-036) and is not approved.
+
+### DEC-053 — Branch Formation Emphases and Collective Gathering Shape
+
+- **Decision:** Each branch carries a distinct formation emphasis:
+  - **City Groups — about 80% fellowship, 20% discipleship.** Breaking bread together and praying for one another. City Groups are unapologetically Christian community groups. They need not be in-depth Bible studies; their priority is that people find belonging.
+  - **Collectives — about 50% fellowship, 50% discipleship.** Accessible gatherings where men and women walk alongside other men and women of God. Collective leaders and table leaders aim to equip participants to take part in discussion. A typical gathering opens with a 15–20 minute devotional followed by discussion at breakout tables. Collectives should become places where people find mentorship and lasting connection.
+  - **Bible Clubs — about 20% fellowship, 80% discipleship.** Sustained study of Scripture; see DEC-054 for the curriculum sequence.
+- **Status:** Confirmed
+- **Date and approver:** September 25, 2026; Russ and Paul
+- **Domain:** Ministry Architecture
+- **Evidence:** [[2026-09-25 Staff Meeting Minutes#4 — Branch Formation Emphases|September 25, 2026 Staff Meeting Minutes, item 4]].
+- **Context:** DEC-024 first recorded these emphases on July 27, 2026 for the earlier three-environment model, and DEC-025 superseded it. This decision re-adopts the emphases for the current three-branch architecture (DEC-034, DEC-047).
+- **Implications:** Leader preparation, gathering design, and branch pages should use these emphases. Collectives now have a recorded typical gathering shape and a recognized table-leader role.
+- **Boundary:** The minutes state the ratios without further qualification. This record reads them as DEC-024 did: approximate emphases, not timed quotas or performance targets, and not a claim that fellowship is outside discipleship. Every branch still includes belonging, beholding, and becoming. The ratios are internal language and a ministry-design principle only; they do not appear in public or participant-facing communication (Paul's clarification of September 29, 2026, [[2026-09-25 Staff Meeting Minutes#Clarifications|Paul's clarifications of September 29, 2026]]). Table leaders are subject to the same standard and appointment path as other leaders (DEC-027).
+
+### DEC-054 — Bible Club Curriculum Sequence
+
+- **Decision:** *Planted.* is the first Bible Club curriculum, beginning in Fall 2026. It is seeker- and new-believer-friendly, though everyone can learn from it. *Planted.* will recur every fall. In Spring 2027, the following curriculum may be *Covenant, Kingdom, and People of God*. People who complete *Planted.* may be considered to lead it in the future.
+- **Status:** Confirmed; the Spring 2027 curriculum is future planning direction
+- **Date and approver:** September 25, 2026; Russ and Paul
+- **Domain:** Curriculum
+- **Evidence:** [[2026-09-25 Staff Meeting Minutes#4 — Branch Formation Emphases|September 25, 2026 Staff Meeting Minutes, item 4c]].
+- **Implications:** Annual planning should reserve each fall for *Planted.* Spring 2027 planning may develop *Covenant, Kingdom, and People of God*, whose earlier scaffold is preserved in [[08 Archive/Classes/Covenant, Kingdom, People of God|the Classes archive]]. *Planted.* completers form a future facilitator pool.
+- **Boundary:** "May" is recorded as stated; *Covenant, Kingdom, and People of God* is not an approved offering. Its curriculum review, facilitator, schedule, and readiness remain open, as does whether it is a Bible Club or a future Class. Completing *Planted.* does not qualify or appoint anyone to lead it; DEC-027 applies. This decision does not change DEC-030's twelve-week plan or the *Planted.* title-styling question.
+
+### DEC-055 — Weekly Recap and Fall 2026 Collectives Study
+
+- **Decision:** Russ and Paul prepare the Weekly Recap from each weekend message, with check-in questions and discussion questions. City Group leaders are not required to use it. Men's and Women's Collectives both study the book of Galatians for the rest of 2026, paralleling the weekend teaching series *The Fruit of the Spirit*; the fruit of the Spirit is a specific theme within Galatians, and freedom is the book's larger theme. Russ and Conner O'Brien are responsible for the Collective course materials. Paul is preparing the *Planted.* Bible study materials.
+- **Status:** Confirmed; resolves PRO-033
+- **Date and approver:** September 25, 2026; Russ and Paul
+- **Domain:** Curriculum
+- **Owner:** Russ and Paul (Weekly Recap); Russ and Conner O'Brien (Collective materials); Paul (*Planted.* materials)
+- **Evidence:** [[2026-09-25 Staff Meeting Minutes#5 — Study Resources|September 25, 2026 Staff Meeting Minutes, item 5]].
+- **Implications:** The Weekly Recap now has named owners and a defined content shape. Collectives have an approved study and named material owners, so Paul no longer drafts Collective handouts and facilitator guides. Study content no longer blocks Collective readiness; the materials themselves still need to be prepared.
+- **Boundary:** This approves the study and its owners, not finished materials. The Weekly Recap delivery day and channel are open. Conner's role here does not appoint him as a Collective co-lead; DEC-044 appointments remain pending.
+- **Clarification — September 29, 2026 (Paul):** Miranda Daly and Rachel O'Brien also join the content-making discussions with Russ and Conner. The aim is to keep both Collectives on the same page (one Galatians study) while giving each a different focus in male and female discipleship. Source: [[2026-09-25 Staff Meeting Minutes#Clarifications|Paul's clarifications of September 29, 2026]].
+
+### DEC-056 — Group Leader Collaborations
+
+- **Decision:** Group Leader Collaborations are established as gatherings where current group leaders share experiences and learn from one another. The first Collaboration is held about one month after Group Launch Sunday to check in with all leaders about how their groups are going. Collaborations are also where leaders align with the mission, vision, and values of the Golden City Groups and Classes Ministry. The CoJourner Program may be run during Collaborations to equip group leaders before the Spring 2027 semester.
+- **Status:** Confirmed
+- **Date and approver:** September 25, 2026; Russ and Paul
+- **Domain:** Leadership
+- **Evidence:** [[2026-09-25 Staff Meeting Minutes#6 — Group Leader Collaborations|September 25, 2026 Staff Meeting Minutes, item 6]].
+- **Context:** Paul recorded group leader collaborations as a proposed future development on September 22, 2026 in [[02 Group Philosophy/Healthy Groups/Supporting Leaders and Groups|Supporting Leaders and Groups]]. This decision approves them and moves the first one into the launch season.
+- **Implications:** Leader support now has a peer setting alongside leader resources and CoJourner. CoJourner planning may use Collaborations as its setting (DEC-045). The first Collaboration falls in early November 2026.
+- **Boundary:** The exact date, location, format, cadence after the first gathering, and attendance expectations are open. CoJourner's facilitator, dates, and completion criteria remain open under DEC-045. A Collaboration is not the pastoral-care or safeguarding escalation path, and attendance is not appointment.
+
+### DEC-057 — Groups Ministry Communication Channels
+
+- **Decision:** Groups Ministry uses three channels:
+  - **Email** for general information: welcome emails, the Groups Ministry introduction, coffee conversation (Group Leader Conversation) invitations, newsletters, and similar.
+  - **Text** for internal coordination: course content, coffee meeting details, quick questions, and urgent matters.
+  - **Group chat** on the Church Center app for all current leaders: City Group hosts, Collective leaders and co-leaders, table leaders and discussion facilitators, and class instructors. Paul creates it.
+  - **Connection Card follow-up:** Paul's current task is to set up the Planning Center automation and send welcome emails to everyone who expressed interest in the Groups Ministry through the Connection Card, whether in leading or in participating. The Connection Card is a church-wide general form for attenders to get connected with the church's ministries; it is usually presented in the lobby and during announcements and is completed by scanning a QR code. Groups is one of several connection paths it offers.
+- **Status:** Confirmed
+- **Date and approver:** September 25, 2026; Russ and Paul
+- **Domain:** Communication
+- **Owner:** Paul
+- **Evidence:** [[2026-09-25 Staff Meeting Minutes#7 — Communication Channels|September 25, 2026 Staff Meeting Minutes, item 7]].
+- **Implications:** The Communication Library's channel guidance, the participant welcome workflow, and Forms and Intake should use these channels. The Connection Card is now recorded as a church-wide intake path that feeds Groups Ministry; it is not a Groups-owned form.
+- **Boundary:** DEC-028 governs every channel: sensitive care, safeguarding, screening, or discernment details stay out of email, text, and chat. "Urgent matters" by text is coordination, not the escalation path; policy locations and escalation contacts remain open (BWR-007). Membership in the leaders' group chat is not appointment. The Connection Card's owner, fields, consent language, and routing remain undocumented and fall under Russ's participant-system ownership (DEC-032). Whether DEC-049's publication boundary covers direct participant email is still unresolved (BWR-020).
+- **Clarification — September 29, 2026 (Paul):** City Group hosts are free to create group chats for their own groups (group text, GroupMe, Church Center, or similar) and share gathering details there. Full location details reach people who join by email, not by public channels. DEC-028 still applies in these chats: sensitive care, safeguarding, or screening details stay out of them. Source: [[2026-09-25 Staff Meeting Minutes#Clarifications|Paul's clarifications of September 29, 2026]].
+
+### DEC-058 — Women's Collective Start, Rhythm, and Location
+
+- **Decision:** Women's Collective starts on Friday, October 16, 2026 and meets every other Friday evening at the Dalys' home. The locations for Men's Collective and *Planted.* remain to be determined.
+- **Status:** Confirmed; supersedes DEC-043's Women's Collective cadence
+- **Date and approver:** September 25, 2026; Russ and Paul
+- **Domain:** Operations
+- **Supersedes:** DEC-043 in part (Women's second-and-fourth-Wednesday cadence)
+- **Evidence:** [[2026-09-25 Staff Meeting Minutes#8 — Collective and Planted Details|September 25, 2026 Staff Meeting Minutes, item 8]].
+- **Implications:** Women's Collective no longer depends on Russ's venue search (DEC-046, BWR-018), which now covers Men's Collective and *Planted.* The Women's second-and-fourth-Wednesday cadence is no longer current. Men's Collective keeps its first-and-third-Wednesday cadence.
+- **Clarification — September 29, 2026 (Paul):** The minutes stated October 15, which is a Thursday; the first gathering is Friday, October 16, 2026. Publicly, the location is shown only as a rough area; the full details are emailed to people who join. Source: [[2026-09-25 Staff Meeting Minutes#Clarifications|Paul's clarifications of September 29, 2026]].
+- **Boundary:** The exact time, capacity, participant path, and final readiness remain open. DEC-028 requires the applicable safeguards to be confirmed before meetings in a private home. The home address must not be recorded in this repository or published. DEC-044 co-lead appointments remain pending.
 
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 

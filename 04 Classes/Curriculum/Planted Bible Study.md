@@ -2,7 +2,9 @@
 
 ## Document Status
 
-**Confirmed Bible Club with approved curriculum; Notion publishing and operating readiness are separate workstreams.** Paul will lead the twelve-week Planted Bible Club beginning Tuesday evening, October 6, 2026. The curriculum is being finalized and published in Notion. Location and final readiness remain unresolved.
+**Confirmed Bible Club with approved curriculum; Notion publishing and operating readiness are separate workstreams.** Paul will lead the twelve-week Planted Bible Club beginning Tuesday evening, October 6, 2026. The curriculum is being finalized and published in Notion. Location and final readiness remain unresolved; the location was still TBD at the September 25 staff meeting.
+
+Under DEC-054, Planted recurs every fall as the Bible Club's seeker- and new-believer-friendly curriculum, and people who complete it may be considered to lead it in the future (subject to DEC-027). Paul is preparing the study materials (DEC-055). Paul's September 25 minutes style the title *Planted.*, which bears on the naming question below.
 
 Curriculum content was recorded here on September 22, 2026 from Paul's Session 0 introduction deck — see [[#Source|Source]]. Recording curriculum content does not change any readiness status. It did surface new operating requirements — venue floor space, supplies and allergens, a CCLI license check, and an alternative to the session's physical activity — which are now carried in [[#Remaining Readiness Needs|Remaining Readiness Needs]].
 

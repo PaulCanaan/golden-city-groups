@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Approved group-leader training architecture; source material and implementation details remain open.** DEC-045 establishes the selected program, source ministry, four-session biweekly structure, approximate duration, and Spring 2027 target.
+**Approved group-leader training architecture; source material and implementation details remain open.** DEC-045 establishes the selected program, source ministry, four-session biweekly structure, approximate duration, and Spring 2027 target. DEC-056 permits running it during Group Leader Collaborations.
 
 ## Purpose
 
@@ -28,11 +28,12 @@ CoJourner supports leader development across City Groups, Collectives, and Bible
 - **Duration:** approximately two months
 - **Format:** group-leader collective / training cohort
 - **Strategic target:** completion before the Spring 2027 group launch
+- **Possible setting:** Group Leader Collaborations (DEC-056)
 
 ## Details Still Needed
 
 - session titles and curriculum details;
-- facilitator(s), exact dates, and location;
+- facilitator(s), exact dates, and location, including whether it runs within Collaborations;
 - participant requirements, attendance, completion criteria, and assessment;
 - relationship to commissioning;
 - whether Fall 2026 leaders complete all or part of the program; and

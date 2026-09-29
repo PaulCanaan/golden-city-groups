@@ -25,11 +25,11 @@ People arrive through relationship and through systems, and the two rarely arriv
 | Entry | What it is | What happens next |
 |---|---|---|
 | A Sunday gathering or a friendship | The ordinary way most people come | A personal invitation and one clear next step |
-| A Connection Card expressing interest in Groups | Participation interest | The Groups Director sends the [[07 Operations/Planning & Communication/Participant Welcome and Groups Introduction\|welcome and Groups introduction]] |
+| A Connection Card expressing interest in Groups | Participation interest, or leader interest where the card indicates it | The Groups Director sends the [[07 Operations/Planning & Communication/Participant Welcome and Groups Introduction\|welcome and Groups introduction]] |
 | A Church Center request to join an offering | A request, not a placement | The offering's owner confirms, places, waitlists, redirects, or declines pastorally |
 | `Lead a Group` or the group-leading option on the `Serve Team Interest Form` | Leader interest | Enters the Group Leader workflow at Step 0 |
 
-Participation interest and leader interest are different things, and a Connection Card does not become a leadership conversation. The Connection Card's fields, owner, consent language, and routing are not yet documented; see the September 22, 2026 [[00 Dashboard/Inbox|Inbox]] item.
+Participation interest and leader interest are different things. Everyone who expresses interest in Groups on a Connection Card receives the welcome email, whether they indicated leading or participating (DEC-057), but a Connection Card alone does not enter anyone into the Group Leader workflow. The Connection Card is a church-wide form, presented in the lobby and during announcements, that invites attenders into many ministries; Groups is one (DEC-057). Its fields, owner, consent language, and routing are not yet documented (BWR-009).
 
 ## The Three Branches as Next Steps
 

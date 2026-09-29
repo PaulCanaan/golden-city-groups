@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Mixed confirmed and proposed procedure.** DEC-042 confirms the two Group Leader intake triggers, the shared Planning Center workflow, and the Groups Director's operational ownership through launch. Paul reported on August 28 that the workflow and documented email automations are configured. DEC-032 assigns the public participant system to Russ with Paul as backup. Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted; response timing, placement, offering paths, fields, consent, and retention remain open under PRO-026, PRO-027, and PRO-030.
+**Mixed confirmed and proposed procedure.** DEC-042 confirms the two Group Leader intake triggers, the shared Planning Center workflow, and the Groups Director's operational ownership through launch. Paul reported on August 28 that the workflow and documented email automations are configured. DEC-032 assigns the public participant system to Russ with Paul as backup. The church-wide Connection Card (DEC-057) is a third intake path that feeds Groups interest. Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted; response timing, placement, offering paths, fields, consent, and retention remain open under PRO-026, PRO-027, and PRO-030.
 
 ## Purpose
 
@@ -24,6 +24,14 @@ For Fall 2026, the initial City Group pipeline remains limited to the Launch Tea
 Keep pastoral discernment notes, background-check information, and confidential references out of Planning Center group membership and this repository. Add a candidate as a Planning Center group leader only after approved assessment and appointment.
 
 **Still unresolved:** approved form fields and consent, live routing/delivery test evidence, leader-interest backup coverage, response-time standard, interview format and records, role-specific assessment details, training completion requirements, role assignment, appointment records, and commissioning. The workflow and email automations no longer need to be designed. Paul owns interviews, assessment, training facilitation, and operational movement through the workflow; Russ retains primary appointment authority.
+
+### Connection Card (church-wide)
+
+The Connection Card is a church-wide general form through which attenders get connected with Golden City Church's ministries. It is usually presented in the lobby and during announcements, and people complete it by scanning a QR code. Groups is one of several connection paths it offers (DEC-057).
+
+When a person expresses interest in Groups on the card, whether in leading or participating, the Groups Director sends the [[Participant Welcome and Groups Introduction|welcome and Groups introduction]] through the Planning Center automation. A Connection Card alone does not enter anyone into the Group Leader workflow; leader interest proceeds through one of the two triggers above.
+
+**Still undocumented:** the card's owner, field set, consent language, and routing to the Groups Director. As a church-wide instrument it falls under Russ's participant-system ownership (DEC-032) and is tracked in BWR-009.
 
 ### Public participant enrollment
 
@@ -50,7 +58,7 @@ Before any link is promoted:
 
 - [ ] The offering has completed [[Launch Checklist]].
 - [ ] The specific Church Center URL works on desktop and mobile.
-- [ ] The public name, description, schedule, location, and capacity are accurate.
+- [ ] The public name, description, schedule, rough location, and capacity are accurate. No address or detailed location is published; full details go by email to people who join.
 - [ ] The enrollment mode matches the approved process.
 - [ ] Required fields and consent language are approved.
 - [ ] The request reaches the correct owner and backup.

@@ -9,7 +9,7 @@ From [[Operation Overview]] · Participant-facing companion to the [[Communicati
 Two things must be confirmed before this template is sent:
 
 1. **Participant-facing use of DEC-047 and DEC-049 language.** DEC-049 approves the Belonging–Beholding–Becoming introduction as public-facing ministry language, and its boundary routes *published* participant-facing use through Russ's confirmation, tracked as BWR-020. Whether a direct pastoral email counts as publication is not settled in the record. Ask Russ, or send the reduced variant below, which omits the framework block.
-2. **The Connection Card itself.** No Connection Card form, field set, routing rule, or automation is documented anywhere in this repository. [[Forms|Forms and Intake]] records only the two Group Leader intake paths and the Church Center participant path. The card's fields, owner, consent language, and routing must be confirmed before this template is automated. See the 2026-09-22 [[00 Dashboard/Inbox|Inbox]] item.
+2. **The Connection Card itself.** DEC-057 records the Connection Card as a church-wide form, presented in the lobby and during announcements and completed by QR code, and confirms that Paul sends this welcome to everyone who expresses interest in Groups through it, whether in leading or participating. Its fields, owner, consent language, and routing are still undocumented and must be confirmed before this template is automated (BWR-009).
 
 Serves [[00 Dashboard/Biweekly Review Queue|BWR-021]], which carries the 16 Launch Sunday connection-card responses and the unsent welcome emails.
 
@@ -25,7 +25,7 @@ Serves [[00 Dashboard/Biweekly Review Queue|BWR-021]], which carries the 16 Laun
 - **Stage:** Participant interest received (Connection Card)
 - **Channel:** Email
 - **Purpose:** Thank the person, introduce what Groups are and why they exist, and give one clear next step.
-- **Trigger:** A person indicates on a Connection Card that they are interested in participating in church community life through Groups.
+- **Trigger:** A person indicates on a Connection Card that they are interested in Groups, whether in participating or leading (DEC-057).
 - **Owner:** Groups Director
 - **Variables:** `[First Name]`, `[Church Center Link]`, `[Response Window]`
 - **Status:** Draft; blocked pending the two Document Status confirmations and a tested destination link
@@ -47,7 +47,7 @@ Three words shape everything we do:
 There are three ways to be part of Groups at Golden City:
 
 - **City Groups — life together.** Neighborhood-based groups around the north Denver area. Ordinary, everyday discipleship: a shared table, honest conversation, prayer, and people who notice when you're not there.
-- **Collectives — shared encouragement.** Our Men's Collective and Women's Collective gather on a biweekly Wednesday rhythm to encourage one another as men and women following Jesus.
+- **Collectives — shared encouragement.** Our Men's Collective and Women's Collective each gather every other week to encourage one another as men and women following Jesus.
 - **Bible Clubs — rooted in Scripture.** Facilitator-led study through a book or section of Scripture, for anyone who wants to slow down and pay close attention to what God has said. *Planted*, our first Bible Club, begins Tuesday evening, October 6.
 
 **What's next.** Sunday, October 4 is our Group Launch Day. I'm finalizing group details now — where each one meets, who's leading, and how to join — and I'll follow up with you as soon as those are confirmed.

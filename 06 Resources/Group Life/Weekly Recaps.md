@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Approved optional City Group resource; format and ownership still in development.** Weekly Recap may provide discussion questions from the weekend message. It is not required, does not define a City Group, and is not an administrative leader report.
+**Approved optional City Group resource with named owners; delivery rhythm still in development.** Under DEC-055, Russ and Paul prepare the Weekly Recap from each weekend message, with check-in questions and discussion questions. City Group leaders are not required to use it (DEC-052); it does not define a City Group and is not an administrative leader report.
 
 ## Purpose
 
@@ -33,9 +33,10 @@ Do not record participant names, identifiable prayer requests, counseling notes,
 
 ## Operational Needs
 
-- Assign an owner who receives the weekend message content and prepares the recap.
-- Set a reliable delivery time before City Groups meet.
-- Approve the review process, format, and delivery channel.
+- **Owners:** Russ and Paul (DEC-055).
+- **Content:** check-in questions and discussion questions from the weekend message (DEC-055).
+- Set a reliable delivery day and channel before the first City Groups meet (BWR-030).
+- Confirm the review process and format.
 - Coordinate with the preaching calendar and [[Communication]].
 
 ## Connections

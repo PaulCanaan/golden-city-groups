@@ -26,18 +26,18 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 
 ### CoJourner Implementation and Fall Relationship
 
-- **Question:** After source material is uploaded, who will facilitate the four-session biweekly cohort, what exact dates/location and completion criteria will apply, how will progress be tracked, and must any Fall 2026 leaders complete all or part of it?
-- **Why unresolved:** DEC-045 approves CoJourner from The Garden Project Ministry as the four-session biweekly program to complete before the Spring 2027 group launch. It does not settle curriculum or implementation details or apply the program retroactively to Fall leaders.
+- **Question:** After source material is uploaded, who will facilitate the four-session biweekly cohort, what exact dates, location, and completion criteria will apply, how will progress be tracked, and must any Fall 2026 leaders complete all or part of it?
+- **Why unresolved:** DEC-045 approves CoJourner from The Garden Project Ministry as the four-session biweekly program to complete before the Spring 2027 group launch. It does not settle curriculum or implementation details or apply the program retroactively to Fall leaders. DEC-056 permits CoJourner to be run during Group Leader Collaborations but does not set its dates or facilitator.
 - **Blocking impact:** It affects Spring 2027 leader-development planning. Fall 2026 still requires transitional role-specific preparation, but no CoJourner requirement is inferred.
 - **Expected decision owner:** Paul with Russ.
-- **Sources:** [[01 Governance/Launch Roadmap#Spring 2027 Direction|Launch Roadmap]], [[08 Archive/Decisions/Decision History#DEC-045 — CoJourner Group-Leader Training Architecture|DEC-045]].
+- **Sources:** [[01 Governance/Launch Roadmap#Spring 2027 Direction|Launch Roadmap]], [[08 Archive/Decisions/Decision History#DEC-045 — CoJourner Group-Leader Training Architecture|DEC-045]], [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]].
 
 ## Launch Readiness
 
 ### Offering Readiness
 
 - **Question:** Which City Groups, Collectives, and Bible Clubs will launch, and what remaining leader approvals, escalation contacts, locations, times, start dates, capacities, participant paths, and readiness dispositions apply?
-- **Why unresolved:** DEC-043–044 establish Collective cadences and intended co-leads, but expressed interest is not appointment. DEC-029 assigns operational owners without completing these offering-level gates.
+- **Why unresolved:** DEC-043–044 establish the Men's Collective cadence and intended co-leads for both Collectives, but expressed interest is not appointment. DEC-058 sets the Women's Collective start, Friday-evening rhythm, and home location, though its first date needs clarification. DEC-051–052 set the Group Launch Sunday format and City Group design freedom without approving any group. DEC-029 assigns operational owners without completing these offering-level gates.
 - **Blocking impact:** Launch-blocking for each offering.
 - **Expected decision owner:** Assigned operational owners prepare readiness; staff and pastoral leadership decide the remaining items within DEC-021.
 - **Sources:** [[Staff Decision Brief#PRO-027 — Active Offering Ownership and Readiness|PRO-027]], [[08 Archive/Decisions/Decision History#OQ-003 — Launch-Ready Group Expressions|OQ-003]].
@@ -45,7 +45,7 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 ### Planted Final Readiness
 
 - **Question:** What location, capacity, participant path, support role, complete session calendar, tested Church Center page, and final approval will govern Planted?
-- **Why unresolved:** DEC-030 and DEC-038 confirm the Bible Club model, leader, curriculum, length, date, and Notion publishing direction, but operational readiness remains incomplete.
+- **Why unresolved:** DEC-030 and DEC-038 confirm the Bible Club model, leader, curriculum, length, date, and Notion publishing direction, and DEC-054 makes Planted a recurring fall curriculum, but operational readiness remains incomplete. The location was still TBD at the September 25 staff meeting.
 - **Blocking impact:** Launch-blocking for Planted.
 - **Expected decision owner:** Paul and Russ.
 - **Sources:** [[Staff Decision Brief#PRO-028 — Planted Final Readiness|PRO-028]], [[08 Archive/Decisions/Decision History#OQ-011 — Planted Operational Readiness|OQ-011]].
@@ -90,7 +90,7 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 ### Participant Paths and Data Governance
 
 - **Question:** What offering-specific paths, notification recipients, backup coverage, response standards, placement and waitlist process, approved fields, consent, permissions, visibility, retention, and correction or deletion practices will govern Planning Center and Church Center?
-- **Why unresolved:** DEC-032 establishes Russ as public participant-system owner with Paul as backup, while the settings and workflows remain open.
+- **Why unresolved:** DEC-032 establishes Russ as public participant-system owner with Paul as backup, while the settings and workflows remain open. DEC-051 now requires a join QR code on each group's Launch Sunday information card, so each code needs a tested destination. DEC-057 records the Connection Card as a church-wide intake path feeding Groups, but its owner, fields, consent language, and routing are still undocumented.
 - **Blocking impact:** Launch-blocking before registration opens.
 - **Expected decision owner:** Russ, with Paul as backup.
 - **Sources:** [[Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance|PRO-030]], [[08 Archive/Decisions/Decision History#OQ-007 — Sign-Up and Placement|OQ-007]], [[08 Archive/Decisions/Decision History#OQ-012 — Participant Data Governance|OQ-012]], [[08 Archive/Decisions/Decision History#OQ-016 — Public Groups Page Participant Paths|OQ-016]].

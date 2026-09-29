@@ -22,7 +22,9 @@ City Groups, Collectives, and Bible Clubs are not disconnected departments or in
 
 ### City Groups — Life Together
 
-City Groups begin as location-based groups that meet in homes or local meeting places throughout the city. They build relationships, pray together, offer pastoral connection and mutual care, and practice everyday discipleship. The [[Weekly Recaps|Weekly Recap]] may help a group respond to the weekend message, but it is optional rather than defining.
+City Groups begin as location-based groups that meet in homes or local meeting places throughout the city. They build relationships, break bread and pray together, offer pastoral connection and mutual care, and practice everyday discipleship. They are unapologetically Christian community groups whose priority is that people find belonging; they need not be in-depth Bible studies. The [[Weekly Recaps|Weekly Recap]] may help a group respond to the weekend message, but it is optional rather than defining.
+
+Under DEC-052, each leader designs the group's frequency (weekly or biweekly), day, time, materials, and descriptive features. Features help people find a fitting group without restricting who may join. Young adults groups, Run Club, and a potential future Youth City Group sit under City Groups for now; no separate featured-groups category exists, though one may be considered later. A group may begin meeting one or two weeks after Group Launch Sunday, and its first gatherings focus on getting to know one another.
 
 City Groups contribute:
 
@@ -56,6 +58,8 @@ Bible Clubs contribute:
 
 Planted is the first confirmed Bible Club offering. Paul will lead the twelve-week study beginning Tuesday evening, October 6, 2026. Pastoral and theological curriculum review and required-materials review are complete. Its location, capacity, participant path, support role, complete session calendar, and final readiness approval remain open.
 
+Under DEC-054, Planted is seeker- and new-believer-friendly and recurs every fall. In Spring 2027 the following curriculum may be *Covenant, Kingdom, and People of God*; that is planning direction, not an approved offering. People who complete Planted may be considered to lead it in the future, subject to DEC-027.
+
 #### Future Classes
 
 Bible Clubs may later develop teacher-led Classes focused on a topic or area of growth. Financial classes and marriage classes are examples of the type of future offering that may be considered; they are not approved launch offerings.
@@ -77,7 +81,21 @@ Future curriculum may address covenant, temple, ecclesiology, Christian metaphys
 
 Collectives are centralized, gender-specific ministry environments currently expressed through Men's Collective and Women's Collective. They create space for community, prayer, pastoral connection, biblical formation, and faithful response among men and among women.
 
+Collectives are accessible gatherings where men and women walk alongside other men and women of God, and they should become places of mentorship and lasting connection. A typical gathering opens with a 15–20 minute devotional followed by discussion at breakout tables, where Collective leaders and table leaders equip participants to take part (DEC-053). Both Collectives study Galatians for the rest of 2026 (DEC-055).
+
 Men's Collective and Women's Collective are intended to mature over time into broader Men's Ministry and Women's Ministry. This long-term direction does not by itself establish a leader, location, capacity, curriculum, schedule, safeguarding plan, or launch readiness for a particular offering.
+
+## Formation Emphases
+
+DEC-053 records each branch's approximate emphasis:
+
+| Branch | Fellowship | Discipleship |
+|---|---|---|
+| City Groups | ~80% | ~20% |
+| Collectives | ~50% | ~50% |
+| Bible Clubs | ~20% | ~80% |
+
+These are approximate emphases, not timed quotas or performance targets, and fellowship is not outside discipleship. Every branch still includes belonging, beholding, and becoming; they differ in emphasis. The ratios are internal language and a ministry-design principle; they are not used in public or participant-facing communication.
 
 ## How the Environments Reinforce One Another
 
@@ -120,7 +138,7 @@ The confirmed launch sequence is:
 5. Approved candidates receive the required training.
 6. Leaders and participants are assigned to launch-ready groups.
 7. Leaders receive explicit appointment and are commissioned through practices still requiring pastoral and operational confirmation.
-8. Golden City Church launched publicly on September 20, 2026; groups launch on October 4, 2026 under DEC-048.
+8. Golden City Church launched publicly on September 20, 2026; groups are presented and joined on Group Launch Sunday, October 4, 2026 (DEC-048, DEC-051), and City Groups may begin meeting within one to two weeks (DEC-052).
 
 Leader sign-up is an expression of interest rather than appointment. Paul owns routine coordination and leader-interest follow-up; Russ or his designated pastor gives final readiness approval. Exact leaders, groups, assignments, training content, and commissioning details remain unresolved until recorded in `00 Dashboard/Decision Log.md`.
 
@@ -131,6 +149,10 @@ This initial internal pipeline does not establish the permanent leadership-devel
 The CoJourner Program from The Garden Project Ministry is the selected group-leader training program. Its approved architecture is four biweekly sessions over approximately two months, intended for completion before the Spring 2027 group launch. Source materials, curriculum details, facilitators, dates, location, requirements, assessment, commissioning relationship, Fall 2026 applicability, and Planning Center tracking remain unresolved.
 
 CoJourner does not replace role-specific preparation, safeguarding, assessment, appointment, or readiness approval.
+
+### Group Leader Collaborations
+
+Under DEC-056, Group Leader Collaborations are gatherings where current leaders share experiences, learn from one another, and align with the ministry's mission, vision, and values. The first is held about one month after Group Launch Sunday, to check in with every leader about how their group is going. CoJourner may be run during Collaborations. The date, location, format, and later cadence remain open.
 
 ## Existing and Possible Group Expressions
 
@@ -145,7 +167,8 @@ CoJourner does not replace role-specific preparation, safeguarding, assessment, 
 
 - Future home, activity-based, and demographic-based City Groups
 - Additional geographic communities
-- Run Club, Youth City Group, and Young Adults Group, which are deferred from the initial launch scope
+- Run Club and a potential Youth City Group, classified under City Groups but still deferred from the initial launch scope (DEC-022); young adults City Groups may form under DEC-052's feature labels
+- A future featured-groups category, which may be considered later but is not created now
 - Financial and marriage Classes under the Bible Clubs branch
 - Freedom Groups as a potential future featured ministry under the Golden City Church umbrella
 - Other expressions that emerge from real pastoral need and leader capacity

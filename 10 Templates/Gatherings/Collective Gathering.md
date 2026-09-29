@@ -12,7 +12,7 @@
 4. **Prayer and response** — invite faithful response without pressure, promised outcomes, or absolute confidentiality.
 5. **Next steps** — communicate the next confirmed gathering and route care needs appropriately.
 
-The exact duration, teaching format, discussion plan, worship practice, food, childcare, and breakout use remain unresolved.
+DEC-053 records the typical shape: a 15–20 minute devotional followed by discussion at breakout tables, with Collective leaders and table leaders equipping participants to take part. The Fall 2026 study is Galatians (DEC-055). The overall duration, worship practice, food, and childcare remain unresolved.
 
 ## Adaptation Note
 

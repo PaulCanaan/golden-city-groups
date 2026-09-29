@@ -14,7 +14,8 @@ Group leadership is stewardship of people made in God's image. Boundaries serve 
 
 - Only explicitly appointed people are represented as group leaders.
 - Leaders operate within approved role descriptions, church beliefs, and pastoral oversight.
-- When City Groups use sermon-based material such as [[Weekly Recaps|Weekly Recap]], they use approved material and do not introduce unapproved speakers, curriculum, doctrinal claims, political campaigning, fundraising, or commercial promotion.
+- City Group leaders are free to choose the materials their groups go through: the [[Weekly Recaps|Weekly Recap]], a book of the Bible, a Christian book, a devotional, or another resource (DEC-052). No approval step applies to that choice. Groups do not introduce unapproved speakers, new doctrinal claims, political campaigning, fundraising, or commercial promotion, and disputed teaching moves to pastoral review under Russ's doctrinal authority (DEC-021).
+  - *Reconciled September 29, 2026 at Paul's direction.* This bullet previously required City Groups to use approved material and not introduce unapproved curriculum; DEC-052 governs instead.
 - Training attendance, Launch Team participation, or a Planning Center role does not constitute appointment.
 
 ### Participant care

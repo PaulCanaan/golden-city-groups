@@ -15,12 +15,12 @@ Connected to [[Semester Planning]] and [[07 Operations/Calendar]]
 5. **Confirmed stage:** Required training attendance moves the card to **Attended Training**; curriculum and completion requirements remain open.
 6. **Planned:** Group assignments, hosts or locations, and capacity confirmation.
 7. **Planned; awaiting pastoral direction:** Leader appointment and commissioning.
-8. **Confirmed:** Golden City Church launched publicly September 20; groups launch October 4 under DEC-048.
+8. **Confirmed:** Golden City Church launched publicly September 20; groups are presented at lobby tables on Group Launch Sunday, October 4 (DEC-048, DEC-051), with an optional second presentation on October 11. City Groups may begin meeting one to two weeks later (DEC-052).
 9. **Confirmed workflow completion; launch timing still requires approval:** After a launch-ready group actually begins meeting, the card moves to **Small Group Launched**.
 
 The shared Planning Center workflow and documented email automations are configured. Live use, candidate-stage reconciliation, testing, and all appointment/readiness gates remain separate.
 
-Collectives and Bible Clubs have an October 2026 readiness target. Men's Collective uses a first/third-Wednesday cadence and Women's Collective a second/fourth-Wednesday cadence; exact starts, times, venue, and final readiness remain open. Russ owns venue acquisition, and Paul owns downstream operational setup after confirmation.
+Collectives and Bible Clubs have an October 2026 readiness target. Men's Collective uses a first/third-Wednesday cadence; its start, time, venue, and final readiness remain open. Women's Collective starts Friday, October 16 and meets every other Friday evening at the Dalys' home (DEC-058). Russ owns venue acquisition for Men's Collective and Planted, and Paul owns downstream operational setup after confirmation.
 
 Public leadership pathways may be developed later but are not part of the initial pre-launch recruitment process.
 
@@ -34,6 +34,7 @@ Use [[Launch Checklist]] for the operational gates that must be completed before
 
 ## Connections
 
+- [[07 Operations/Group Launches/Group Launch MOC.canvas|Group Launch MOC]] — visual map of the October 4 Group Launch, from governing decisions to after-launch support.
 - [[Operation Overview]] — Group launches are a core operations activity each semester.
 - [[Semester Planning]] — Launch plans are developed during semester planning.
 - [[07 Operations/Calendar]] — Launch dates and milestones appear on the ministry calendar.

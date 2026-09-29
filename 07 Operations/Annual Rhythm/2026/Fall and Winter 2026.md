@@ -12,7 +12,11 @@
 
 The July and August events are now historical. Their missing outcomes are tracked in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] rather than left as future plans.
 - **September 20:** Golden City Church public launch — completed; the church is established in Broomfield, Colorado
-- **October 4:** Group Launch Day (DEC-048)
+- **October 4:** Group Launch Day (DEC-048). Groups are presented at lobby tables, each with an information card and join QR code (DEC-051).
+- **October 11:** Optional second lobby presentation for groups with many open spots (DEC-051).
+- **October 4–18:** City Groups begin meeting at each leader's choice (DEC-052).
+- **Friday, October 16:** Women's Collective begins (DEC-058).
+- **Early November:** First Group Leader Collaboration, about one month after Group Launch Sunday (DEC-056).
 
 During the August Team Nights, Paul was the assigned on-site leader-interest point person, helping Launch Team members submit the Planning Center form, receiving and organizing submissions through his admin access, and emailing applicants about Group Leader Conversations and immediate next steps. Actual execution still requires Paul's confirmation. Paul owns interviews, assessment, and training facilitation under DEC-031. Detailed standards, dates, assignment, appointment records, and commissioning remain unresolved.
 
@@ -30,7 +34,7 @@ The primary Fall 2026 objective is to recruit Launch Team members to host City G
 4. Confirm group assignments, hosts or locations, and participant capacity.
 5. Commission approved leaders through a practice still requiring confirmation.
 6. Open or continue participant sign-up only for launch-ready offerings.
-7. Prepare Collectives and Bible Clubs to operate in October; Planted begins Tuesday evening, October 6, while Collective start dates remain TBD and every offering remains subject to final readiness.
+7. Prepare Collectives and Bible Clubs to operate in October; Planted begins Tuesday evening, October 6, Women's Collective begins Friday, October 16, Men's Collective's start date remains TBD, and every offering remains subject to final readiness.
 
 Training dates, commissioning details, leader names, City Group assignments, and start dates other than Planted remain pending.
 
@@ -46,17 +50,18 @@ Their inclusion in planning does not mean each offering is staffed, approved, or
 Current Collective architecture:
 
 - **Men's Collective:** biweekly on first and third Wednesdays; intended co-leads Conner O'Brien and Russ Daly.
-- **Women's Collective:** biweekly on second and fourth Wednesdays; intended co-leads Rachel O'Brien and Miranda Daly.
+- **Women's Collective:** every other Friday evening at the Dalys' home, starting Friday, October 16 (DEC-058); intended co-leads Rachel O'Brien and Miranda Daly.
+- **Study:** both Collectives study Galatians through 2026, paralleling *The Fruit of the Spirit* weekend series; Russ and Conner O'Brien are responsible for materials, with Miranda Daly and Rachel O'Brien in the content discussions (DEC-055).
 
-Times, venue, start dates, participant paths, communications, leader-path completion, and final readiness remain open. Conner's and Rachel's expressed interest is not formal appointment. Russ is responsible for securing an appropriate October classroom or venue for Collectives and Bible Clubs; Paul owns downstream setup after the venue is known.
+Times, Men's venue and start date, participant paths, communications, leader-path completion, and final readiness remain open. Conner's and Rachel's expressed interest is not formal appointment. Russ is responsible for securing an appropriate October classroom or venue for Men's Collective and Planted; Paul owns downstream setup after the venue is known.
 
 Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-022 and are not required for the initial launch.
 
 ### Internal Development Orientation
 
-- City Groups: life together; Weekly Recap is optional
-- Collectives: shared encouragement through Men's and Women's Collectives
-- Bible Clubs: rooted in Scripture through facilitator-led study and response to Scripture
+- City Groups: life together; ~80% fellowship, ~20% discipleship; leaders design frequency, day, time, resource, and features; Weekly Recap is optional (DEC-052, DEC-053)
+- Collectives: shared encouragement through Men's and Women's Collectives; ~50/50; devotional followed by breakout-table discussion (DEC-053)
+- Bible Clubs: rooted in Scripture through facilitator-led study and response to Scripture; ~20% fellowship, ~80% discipleship (DEC-053)
 - Planted Bible Club: facilitator-led study of Scripture
 - Future Classes: development path under Bible Clubs, not a fall offering category
 

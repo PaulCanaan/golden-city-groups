@@ -2,7 +2,7 @@
 
 ## Dashboard Status
 
-**Executive control surface; not a governing decision record.** Last reconciled **September 21, 2026** through the current [[09 Reports/Biweekly Reviews/2026-09-21 Groups Ministry Biweekly Review|biweekly review]]. Repository execution is complete; required Paul and Russ review remains in progress. The next review is October 5, 2026. Update governing sources before this dashboard when approved direction changes.
+**Executive control surface; not a governing decision record.** Last reconciled **September 21, 2026** through the current [[09 Reports/Biweekly Reviews/2026-09-21 Groups Ministry Biweekly Review|biweekly review]]. Repository execution is complete; required Paul and Russ review remains in progress. Updated **September 29, 2026** with the [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes|September 25 staff meeting]] decisions (DEC-051–058) and Paul's same-day clarifications. The next review is October 5, 2026. Update governing sources before this dashboard when approved direction changes.
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
@@ -19,6 +19,7 @@
 - [[00 Dashboard/Open Decisions|Open Decisions]] — review unresolved governance questions and their source proposals.
 - [[01 Governance/Safeguarding and Escalation Decision Brief|Safeguarding and Escalation Decision Brief]] — review launch-blocking safety, care, escalation, and data questions with Russ.
 - [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — view the ministry system and its connections.
+- [[07 Operations/Group Launches/Group Launch MOC.canvas|Group Launch MOC]] — see the October 4 Group Launch on one canvas: decisions, leader pipeline, Launch Sunday, offerings, readiness gates, and after-launch support.
 
 The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biweekly Ministry Review performs first/third-Monday reconciliation; this Dashboard reports current priorities and readiness. None approves policy or replaces a decision record.
 
@@ -27,16 +28,16 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 | Item | Current status |
 |---|---|
 | Public church launch | **September 20, 2026 — completed**; the church is established in Broomfield, Colorado |
-| Current phase | Two weeks between the completed church launch and the October 4 Group Launch Day: leader and host preparation, connection-card follow-up, Collectives construction, and launch-blocking decisions |
-| Most recent milestone | **Golden City Church public launch — September 20; completed successfully** |
-| Next confirmed ministry milestone | **Group Launch Day — October 4, 2026** (DEC-048) |
+| Current phase | Final week before the October 4 Group Launch Day: finalizing group details with leaders, Launch Sunday lobby preparation, Connection Card follow-up, Collectives construction, and launch-blocking decisions |
+| Most recent milestone | **September 25 staff meeting** — Russ and Paul set the Launch Sunday format, City Group design freedom, branch emphases, fall studies, Group Leader Collaborations, communication channels, and the Women's Collective start (DEC-051–058) |
+| Next confirmed ministry milestone | **Group Launch Day — October 4, 2026**: groups presented at lobby tables (DEC-048, DEC-051) |
 | Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
-| October Collectives readiness | **At Risk** — cadence and intended teams are clearer; venue, times, exact starts, leader approvals, participant paths, and final readiness remain open |
+| October Collectives readiness | **At Risk** — Women's starts Friday, October 16, every other Friday evening at the Dalys' home; Galatians study approved. Men's venue and start, times, materials, leader approvals, participant paths, and final readiness remain open |
 | Planted October 6 readiness | **At Risk** — see [[00 Dashboard/Launch Readiness Dashboard#K. Planted Operational Readiness\|Planted Operational Readiness]] |
 | Ministry architecture | City Groups — life together; Collectives — shared encouragement; Bible Clubs — rooted in Scripture |
 | Group Leader workflow | **Configured** — `Interest → Welcome / Contact → Group Leader Conversation → Training → Launch`; live use and candidate stages still require reconciliation |
-| Groups webpage | **Rebuilt (DEC-050)**; three-branch structure live. Group details are provisional and TBD until Paul finalizes them before October 4, then publishes and announces |
-| Paul's focus through October 4 | Follow up on the 16 Launch Sunday connection-card responses, prepare additional leaders and hosts, and build the Collectives with Russ, Miranda, Conner, and Rachel without implying appointment |
+| Groups webpage | **Rebuilt (DEC-050)**; three-branch structure live. Paul is finalizing group details with leaders by email and text and will add leader photos, times, and locations before October 4 (DEC-051) |
+| Paul's focus through October 4 | Welcome emails for Connection Card interest, finalizing group details with leaders, information cards and QR codes for the lobby tables, and building the Collectives with Russ, Miranda, Conner, and Rachel without implying appointment |
 | Final readiness authority | Russ or a pastor explicitly designated by Russ |
 
 ## Biweekly Ministry Review
@@ -46,19 +47,20 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - **Scheduled occurrence:** September 21, 2026 at 7:00 AM America/Denver; actual start was 7:46:14 AM
 - **Next review:** October 5, 2026 at 7:00 AM America/Denver
 - **Scheduler:** macOS job active; this occurrence began about 46 minutes late. No cause is inferred from repository evidence.
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|21 active items]]
-- **Human input outstanding:** Paul — four earlier event outcomes, Launch Sunday response follow-up, aggregate leader-pipeline state, Fall training recommendation, Collective meeting and leader-stage status, webpage finalization, and Planted status; Russ — October venue, safeguarding, appointments/offerings, participant systems, public-language/review boundary, Collective curriculum, and final approvals
-- **Critical blockers:** October venue; safeguarding contacts and policies; active-offering appointments/readiness; Fall leader preparation; participant-system governance and testing; offering-specific readiness evidence
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|24 active items]] after the September 29 staff-meeting intake
+- **Human input outstanding:** Paul — four earlier event outcomes, Launch Sunday response follow-up, aggregate leader-pipeline state, Fall training recommendation, Collective meeting and leader-stage status, webpage finalization, and Planted status; Russ — Men's Collective and Planted venue, safeguarding, appointments/offerings, participant systems, public-language/review boundary, Collective curriculum, and final approvals
+- **Critical blockers:** Men's Collective and Planted venue; tested join-QR destinations; safeguarding contacts and policies; active-offering appointments/readiness; Fall leader preparation; participant-system governance and testing; offering-specific readiness evidence
 
 ## Next Actions
 
-- Process the 16 Launch Sunday connection-card responses: welcome emails and Group Leader Conversation invitations, with no participant details stored here.
-- Prepare additional leaders and hosts to be ready by the October 4 Group Launch Day.
+- Set up the Planning Center automation and send welcome emails to everyone who expressed Groups interest on the Connection Card, leading or participating; invite only those with leadership interest to a Group Leader Conversation. Store no participant details here.
+- Finalize each group's details with its leaders and prepare the Launch Sunday information cards (time, rough location, QR code) and tables (BWR-028). Full addresses go only by email to people who join.
+- Prepare additional leaders and hosts to be ready by the October 4 Group Launch Day, and communicate the DEC-052 expectations to City Group leaders.
 - Build Men's and Women's Collectives with Russ, Miranda, Conner, and Rachel, and record the meeting outcome.
-- Decide and review Collective study content before the first gathering; the proposed Galatians study remains unapproved.
+- Russ and Conner, with Miranda and Rachel: prepare the Galatians course materials (BWR-029). Russ and Paul: start the Weekly Recap (BWR-030).
 - Reconcile the July 28, August 11, August 16, and August 25 event outcomes without storing participant details here.
 - Confirm that every prospective leader has an approved workflow stage and known next action in the restricted system.
-- Russ: secure an appropriate October venue for Collectives and Bible Clubs.
+- Russ: secure an appropriate October venue for Men's Collective and Planted.
 - Paul: advance intended Collective leaders through the canonical pathway, improve the Groups webpage, and prepare downstream setup.
 - Bring the minimum safeguarding, offering, Fall-training, appointment, participant-system, and publication-boundary decisions to Paul and Russ before any affected offering is promoted or begins.
 - Complete the October 4 webpage finalization pass using confirmed branch language and only readiness-supported offering details.
@@ -75,7 +77,7 @@ The unresolved governance questions remain in [[00 Dashboard/Open Decisions|Open
 
 ## Offering Readiness Snapshot
 
-No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. Current City Group, Collective, and Planted status is maintained in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]. Men's Collective is planned for first/third Wednesdays with intended co-leads Conner O'Brien and Russ Daly; Women's Collective is planned for second/fourth Wednesdays with intended co-leads Rachel O'Brien and Miranda Daly. Conner's and Rachel's expressed interest is not appointment. Other offering-governance questions remain in [[00 Dashboard/Open Decisions#Offering Readiness|Open Decisions — Offering Readiness]].
+No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. Current City Group, Collective, and Planted status is maintained in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]. Men's Collective is planned for first/third Wednesdays with intended co-leads Conner O'Brien and Russ Daly; Women's Collective starts Friday, October 16 and meets every other Friday evening at the Dalys' home, with intended co-leads Rachel O'Brien and Miranda Daly. Conner's and Rachel's expressed interest is not appointment. Other offering-governance questions remain in [[00 Dashboard/Open Decisions#Offering Readiness|Open Decisions — Offering Readiness]].
 
 ## Confirmed Milestones
 
@@ -84,13 +86,14 @@ Confirmed dates, historical interpretation, and undated targets are maintained i
 ## Governing Direction
 
 - **Formation:** Belonging → Beholding → Becoming guides the ministry.
-- **Architecture:** City Groups cultivate life together; Collectives provide shared encouragement among men and among women; Bible Clubs keep group life rooted in Scripture. Future Classes develop under Bible Clubs.
+- **Architecture:** City Groups cultivate life together; Collectives provide shared encouragement among men and among women; Bible Clubs keep group life rooted in Scripture. Future Classes develop under Bible Clubs. Approximate emphases are 80/20, 50/50, and 20/80 fellowship to discipleship (DEC-053); internal only, never public. Young adults groups, Run Club, and a potential Youth City Group sit under City Groups.
 - **Authority:** Paul operates the ministry within confirmed direction; Russ or his designated pastor gives final readiness approval and retains the pastoral decisions in DEC-021.
 - **Leadership:** The Groups Director owns the next action from either approved intake trigger through actual launch; prospective leaders still require the applicable assessment, preparation, assignment, explicit appointment, and readiness approval.
-- **Development:** CoJourner from The Garden Project Ministry is the selected four-session biweekly group-leader training program over approximately two months before the Spring 2027 group launch. Its relationship to Fall 2026 leaders remains open.
+- **Development:** CoJourner from The Garden Project Ministry is the selected four-session biweekly group-leader training program over approximately two months before the Spring 2027 group launch. It may be run during Group Leader Collaborations, the first of which follows about a month after October 4 (DEC-056). Its relationship to Fall 2026 leaders remains open.
 - **Pastoral baseline:** DEC-033 governs freedom in Christ, flourishing, Scripture-shaped prayer, dependence on the Holy Spirit, and escalation of significant care concerns.
 - **Systems:** Russ owns the public participant system, with Paul as backup. Planning Center Groups and Church Center support approved ministry operations but do not confer approval or appointment.
 - **Website:** Russ granted Paul Squarespace access; Paul owns current Groups page implementation and maintenance of approved content.
+- **Communication:** email for general information, text for internal coordination, and a Church Center group chat for all current leaders (DEC-057).
 
 See the [[00 Dashboard/Decision Log#Chronological Decision Register|Chronological Decision Register]] for complete decision metadata and the [[00 Dashboard/Governance Index|Governance Index]] for thematic navigation.
 

@@ -73,7 +73,7 @@ Three of these — the first, second, and fifth — are [[Emotional Bypass vs. S
 
 - The support cadence itself, which remains an operational decision.
 - Whether a formal coaching layer becomes necessary, and at what ministry scale — an open question in the [[01 Governance/Ministry Model#Open Model Questions|Ministry Model]].
-- Group leader collaborations, which remain a proposed future development. See [[Supporting Leaders and Groups]].
+- Group leader collaborations, approved under DEC-056 with the first held about one month after Group Launch Sunday. See [[Supporting Leaders and Groups]].
 - Governing safeguarding policy locations and primary and backup escalation contacts, which DEC-028 leaves open and which a leader in crisis will need before the ministry does.
 
 ## External Research

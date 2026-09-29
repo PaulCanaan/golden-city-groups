@@ -6,7 +6,7 @@
 
 - **Leader resources** exist now in [[06 Resources/Resources Overview|Resources]].
 - **CoJourner** is the confirmed group-leader training architecture under DEC-045, targeted for completion before the Spring 2027 launch.
-- **Group leader collaborations** are a **proposed future development**, not an approved offering. Form, cadence, owner, participants, and approval remain open. See the September 22, 2026 [[00 Dashboard/Inbox|Inbox]] item.
+- **Group leader collaborations** were approved by Russ and Paul on September 25, 2026 under [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]. The first is held about one month after Group Launch Sunday. Its date, location, format, and later cadence remain open (BWR-031).
 
 No coaching layer is established. Whether one becomes necessary is an open model question.
 
@@ -35,7 +35,7 @@ So connecting with, serving, and supporting other group leaders is not a nice ad
 |---|---|---|
 | **Leader resources** | Something to reach for when a specific question comes up | Available now |
 | **CoJourner** | A shared formation pathway and a cohort that goes through it together | Confirmed (DEC-045); Spring 2027 target |
-| **Group leader collaborations** | Peers who are carrying the same thing, and what they have learned | Proposed future; not approved |
+| **Group leader collaborations** | Peers who are carrying the same thing, and what they have learned | Approved (DEC-056); first one about a month after October 4 |
 
 ### Leader resources
 
@@ -49,7 +49,7 @@ CoJourner does not replace role-specific preparation, safeguarding, assessment, 
 
 ### Group leader collaborations
 
-**Proposed, for when the ministry is actually running and growing.** A collaboration is a space where group leaders share experience and learn from one another — not training, and not a check-in with the Groups Director.
+**Approved under DEC-056; the first one is held about one month after Group Launch Sunday.** A collaboration is a space where group leaders share experience and learn from one another — not training, and not a check-in with the Groups Director.
 
 Those three things do different work, and the difference is the point:
 
@@ -59,7 +59,7 @@ Those three things do different work, and the difference is the point:
 
 Only the third one produces knowledge the ministry did not already have. It is also the only one where a leader discovers that their hardest month is not unique to them.
 
-This remains a future development. It needs a form, a cadence, an owner, a decision about who is included, and approval before it is described to any leader as something the ministry offers.
+The September 25 staff meeting added two purposes to this one. The first Collaboration checks in with every leader about how their group is going, and Collaborations are where leaders align with the ministry's mission, vision, and values. CoJourner may also be run during Collaborations, which lets training happen alongside peers rather than in a separate room. The date, location, format, and cadence after the first gathering are still open.
 
 ## Why Consistency and Longevity Are the Real Struggle
 
@@ -84,7 +84,7 @@ That is the argument for the church and the ministry staying connected to the gr
 
 ## Not Yet Decided
 
-- Group leader collaborations: form, cadence, owner, who participates, and approval.
+- Group leader collaborations: date, location, format, and cadence after the first gathering (DEC-056 approves them).
 - Whether CoJourner applies to any Fall 2026 leader, and its facilitator, dates, and completion criteria (DEC-045).
 - At what ministry scale a formal coaching layer becomes necessary — an open question in the [[01 Governance/Ministry Model#Open Model Questions|Ministry Model]].
 - The support cadence itself, which remains an operational decision rather than policy.

@@ -2,13 +2,13 @@
 
 ## Document Status
 
-**Reviewed August 10 and reconciled September 3, 2026 with the [[08 Archive/Decisions/2026-08-28 Staff Meeting Updates|August 28 staff-meeting updates]]. Approved direction is governing through DEC-046 in the [[Decision Log|Active Decision Register]]. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].**
+**Reviewed August 10 and reconciled September 3, 2026 with the [[08 Archive/Decisions/2026-08-28 Staff Meeting Updates|August 28 staff-meeting updates]]. Approved direction is governing through DEC-058 in the [[Decision Log|Active Decision Register]]; the [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes|September 25 staff meeting]] resolved PRO-033 (DEC-055). This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].**
 
 ## Confirmed Ministry Language
 
 Golden City Groups has three approved ministry branches:
 
-- **City Groups — life together:** location-based at launch, with future approved expressions possible; Weekly Recap is optional.
+- **City Groups — life together:** location-based at launch, with future approved expressions possible; leaders design frequency, day, time, resource, and features (DEC-052); Weekly Recap is optional.
 - **Collectives — shared encouragement:** Men's Collective and Women's Collective, with a long-term path toward broader Men's and Women's Ministries.
 - **Bible Clubs — rooted in Scripture:** facilitator-led Bible study; future Classes may develop under this branch.
 
@@ -164,7 +164,7 @@ These recommendations are not a substitute for church policy, legal guidance, or
 
 Run Club, Youth City Group, and Young Adults Group remain deferred ideas under DEC-022 and should not be added to this active table unless staff reactivates them.
 
-DEC-043 confirms first/third-Wednesday Men's and second/fourth-Wednesday Women's cadence. DEC-044 records the intended co-lead teams without treating Conner's or Rachel's expressed interest as appointment. Time, venue, October start dates, participant paths, leader-path completion, escalation contacts, and readiness dispositions remain open.
+DEC-043 confirms the first/third-Wednesday Men's cadence. DEC-058 moves Women's Collective to every other Friday evening at the Dalys' home, starting Friday, October 16. DEC-044 records the intended co-lead teams without treating Conner's or Rachel's expressed interest as appointment. Time, venue, October start dates, participant paths, leader-path completion, escalation contacts, and readiness dispositions remain open.
 
 **Question surfaced through Inbox processing:** Which of the three branches should the August Team Night leader-interest invitation name as actively receiving interest? Fall 2026 now prioritizes recruiting Launch Team members to host City Groups; naming another branch must not imply that a role or offering is approved or launch-ready.
 
@@ -318,7 +318,7 @@ Fall 2026 leaders still need the minimum transitional role-specific preparation 
 
 ## PRO-033 — Collectives Study Content and a Possible Galatians Study
 
-- **Approval status:** **Proposed — not approved.** Recorded September 20, 2026 from Paul's initial thinking; no curriculum, series, or content is approved by this entry.
+- **Approval status:** **Resolved by [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055]] on September 25, 2026.** Recorded September 20, 2026 from Paul's initial thinking; the proposal text below is preserved as written.
 - **Launch priority:** Needed before Men's and Women's Collectives begin meeting in October
 - **Decision needed:** Approve the study content Men's and Women's Collectives will use, who writes and reviews it, and whether the first study parallels the church's Fruit of the Spirit weekend series.
 - **Why it matters:** Both Collectives have an October readiness target under DEC-046 and confirmed Wednesday cadences under DEC-043, but no study content, facilitator material, or review path is recorded. Leaders cannot facilitate without approved content.
@@ -332,12 +332,12 @@ Fall 2026 leaders still need the minimum transitional role-specific preparation 
 
 ### Direction to record
 
-- [ ] Approve a Galatians study paralleling the Fruit of the Spirit series
+- [x] Approve a Galatians study paralleling the Fruit of the Spirit series
 - [ ] Approve different study content recorded below
 - [ ] Defer the content decision pending the Collectives construction meeting
 
 **Open questions:** Who writes, reviews, and approves the content? Does it require the same pastoral and theological curriculum review Planted received? Do Men's and Women's Collectives use the same study? What is the content deadline given the October readiness target?
 
-**Direction / revisions:**  
-**Approver:**  
-**Date:**  
+**Direction / revisions:** Men's and Women's Collectives both study Galatians for the rest of 2026, paralleling *The Fruit of the Spirit* weekend series; freedom is the book's larger theme. Russ and Conner O'Brien are responsible for the Collective course materials, so Paul no longer drafts them. Paul clarified on September 29 that Miranda Daly and Rachel O'Brien also join the content discussions, keeping both Collectives on one study with distinct emphases for male and female discipleship.  
+**Approver:** Russ and Paul  
+**Date:** 2026-09-25  

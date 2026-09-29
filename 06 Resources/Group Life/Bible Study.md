@@ -55,7 +55,7 @@ For City Groups, use this resource directly or through the optional [[Weekly Rec
 
 ## Responsibility and Approval
 
-The group leader facilitates approved sermon-based material. Paul or the designated ministry owner should confirm who writes and reviews discussion resources. New doctrinal claims or disputed teaching move to pastoral review.
+The group leader facilitates the resource the group uses. Under DEC-052, City Group leaders are free to choose the Weekly Recap, a book of the Bible, a Christian book, a devotional, or another resource, and no approval step applies to that choice. Russ and Paul write the Weekly Recap (DEC-055). New doctrinal claims or disputed teaching move to pastoral review.
 
 ## Connections
 

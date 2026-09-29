@@ -451,12 +451,18 @@ Both templates are drafts. Each carries its own blocking conditions and a pre-se
 
 ### Channels
 
-- **Direct email and text:** preferred for personal leader follow-up.
+DEC-057 sets three Groups Ministry channels:
+
+- **Email — general information:** welcome emails, the Groups Ministry introduction, coffee conversation (Group Leader Conversation) invitations, newsletters, and similar.
+- **Text — internal coordination:** course content, coffee meeting details, quick questions, and urgent matters. Text is coordination, not the pastoral or safeguarding escalation path; escalation contacts remain open (BWR-007).
+- **Church Center group chat — all current leaders:** City Group hosts, Collective leaders and co-leaders, table leaders and discussion facilitators, and class instructors. Paul creates and maintains it (BWR-031). Membership is not appointment.
+
+Also:
+
 - **Planning Center confirmation:** may acknowledge form receipt once live behavior is tested.
-- **Planning Center email or chat:** use only within approved permissions, visibility, moderation, and safeguarding boundaries.
 - **Public communication:** may explain participant interest and approved offerings; it should not imply an immediate public path into Fall 2026 City Group leadership.
 
-Channel ownership, backup coverage, and response expectations remain open where not already assigned.
+Under DEC-028, sensitive pastoral, safeguarding, screening, or discernment details stay out of every channel, including the leaders' group chat. Backup coverage and response expectations remain open where not already assigned.
 
 ### Planning Center Communication Procedure
 
@@ -481,7 +487,9 @@ Keep website and Church Center names, descriptions, schedules, locations, enroll
 - **Planted Bible Club:** a twelve-week study beginning October 6, with Paul leading; curriculum is approved and Notion publishing is underway, but final readiness remains open.
 - **Future Classes:** possible topic-based equipping under Bible Clubs, not active offerings.
 
-Do not reintroduce superseded percentage-based definitions. Run Club, Youth City Group, and Young Adults Group remain deferred under DEC-022 and should not be presented as active launch offerings.
+DEC-053's fellowship/discipleship ratios are internal language and a ministry-design principle only; never use them in public or participant-facing communication. Young adults groups, Run Club, and a potential future Youth City Group are classified under City Groups; there is no separate featured-groups category. Run Club and Youth City Group remain deferred under DEC-022 and should not be presented as active launch offerings.
+
+**Locations:** Never publish an address or detailed location. The website, Church Center listings, and Launch Sunday information cards show only a rough location, such as "North Thornton." Send the full details by email to people who join. City Group hosts may also create their own group chats (group text, GroupMe, Church Center, or similar) and share gathering details there (DEC-057).
 
 ## Communication Gaps
 
@@ -489,7 +497,7 @@ Do not reintroduce superseded percentage-based definitions. Run Club, Youth City
 - **Blocked variables:** training dates, duration, location, preparation, and completion requirements.
 - **Blocked variables:** group assignment, appointment, start date, location, public listing, and final readiness evidence.
 - **Verification required:** Confirm live Planning Center routing, merge fields, stage-linked automation, and delivery after the configured workflow is used.
-- **Undocumented intake:** The Connection Card produced 16 Launch Sunday participation responses under BWR-021, but no Connection Card form, field set, consent language, owner, or routing rule is recorded anywhere in this repository. See the 2026-09-22 [[00 Dashboard/Inbox|Inbox]] item.
+- **Partly documented intake:** DEC-057 records the Connection Card as a church-wide form that feeds Groups interest, including the 16 Launch Sunday responses under BWR-021. Its field set, consent language, owner, and routing rule are still undocumented (BWR-009).
 - **Scope confirmation required:** Whether DEC-049's boundary on participant-facing *publication* (BWR-020) extends to direct pastoral email is not settled in the record. Ask Russ or use the reduced variant in [[Participant Welcome and Groups Introduction#Reduced Variant — Framework Omitted|the welcome template]].
 - **Operations required:** backup coverage and response expectations.
 

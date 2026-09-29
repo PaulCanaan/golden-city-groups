@@ -7,7 +7,7 @@ This is a planning framework. The public church launch date and approved ministr
 ## Confirmed Launch Context
 
 - Golden City Church launched publicly on September 20, 2026. Paul reported the launch went smoothly and that the church is now an established faith community in Broomfield, Colorado.
-- Group Launch Day is Sunday, October 4, 2026 under DEC-048. The two weeks after the church launch are reserved for preparing additional leaders and hosts.
+- Group Launch Day is Sunday, October 4, 2026 under DEC-048. The two weeks after the church launch are reserved for preparing additional leaders and hosts. Groups are presented at lobby tables with an information card and join QR code for each group, and groups with many open spots may present again on October 11 (DEC-051). City Groups may begin meeting one to two weeks after October 4 (DEC-052).
 - The church website currently identifies Legacy High School in Broomfield as the public launch location.
 - Since March 2026, Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights have formed a Launch Team of more than 50 committed volunteers.
 - Fall 2026 primarily focuses on recruiting Launch Team members to host City Groups through the approved discernment and appointment process rather than recruiting from the general public.
@@ -15,9 +15,9 @@ This is a planning framework. The public church launch date and approved ministr
 - Paul is the operational point person for the ministry and Planning Center; Russ or his designated pastor gives final readiness approval.
 - Initial scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas.
 - Planted is a twelve-week Bible Club beginning Tuesday evening, October 6, 2026, with Paul leading. Its curriculum is approved and is being finalized and published in Notion; location and final operational readiness remain open.
-- Men's Collective will meet biweekly on first and third Wednesdays; Women's Collective will meet biweekly on second and fourth Wednesdays. Both have an October readiness target, while exact start dates, times, venue, and final readiness remain open.
+- Men's Collective will meet biweekly on first and third Wednesdays; its start date, time, venue, and final readiness remain open. Women's Collective starts Friday, October 16 and meets every other Friday evening at the Dalys' home (DEC-058). Both Collectives study Galatians through 2026 (DEC-055).
 - The intended co-leads are Conner O'Brien and Russ Daly for Men's Collective and Rachel O'Brien and Miranda Daly for Women's Collective. Conner's and Rachel's expressed interest is not appointment; the canonical leader pathway still applies.
-- Russ is seeking an appropriate classroom or venue for October Collectives and Bible Clubs. Paul owns downstream setup after a venue is known.
+- Russ is seeking an appropriate classroom or venue for Men's Collective and Planted. Paul owns downstream setup after a venue is known.
 - Groups Ministry has three confirmed branches: City Groups for life together, Collectives for shared encouragement, and Bible Clubs rooted in Scripture. Classes are a future development path under Bible Clubs.
 - Groups Ministry should support the launch without creating structures too complicated to operate.
 - The minimum viable launch model must be distinguished from the ideal future model.
@@ -160,7 +160,7 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 5. Available and approved leaders
 6. Safeguarding, care, and authority boundaries
 7. Leader training, group assignments, and commissioning
-8. Locations, capacity, calendar, and Planning Center configuration, including the time-sensitive October venue dependency for Collectives and Bible Clubs
+8. Locations, capacity, calendar, and Planning Center configuration, including the time-sensitive October venue dependency for Men's Collective and Planted
 9. Remaining Planted Bible Club operational readiness with Paul as the confirmed leader
 10. Completion of Planted publishing in Notion without confusing publishing with readiness
 11. Intake, data, privacy, and placement practices

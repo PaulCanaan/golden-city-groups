@@ -94,7 +94,7 @@ Readiness and health are also not the same thing. A public listing, a full roste
 
 Because group leaders serve together for the body of the church without ever literally serving together. A City Group leader is in their own living room, on their own night; a Collective co-lead and a Bible Club facilitator are doing parallel work in different rooms, often at the same hour. They are one team that almost never sees one another work.
 
-Isolation is therefore the default condition of the role, not a failure of character. Nobody sees a leader lead, every leader re-solves the same problems privately, and there are no teammates in the room to supply encouragement. Connection among leaders has to be built deliberately, because it will not happen on its own — which is why the ministry provides leader resources, the CoJourner training cohort, and, in the future, [group leader collaborations](Healthy%20Groups/Supporting%20Leaders%20and%20Groups.md).
+Isolation is therefore the default condition of the role, not a failure of character. Nobody sees a leader lead, every leader re-solves the same problems privately, and there are no teammates in the room to supply encouragement. Connection among leaders has to be built deliberately, because it will not happen on its own — which is why the ministry provides leader resources, the CoJourner training cohort, and [group leader collaborations](Healthy%20Groups/Supporting%20Leaders%20and%20Groups.md), the first of which follows about a month after Group Launch Sunday.
 
 ### Why support groups rather than just launch them?
 
