@@ -1,6 +1,6 @@
 # 12 Ministry Website
 
-The Groups Ministry's home for the public Groups page at [goldencity.church/groups](https://www.goldencity.church/groups), built on Squarespace. This folder holds who owns the page, what may be published, what the page says today, how it was designed, how to change it safely, and a dated record of what changed.
+The Groups Ministry's home for the public Groups pages on Squarespace: the overview at [goldencity.church/groups](https://www.goldencity.church/groups) and the semester directory at [goldencity.church/groups/fall2026](https://www.goldencity.church/groups/fall2026). This folder holds who owns the page, what may be published, what the page says today, how it was designed, how to change it safely, and a dated record of what changed.
 
 **Status:** working documentation. Nothing here approves public content, an offering, or a leader. Approved direction lives in the [Decision Log](../00%20Dashboard/Decision%20Log.md) and [Decision History](../08%20Archive/Decisions/Decision%20History.md); open website work lives in the [Biweekly Review Queue](../00%20Dashboard/Biweekly%20Review%20Queue.md). When a page here and a decision record disagree, the decision record wins, and the difference goes into the queue.
 
@@ -9,8 +9,8 @@ The Groups Ministry's home for the public Groups page at [goldencity.church/grou
 | File | What it holds | Open it when |
 |---|---|---|
 | [Ministry Website Overview](Ministry%20Website%20Overview.md) | Ownership, the review path, the publication rules, and the open website work | You need to know who may change the page and what may be published |
-| [Groups Page](Groups%20Page.md) | What the page showed on September 20, what is planned before October 4, and what needs correcting | You are checking the page against the vault |
-| [Open Groups Listings](Open%20Groups%20Listings.md) | Who is listed in the planned Open Groups section and what each listing shows | You are adding, updating, or removing a group's listing |
+| [Groups Page](Groups%20Page.md) | What both pages show (inspected October 2), verified details, and remaining pre-launch work | You are checking the page against the vault |
+| [Open Groups Listings](Open%20Groups%20Listings.md) | Who is listed in the Fall 2026 directory, where each card lives in Squarespace, and the target fields for each profile | You are adding, updating, or removing a group's listing |
 | [Design Principles and Maintenance](Design%20Principles%20and%20Maintenance.md) | Why the page looks and works as it does, how to edit and recover it, how to maintain it, and a pre-publish checklist | You are changing the page's layout, code, or styling |
 | [Development Journey](Development%20Journey.md) | How the page developed from July to today: ministry decisions and Paul's design and build work, plus every material change and review going forward | You need to know how the page got here, or you made or reviewed a change that needs recording |
 
@@ -30,7 +30,7 @@ A City Group is listed after its leader is ready to lead and its profile is buil
 
 **Change layout or code**
 
-Save a dated recovery copy first, then follow *Editing and Recovery* in [Design Principles and Maintenance](Design%20Principles%20and%20Maintenance.md#editing-and-recovery). Change the visible code block, not the hidden native sections.
+Most changes need no code: text, images, and links are native Squarespace content. Before changing either page's small Code block, save a dated copy, then follow *Editing and Recovery* in [Website Publication and Maintenance](../07%20Operations/Workflows/Website%20Publication%20and%20Maintenance.md#editing-and-recovery).
 
 **Fix something wrong on the live page**
 
@@ -39,7 +39,7 @@ A wrong schedule, an exposed address, or a broken join link should be corrected 
 ## Rules That Apply Everywhere in This Folder
 
 - **Rough locations only.** Never publish or record an address or detailed location. Show an area, such as "North Thornton."
-- **Internal language stays internal.** The fellowship and discipleship ratios never appear on the public page.
+- **Internal language stays internal.** The fellowship and discipleship ratios never appear on the public page. Paul clarified October 1 that branch-purpose language and Belonging/Beholding/Becoming are also for leader training only for now and must stay off the website.
 - **A listing is not readiness.** A group on the page has not been approved because it is on the page. Final readiness stays with Russ or a pastor he designates.
 - **Record what was verified, not what was intended.** A pending row is a plan until the live page is checked.
 - **Privacy follows the vault.** No participant lists, phone numbers, addresses, or pastoral details.

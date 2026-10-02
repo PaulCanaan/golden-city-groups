@@ -6,7 +6,7 @@
 
 ## What This Covers
 
-The public Groups page at **https://www.goldencity.church/groups**, built on Squarespace. It is often the first place someone meets Golden City Groups, so it should tell the truth about what is ready, help people find a place to belong, and give one clear next step.
+The public Groups pages, built on Squarespace: the overview at **https://www.goldencity.church/groups** and the semester directory at **https://www.goldencity.church/groups/fall2026** (Open Groups · Fall 2026). It is often the first place someone meets Golden City Groups, so it should tell the truth about what is ready, help people find a place to belong, and give one clear next step.
 
 ## Ownership and Review
 
@@ -23,7 +23,7 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 
 - **Publish only what is true.** A listing is not readiness, and a deferred idea is shown as future or not at all (DEC-022, DEC-050).
 - **Rough locations only.** Never publish an address or detailed location; show an area such as "North Thornton." Leaders share details privately with people who join (DEC-051, DEC-059).
-- **Branch language.** City Groups: life together. Collectives: shared encouragement. Bible Club: rooted in Scripture (DEC-047). The page keeps the name **Bible Club**. Russ confirms this and the Belonging, Beholding, Becoming introduction (DEC-049) for public use (BWR-020).
+- **Branch language.** The page keeps City Groups, Collectives, and **Bible Club**. Paul clarified on October 1 that Russ has confirmed the branch-purpose and Belonging, Beholding, Becoming language, but it is for **group leader training only for now; do not publish it on the website**. This direct instruction supersedes this folder’s earlier public-language plan; the historical DEC-047/049 records are not rewritten here.
 - **Internal language stays internal.** The fellowship/discipleship ratios never appear publicly (DEC-053).
 - **Working links only.** Every join button, QR destination, and Planning Center link goes to a tested destination (BWR-009, [[07 Operations/Workflows/Forms#Pre-Publication Test|Pre-Publication Test]]).
 - **Groups come through Group Launch Readiness.** City Groups appear in Open Groups only after their leader is ready to lead and the profile is built (DEC-059).
@@ -40,11 +40,11 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 
 | Item | Queue |
 |---|---|
-| Pre-launch finalization pass and Russ's quick review before October 4 | BWR-028 |
-| Branch language and Belonging, Beholding, Becoming introduction confirmed for public use | BWR-020 |
-| Collective schedules and Women's location corrected | BWR-024 |
-| Run Club shown truthfully or removed | BWR-025 |
-| City Group set and offering descriptions aligned with the launch | BWR-026 |
+| Native overview and Fall 2026 directory are live (October 1); remaining profile details, City Group join links, and Russ’s quick review before October 4 are pending | BWR-028 |
+| Reconcile queue/governance wording with Paul’s October 1 training-only direction; website excludes this language | BWR-020 |
+| Website rhythms and old Women’s address corrected; Collective times and rough areas still to be confirmed; the Women’s Church Center page it links to still says “Women’s Bible Club” and needs correcting in Planning Center | BWR-024 |
+| Run Club and Youth removed from the website October 1; reconcile queue status in the existing review workflow | BWR-025 |
+| Seven-group set published per Paul’s confirmation, including Lafayette; remaining profile details still needed | BWR-026 |
 | Tested participant paths for every join link | BWR-009 |
 
 ## Connections

@@ -21,24 +21,34 @@ Keep the Groups webpage accurate, accessible, recoverable, and connected to a tr
 
 ## Editing and Recovery
 
-**Recorded installation: September 19, 2026.** Verify these identifiers and the code block still match the page before applying them. The original build source remains in the website project; this migration does not move it or make its historical copy current.
+**Recorded installation: October 1, 2026 (native rebuild).** Taken from the build record in the Website Development project (`01_Projects/golden-city-groups/Build/Squarespace Implementation.md`) and matched to the live pages on October 2. Verify identifiers against the page before relying on them.
 
-| Item | Recorded location |
-|---|---|
-| Page | Squarespace **Pages → Connect → Groups → Edit**, page ID `6a60d8adbe9fc61fc3e156c1` |
-| Installed component | Code block in section `6aaed596f92e6e235874ecb3`; Layers → Code → Content |
-| Code block ID | `block-yui_3_17_2_1_1789840878837_33216` |
-| Component scope | `#gc-groups`; structural CSS also targets specific section and block IDs |
-| Navigation anchors | `#find`, `#city-groups`, `#collectives`, `#bible-club`, `#lead`, `#questions` |
-| Recorded pre-build backup | **Groups Backup 2026-09-19**, under **Not Linked**, disabled, slug `groups-1` |
+| Page | Squarespace location | Page ID | Route |
+|---|---|---|---|
+| Groups overview | **Pages → Connect → Groups** | `6abf21aecbfe5672822ec8e8` | `/groups` |
+| Open Groups · Fall 2026 | **Pages → Not Linked → Fall 2026 Groups** | `6abf3242dcbef32a164f2b30` | `/groups/fall2026` |
+| Groups Backup (former single page) | **Pages → Not Linked**, disabled | `6a60d8adbe9fc61fc3e156c1` | slug `groups-backup-2026-10-01` |
+| Groups Backup 2026-09-19 | **Pages → Not Linked**, disabled | — | slug `groups-1` |
 
-Before editing, save a dated copy of the installed code or duplicate the current page as a disabled backup. Change the visible code block rather than the hidden native sections. If section/block IDs change, verify the targeted hiding and layout rules still apply correctly.
+**Overview sections:** welcome `6abf21aecbfe5672822ec8ec`, semester invitation `6abf355955e2438928d89610`, branch cards `6abf309c27d49e690b78c149`, leading `6abf3595c78362634b0f86f3`, questions `6abf35ba601d114362cde31c`. Anchors: `#ways`, `#lead`, `#questions`.
 
-The recorded full-reversal method is to replace the code block with its original `<div id="city-groups"></div>` content and save. This removes the replacement layout and its hiding rules, revealing the retained native sections. **Those sections and the September backup may contain obsolete public details.** Review and correct content before using either as a public recovery page. For routine recovery, prefer the most recent known-good copy of the current component.
+**Directory sections:** introduction `6abf3242dcbef32a164f2b34`, seven-card list `6abf3242dcbef32a164f2b36`. Anchors `#city-groups`, `#collectives`, and `#bible-club` are added to the matching cards by the page's Code block.
 
-Preserve the interaction fixes unless a tested replacement covers them: the find/lead links stop Squarespace's click propagation from overriding their anchors; header clearance uses `--header-height`; entrance-animation overrides inside the component keep expanded text visible. Retest these behaviors after layout or platform changes.
+### Routine edits (no code)
 
-**Future option:** recreate the layout with native sections if the code block becomes a recurring obstacle for staff. Preserve the participant routes and accessibility, verify equivalent behavior, and remove obsolete hiding rules as part of that migration. There is no recorded requirement to rebuild it now.
+- **Overview:** open the page and edit the welcome, semester invitation, three branch cards (**Edit Content → Content**), leading invitation, or the FAQ Accordion directly.
+- **A group card:** open the directory → **Edit Content → Content** → select the group. Replace the image (check the crop), edit the title and description, or change the **Join Group** link. Keep the leader names as the first description paragraph; later paragraphs appear inside **Group details**. Leave a missing link as `#join-link-pending`; a real Church Center URL replaces the "coming soon" behavior once the page is reloaded.
+- Layout overrides are switched off while editing. Exit the editor to check the finished layout on desktop and phone.
+
+### Code blocks
+
+Each page has one small, page-scoped Code block for presentation and interaction only. Copies are archived in the build project's `semester-preview` folder (`squarespace-overview-enhancements.html` and `squarespace-directory-enhancements.html`). Before changing either block, save a dated copy. The church's global header, footer, and Site Styles are untouched.
+
+### Rollback
+
+To revert the overview: move the new overview to an unused slug and disable it; restore **Groups Backup** to the `groups` slug, enable it, and move it under Connect. Keep both pages rather than deleting either. The directory can stay published unless you mean to revert it too. **The backups may contain outdated public details** (old schedules, the former Women's address); review them before making either public.
+
+The September 19 code-block build and its October 1 afternoon update are historical. Their source files stay in the build project for reference and are not the installed source.
 
 ## Maintenance Within the Existing Review
 

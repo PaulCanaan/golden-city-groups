@@ -4,45 +4,67 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 
 ## Document Status
 
-**Working page record; not a decision record.** It describes `goldencity.church/groups` as recorded in [[08 Archive/Decisions/Decision History#DEC-050 — Rebuilt Public Groups Page (September 20, 2026)|DEC-050]] (reviewed September 20, 2026) and the changes planned before Group Launch Sunday. Published details are provisional until Paul's pre-launch finalization pass; the vault, not the page, is authoritative in the meantime.
+**Working page record; not a decision record.** Updated October 2, 2026 from a live inspection of both pages, checked against the build record in the Website Development project. Paul confirmed the seven groups for publication and approved the native rebuild after reviewing a preview. Russ's quick pre-launch review remains pending; publication does not establish completed intake or follow-up testing.
 
-## Live Now (as of September 20, 2026)
+## Live Now (inspected October 2, 2026)
+
+Since the evening of October 1, the Groups page is two native Squarespace pages instead of one code-block page. Both keep the church's shared header and footer.
+
+### `/groups` — Groups overview
+
+Linked under **Connect → Groups**. Page title: *Groups | Find Community*.
 
 | Section | Content |
 |---|---|
-| Headline | "Find your people. Grow in faith." |
-| Calls to action | "Find a Group" · "Lead a Group" |
-| Tagline | "Different ways to gather. One invitation to grow together." |
-| Branches | City Groups · Collectives · Bible Club |
-| City Groups | Broomfield, Westminster, Thornton, Lafayette, routed to the contact page |
-| Other City Group listings | Run Club; Youth City Group ("Coming soon") |
-| Collectives | Men's Collective and Women's Collective, with Church Center enrollment links |
-| Bible Club | Planted Bible Study, with a Church Center enrollment link |
-| Leading | Church Center leader application behind "Explore Leading" |
+| Welcome | "Find your people. Grow in faith." with **Find a Group** (to `/groups/fall2026`) and **Lead a Group** (to the Church Center leader application) |
+| Semester invitation | "Open Groups · Fall 2026 — Meet the leaders and explore this semester's groups," linking to the directory |
+| Three ways to connect | City Groups, Collectives, and Bible Club cards, each linking to its category on the directory |
+| Leading | "Your next step could be leading," with **Explore Leading** to the leader application |
+| Questions | Three FAQs: how to join, where groups meet (general areas only; exact locations shared privately), and how to express interest in leading |
 
-## Planned Before October 4
+### `/groups/fall2026` — Open Groups · Fall 2026
 
-- Add an **Open Groups** section: a profile for each launch-ready group, linked to its Planning Center group (DEC-059). See [[12 Ministry Website/Open Groups Listings|Open Groups Listings]].
-- Add leader photos, final meeting times, and rough locations (DEC-051).
-- Apply the confirmed branch language and the Belonging, Beholding, Becoming introduction once Russ confirms them for public use (BWR-020).
-- Russ does a quick review before Group Launch Sunday.
+Listed under **Not Linked** in Squarespace and reached from the overview. Category links jump to City Groups, Collectives, and Bible Club. Each card shows a cover, the group name, its leaders, and **Join Group**; schedule, area, and description sit inside a collapsed **Group details**.
 
-## Needs Correcting
+| Group | Leaders | Published details | Join Group |
+|---|---|---|---|
+| Broomfield City Group | Aaron & Minette McGeehon | Weekly on Wednesdays, 7–8:30pm, from October 14; Broomfield; Golden City weekly message recap; open to all; submitted photo | Join link coming soon |
+| Westminster City Group | Bobby Pascale | Westminster; schedule to be confirmed | Join link coming soon |
+| Thornton City Group | Conner & Rachel O'Brien | Thornton; schedule to be confirmed | Join link coming soon |
+| Lafayette City Group | Julianne McKay | Lafayette; schedule to be confirmed | Join link coming soon |
+| Men's Collective | Russ Daly & Conner O'Brien | Every other Thursday from October 8; time and area to be confirmed | Church Center group page |
+| Women's Collective | Miranda Daly & Rachel O'Brien | Every other Thursday from October 15; time and area to be confirmed | Church Center group page |
+| Planted. Bible Study | Paul Zhang | Weekly on Tuesdays, 7–8:30pm, from October 6; 12 weeks; area to be confirmed | Church Center group page |
 
-**Checklist for Paul's pre-launch finalization pass, not an active blocker list.** Recorded from the September 20, 2026 page review in [[08 Archive/Decisions/Decision History#DEC-050 — Rebuilt Public Groups Page (September 20, 2026)|DEC-050]] and kept current with later decisions. Published group details are provisional until Paul specifies them before October 4; until that pass these differences are expected rather than defects, and the vault is authoritative. Moved here from the Launch Readiness Dashboard on October 1, 2026.
+No card links to the contact page. No addresses, private contact details, or internal profile answers appear on either page.
 
-| # | Published now | Confirmed direction | Finalization note | Queue |
-|---|---|---|---|---|
-| 1 | Men's Collective: 2nd and 4th **Mondays**, 7pm. Women's Collective: 1st and 3rd **Mondays**, 7pm. | **DEC-060:** both meet **every other Thursday** — Men's from October 8, Women's from October 15. The Monday rhythms are the superseded July 23 baseline. | Correct before publication — both groups' published rhythms are superseded. | BWR-024 |
-| 2 | Women's Collective: I Can Workspace, 11878 Bradburn Blvd, Westminster. | **DEC-043** superseded the prior Women's location; **DEC-060** places Women's Collective in homes, likely rotating between the Dalys' and the O'Briens'. | Correct before publication — remove the superseded address; publish only a rough area; full details go privately to people who join. | BWR-024 |
-| 3 | Run Club listed with firm dates (Saturdays 7am, October 3–December 12, McKay Lake Park) and no future marker. | **DEC-022** defers Run Club; the Launch Roadmap requires deferred ideas to be "represented truthfully in public communication." Youth City Group carries "Coming soon"; Run Club carries nothing. | Correct before publication — presents a deferred idea as an active offering. | BWR-025 |
-| 4 | City Groups described as "shared interests and everyday life"; the four named groups are Broomfield, Westminster, Thornton, and **Lafayette**. | City Groups are **location-based** at launch; activity-based groups sit in the DEC-035 future pathway. The working database holds Arvada, Broomfield, Thornton, and Westminster — **Lafayette is archived legacy scaffolding**, and Arvada is unpublished. | Resolve as the October 4 group set is finalized. | BWR-026 |
-| 5 | Planted described as "A class"; "Tuesdays in fall 2026"; branch heading reads "Bible Club." | **DEC-030** reclassified Planted as a **twelve-week Bible Club** starting **October 6**; **DEC-034** places Classes as a future path, not a current branch. The page keeps the branch heading "Bible Club" (Paul, October 1). | Correct before publication — stale "class" classification and missing confirmed start date. | BWR-026 |
-| 6 | "Different ways to gather. One invitation to grow together." | **DEC-047** replaced "grow together" with the branch purposes life together, shared encouragement, and rooted in Scripture. **DEC-049** makes Belonging/Beholding/Becoming public-facing. | Correct with the DEC-047/DEC-049 language pass. | BWR-020 |
+## October 1 Direction and Changes
 
-**What the rebuild got right:** the three-branch structure now matches DEC-034; City Groups route to `/contact` rather than an untested enrollment path; the DEC-016 Church Center paths for both Collectives and Planted are retained; a Church Center leader application supports the DEC-042 intake trigger; and Young Adults Group has been removed, partially addressing OQ-016 and DEC-022.
+- Paul confirmed that Russ has confirmed the branch-purpose and Belonging, Beholding, Becoming language, **but it is for group leader training only for now and must not be on the website**. This supersedes the earlier plan for a public language pass. The public branch names are City Groups, Collectives, and Bible Club.
+- Paul explicitly included Lafayette in the published group set.
+- Collective rhythms corrected to DEC-060; the superseded Women's address and unsupported 7pm times removed.
+- Run Club and Youth City Group removed (DEC-022).
+- City Groups introduced as gatherings in homes and local spaces; Planted shown as a twelve-week study from October 6.
+- First published the seven profiles inside the existing code block (afternoon), then rebuilt both pages with native Squarespace content after Paul approved a preview (evening). Paul Zhang was removed from the overview and kept as Planted's leader.
+- Women's Collective now links to its existing Church Center group page at Paul's request, replacing the earlier contact route.
 
-When a row is corrected on the live page, remove it here and record the change in the [[12 Ministry Website/Development Journey|Development Journey]].
+## Remaining Before Launch Review
+
+- **Women's Church Center page:** still titled *Women's Bible Club*, lists Miranda and Russ, and has inconsistent event dates. The website links to it anyway at Paul's request; the Planning Center record needs correcting.
+- **City Group join links:** all four, Broomfield included, show "Join link coming soon." No public City Group destination was found in Church Center. Add each real link as it becomes available.
+- **Profile details:** photos for Westminster, Thornton, and Lafayette (they use an illustrated cover for now); their schedules and fuller profiles; Collective times and rough areas; Planted's area. Do not invent missing details.
+- **Planted:** reconcile its older "class" description in Church Center, and the leader form's broader activity/youth/young-adult/class options in Planning Center.
+- **Contact fallback:** neither page now offers a contact route for someone unsure which group fits, which [[12 Ministry Website/Design Principles and Maintenance|Design Principles]] recommends ("Offer personal help"). Decide whether to add one, for example in the FAQ.
+- **Intake testing:** no requests were submitted; consent, routing, and follow-up are untested (BWR-009).
+- **Russ's quick review** before October 4 (BWR-028).
+
+## Verification
+
+**October 2, 2026 (repository check of the live pages):** both pages return successfully; the overview's links go to the directory and its three categories, and to the leader application; the directory shows all seven profiles and their published details as listed above; Men's, Women's, and Planted link to their Church Center group pages, and those pages and the leader application respond. The directory's category anchors and "Join link coming soon" notes are added by its page script; their presence was confirmed in the script, not in a browser.
+
+**October 1, 2026 (build record):** desktop and phone checks passed — seven images loaded, three columns on desktop and one on phone, no horizontal overflow at 390px and 320px, keyboard-operable FAQs and Group details, working category anchors, and the placeholder dialog's Escape and focus return. The Connect menu points to the new overview. No enrollment or contact form was submitted.
+
+These are page and destination checks, not end-to-end enrollment verification. See [[12 Ministry Website/Development Journey|Development Journey]] for the publication and recovery record.
 
 ## Naming on the Page
 
