@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Draft ministry philosophy.** This page describes the posture a leader takes when group life gets messy. It is the *why* behind [[06 Resources/Group Life/Conflict|Conflict and Difficult Conversations]], which holds the actual procedure. It adds no correction authority, discipline process, or reporting policy — those require pastoral approval and church-wide policy. DEC-028 and DEC-033 govern the care and escalation boundaries named below.
+**Draft ministry philosophy.** This page describes the posture a leader takes when group life gets messy. It is the *why* behind [[07 Operations/Workflows/Conflict|Conflict and Difficult Conversations]], which holds the actual procedure. It adds no correction authority, discipline process, or reporting policy — those require pastoral approval and church-wide policy. DEC-028 and DEC-033 govern the care and escalation boundaries named below.
 
 ## Purpose
 
@@ -73,7 +73,7 @@ Loving a person sometimes means refusing to be the only one helping them.
 
 Under DEC-028, leaders offer prayer, presence, practical care, and pastoral connection; they do not act as sole crisis responders or licensed counselors, and they do not promise absolute confidentiality. Under DEC-033, significant pastoral or spiritual-care concerns are escalated rather than left with the group leader as the sole responder.
 
-**Escalate immediately, without attempting ordinary conflict resolution**, when there is imminent danger, suspected abuse, threats of harm, stalking, coercion, harassment, illegal activity, a safeguarding concern, or any crisis beyond the leader's role. Use the church-approved reporting and pastoral escalation process. [[06 Resources/Group Life/Conflict|Conflict and Difficult Conversations]] holds the full boundary, including what leaders must never do.
+**Escalate immediately, without attempting ordinary conflict resolution**, when there is imminent danger, suspected abuse, threats of harm, stalking, coercion, harassment, illegal activity, a safeguarding concern, or any crisis beyond the leader's role. Use the church-approved reporting and pastoral escalation process. [[07 Operations/Workflows/Conflict|Conflict and Difficult Conversations]] holds the full boundary, including what leaders must never do.
 
 **Still unresolved and needed before this is usable in a real moment:** the governing policy locations and the primary and backup escalation contacts remain open under DEC-028 and are carried in the review queue. A leader facing a genuine crisis needs a name and a number, and the ministry does not yet have one to give.
 
@@ -92,9 +92,9 @@ Under DEC-028, leaders offer prayer, presence, practical care, and pastoral conn
 
 ## Connections
 
-- [[06 Resources/Group Life/Conflict|Conflict and Difficult Conversations]] — The procedure this page is the reasoning for.
+- [[07 Operations/Workflows/Conflict|Conflict and Difficult Conversations]] — The procedure this page is the reasoning for.
 - [[Emotional Bypass vs. Spiritual Bypass]] — The two ways a group avoids the mess instead of loving through it.
 - [[Healthy Groups]] — Signs of health, and why a listing or a roster proves none of them.
 - [[Loving Leaders]] — Who carries this, and what it costs them.
 - [[02 Group Philosophy/Formation Framework/Belonging|Belonging]] — What cultivates welcome, and what destroys it.
-- [[06 Resources/Group Life/Prayer|Prayer]] — Prayer accompanies action; it does not replace it.
+- [[07 Operations/Workflows/Prayer|Prayer]] — Prayer accompanies action; it does not replace it.

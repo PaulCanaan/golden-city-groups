@@ -25,7 +25,7 @@ People arrive through relationship and through systems, and the two rarely arriv
 | Entry | What it is | What happens next |
 |---|---|---|
 | A Sunday gathering or a friendship | The ordinary way most people come | A personal invitation and one clear next step |
-| A Connection Card expressing interest in Groups | Participation interest, or leader interest where the card indicates it | The Groups Director sends the [[07 Operations/Planning & Communication/Participant Welcome and Groups Introduction\|welcome and Groups introduction]] |
+| A Connection Card expressing interest in Groups | Participation interest, or leader interest where the card indicates it | The Groups Director sends the [[10 Templates/Communication/Participant Welcome and Groups Introduction\|welcome and Groups introduction]] |
 | A Church Center request to join an offering | A request, not a placement | The offering's owner confirms, places, waitlists, redirects, or declines pastorally |
 | `Lead a Group` or the group-leading option on the `Serve Team Interest Form` | Leader interest | Enters the Group Leader workflow at Step 0 |
 
@@ -62,7 +62,7 @@ Steps 6 through 8 are where this path meets the leader pipeline below. The trans
 
 ## From Participation to Responsibility
 
-**The stages are confirmed under DEC-042. What happens inside them is not.** [[07 Operations/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]] governs the workflow logic, ownership, and advancement; [[07 Operations/Planning & Communication/Communication|Communication]] holds the message at each step.
+**The stages are confirmed under DEC-042. What happens inside them is not.** [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]] governs the workflow logic, ownership, and advancement; [[10 Templates/Communication/Group Leader Communication Library|Communication]] holds the message at each step.
 
 **Interest → Welcome / Contact → Group Leader Conversation → Training → Launch**
 
@@ -103,7 +103,7 @@ A branch develops when real pastoral need and real leader capacity call for it �
 
 ## Source Note
 
-Condensed from [[01 Governance/Ministry Model#Participant Journey|Ministry Model — Participant Journey]] and [[01 Governance/Ministry Model#Leader Development Pathway|Leader Development Pathway]], DEC-018, DEC-027, DEC-035, DEC-042, DEC-045, DEC-047, [[Discipleship]], [[Forms]], and [[00 Dashboard/Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance|PRO-030]]. Where this page and a governing source differ, the governing source wins and the difference belongs in the [[00 Dashboard/Biweekly Review Queue|review queue]].
+Condensed from [[01 Governance/Ministry Model#Participant Journey|Ministry Model — Participant Journey]] and [[01 Governance/Ministry Model#Leader Development Pathway|Leader Development Pathway]], DEC-018, DEC-027, DEC-035, DEC-042, DEC-045, DEC-047, [[Discipleship]], [[07 Operations/Workflows/Forms]], and [[00 Dashboard/Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance|PRO-030]]. Where this page and a governing source differ, the governing source wins and the difference belongs in the [[00 Dashboard/Biweekly Review Queue|review queue]].
 
 ## Connections
 
@@ -113,5 +113,5 @@ Condensed from [[01 Governance/Ministry Model#Participant Journey|Ministry Model
 - [[Leadership Philosophy]] — Responsibility, stewardship, and appointment boundaries.
 - [[Supporting Leaders and Groups]] — What the ministry owes a leader once the path reaches appointment.
 - [[Multiplying-disciples]] — How the path continues past appointment into helping form others.
-- [[07 Operations/Planning Center Groups|Planning Center Groups]] — Canonical leader workflow logic and stages.
-- [[07 Operations/Forms|Forms and Intake]] — Intake paths, minimum data principle, and the pre-publication test.
+- [[07 Operations/Workflows/Planning Center Groups|Planning Center Groups]] — Canonical leader workflow logic and stages.
+- [[07 Operations/Workflows/Forms|Forms and Intake]] — Intake paths, minimum data principle, and the pre-publication test.

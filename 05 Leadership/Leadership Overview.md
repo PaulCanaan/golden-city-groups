@@ -15,7 +15,7 @@ The July 28, August 11, and August 25 Team Nights were the confirmed initial env
 - [[05 Leadership/Group Leaders]]
 - [[05 Leadership/Hosts]]
 - [[05 Leadership/Class Instructors]]
-- [[Planning Center Groups]]
+- [[07 Operations/Workflows/Planning Center Groups]]
 
 Group leaders are planned for launch. Host requirements remain unresolved. A formal coaching layer is not approved for initial launch; the former proposal is preserved in [[08 Archive/Legacy Group Scaffolds/Group Coaches|Archive]].
 
@@ -45,7 +45,7 @@ DEC-027 governs the shared minimum standard. Role-specific preparation and expli
 - [[CoJourner]] — Approved four-session leader-development pathway.
 - [[05 Leadership/Group Leaders]] — Initial City Group leader pathway and pending standards.
 - [[05 Leadership/Hosts]] — Proposed host role with requirements still awaiting confirmation.
-- [[Leader Support Check-In]] — Current support guidance without an unapproved coaching layer.
+- [[07 Operations/Workflows/Leader Support Check-In]] — Current support guidance without an unapproved coaching layer.
 - [[05 Leadership/Class Instructors]] — Records the Class-role standard and notes Planted's reclassification as a Bible Club.
-- [[Planning Center Groups]] — Defines the operational role a leader may receive only after appointment and training.
+- [[07 Operations/Workflows/Planning Center Groups]] — Defines the operational role a leader may receive only after appointment and training.
 - [[Resources Overview]] — Central library for leader development and group-life practice.

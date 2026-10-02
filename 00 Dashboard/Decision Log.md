@@ -117,28 +117,8 @@ Unresolved governance questions and partially resolved proposals are organized i
 
 ## Decision Workflow
 
-1. Paul develops a recommendation in the Staff Decision Brief.
-2. Staff discusses the proposal and records direction, revisions, date, and approver.
-3. An approved proposal receives the next DEC number and is summarized in this register.
-4. The full decision record is added to Decision History.
-5. Related ministry and operational documents are updated.
-6. The Governance Index and Open Decisions navigation pages are refreshed.
-7. Superseded or reviewed briefs move to the Archive; this register remains chronological.
+Follow [[07 Operations/Workflows/Decision Recording Workflow|Decision Recording Workflow]] to record approved direction, preserve full evidence, update dependent sources, and refresh navigation. This register and Decision History remain the canonical governance records.
 
 ## Record Template
 
-```markdown
-### DEC-XXX — Title
-
-- **Decision:** What was approved?
-- **Status:** Confirmed
-- **Date:** When was it approved or recorded?
-- **Domain:** One primary taxonomy domain
-- **Supersedes:** Earlier DEC identifier, if explicitly supported
-- **Superseded by:** Later DEC identifier, if explicitly supported
-- **Owner:** Implementation owner, if one is named
-- **Approver:** Who approved it, if recorded?
-- **Evidence:** What meeting, document, or direction supports it?
-- **Implications:** What ministry work changes?
-- **Boundary:** What does this not authorize or settle?
-```
+Use [[10 Templates/Records/Decision Record|Decision Record]] only for direction whose approval and evidence are recorded; proposals remain in the Staff Decision Brief.

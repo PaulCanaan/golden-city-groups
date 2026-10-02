@@ -12,6 +12,18 @@ The Groups Ministry Director carries a pastoral role, not only an operational on
 
 **Uneven numbers are normal (DEC-061).** Some groups will be more popular than others. Few sign-ups or inconsistent attendance do not disqualify a leader, and leaders should not be discouraged by them; a Collective with 40 sign-ups and another with 2 can both be a normal dynamic for this church.
 
+## Scope and Ownership
+
+**Owner:** Paul or another approved ministry leader. **Audience:** current group leaders. **Start:** a check-in or request for help. **Finish:** the leader has been heard and practical follow-through and any required referral are clear. Exact cadence, visits, correction, and documentation remain subject to the approvals below.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Connect | Use the existing support conversation prompts. | Encouragement, capacity, and needs have been heard. |
+| Care / strengthen | Identify practical help and concerns beyond the role. | Required pastoral or safeguarding escalation is routed. |
+| Follow through | Confirm an owned next action and appropriate reconnection. | Only approved operational follow-up is recorded. |
+
 ## Support Rhythm
 
 The exact cadence remains an operational decision. At minimum, prioritize:
@@ -24,37 +36,7 @@ The exact cadence remains an operational decision. At minimum, prioritize:
 
 ## Check-In Flow
 
-### Connect
-
-- How are you personally and spiritually?
-- What has brought encouragement or joy in the group?
-- Where do you feel stretched, tired, uncertain, or alone?
-
-### Care and protect
-
-- How can I pray for you and the group?
-- Is anyone being overlooked or struggling to belong?
-- Are there conflict, safety, confidentiality, care, or safeguarding concerns that require escalation?
-- Are your capacity and boundaries sustainable?
-
-### Strengthen the group
-
-- Is Scripture and the Sunday message being handled faithfully and accessibly?
-- Are participants speaking, praying, and caring for one another?
-- Are hospitality, time, communication, attendance, and follow-up working reliably?
-- What is one practical adjustment for the next gathering?
-
-### Develop faithfully
-
-- Where are you growing as a disciple and leader?
-- Who is demonstrating service, teachability, care, or appropriate potential for greater responsibility?
-- What supervised opportunity could help someone contribute without implying appointment?
-- What training or resource would help you next?
-
-### Confirm follow-through
-
-- What needs action, who owns it, and when will you reconnect?
-- What must move to Paul, a pastor, or the approved safeguarding process now?
+Use [[10 Templates/Conversations/Leader Support Conversation|Leader Support Conversation]] for the Connect → Care and protect → Strengthen → Develop → Confirm follow-through prompts. They open a pastoral conversation rather than a performance interview.
 
 ## Optional Group Visit
 
@@ -78,7 +60,7 @@ Record only approved action items and operational follow-up in the approved syst
 
 ## Connections
 
-- [[07 Operations/Planning & Communication/Communication#Ongoing Leader Support|Group Leader Communication Library — Ongoing Support]] — Canonical email and text check-ins.
+- [[10 Templates/Communication/Group Leader Communication Library#Ongoing Leader Support|Group Leader Communication Library — Ongoing Support]] — Canonical email and text check-ins.
 - [[05 Leadership/Group Leaders]] — Approved leaders are the recipients of support.
 - [[08 Archive/Legacy Group Scaffolds/Group Coaches]] — Coaching remains a possible future structure.
 - [[07 Operations/Metrics]] — Aggregate signals may prompt conversation but do not replace it.

@@ -150,7 +150,7 @@ Group leaders are shepherds of a small flock, not security guards, counselors, o
 
 Leaders do not remove someone from a group on their own; removing someone is decided with Paul and, where needed, Russ.
 
-See also [[06 Resources/Group Life/Conflict|Conflict]] and [[02 Group Philosophy/Healthy Groups/Loving Messy People|Loving Messy People]].
+See also [[07 Operations/Workflows/Conflict|Conflict]] and [[02 Group Philosophy/Healthy Groups/Loving Messy People|Loving Messy People]].
 
 ### 10. Conflict Between Members
 
@@ -300,5 +300,5 @@ See also [[06 Resources/Group Life/Conflict|Conflict]] and [[02 Group Philosophy
 - [[01 Governance/Safeguarding and Escalation Decision Brief|Safeguarding and Escalation Decision Brief]] — the pastoral decisions these policies depend on.
 - [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] — evidence and gaps.
 - [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] — starting point for the Men's and Women's Collective Guide.
-- [[06 Resources/Group Life/Conflict|Conflict]] — group conflict resource.
+- [[07 Operations/Workflows/Conflict|Conflict]] — group conflict resource.
 - [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] — BWR-007 (contacts and policies) and BWR-033 (guides).

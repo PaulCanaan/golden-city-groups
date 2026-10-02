@@ -8,6 +8,19 @@
 
 Give each person a clear next step and a timely human response while collecting only the information required to serve them faithfully.
 
+## Scope and Ownership
+
+**Owners:** Groups Director for leader intake; Russ owns public participant systems, with Paul as backup. Connection Card ownership/routing and offering-specific assignments remain unresolved. **Purpose:** distinguish interest, profile submission, and actual membership before assigning a next step.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Leader interest | Lead a Group or group-leading Serve Team option. | One shared leader Workflow Card, with a responsible next action. |
+| Connection Card | Receive church-wide Groups interest. | Participant welcome; leader entry still requires an approved leader trigger. |
+| City Group Profile | Request details from a ready leader. | Reviewed profile enters Group Launch Readiness. |
+| Participant request | Use the tested specific offering path. | The authorized placement outcome and next step are communicated. |
+
 ## Two Distinct Intake Purposes
 
 ### Group leader interest
@@ -17,7 +30,7 @@ Either intake path triggers the same Group Leader workflow:
 1. The person submits the `Lead a Group` form; or
 2. the person submits the `Serve Team Interest Form` and selects the group-leading option.
 
-Submission is **Step 0 — Intake Trigger**, not an official workflow stage. The Groups Director receives the notification and/or Workflow Card and moves the person into **Welcome Email / Call**. The canonical stage definitions, actions, and completion conditions are in [[Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]].
+Submission is **Step 0 — Intake Trigger**, not an official workflow stage. The Groups Director receives the notification and/or Workflow Card and moves the person into **Welcome Email / Call**. The canonical stage definitions, actions, and completion conditions are in [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]].
 
 For Fall 2026, the initial City Group pipeline remains limited to the Launch Team under DEC-018. The July 28, August 11, and August 25 Team Nights were the confirmed recruitment setting, with Paul serving as on-site point person under DEC-026. The existence of either form does not create a general-public appointment path or imply appointment.
 
@@ -29,13 +42,13 @@ Keep pastoral discernment notes, background-check information, and confidential 
 
 The Connection Card is a church-wide general form through which attenders get connected with Golden City Church's ministries. It is usually presented in the lobby and during announcements, and people complete it by scanning a QR code. Groups is one of several connection paths it offers (DEC-057).
 
-When a person expresses interest in Groups on the card, whether in leading or participating, the Groups Director sends the [[Participant Welcome and Groups Introduction|welcome and Groups introduction]] through the Planning Center automation. A Connection Card alone does not enter anyone into the Group Leader workflow; leader interest proceeds through one of the two triggers above.
+When a person expresses interest in Groups on the card, whether in leading or participating, the Groups Director sends the [[10 Templates/Communication/Participant Welcome and Groups Introduction|welcome and Groups introduction]] through the Planning Center automation. A Connection Card alone does not enter anyone into the Group Leader workflow; leader interest proceeds through one of the two triggers above.
 
 **Still undocumented:** the card's owner, field set, consent language, and routing to the Groups Director. As a church-wide instrument it falls under Russ's participant-system ownership (DEC-032) and is tracked in BWR-009.
 
 ### City Group Profile (ready leaders)
 
-The Church Center form *City Group Profile — Fall 2026* goes only to City Group leaders who are already ready to lead: they have completed the Group Leader Conversation and brief training, and Paul and Russ have decided together that they are ready. Leaders use it to describe their group's name and area, leader photos, frequency, day, time, general meeting area, start date, resource, features, and public description. It collects no private address. Paul uses the submission to build the Planning Center group and publish it. The full field list and workflow are in [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] (DEC-059).
+The Church Center form *City Group Profile — Fall 2026* goes only to City Group leaders who are already ready to lead: they have completed the Group Leader Conversation and brief training, and Paul and Russ have decided together that they are ready. Leaders use it to describe their group's name and area, leader photos, frequency, day, time, general meeting area, start date, resource, features, and public description. It collects no private address. Paul uses the submission to build the Planning Center group and publish it. The full field list and workflow are in [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] (DEC-059).
 
 This is not an intake form. It is separate from the Group Leader workflow and does not appoint anyone.
 
@@ -62,7 +75,7 @@ Collect only information required for communication, placement, safety, and appr
 
 Before any link is promoted:
 
-- [ ] The offering has completed [[Launch Checklist]].
+- [ ] The offering has completed [[07 Operations/Workflows/Launch Checklist]].
 - [ ] The specific Church Center URL works on desktop and mobile.
 - [ ] The public name, description, schedule, rough location, and capacity are accurate. No address or detailed location is published; full details go privately to people who join.
 - [ ] The enrollment mode matches the approved process.
@@ -73,7 +86,7 @@ Before any link is promoted:
 
 ## Connections
 
-- [[Planning Center Groups]] — Governs the platform workflow and approval boundaries.
-- [[Communication]] — Governs public calls to action and follow-up language.
-- [[Launch Checklist]] — Must be completed before enrollment opens.
+- [[07 Operations/Workflows/Planning Center Groups]] — Governs the platform workflow and approval boundaries.
+- [[10 Templates/Communication/Group Leader Communication Library]] — Governs public calls to action and follow-up language.
+- [[07 Operations/Workflows/Launch Checklist]] — Must be completed before enrollment opens.
 - [[05 Leadership/Group Leaders]] — Separates Team Night interest from appointment.

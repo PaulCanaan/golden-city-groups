@@ -5,7 +5,7 @@
 **Confirmed dates with pending operational milestones.** This calendar records only dates established by approved context. A listed milestone without a date remains planned and should not be communicated as final.
 
 - [[07 Operations/Semester Outline]]
-- [[Group Launch Overview]]
+- [[07 Operations/Workflows/Group Launch Overview]]
 
 ## Annual rhythm
 
@@ -45,7 +45,7 @@ Dates, owners, and approval status for these milestones remain unresolved.
 
 - [[Operation Overview]] — Calendar is a core operations tool for scheduling the ministry year.
 - [[07 Operations/Semester Outline]] — Outline provides the structure that key dates on the calendar follow.
-- [[Group Launch Overview]] — Governs the ordered sequence and readiness requirements behind these dates.
+- [[07 Operations/Workflows/Group Launch Overview]] — Governs the ordered sequence and readiness requirements behind these dates.
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Current semester rhythm with fall launch items.
 - [[Groups Overview]] — Planned group rhythms should be added only after confirmation.
 - [[Classes Overview]] — Future Class rhythms should be added only after offering-specific approval.

@@ -26,5 +26,5 @@ This pattern is a working recommendation adapted from GCC's launch roadmap and t
 ## Connections
 
 - [[07 Operations/Calendar|Calendar]] — Confirmed dates and pending milestones.
-- [[Semester Planning]] — Repeatable planning process.
+- [[07 Operations/Workflows/Semester Planning]] — Repeatable planning process.
 - [[07 Operations/Metrics|Metrics]] — Formation-aware review.

@@ -8,6 +8,18 @@
 
 Attendance helps leaders notice who was present, welcome visitors, maintain accurate group records, and recognize when a personal follow-up may be appropriate. It does not measure a person's faithfulness, spiritual maturity, or value to the church.
 
+## Scope and Ownership
+
+**Owner:** assigned leader or approved attendance recorder; correct records through the assigned Planning Center owner. **Start:** an approved gathering/event. **Finish:** actual attendance is recorded and any appropriate personal follow-up is routed. Applicable field, retention, permission, and correction decisions remain pending.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Prepare | Confirm the correct event and approved access. | The event and recorder are correct. |
+| Record | After gathering, record actual participation and permitted operational context. | Attendance reflects what occurred; RSVP is separate. |
+| Follow up | Offer relational contact and route care concerns. | The appropriate next action is owned; sensitive details use the restricted process. |
+
 ## Weekly Procedure
 
 1. The assigned leader or approved attendance recorder confirms that the correct Planning Center event exists.
@@ -33,7 +45,7 @@ The ministry owner should review aggregate completion and participation patterns
 
 ## Connections
 
-- [[Planning Center Groups]] — Defines event setup, roles, reminders, and system boundaries.
+- [[07 Operations/Workflows/Planning Center Groups]] — Defines event setup, roles, reminders, and system boundaries.
 - [[07 Operations/Metrics]] — Uses aggregate attendance carefully within a broader account of formation.
-- [[Prayer]] — Prayer practices must respect confidentiality and approved escalation.
-- [[Communication]] — Governs approved follow-up channels.
+- [[07 Operations/Workflows/Prayer]] — Prayer practices must respect confidentiality and approved escalation.
+- [[10 Templates/Communication/Group Leader Communication Library]] — Governs approved follow-up channels.

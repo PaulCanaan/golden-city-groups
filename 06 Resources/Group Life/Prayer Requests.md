@@ -23,9 +23,9 @@ No prayer-request record is approved yet. When policy is established, this page 
 
 ## Source Note
 
-Developed from [[Prayer]], [[Policies]], [[Planning Center Groups]], and [[00 Dashboard/Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]].
+Developed from [[07 Operations/Workflows/Prayer]], [[Policies]], [[07 Operations/Workflows/Planning Center Groups]], and [[00 Dashboard/Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]].
 
 ## Connections
 
-- [[Stories]] — Consent and privacy also govern story sharing.
+- [[07 Operations/Workflows/Stories]] — Consent and privacy also govern story sharing.
 - [[Leader Training]] — Leaders need approved prayer and escalation boundaries.

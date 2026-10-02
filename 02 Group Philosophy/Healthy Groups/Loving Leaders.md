@@ -48,7 +48,7 @@ Three of these — the first, second, and fifth — are [[Emotional Bypass vs. S
 
 ## What Loving a Leader Means Here
 
-**Know them as a person, not a role.** The [[06 Resources/Leader Development/Leader Support Check-In|Leader Support Check-In]] asks how the leader is personally and spiritually *before* it asks how the group is going. That order is deliberate and should not be reversed for efficiency.
+**Know them as a person, not a role.** The [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]] asks how the leader is personally and spiritually *before* it asks how the group is going. That order is deliberate and should not be reversed for efficiency.
 
 **Ask the question that is hard to volunteer.** *Where do you feel stretched, tired, uncertain, or alone?* Leaders rarely raise this unprompted, because raising it feels like admitting the group is not working.
 
@@ -89,5 +89,5 @@ External material informs this page; Scripture, the [[01 Governance/Theological 
 - [[Healthy Groups]] — What a healthy environment looks like once its leader is well.
 - [[Emotional Bypass vs. Spiritual Bypass]] — The pattern three of the burnout signs belong to.
 - [[Leadership Philosophy]] — Leadership as stewardship, and the support leaders are owed.
-- [[06 Resources/Leader Development/Leader Support Check-In|Leader Support Check-In]] — The working support rhythm and check-in flow.
-- [[07 Operations/Planning & Communication/Communication|Communication]] — The check-in and encouragement messages that carry ongoing support.
+- [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]] — The working support rhythm and check-in flow.
+- [[10 Templates/Communication/Group Leader Communication Library|Communication]] — The check-in and encouragement messages that carry ongoing support.

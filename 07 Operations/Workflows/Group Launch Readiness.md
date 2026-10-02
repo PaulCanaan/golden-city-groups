@@ -1,6 +1,6 @@
 # Group Launch Readiness
 
-From [[Group Launch Overview]] · Part of the [[07 Operations/Group Launches/Group Launch MOC.canvas|Group Launch MOC]]
+From [[07 Operations/Workflows/Group Launch Overview]] · Part of the [[07 Operations/Workflows/Group Launch MOC.canvas|Group Launch MOC]]
 
 ## Document Status
 
@@ -11,6 +11,19 @@ This workflow is **separate from the Group Leader workflow** (DEC-042, `Lead a G
 ## Purpose
 
 Help people find a group where they can belong, grow, and follow Jesus together, by giving every ready leader a simple way to describe their group and giving the ministry one reliable path from that description to a group people can join.
+
+## Scope and Ownership
+
+**Owner:** Paul for forms, review, Planning Center build, publication, and table cards; leaders manage their assigned group. Russ’s review and final readiness/appointment boundaries remain in force. **Start:** a City Group leader is ready to lead as defined below; Collectives and Planted enter at the named step. **Finish:** the first gathering actually occurs and the approved workflow record is updated.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Ready leader | Confirm conversation, brief training, and Paul–Russ decision. | Readiness to lead is actually recorded. |
+| Profile / build | Review the profile and build/assign the group. | Public fields and restricted details are separated. |
+| Review / present | Complete applicable review, tested publication, and table card. | People have an accurate next step. |
+| Join / launch | Share details privately and hold the first gathering. | Actual launch is recorded; a listing is insufficient. |
 
 ## Who Enters This Workflow
 
@@ -44,7 +57,7 @@ Leader is ready to lead (Paul and Russ)
 | **1. Send form** | Paul sends the Church Center form [[#City Group Profile Form\|City Group Profile — Fall 2026]] to each ready leader. | Paul | Only to leaders who are ready to lead. |
 | **2. Submit** | The leader completes the profile, ideally with a photo of every leader and co-leader. | Leader | — |
 | **3. Review** | Paul checks that the profile is complete, the meeting area is general rather than an address, and the description suits a public profile. Gaps are settled by email or text. | Paul | This is the detail finalization in DEC-051. |
-| **4. Build** | Paul creates the Planning Center group from the submission and assigns the leaders, who then manage their own group in Planning Center. | Paul | Follows [[Planning Center Groups#4. Build the group record\|Build the group record]]. Capacity may stay open (see [[#Capacity\|Capacity]]). |
+| **4. Build** | Paul creates the Planning Center group from the submission and assigns the leaders, who then manage their own group in Planning Center. | Paul | Follows [[07 Operations/Workflows/Planning Center Groups#4. Build the group record\|Build the group record]]. Capacity may stay open (see [[#Capacity\|Capacity]]). |
 | **5. Review** | Russ does a quick review of the webpage and group profiles before Group Launch Sunday. | Russ | Russ has already approved Paul to make the webpage changes. |
 | **6. Publish** | The Church Center listing goes public; the profile appears in the **Open Groups** section of the Groups webpage, linked to its Planning Center group; Paul makes the group's table card. | Paul | Rough location only. Every link and QR code must reach a tested destination (BWR-009). |
 | **7. Present** | Leaders present at lobby tables on Sunday, October 4. Groups with many open spots may present again on October 11. | Leaders; Paul | DEC-051. |
@@ -114,12 +127,12 @@ Run Club and a Young Adults City Group are still under discussion, with people i
 
 ## Connections
 
-- [[Group Launch Overview]] — launch sequence this workflow serves.
+- [[07 Operations/Workflows/Group Launch Overview]] — launch sequence this workflow serves.
 - [[12 Ministry Website/Open Groups Listings|Open Groups Listings]] — how each profile appears on the Groups page.
-- [[Planning Center Groups]] — group build, testing, and publishing procedures.
-- [[07 Operations/Forms|Forms and Intake]] — all intake and profile forms.
-- [[Communication]] — Group Leader workflow messages; this workflow does not replace them.
-- [[Launch Checklist]] — readiness checks before a group is published.
+- [[07 Operations/Workflows/Planning Center Groups]] — group build, testing, and publishing procedures.
+- [[07 Operations/Workflows/Forms|Forms and Intake]] — all intake and profile forms.
+- [[10 Templates/Communication/Group Leader Communication Library]] — Group Leader workflow messages; this workflow does not replace them.
+- [[07 Operations/Workflows/Launch Checklist]] — readiness checks before a group is published.
 - [[City Groups Overview]] — leader design freedom and features.
 - [[10 Templates/Records/Group Record|Group Record template]] — vault working record fields.
 - [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] — BWR-028 tracks Launch Sunday preparation.

@@ -10,6 +10,18 @@ DEC-026 confirms Paul's applicant follow-up responsibility, DEC-031 names Paul a
 
 Listen prayerfully for a person's story, faith, character, availability, alignment, and capacity so that the next step can be discerned rather than assumed.
 
+## Scope and Ownership
+
+**Owner:** Paul under DEC-031, with authorized discernment participants. **Start:** actual leader interest and an arranged conversation. **Finish:** the permitted outcome and next-action owner are recorded in the approved restricted system; appointment remains separate.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Prepare | Confirm participants, purpose, and approved boundaries. | A truthful invitation and conversation arrangements are in place. |
+| Listen / discern | Use selected questions and pastoral attentiveness. | The conversation occurs without promised appointment or forced disclosure. |
+| Record / respond | Record the permitted outcome and next action. | The authorized next step is communicated; sensitive details remain restricted. |
+
 ## Initial Participants
 
 - a Launch Team member who has expressed City Group leadership interest
@@ -33,18 +45,7 @@ Listen prayerfully for a person's story, faith, character, availability, alignme
 
 ## Suggested Questions
 
-Use the detailed [[07 Operations/Planning & Communication/Group Leader Conversation Questions|Group Leader Conversation Questions]] as an operational prompt bank. The questions below remain a shorter core set; neither list is an approved scoring rubric.
-
-1. How did you become connected with Golden City Church, and what has your experience on the Launch Team been like?
-2. Tell me about your relationship with Jesus and how you are currently growing in faith.
-3. What draws you toward helping people belong, behold Christ, and become more like him through a City Group?
-4. What have you learned through serving, hospitality, group participation, teaching, or caring for others?
-5. What is your current season of life, and what capacity do you realistically have for weekly preparation, gathering, and follow-up?
-6. How do you respond when you do not know an answer, encounter disagreement, or hear a need beyond your role?
-7. How do Golden City Church's mission, values, and beliefs shape the way you would lead?
-8. What support, training, or co-leadership would help you serve faithfully?
-9. Is there anything that could affect your availability, trustworthiness, safety, or ability to carry this responsibility that should be discussed through the approved process?
-10. What questions or concerns do you have about the role?
+Use [[10 Templates/Conversations/Group Leader Conversation Questions|Group Leader Conversation Questions]] for the detailed bank and shorter core set. Neither is an approved scoring rubric.
 
 ## Discernment Summary
 
@@ -66,8 +67,8 @@ Record the outcome and owner. Do not place narrative discernment notes, referenc
 
 ## Connections
 
-- [[07 Operations/Planning & Communication/Group Leader Conversation Questions|Group Leader Conversation Questions]] — Detailed operational prompt bank.
+- [[10 Templates/Conversations/Group Leader Conversation Questions|Group Leader Conversation Questions]] — Detailed operational prompt bank.
 - [[Leader Training]] — Training follows discernment and invitation.
 - [[05 Leadership/Group Leaders]] — Defines the confirmed initial pipeline.
-- [[Planning Center Groups]] — A leader role is assigned only after appointment.
+- [[07 Operations/Workflows/Planning Center Groups]] — A leader role is assigned only after appointment.
 - [[Highlands Resource Adaptation]] — Records the source-analysis boundary.

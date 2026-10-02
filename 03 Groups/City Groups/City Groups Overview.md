@@ -29,7 +29,7 @@ Young adults groups, Run Club, and a potential future Youth City Group sit under
 
 **Locations and group communication:** Publicly, a City Group shows only a rough location, such as "North Thornton." Its full details go privately to people who join. Once Paul assigns the leaders to their Planning Center group, they manage the group themselves and may share details, including the address, by email or in a group chat (Planning Center, Church Center, group text, GroupMe, or similar); sensitive care details stay out of it (DEC-028).
 
-**Becoming a listed group:** A leader who is ready to lead (Group Leader Conversation, brief training, and a joint Paul–Russ decision) completes the City Group Profile form, and Paul builds and publishes the group through the [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] workflow (DEC-059).
+**Becoming a listed group:** A leader who is ready to lead (Group Leader Conversation, brief training, and a joint Paul–Russ decision) completes the City Group Profile form, and Paul builds and publishes the group through the [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] workflow (DEC-059).
 
 ## Group Launch Sunday
 
@@ -63,5 +63,5 @@ Speculative geographic pages are preserved in [[08 Archive/Legacy Group Scaffold
 - [[Weekly Recaps]] — Optional weekend-message discussion resource for launch-ready City Groups.
 - [[05 Leadership/Group Leaders]] — Describes the developing initial leader pathway; no appointments are recorded here.
 - [[05 Leadership/Hosts]] — Host responsibilities and approval remain pending.
-- [[Leader Support Check-In]] — Current support guidance does not require a formal coaching layer.
+- [[07 Operations/Workflows/Leader Support Check-In]] — Current support guidance does not require a formal coaching layer.
 - [[07 Operations/Metrics]] — Evaluation practices remain provisional and should not be used to store confidential pastoral information.

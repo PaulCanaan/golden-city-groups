@@ -39,7 +39,7 @@ The following is a **proposed launch curriculum framework**, adapted after revie
 - low-pressure introductions and meaningful participation
 - facilitating Scripture and sermon discussion without dominating
 - helping participants connect the text to worship, repentance, obedience, care, service, and witness
-- using [[First Meetings Checklist]]
+- using [[07 Operations/Workflows/First Meetings Checklist]]
 
 ### 4. Prayer, Care, Conflict, and Escalation
 
@@ -70,7 +70,7 @@ This module is launch-blocking. DEC-028 approves the minimum boundaries, but tra
 
 - receiving prayer, feedback, encouragement, and correction
 - communicating capacity, conflict, or care concerns early
-- participating in the approved [[Leader Support Check-In]] rhythm
+- participating in the approved [[07 Operations/Workflows/Leader Support Check-In]] rhythm
 - end-of-season review, participant next steps, and healthy closure
 
 ## Schedule
@@ -83,43 +83,20 @@ Paul facilitates training after the July 28, August 11, and August 25 Team Night
 
 ## Training Delivery Checklist
 
-### Before the session
-
-- [ ] Confirm the approved curriculum, facilitator, candidate list, pastoral boundaries, and intended outcome.
-- [ ] Assign welcome, check-in, technology, materials, prayer, conversation, and follow-up responsibilities.
-- [ ] Prepare the room or virtual environment for accessibility, attention, participation, and confidentiality.
-- [ ] Test presentation, audio, links, Planning Center demonstrations, and backup materials.
-- [ ] Brief everyone conducting discernment or follow-up conversations on approved questions and recordkeeping.
-- [ ] State clearly that training participation is not appointment.
-
-### During the session
-
-- [ ] Begin with GCC's ministry purpose and the stewardship entrusted to leaders.
-- [ ] Keep transitions, exercises, examples, and discussion connected to the required outcomes.
-- [ ] Make room for questions without improvising unapproved policy or theology.
-- [ ] Explain the next discernment, completion, assignment, and commissioning steps accurately.
-- [ ] Provide a private and appropriate path for questions involving background, safeguarding, capacity, or pastoral concerns.
-
-### After the session
-
-- [ ] Record attendance and completion only in the approved system.
-- [ ] Follow up with each candidate according to the approved discernment process.
-- [ ] Route pastoral, safeguarding, or unresolved theological questions to the responsible leader.
-- [ ] Confirm additional training, assignment, deferral, or next conversation without implying appointment prematurely.
-- [ ] Debrief the session and improve the next delivery without changing governing content silently.
+Use [[07 Operations/Workflows/Leader Training Delivery|Leader Training Delivery]] for preparation, session delivery, attendance, and follow-through. Curriculum and completion standards remain here; attending is not appointment.
 
 ## Materials
 
-- [[Leader Conversation Guide]] — proposed pre-training discernment tool
-- [[First Meetings Checklist]] — practical preparation and follow-through
-- [[Leader Support Check-In]] — proposed leader-care rhythm
-- [[Hospitality]]
-- [[Bible Study]]
-- [[Prayer]]
-- [[Conflict]]
+- [[07 Operations/Workflows/Leader Conversation Guide]] — proposed pre-training discernment tool
+- [[07 Operations/Workflows/First Meetings Checklist]] — practical preparation and follow-through
+- [[07 Operations/Workflows/Leader Support Check-In]] — proposed leader-care rhythm
+- [[07 Operations/Workflows/Hospitality]]
+- [[07 Operations/Workflows/Bible Study]]
+- [[07 Operations/Workflows/Prayer]]
+- [[07 Operations/Workflows/Conflict]]
 - [[Discipleship]]
 - [[Policies]]
-- [[Planning Center Groups]]
+- [[07 Operations/Workflows/Planning Center Groups]]
 
 ## Completion Standard
 
@@ -135,14 +112,14 @@ The completion standard remains pending. At minimum, an approved standard should
 
 ## Connections
 
-- [[07 Operations/Planning & Communication/Communication#Step 3 — Attended Training|Group Leader Communication Library — Training]] — Canonical training invitation and leader-resource messages.
+- [[10 Templates/Communication/Group Leader Communication Library#Step 3 — Attended Training|Group Leader Communication Library — Training]] — Canonical training invitation and leader-resource messages.
 - [[05 Leadership/Group Leaders]] — Initial candidates come through the Launch Team and Team Night pathway.
 - [[CoJourner]] — Shared four-session pathway for ongoing leader development.
 - [[05 Leadership/Hosts]] — Host training remains conditional on approval of the role and its requirements.
 - [[08 Archive/Legacy Group Scaffolds/Group Coaches]] — Coach training is deferred unless a coaching layer is approved.
 - [[Values]] — Church values shape the content and priorities of leader training.
 - [[02 Group Philosophy/Formation Framework/Belonging, Beholding, Becoming]] — Training forms leaders through the Belonging → Beholding → Becoming framework.
-- [[Planning Center Groups]] — Defines the platform workflow, permissions, and approval-dependent settings leaders must understand.
-- [[Attendance]] — Defines the weekly recording procedure and pastoral boundaries.
+- [[07 Operations/Workflows/Planning Center Groups]] — Defines the platform workflow, permissions, and approval-dependent settings leaders must understand.
+- [[07 Operations/Workflows/Attendance]] — Defines the weekly recording procedure and pastoral boundaries.
 - [[Highlands Resource Adaptation]] — Records what was learned, adapted, deferred, and excluded from the supplied source set.
 - [[Resources Overview]] — Central library for leader development, group life, curriculum, operations, and external adaptations.

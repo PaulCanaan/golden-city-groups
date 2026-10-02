@@ -10,6 +10,18 @@ Recruit Launch Team members to host a small number of accountable, prepared, and
 
 City Groups help people share life together through community, pastoral connection, prayer, and everyday discipleship. [[Weekly Recaps|Weekly Recap]] is an optional discussion resource rather than a defining practice.
 
+## Scope and Ownership
+
+**Owner:** Paul coordinates the Fall 2026 operational plan; Russ retains appointment and final readiness authority. **Audience:** launch planning and operational coordination. This dated plan provides seasonal context; use the linked canonical workflows for actual stage advancement and publication.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Recruit / discern | Reconcile Launch Team interest and approved conversations. | Actual candidate stages and next actions are known. |
+| Prepare / assign | Complete required training and offering arrangements. | Assignments and required approvals are recorded. |
+| Present / gather | Complete publication/readiness and record actual gathering. | Confirmed dates are distinguished from completed events. |
+
 ## Launch Sequence
 
 | Phase | Status | Required outcome |
@@ -40,7 +52,7 @@ City Groups help people share life together through community, pastoral connecti
 
 ## Planning Center Implementation
 
-Use [[Planning Center Groups]] for the detailed operating procedure.
+Use [[07 Operations/Workflows/Planning Center Groups]] for the detailed operating procedure.
 
 1. Use Paul's confirmed Planning Center admin access for leader-interest form intake; confirm backup coverage, remaining permission boundaries, group type managers if needed, and participant join-request owners. Russ or his designated pastor remains the final readiness approver.
 2. Review group-type defaults for privacy, leader permissions, chat, event visibility, enrollment, and contact handling.

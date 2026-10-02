@@ -4,6 +4,18 @@
 
 **Working checklist; completion does not replace pastoral approval.** Confirmed context is marked below. All other items remain incomplete until evidence and the responsible approver are recorded in the appropriate operational system or decision log.
 
+## Scope and Ownership
+
+**Owner:** Paul coordinates operational evidence; responsible leaders and approvers establish their own completion. Russ or his designated pastor retains final readiness approval. **Start:** an offering is being prepared for launch. **Finish:** all applicable evidence and approvals are recorded; checked context alone does not make it ready.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Foundation / intake | Reconcile confirmed context and actual interest follow-through. | Interest and appointments remain distinct. |
+| People / systems | Verify preparation, assignments, safeguards, and tested records. | Required evidence and unresolved dependencies are explicit. |
+| Approval / launch | Record final readiness, then actual first gathering. | Appointment, readiness, and actual launch each have their own evidence. |
+
 ## Confirmed Foundation
 
 - [x] Pre-launch gatherings have formed a Launch Team of more than 50 committed volunteers.
@@ -48,7 +60,7 @@
 - [ ] Required safeguarding and escalation preparation is included.
 - [ ] Each proposed group has approved leadership.
 - [ ] Each proposed group has an approved host or location.
-- [ ] Each proposed group has a defined rhythm and start window, captured through the City Group Profile form ([[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]]). Capacity is set in follow-up when it becomes an issue (DEC-059).
+- [ ] Each proposed group has a defined rhythm and start window, captured through the City Group Profile form ([[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]]). Capacity is set in follow-up when it becomes an issue (DEC-059).
 - [ ] Group assignments and participant-placement ownership are confirmed.
 
 ## Planning Center Configuration
@@ -61,7 +73,7 @@
 - [ ] Participant fields, consent, access, correction, retention, and deletion practices are approved.
 - [ ] Public Church Center links, mobile display, notifications, confirmations, and capacity behavior are tested.
 - [x] Russ granted Paul Squarespace access by August 28.
-- [ ] Paul confirms the website and Church Center display the same approved information and tested destinations, using [[12 Ministry Website/Design Principles and Maintenance#Before Publishing a Material Change|Before Publishing a Material Change]].
+- [ ] Paul confirms the website and Church Center display the same approved information and tested destinations, using [[07 Operations/Workflows/Website Publication and Maintenance#Before Publishing a Material Change|Before Publishing a Material Change]].
 
 ## Commissioning and Launch Readiness
 
@@ -79,4 +91,4 @@
 
 Do not place leader applications, discernment notes, background-check information, participant rosters, contact information, or identifiable pastoral concerns in this repository.
 
-Planning Center is the operational platform, but completion of a software record does not replace pastoral appointment, safeguarding approval, or final readiness review. See [[Planning Center Groups]].
+Planning Center is the operational platform, but completion of a software record does not replace pastoral appointment, safeguarding approval, or final readiness review. See [[07 Operations/Workflows/Planning Center Groups]].

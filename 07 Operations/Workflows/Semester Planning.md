@@ -2,8 +2,25 @@
 
 From [[Operation Overview]]
 
-- [[Communication]]
-- [[Group Launch Overview]]
+- [[10 Templates/Communication/Group Leader Communication Library]]
+- [[07 Operations/Workflows/Group Launch Overview]]
+
+## Document Status
+
+**Seasonal planning guidance with mixed confirmation status.** Existing Fall 2026 and Spring 2027 direction is retained; dates, assignments, safeguarding, appointment, and readiness require their actual evidence and approvals.
+
+## Purpose and Ownership
+
+Translate confirmed ministry direction into a sustainable semester of belonging, Scripture-centered formation, and faithful service. **Owner:** Paul coordinates routine planning; Russ retains the applicable pastoral, appointment, and final readiness decisions. **Start:** preparation for a semester. **Finish:** approved offerings, actual dates, responsibilities, communication, and unresolved dependencies have canonical homes.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Recenter | Read governing direction and actual ministry capacity. | Current scope and deferred ideas are distinct. |
+| Prepare people | Use the approved intake, discernment, and training paths. | Candidate stages, preparation, and next actions are evidenced. |
+| Prepare offerings | Confirm details, systems, safeguarding, and readiness. | Required approvals are recorded; unsupported details stay provisional. |
+| Communicate / reconcile | Use canonical templates, calendar, and existing review queue. | Confirmed dates and owned next actions are consistent. |
 
 ## Planning process
 
@@ -31,8 +48,8 @@ Confirmed dates appear in [[07 Operations/Calendar]]. All other milestones remai
 ## Connections
 
 - [[Operation Overview]] — Semester planning is a core operations process.
-- [[Communication]] — Communication plans are developed during semester planning.
-- [[Group Launch Overview]] — Launch planning is a key output of semester planning.
+- [[10 Templates/Communication/Group Leader Communication Library]] — Communication plans are developed during semester planning.
+- [[07 Operations/Workflows/Group Launch Overview]] — Launch planning is a key output of semester planning.
 - [[07 Operations/Calendar]] — Planned activities are scheduled on the calendar.
 - [[Groups Overview]] — Plan launches and rhythms for men's, women's, and city groups.
 - [[Classes Overview]] — Future Class planning under Bible Clubs.

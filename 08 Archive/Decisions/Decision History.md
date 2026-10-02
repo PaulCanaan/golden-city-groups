@@ -637,7 +637,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Date and approver:** October 1, 2026; direction supplied by Paul as Ministry Director under DEC-021. The ready-to-lead decision is held jointly by Paul and Russ, as Paul described it; Russ's appointment authority under DEC-027 is unchanged.
 - **Domain:** Operations
 - **Owner:** Paul
-- **Evidence:** Paul's October 1, 2026 description of the workflow and the Church Center form *City Group Profile — Fall 2026*, recorded in [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]].
+- **Evidence:** Paul's October 1, 2026 description of the workflow and the Church Center form *City Group Profile — Fall 2026*, recorded in [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]].
 - **Implications:** The Fall 2026 ready-to-lead standard is now recorded: conversation, brief training, and a joint Paul–Russ decision. The workflow carries ready leaders from the Group Leader workflow's **Attended Training** stage to **Small Group Launched**. It is a separate workflow from DEC-042 and does not change its stages. City Group detail finalization under DEC-051 runs through the profile form.
 - **Boundary:** The content and completion record of the brief training, the form of the appointment record, and commissioning remain undocumented (BWR-006). The form and a Planning Center group do not prove readiness, and the DEC-028 minimum boundaries still apply, including confirming safeguards before groups meet in private homes. Run Club and a Young Adults City Group are still under discussion and are not published as active groups until a ready leader brings each through this workflow (DEC-022).
 

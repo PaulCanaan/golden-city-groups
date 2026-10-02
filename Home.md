@@ -7,7 +7,7 @@
 - [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]] — current actions, readiness, and launch milestones
 - [[00 Dashboard/Inbox|Inbox]] — temporary capture and triage
 - [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] — unresolved work carried between first/third-Monday reviews
-- [[07 Operations/Biweekly Ministry Review|Biweekly Ministry Review]] — sole recurring review procedure
+- [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]] — sole recurring review procedure
 - [[09 Reports/Biweekly Reviews/Biweekly Review Index|Biweekly Review Index]] — completed review history
 - [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — visual ministry system
 
@@ -45,8 +45,9 @@
 - [[CoJourner]]
 - [[Operation Overview]]
 - [[07 Operations/Calendar|Calendar]]
-- [[Planning Center Groups]]
-- [[10 Templates/Communication/Communication Templates|Templates]] — reusable communication, gathering, and record patterns
+- [[07 Operations/Workflows/Planning Center Groups]]
+- [[07 Operations/Workflows/Workflows Overview|Workflows]] — all active process instructions
+- [[10 Templates/Templates Overview|Templates]] — communication, conversations, gatherings, records, and reports
 - [[11 Database/Groups Database/Groups Database.base|Groups Database]] · [[11 Database/People Database/Group Leader Database.base|Group Leader Database]] — non-sensitive ministry working views; Planning Center remains authoritative
 - [[12 Ministry Website/Ministry Website Overview|Ministry Website]] — the public Groups page, its publication rules, and its change log
 - **Archive:** [[Archive Overview]]

@@ -49,5 +49,5 @@ Developed from [[01 Governance/Theological Framework|Theological Framework]], [[
 - [[Belonging, Beholding, Becoming]] — Shared formation framework.
 - [[Belonging]] — Relational participation that supports attention to Christ.
 - [[Becoming]] — Faithful life formed through belonging and beholding.
-- [[Bible Study]] — Practical Scripture-engagement guidance.
-- [[Prayer]] — Proposed prayer practices and boundaries.
+- [[07 Operations/Workflows/Bible Study]] — Practical Scripture-engagement guidance.
+- [[07 Operations/Workflows/Prayer]] — Proposed prayer practices and boundaries.

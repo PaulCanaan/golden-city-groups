@@ -148,7 +148,7 @@ Lyrics are not reproduced here. **Confirm Golden City Church's CCLI license cove
 >
 > We enter with questions, wounds, hopes, resistance, faith, doubt, and unfinished stories. The invitation is not to pretend otherwise. It is to come honestly and allow the Gardener to work.
 
-This is the posture the participant-facing [[07 Operations/Planning & Communication/Planted Introduction Email|Planted Introduction Email]] should carry, and it is why the study is described as genuinely seeker-friendly rather than seeker-friendly in name.
+This is the posture the participant-facing [[10 Templates/Communication/Planted Introduction Email|Planted Introduction Email]] should carry, and it is why the study is described as genuinely seeker-friendly rather than seeker-friendly in name.
 
 ## Formation Purpose
 
@@ -193,9 +193,10 @@ Completion of Notion publishing does not establish operational readiness.
 
 ## Connections
 
+- [[07 Operations/Workflows/Planted Participant Intake and Communication Workflow|Planted Participant Intake and Communication Workflow]] — Church Center, webpage, and launch-table requests through personal welcome, group chat, and the first gathering; implementation remains unverified.
 - [[Groups Ministry/11 Database/Groups Database/All Groups/Bible Clubs/Planted Bible Study|Planted working Group record]] — Non-sensitive ministry planning; Planning Center remains authoritative for official operational data.
 - [[01 Governance/Ministry Model#Bible Clubs — Rooted in Scripture|Ministry Model]] — Governing Bible Club purpose.
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Records the confirmed fall 2026 window.
 - [[05 Leadership/Class Instructors]] — Records the prior Class-role context and current Bible Club assignment.
-- [[07 Operations/Planning & Communication/Planted Introduction Email|Planted Introduction Email]] — Participant-facing response to a Planted join request; blocked until the readiness needs above are confirmed.
+- [[10 Templates/Communication/Planted Introduction Email|Planted Introduction Email]] — Participant-facing response to a Planted join request; blocked until the readiness needs above are confirmed.
 - [[01 Governance/Theological Framework#Belonging, Beholding, Becoming|Theological Framework]] — The formation framework the study's stated goal tracks against.

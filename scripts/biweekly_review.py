@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 RUNTIME = ROOT / ".review-runtime"
 ZONE = ZoneInfo("America/Denver")
 START = datetime(2026, 9, 7, 7, tzinfo=ZONE)
-PROCEDURE = ROOT / "07 Operations/Biweekly Ministry Review.md"
+PROCEDURE = ROOT / "07 Operations/Workflows/Biweekly Ministry Review.md"
 
 
 def latest_due(now):

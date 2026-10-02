@@ -16,7 +16,7 @@ An appointed leader would steward the approved Collective purpose, gathering pla
 - Confirm the schedule, location, capacity, content, safeguarding plan, and participant path.
 - Understand confidentiality limits and primary and backup escalation contacts.
 - Verify the Church Center page, notifications, and approved communication channel.
-- Use the [[First Meetings Checklist]] before the first gathering.
+- Use the [[07 Operations/Workflows/First Meetings Checklist]] before the first gathering.
 
 ## Gathering Practice
 
@@ -31,7 +31,7 @@ An appointed leader would steward the approved Collective purpose, gathering pla
 - Complete approved attendance and follow-up.
 - Correct inaccurate participant or event information.
 - Escalate urgent concerns immediately.
-- Receive support through the approved [[Leader Support Check-In]] rhythm.
+- Receive support through the approved [[07 Operations/Workflows/Leader Support Check-In]] rhythm.
 
 ## Approval Still Required
 

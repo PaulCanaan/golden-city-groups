@@ -69,5 +69,5 @@ The distinctions are interpretive guides, not numerical performance targets or p
 - [[Discipleship]] — Discipleship pathways use these metrics to assess progress.
 - [[City Groups Overview]] — City group health fields on each city page feed into these metrics.
 - [[Belonging]] — Belonging metrics connect to the belonging philosophy deep dive.
-- [[Planning Center Groups]] — Defines the source data and operational boundaries.
-- [[Attendance]] — Defines how attendance is recorded and reviewed.
+- [[07 Operations/Workflows/Planning Center Groups]] — Defines the source data and operational boundaries.
+- [[07 Operations/Workflows/Attendance]] — Defines how attendance is recorded and reviewed.

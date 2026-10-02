@@ -8,6 +8,18 @@
 
 Help leaders preserve truth, peace, dignity, participation, and safety when disagreement or harmful behavior appears in group life.
 
+## Scope and Ownership
+
+**Owner:** leaders for ordinary discussion and repair within their role; Paul or named pastoral contact for matters beyond it. **Start:** disagreement or harmful behavior. **Finish:** a safe, permitted next step or pastoral handoff is clear. The immediate-escalation boundary overrides ordinary resolution.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Assess | Recognize urgent or safeguarding concerns first. | Beyond-role matters use immediate approved escalation. |
+| Respond | For ordinary conflict, listen, clarify, redirect, and pause if needed. | Participants are protected and an appropriate follow-up is arranged. |
+| Follow up | Listen privately and agree a permitted next step. | Minimum approved outcome is recorded; authority is not exceeded. |
+
 ## In-the-Moment Response
 
 1. Stay calm and listen for the actual issue.
@@ -52,6 +64,6 @@ Leaders may facilitate ordinary discussion and relational repair within their ap
 ## Connections
 
 - [[Policies]] — Proposed minimum boundaries.
-- [[Prayer]] — Prayer accompanies but does not replace action.
-- [[Leader Support Check-In]] — Leaders should surface conflict early.
+- [[07 Operations/Workflows/Prayer]] — Prayer accompanies but does not replace action.
+- [[07 Operations/Workflows/Leader Support Check-In]] — Leaders should surface conflict early.
 - [[Leader Training]] — Conflict and escalation preparation is launch-blocking.

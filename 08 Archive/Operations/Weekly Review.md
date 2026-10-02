@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Historical operating checklist; superseded September 3, 2026 by the [[07 Operations/Biweekly Ministry Review|Biweekly Ministry Review]].** Do not run this as an active cadence. Its Inbox processing, operational reconciliation, event cleanup, decision follow-up, leader-pipeline review, dashboard refresh, blocker review, and next-action functions now belong to the queue-based biweekly procedure.
+**Historical operating checklist; superseded September 3, 2026 by the [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]].** Do not run this as an active cadence. Its Inbox processing, operational reconciliation, event cleanup, decision follow-up, leader-pipeline review, dashboard refresh, blocker review, and next-action functions now belong to the queue-based biweekly procedure.
 
 ## Review Metadata
 
@@ -40,7 +40,7 @@ Golden City Church exists to see the city fully following Jesus by equipping peo
 
 - [ ] Reconcile potential leaders from the August 11 Team Night and August 16 Interest Night in the approved system.
 - [ ] Review new Planning Center leader-interest forms and other approved interest records.
-- [ ] Confirm each person has received the appropriate acknowledgment or follow-up from the [[07 Operations/Planning & Communication/Communication#Journey Map|Group Leader Communication Library]].
+- [ ] Confirm each person has received the appropriate acknowledgment or follow-up from the [[10 Templates/Communication/Group Leader Communication Library#Journey Map|Group Leader Communication Library]].
 - [ ] Confirm Group Leader Conversations have been scheduled where appropriate.
 - [ ] Record which interviews are complete in the approved operational system.
 - [ ] Identify potential leaders awaiting connection, support, or an immediate next step.
@@ -64,9 +64,9 @@ For each branch, review current offering or launch status, leader or owner statu
 
 - [ ] Review and refresh [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] from source evidence; do not mark `Ready` without a supporting link and required approval.
 - [ ] Reconcile the past July 28, August 11, August 16, and August 25 events through the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]; do not infer unrecorded outcomes.
-- [ ] Reconcile detailed gates in [[Launch Checklist]] with the primary launch-control dashboard.
-- [ ] Test or verify approved Planning Center forms and workflows in [[Planning Center Groups]] and [[Forms]].
-- [ ] Review current messages, owners, and follow-up in [[Communication]].
+- [ ] Reconcile detailed gates in [[07 Operations/Workflows/Launch Checklist]] with the primary launch-control dashboard.
+- [ ] Test or verify approved Planning Center forms and workflows in [[07 Operations/Workflows/Planning Center Groups]] and [[07 Operations/Workflows/Forms]].
+- [ ] Review current messages, owners, and follow-up in [[10 Templates/Communication/Group Leader Communication Library]].
 - [ ] Review leader preparation in [[Leader Training]] without treating participation as appointment.
 - [ ] Review CoJourner cohort planning and leader-resource/SOP research without inventing curriculum or policy.
 - [ ] Review participant pathways and unresolved system decisions.

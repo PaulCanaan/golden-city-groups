@@ -213,7 +213,7 @@ DEC-060 moves both Collectives to Thursdays in homes: Men's from October 8, Wome
 
 **Question surfaced through Inbox processing:** What interview format and expected duration should applicants be told? The captured 30–45 minute estimate remains an unapproved placeholder.
 
-The canonical [[07 Operations/Planning & Communication/Group Leader Conversation Questions|Group Leader Conversation Questions]] already exists and is linked from the Planning Center workflow. The remaining work is approval of format, outcome records, role-specific criteria, and use—not question-bank design.
+The canonical [[10 Templates/Conversations/Group Leader Conversation Questions|Group Leader Conversation Questions]] already exists and is linked from the Planning Center workflow. The remaining work is approval of format, outcome records, role-specific criteria, and use—not question-bank design.
 
 ### Approved workflow under DEC-042
 
@@ -223,7 +223,7 @@ The canonical [[07 Operations/Planning & Communication/Group Leader Conversation
 3. **Attended Training** — record required training attendance without treating it as appointment.
 4. **Small Group Launched** — complete the workflow only after the group has actually begun meeting.
 
-The Groups Director owns the next action through launch. See [[07 Operations/Planning Center Groups#3. Move prospective leaders from intake to launch|the canonical operating workflow]].
+The Groups Director owns the next action through launch. See [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|the canonical operating workflow]].
 
 ### Remaining implementation decisions
 

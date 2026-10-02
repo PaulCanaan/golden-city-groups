@@ -4,6 +4,10 @@
 
 **Optional leader resource.** These prompts support welcome and relationship; they are not a required meeting script.
 
+## Purpose and Ownership
+
+Offer low-pressure prompts that support welcome and participation. **Owner:** approved leader/facilitator. **Trigger:** a gathering needs an opening question. **Inputs:** one question appropriate to the group’s trust and context; participants may pass without explanation.
+
 ## Facilitation Guidance
 
 - Choose one question suited to the group's trust and maturity.
@@ -30,6 +34,6 @@
 
 ## Connections
 
-- [[Hospitality]] — Conversation starters serve welcome and participation.
-- [[Bible Study]] — Moves from opening conversation into Scripture-centered discussion.
-- [[First Meetings Checklist]] — Includes a low-pressure opening for the first gatherings.
+- [[07 Operations/Workflows/Hospitality]] — Conversation starters serve welcome and participation.
+- [[07 Operations/Workflows/Bible Study]] — Moves from opening conversation into Scripture-centered discussion.
+- [[07 Operations/Workflows/First Meetings Checklist]] — Includes a low-pressure opening for the first gatherings.

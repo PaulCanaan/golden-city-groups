@@ -36,6 +36,6 @@ Purpose inferred from the annual-rhythm structure and [[Launch Roadmap]]. Detail
 ## Connections
 
 - [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]]
-- [[Semester Planning]]
+- [[07 Operations/Workflows/Semester Planning]]
 - [[Healthy Groups]]
 - [[CoJourner]]

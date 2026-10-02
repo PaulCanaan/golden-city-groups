@@ -14,6 +14,21 @@ Planning Center should help Golden City Church remember people, respond clearly,
 - **Beholding:** events and approved resources help keep Scripture, prayer, worship, and the Sunday message connected to group life.
 - **Becoming:** participation may prompt care, service, and leadership development, but software activity is not a measure of spiritual maturity.
 
+## Scope and Ownership
+
+**Owner:** Paul for ministry operations; Russ owns the public participant system with Paul as backup. **Start:** an approved intake, offering build, or group administration need. **Finish:** the appropriate record/action reflects what actually occurred. Leader appointment and offering readiness retain their separate pastoral gates.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Establish | Confirm ownership, access, and approved group settings. | Required assignments and boundaries are known. |
+| Leader intake to launch | Use the two triggers and four official stages in section 3. | Advance only against the stated condition. |
+| Build / publish | Prepare accurate records, test member paths, and record approval. | Publication follows applicable readiness gates. |
+| Participant intake | Review requests and communicate the actual outcome. | Membership and next steps are accurate. |
+| Operate | Maintain events, roster, attendance, resources, and communication. | Actual actions are recorded; care moves to the approved process. |
+| Review / close | Reconcile aggregate health and seasonal transition. | Unresolved work is owned and history preserved. |
+
 ## How the System Fits Together
 
 Planning Center is a connected suite. **People** is the shared people database. **Groups** is the ministry's operational record. **Church Center** is the participant-facing web and mobile experience.
@@ -143,21 +158,21 @@ The Groups Director receives the notification and/or assigned Workflow Card and 
 
 | Step / Planning Center stage | Meaning and entry | Groups Director action | Advance only when | Communication / resource |
 |---|---|---|---|---|
-| **Step 0 — Intake Trigger** | Either approved intake path records group-leading interest. This is not a workflow stage. | Confirm the person entered the workflow once and assign the next action. | A card exists in **Welcome Email / Call** with the Groups Director responsible. | [[Communication#Step 0 — Interest Submitted\|Acknowledgment and form confirmation]]; [[Forms#Group leader interest\|Forms]] |
-| **Step 1 — Welcome Email / Call** | Interest has been received and relational follow-up is due. | Acknowledge the interest, make contact, and invite the person to grab coffee for a Group Leader Conversation. | Welcome/contact is sent or completed and the conversation has been invited or arranged. | [[Communication#Step 1 — Welcome / Group Leader Conversation\|Invitation and reminder]] |
-| **Step 2 — Interviewed** | The Group Leader Conversation has occurred. “Interviewed” is the internal stage name; use “Group Leader Conversation” with the person. | Record only the minimum approved outcome and next action. If the person is ready to continue, invite them toward training; otherwise follow the approved discernment path. | The conversation is complete and its permitted outcome/next action is recorded. Moving forward still depends on the approved discernment and appointment boundaries. | [[Communication#Step 2 — Interviewed\|Ready-to-move-forward messages and pending outcomes]]; [[06 Resources/Leader Development/Leader Conversation Guide\|Conversation Guide]]; [[Planning & Communication/Group Leader Conversation Questions\|Question Bank]] |
-| **Step 3 — Attended Training** | Attendance at the required Group Leader Training has been recorded. | Confirm any remaining preparation, assignment, appointment, and launch-readiness actions; introduce leader resources. | Required attendance is recorded. Do not mark the person “trained” beyond this stage until the completion standard is approved and met; attendance is not appointment. | [[Communication#Step 3 — Attended Training\|Training and resource messages]]; [[06 Resources/Leader Development/Leader Training\|Leader Training]]; [[06 Resources/Resources Overview\|Resources Overview]] |
-| **Step 4 — Small Group Launched** | The assigned group has actually begun meeting. Approval, appointment, assignment, or training alone does not qualify. | Confirm the first gathering occurred, record the actual launch, and begin the approved leader-support rhythm. | The first group gathering has occurred and the Planning Center record reflects the launch. This is workflow completion. | [[Communication#Step 4 — Small Group Launched\|Launch messages]]; [[Communication#Ongoing Leader Support\|Ongoing support messages]]; [[Group Launches/Launch Checklist\|Launch Checklist]]; [[06 Resources/Leader Development/Leader Support Check-In\|Support Guide]] |
+| **Step 0 — Intake Trigger** | Either approved intake path records group-leading interest. This is not a workflow stage. | Confirm the person entered the workflow once and assign the next action. | A card exists in **Welcome Email / Call** with the Groups Director responsible. | [[10 Templates/Communication/Group Leader Communication Library#Step 0 — Interest Submitted\|Acknowledgment and form confirmation]]; [[07 Operations/Workflows/Forms#Group leader interest\|Forms]] |
+| **Step 1 — Welcome Email / Call** | Interest has been received and relational follow-up is due. | Acknowledge the interest, make contact, and invite the person to grab coffee for a Group Leader Conversation. | Welcome/contact is sent or completed and the conversation has been invited or arranged. | [[10 Templates/Communication/Group Leader Communication Library#Step 1 — Welcome / Group Leader Conversation\|Invitation and reminder]] |
+| **Step 2 — Interviewed** | The Group Leader Conversation has occurred. “Interviewed” is the internal stage name; use “Group Leader Conversation” with the person. | Record only the minimum approved outcome and next action. If the person is ready to continue, invite them toward training; otherwise follow the approved discernment path. | The conversation is complete and its permitted outcome/next action is recorded. Moving forward still depends on the approved discernment and appointment boundaries. | [[10 Templates/Communication/Group Leader Communication Library#Step 2 — Interviewed\|Ready-to-move-forward messages and pending outcomes]]; [[07 Operations/Workflows/Leader Conversation Guide\|Conversation Guide]]; [[10 Templates/Conversations/Group Leader Conversation Questions\|Question Bank]] |
+| **Step 3 — Attended Training** | Attendance at the required Group Leader Training has been recorded. | Confirm any remaining preparation, assignment, appointment, and launch-readiness actions; introduce leader resources. | Required attendance is recorded. Do not mark the person “trained” beyond this stage until the completion standard is approved and met; attendance is not appointment. | [[10 Templates/Communication/Group Leader Communication Library#Step 3 — Attended Training\|Training and resource messages]]; [[06 Resources/Leader Development/Leader Training\|Leader Training]]; [[06 Resources/Resources Overview\|Resources Overview]] |
+| **Step 4 — Small Group Launched** | The assigned group has actually begun meeting. Approval, appointment, assignment, or training alone does not qualify. | Confirm the first gathering occurred, record the actual launch, and begin the approved leader-support rhythm. | The first group gathering has occurred and the Planning Center record reflects the launch. This is workflow completion. | [[10 Templates/Communication/Group Leader Communication Library#Step 4 — Small Group Launched\|Launch messages]]; [[10 Templates/Communication/Group Leader Communication Library#Ongoing Leader Support\|Ongoing support messages]]; [[07 Operations/Workflows/Launch Checklist\|Launch Checklist]]; [[07 Operations/Workflows/Leader Support Check-In\|Support Guide]] |
 
 At every stage, the Workflow Card should make the current stage, responsible owner, immediate next action, and due date clear. Open the linked canonical message, personalize and send it, record the completed action and next step, then advance the card only when the stated condition is met. Keep notes brief and non-sensitive. The exact approved fields, consent, retention, backup coverage, response standard, interview records, assessment criteria, training completion standard, assignment, appointment record, and commissioning practice remain unresolved. Do not store background-check details, confession, diagnoses, unverified allegations, or unnecessary pastoral narrative in a form, workflow, group record, or this repository.
 
 Russ or his designated pastor retains primary appointment and final-readiness authority. Workflow movement documents operational progress; it does not appoint a leader, approve a location, or make a group launch-ready.
 
-See [[Forms]], [[05 Leadership/Group Leaders]], and the [[Communication#Journey Map|Group Leader Communication Library]].
+See [[07 Operations/Workflows/Forms]], [[05 Leadership/Group Leaders]], and the [[10 Templates/Communication/Group Leader Communication Library#Journey Map|Group Leader Communication Library]].
 
 ### 4. Build the group record
 
-For a City Group, build the record from the leader's City Group Profile submission through the [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] workflow (DEC-059). After assignment, leaders manage their own group in Planning Center.
+For a City Group, build the record from the leader's City Group Profile submission through the [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] workflow (DEC-059). After assignment, leaders manage their own group in Planning Center.
 
 Keep the record **unlisted** with enrollment **closed** while details remain provisional. Enter only confirmed information:
 
@@ -174,7 +189,7 @@ Add a person as leader only after the approved appointment and training process.
 
 ### 5. Test and publish
 
-Complete [[Launch Checklist]]. Using a non-admin profile, test:
+Complete [[07 Operations/Workflows/Launch Checklist]]. Using a non-admin profile, test:
 
 1. the exact public link on phone and desktop;
 2. the public name, description, schedule, location, and capacity;
@@ -198,7 +213,9 @@ The assigned owner reviews each request within the approved response window.
 
 Confirm date, time, location or meeting link, and what to expect. Keep request and membership status accurate. Do not override capacity as routine practice or leave a person at a dead end.
 
-A one-business-day response during public signup windows is a **proposed target** and must not be promised until an owner and backup are assigned. See [[Forms]].
+A one-business-day response during public signup windows is a **proposed target** and must not be promised until an owner and backup are assigned. See [[07 Operations/Workflows/Forms]].
+
+For Planted's offering-specific path, see [[07 Operations/Workflows/Planted Participant Intake and Communication Workflow|Planted Participant Intake and Communication Workflow]]: app, webpage, and launch-table QR requests converge on one listing, followed by personal welcome and Planted's participant group chat. This is a recorded operating plan; testing and final readiness remain pending.
 
 ### 7. Operate the group weekly
 
@@ -212,7 +229,7 @@ The appointed leader or approved recorder:
 6. follows up relationally where appropriate;
 7. moves sensitive pastoral or safeguarding concerns into the church-approved escalation process.
 
-An unsubmitted attendance report is not a zero-attendance event. Attendance may prompt a caring conversation, but it does not measure Christian faithfulness. Do not put counseling, health, prayer, abuse, crisis, or safeguarding details in attendance notes or chat. See [[Attendance]].
+An unsubmitted attendance report is not a zero-attendance event. Attendance may prompt a caring conversation, but it does not measure Christian faithfulness. Do not put counseling, health, prayer, abuse, crisis, or safeguarding details in attendance notes or chat. See [[07 Operations/Workflows/Attendance]].
 
 ### 8. Communicate appropriately
 
@@ -222,9 +239,11 @@ An unsubmitted attendance report is not a zero-attendance event. Attendance may 
 - Use **direct contact** for one person's pastoral matter.
 - Use the church's approved urgent process for emergencies and safeguarding.
 
-Use one clear action, include relevant date/time/location information, verify recipients, and obtain permission before sharing another person's prayer request or circumstances. Do not use chat for emergency response, mandatory reports, counseling records, conflict documentation, or discernment notes. See [[Communication]].
+Use one clear action, include relevant date/time/location information, verify recipients, and obtain permission before sharing another person's prayer request or circumstances. Do not use chat for emergency response, mandatory reports, counseling records, conflict documentation, or discernment notes. See [[10 Templates/Communication/Group Leader Communication Library]].
 
 ### 9. Review ministry health
+
+The attention patterns below are working operational guidance, not another ministry-review workflow or an installed cadence. Reconcile canonical documents, decisions, the queue, and dashboards through the sole [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]]; a monthly review is not established by this draft.
 
 During public signup, review requests, broken links, capacity, public details, and notification delivery daily. During the first launch month, review attendance submission, roster accuracy, schedule changes, and leader support weekly. After stabilization, use an approved monthly rhythm.
 
@@ -281,10 +300,10 @@ Last verified July 27, 2026. Product interfaces change; consult the current Help
 ## Connections
 
 - [[Operation Overview]] — Places Planning Center in the ministry operating system.
-- [[Forms]] — Governs leader-interest and participant-intake procedures.
-- [[Attendance]] — Defines attendance practice and pastoral boundaries.
-- [[Launch Plan]] — Applies this instruction to Fall 2026.
-- [[Launch Checklist]] — Provides readiness gates before publication.
-- [[Communication]] — Governs public and internal communication.
+- [[07 Operations/Workflows/Forms]] — Governs leader-interest and participant-intake procedures.
+- [[07 Operations/Workflows/Attendance]] — Defines attendance practice and pastoral boundaries.
+- [[07 Operations/Workflows/Launch Plan]] — Applies this instruction to Fall 2026.
+- [[07 Operations/Workflows/Launch Checklist]] — Provides readiness gates before publication.
+- [[10 Templates/Communication/Group Leader Communication Library]] — Governs public and internal communication.
 - [[07 Operations/Metrics]] — Provides formation-aware evaluation.
 - [[05 Leadership/Group Leaders]] — Defines the confirmed initial leadership pipeline and post-appointment responsibilities.

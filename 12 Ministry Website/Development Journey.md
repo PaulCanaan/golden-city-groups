@@ -6,7 +6,7 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 
 **Dated record of how `goldencity.church/groups` has developed, and of every material change and review going forward.** Oldest first; add new entries at the bottom. **Decision** rows are ministry-wide decisions that mention or govern the page; **Development** rows are Paul's design, build, and publication work. Routine fixes (a typo, a broken link) need no entry. Design reasoning and technical detail are in [[12 Ministry Website/Design Principles and Maintenance|Design Principles and Maintenance]]; decision records are in the [[00 Dashboard/Decision Log|Decision Log]].
 
-For material design changes, also record the problem and evidence, alternatives considered, choice and reason, implementation/review status, validation, and recovery reference. Follow [[12 Ministry Website/Design Principles and Maintenance#Recording Future Design Choices|Recording Future Design Choices]]; link governing DEC records when applicable. Pending rows remain plans until publication is verified. Documentation-only updates are not live-page changes.
+For material design changes, also record the problem and evidence, alternatives considered, choice and reason, implementation/review status, validation, and recovery reference. Follow [[07 Operations/Workflows/Website Publication and Maintenance#Recording Future Design Choices|Recording Future Design Choices]]; link governing DEC records when applicable. Pending rows remain plans until publication is verified. Documentation-only updates are not live-page changes.
 
 ## Journey
 

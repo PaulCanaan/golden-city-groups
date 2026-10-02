@@ -90,6 +90,6 @@ Developed from [[01 Governance/Theological Framework#Belonging|Theological Frame
 - [[Belonging, Beholding, Becoming]] — Shared formation framework.
 - [[Beholding]] — Attention to Christ that belonging makes possible.
 - [[Becoming]] — Formation that belonging and beholding produce together.
-- [[Hospitality]] — Practical hospitality guidance for group life.
+- [[07 Operations/Workflows/Hospitality]] — Practical hospitality guidance for group life.
 - [[Healthy Groups]] — Signs of health across ministry environments.
 - [[07 Operations/Metrics]] — Proposed belonging measures and their limits.

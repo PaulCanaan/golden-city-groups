@@ -8,6 +8,18 @@
 
 Prayer directs the group toward Christ, expresses dependence on the Holy Spirit, and enables members to bear one another's burdens within faithful pastoral boundaries.
 
+## Scope and Ownership
+
+**Owner:** approved leader within church boundaries. **Start:** prayer preparation or a group’s response to Scripture/shared life. **Finish:** prayer and any appropriate follow-up occur with consent and approved confidentiality/escalation boundaries.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Prepare | Pray for wisdom and explain voluntary participation. | People understand the invitation and boundaries. |
+| Pray | Use Christ-centered, Scripture-shaped prayer with consent. | No disclosure, diagnosis, secrecy, or outcome is pressured or promised. |
+| Follow up | Offer relational care and use the approved escalation path when needed. | Needs beyond the role are routed; sensitive records stay restricted. |
+
 ## Leader Practice
 
 - Pray for wisdom, humility, and each participant before the gathering.
@@ -39,5 +51,5 @@ The approved leader facilitates prayer within the church's boundaries. Practices
 
 - [[Leader Training]] — Includes prayer and escalation preparation.
 - [[Policies]] — Approved minimum confidentiality and safeguarding boundaries with implementation still developing.
-- [[Conflict]] — Prayer must not be used to avoid necessary repair or escalation.
-- [[Leader Support Check-In]] — Leaders also receive prayer and pastoral support.
+- [[07 Operations/Workflows/Conflict]] — Prayer must not be used to avoid necessary repair or escalation.
+- [[07 Operations/Workflows/Leader Support Check-In]] — Leaders also receive prayer and pastoral support.

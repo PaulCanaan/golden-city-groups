@@ -1,10 +1,10 @@
 # Participant Welcome and Groups Introduction
 
-From [[Operation Overview]] · Participant-facing companion to the [[Communication|Group Leader Communication Library]]
+From [[Operation Overview]] · Participant-facing companion to the [[10 Templates/Communication/Group Leader Communication Library|Group Leader Communication Library]]
 
 ## Document Status
 
-**Draft template pending confirmation of two items; not yet cleared to send.** This note holds the participant-facing welcome email sent when someone expresses interest in Groups Ministry on a Connection Card. It is participant communication, not leader communication. [[Communication|Communication]] remains canonical for everything in the Group Leader workflow; nothing here advances a person toward leadership.
+**Draft template pending confirmation of two items; not yet cleared to send.** This note holds the participant-facing welcome email sent when someone expresses interest in Groups Ministry on a Connection Card. It is participant communication, not leader communication. [[10 Templates/Communication/Group Leader Communication Library|Communication]] remains canonical for everything in the Group Leader workflow; nothing here advances a person toward leadership.
 
 Two things must be confirmed before this template is sent:
 
@@ -13,12 +13,16 @@ Two things must be confirmed before this template is sent:
 
 Serves [[00 Dashboard/Biweekly Review Queue|BWR-021]], which carries the 16 Launch Sunday connection-card responses and the unsent welcome emails.
 
+## Purpose and Ownership
+
+Welcome someone who expressed interest on the church-wide Connection Card, introduce Groups Ministry, and give one truthful next step. **Owner:** Groups Director; Paul is the sender. **Audience:** people interested in participating or leading; this message does not place or appoint them. Email is the channel; the template metadata below names its trigger and variables.
+
 ## Boundaries
 
 - The 16 Launch Sunday responses expressed interest in **participating**. Participation interest is not leader interest, appointment, or readiness. Do not send a Group Leader Conversation invitation on the strength of a Connection Card alone.
 - City Groups are **Blocked** and Collectives and Planted are **At Risk** in the September 21 review. This email may name the three branches and the confirmed October 4 Group Launch Day. It may not name a specific group, leader, host, time, location, or capacity until that offering has cleared its gates.
 - Record only aggregate, non-sensitive pipeline state. Names, contact details, card contents, and pastoral notes stay in the church-approved restricted system.
-- Church Center destinations remain untested under [[00 Dashboard/Biweekly Review Queue|BWR-009]]. Send a link only after the specific URL has passed the [[Forms#Pre-Publication Test|Pre-Publication Test]].
+- Church Center destinations remain untested under [[00 Dashboard/Biweekly Review Queue|BWR-009]]. Send a link only after the specific URL has passed the [[07 Operations/Workflows/Forms#Pre-Publication Test|Pre-Publication Test]].
 
 ## Email — Groups Welcome and Introduction
 
@@ -74,7 +78,7 @@ Include only when the person's Connection Card actually indicated interest in le
 
 > You also mentioned being curious about leading or hosting a group. I'd love to talk about that. It starts with filling out the Lead a Group form and then grabbing coffee so I can hear your story and we can discern the right next step together — nothing decided in advance, just a conversation.
 
-Anyone who responds enters at [[Communication#Step 0 — Interest Submitted|Step 0 — Interest Submitted]] through the approved `Lead a Group` form, not through this email. For Fall 2026, initial City Group leadership remains within the Launch Team boundary in DEC-018.
+Anyone who responds enters at [[10 Templates/Communication/Group Leader Communication Library#Step 0 — Interest Submitted|Step 0 — Interest Submitted]] through the approved `Lead a Group` form, not through this email. For Fall 2026, initial City Group leadership remains within the Launch Team boundary in DEC-018.
 
 ## Before Sending
 
@@ -87,9 +91,9 @@ Anyone who responds enters at [[Communication#Step 0 — Interest Submitted|Step
 
 ## Connections
 
-- [[Communication]] — Canonical Group Leader communication; participation interest does not enter that workflow.
-- [[Planted Introduction Email]] — Participant response for Planted join requests.
-- [[Forms]] — Intake paths, the minimum data principle, and the pre-publication test.
+- [[10 Templates/Communication/Group Leader Communication Library]] — Canonical Group Leader communication; participation interest does not enter that workflow.
+- [[10 Templates/Communication/Planted Introduction Email]] — Participant response for Planted join requests.
+- [[07 Operations/Workflows/Forms]] — Intake paths, the minimum data principle, and the pre-publication test.
 - [[02 Group Philosophy/Formation Framework/Belonging, Beholding, Becoming#Introducing the Framework Publicly|Formation Framework]] — Source of the approved public introduction.
 - [[01 Governance/Ministry Model]] — Governing branch purposes confirmed in DEC-047.
 - [[00 Dashboard/Biweekly Review Queue|BWR-021]] — The 16 Launch Sunday responses and unsent welcome emails.

@@ -8,6 +8,18 @@
 
 Help a prepared leader begin with warmth, clarity, prayer, Scripture, and dependable follow-through rather than improvising important responsibilities.
 
+## Scope and Ownership
+
+**Owner:** approved group leader, supported by Paul or the assigned ministry leader. **Start:** an offering has the required leadership, location, safeguards, and final readiness approval. **Finish:** the first gathering occurred, attendance and follow-up are handled, and the next step is clear.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Before | Prepare approved details, environment, content, communication, and safeguards. | Required arrangements and reminders are ready. |
+| During | Welcome, facilitate, pray, and clarify next steps. | The gathering occurs within its approved purpose and boundaries. |
+| After | Record actual attendance and route follow-up. | Operational corrections and care needs have the appropriate next action. |
+
 ## Before the First Meeting
 
 - [ ] Pray for each known participant and for the Spirit's wisdom.
@@ -52,10 +64,10 @@ The approved group leader owns this checklist with support from Paul or the assi
 
 ## Connections
 
-- [[07 Operations/Planning & Communication/Communication#Step 4 — Small Group Launched|Group Leader Communication Library — Launch]] — Canonical pre-launch encouragement and first-gathering check-in.
-- [[Hospitality]] — Welcoming and participatory practices.
-- [[Bible Study]] — Sermon-based discussion preparation.
-- [[Prayer]] — Prayer and confidentiality boundaries.
-- [[Conflict]] — Redirection, repair, and escalation.
-- [[Attendance]] — Post-meeting recordkeeping.
-- [[Launch Checklist]] — Governs offering readiness.
+- [[10 Templates/Communication/Group Leader Communication Library#Step 4 — Small Group Launched|Group Leader Communication Library — Launch]] — Canonical pre-launch encouragement and first-gathering check-in.
+- [[07 Operations/Workflows/Hospitality]] — Welcoming and participatory practices.
+- [[07 Operations/Workflows/Bible Study]] — Sermon-based discussion preparation.
+- [[07 Operations/Workflows/Prayer]] — Prayer and confidentiality boundaries.
+- [[07 Operations/Workflows/Conflict]] — Redirection, repair, and escalation.
+- [[07 Operations/Workflows/Attendance]] — Post-meeting recordkeeping.
+- [[07 Operations/Workflows/Launch Checklist]] — Governs offering readiness.

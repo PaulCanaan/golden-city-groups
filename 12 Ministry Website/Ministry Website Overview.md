@@ -15,7 +15,7 @@ The public Groups page at **https://www.goldencity.church/groups**, built on Squ
 | Page owner and implementer | Paul | [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership\|DEC-037]] |
 | Review of material changes | Russ approved Paul to make the changes, including the Open Groups section, and does a quick review before Group Launch Sunday | DEC-037 implementation update, October 1, 2026 |
 | Final readiness of any listed offering | Russ, or a pastor he designates | [[08 Archive/Decisions/Decision History#DEC-021 — Ministry Authority and Final Readiness Approval\|DEC-021]] |
-| Group and enrollment records the page links to | Planning Center (system of record) | [[07 Operations/Planning Center Groups\|Planning Center Groups]] |
+| Group and enrollment records the page links to | Planning Center (system of record) | [[07 Operations/Workflows/Planning Center Groups\|Planning Center Groups]] |
 
 ## Publication Rules
 
@@ -25,7 +25,7 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 - **Rough locations only.** Never publish an address or detailed location; show an area such as "North Thornton." Leaders share details privately with people who join (DEC-051, DEC-059).
 - **Branch language.** City Groups: life together. Collectives: shared encouragement. Bible Club: rooted in Scripture (DEC-047). The page keeps the name **Bible Club**. Russ confirms this and the Belonging, Beholding, Becoming introduction (DEC-049) for public use (BWR-020).
 - **Internal language stays internal.** The fellowship/discipleship ratios never appear publicly (DEC-053).
-- **Working links only.** Every join button, QR destination, and Planning Center link goes to a tested destination (BWR-009, [[07 Operations/Forms#Pre-Publication Test|Pre-Publication Test]]).
+- **Working links only.** Every join button, QR destination, and Planning Center link goes to a tested destination (BWR-009, [[07 Operations/Workflows/Forms#Pre-Publication Test|Pre-Publication Test]]).
 - **Groups come through Group Launch Readiness.** City Groups appear in Open Groups only after their leader is ready to lead and the profile is built (DEC-059).
 
 ## In This Folder
@@ -49,6 +49,6 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 
 ## Connections
 
-- [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] — where Open Groups profiles come from.
-- [[07 Operations/Planning & Communication/Communication|Communication]] — public and website accuracy guidance.
+- [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] — where Open Groups profiles come from.
+- [[10 Templates/Communication/Group Leader Communication Library|Communication]] — public and website accuracy guidance.
 - [[00 Dashboard/Launch Readiness Dashboard#H. Website and Public Communication|Launch Readiness — Website and Public Communication]] — readiness status for website work.

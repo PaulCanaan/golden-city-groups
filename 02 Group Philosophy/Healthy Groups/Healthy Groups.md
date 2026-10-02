@@ -40,7 +40,7 @@ A public listing, full roster, completed curriculum, or high attendance does not
 
 ## Source Note
 
-Developed from [[01 Governance/Launch Roadmap#Launch Readiness Gates|Launch Readiness Gates]], [[07 Operations/Metrics|Metrics]], [[Leader Support Check-In]], and the GCC adaptations summarized in [[Highlands Resource Adaptation]].
+Developed from [[01 Governance/Launch Roadmap#Launch Readiness Gates|Launch Readiness Gates]], [[07 Operations/Metrics|Metrics]], [[07 Operations/Workflows/Leader Support Check-In]], and the GCC adaptations summarized in [[Highlands Resource Adaptation]].
 
 ## Connections
 
@@ -51,4 +51,4 @@ Developed from [[01 Governance/Launch Roadmap#Launch Readiness Gates|Launch Read
 - [[Emotional Bypass vs. Spiritual Bypass]] — The two drifts, and the test that distinguishes drift from purpose.
 - [[Build to Last]] — Foundations laid early and tested later.
 - [[Leadership Philosophy]] — Stewardship of people.
-- [[Launch Checklist]] — Required offering-readiness review.
+- [[07 Operations/Workflows/Launch Checklist]] — Required offering-readiness review.

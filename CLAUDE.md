@@ -65,7 +65,7 @@ Inbox (capture) → Biweekly Review Queue (consequential unfinished work)
 ```
 
 - [Inbox](00%20Dashboard/Inbox.md) is temporary capture. File clarified items to their permanent home; never treat raw notes as approved direction.
-- [Biweekly Ministry Review](07%20Operations/Biweekly%20Ministry%20Review.md) is the canonical procedure. Reports land at `09 Reports/Biweekly Reviews/YYYY-MM-DD Groups Ministry Biweekly Review.md`.
+- [Biweekly Ministry Review](07%20Operations/Workflows/Biweekly%20Ministry%20Review.md) is the canonical procedure. Reports land at `09 Reports/Biweekly Reviews/YYYY-MM-DD Groups Ministry Biweekly Review.md`.
 - Queue items carry owner, status, dependency, priority, next action, next review date.
 - Decisions get the next `DEC-###` in the Decision Log **and** a full record in Decision History. Proposals under discussion use `PRO-###` in the Staff Decision Brief. A PRO becomes a DEC only after recorded staff or pastoral direction with source, date, and approver.
 - Governance Index and Open Decisions are navigation aids. They never become decision records.
@@ -87,6 +87,8 @@ Planning Center remains operationally authoritative for group and people records
 **Obsidian.** Numbered top-level folders (`00`–`12`) are the vault's spine; keep new material inside the existing structure. Internal links are `[[Wikilinks]]` inside vault documents; `README.md` and `CONTRIBUTING.md` use relative Markdown links with `%20` escapes for GitHub. `.canvas` files are Obsidian canvases. `.base` files are Obsidian Bases — YAML defining filters, formulas, properties, and table views over note frontmatter; they cross-reference notes by `record_type`, folder, and backlinks, so changing a record's frontmatter changes what the Bases show.
 
 **Records.** New group and leader records come from `10 Templates/Records/`. Frontmatter drives everything: groups use `record_type: group` with `branch`, `group_status`, `semester`, `current_semester`, `leaders`; leaders use `record_type: group-leader` with `workflow_stage` (`Welcome email / call` → `Interviewed` → `Attended Training` → `Small Group Launched`). Leader–group assignment lives in the group's `leaders` property, not in a label on the leader note.
+
+**Workflow and template homes.** Active procedures live in `07 Operations/Workflows/` and reusable bodies/structures in `10 Templates/`; start from their overview notes. Keep subject pages as context and links, without parallel procedures or template copies.
 
 **Documents.** Most substantive pages open with a `## Document Status` block stating what is confirmed and what is not — preserve and update it. Use ISO dates (`YYYY-MM-DD`) in operational records and status labels (`Draft`, `Under Review`, `Approved`, `Archived`). Link to governing material instead of restating it.
 

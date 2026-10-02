@@ -10,15 +10,7 @@ When a group chooses to use it, help people carry the weekend message into share
 
 ## Suggested Shape
 
-A concise weekly recap may include:
-
-1. The weekend message title, primary text, and central emphasis.
-2. A short reminder of the main movement or claim without reproducing the sermon.
-3. Two or three open questions that help people observe, interpret, and discuss.
-4. One question that connects the message to ordinary life, relationships, service, or witness.
-5. One prayer prompt.
-
-The guide should serve community, pastoral connection, prayer, and faithful application. It should invite conversation rather than test recall, require prior study, or turn the leader into a lecturer.
+Use [[10 Templates/Gatherings/Weekly Recap|Weekly Recap]] for the concise suggested structure. It is optional, supports conversation rather than testing recall, and remains distinct from an administrative leader report.
 
 ## Leader Use
 
@@ -37,11 +29,11 @@ Do not record participant names, identifiable prayer requests, counseling notes,
 - **Content:** check-in questions and discussion questions from the weekend message (DEC-055).
 - Set a reliable delivery day and channel before the first City Groups meet (BWR-030).
 - Confirm the review process and format.
-- Coordinate with the preaching calendar and [[Communication]].
+- Coordinate with the preaching calendar and [[10 Templates/Communication/Group Leader Communication Library]].
 
 ## Connections
 
 - [[City Groups Overview]] — Establishes the City Group purpose and setting.
-- [[Bible Study]] — Provides facilitation guidance for attending to Scripture, beholding Christ, and responding faithfully.
+- [[07 Operations/Workflows/Bible Study]] — Provides facilitation guidance for attending to Scripture, beholding Christ, and responding faithfully.
 - [[05 Leadership/Group Leaders]] — Approved leaders facilitate the recap without turning the gathering into a class.
-- [[Communication]] — Governs delivery channels and schedule changes.
+- [[10 Templates/Communication/Group Leader Communication Library]] — Governs delivery channels and schedule changes.

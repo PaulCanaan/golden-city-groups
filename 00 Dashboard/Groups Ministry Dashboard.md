@@ -10,7 +10,7 @@
 
 - [[00 Dashboard/Inbox|Inbox]] — capture and triage unclassified ministry information.
 - [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] — carry unresolved operational work between first/third-Monday reviews.
-- [[07 Operations/Biweekly Ministry Review|Biweekly Ministry Review]] — run the sole recurring review loop, process the Inbox, reconcile active sources, and produce the dated report.
+- [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]] — run the sole recurring review loop, process the Inbox, reconcile active sources, and produce the dated report.
 - [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] — control Fall 2026 City Groups and Planted implementation, blockers, ownership, and risk.
 - [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]] — prepare matters requiring staff discussion.
 - [[00 Dashboard/Decision Log|Decision Log]] — consult the canonical chronological register.
@@ -20,8 +20,8 @@
 - [[01 Governance/Safeguarding and Escalation Decision Brief|Safeguarding and Escalation Decision Brief]] — review launch-blocking safety, care, escalation, and data questions with Russ.
 - [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — view the ministry system and its connections.
 - [[12 Ministry Website/Ministry Website Overview|Ministry Website]] — the public Groups page: rules, page record, corrections, design, and Development Journey.
-- [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] — workflow from a ready leader's City Group Profile to a published group and Launch Sunday table card.
-- [[07 Operations/Group Launches/Group Launch MOC.canvas|Group Launch MOC]] — see the October 4 Group Launch on one canvas: decisions, leader pipeline, Launch Sunday, offerings, readiness gates, and after-launch support.
+- [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] — workflow from a ready leader's City Group Profile to a published group and Launch Sunday table card.
+- [[07 Operations/Workflows/Group Launch MOC.canvas|Group Launch MOC]] — see the October 4 Group Launch on one canvas: decisions, leader pipeline, Launch Sunday, offerings, readiness gates, and after-launch support.
 
 The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biweekly Ministry Review performs first/third-Monday reconciliation; this Dashboard reports current priorities and readiness. None approves policy or replaces a decision record.
 
@@ -56,7 +56,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 ## Next Actions
 
 - Set up the Planning Center automation and send welcome emails to everyone who expressed Groups interest on the Connection Card, leading or participating; invite only those with leadership interest to a Group Leader Conversation. Store no participant details here.
-- Run the [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] workflow: send the City Group Profile form to ready leaders, build and assign Planning Center groups, publish the Open Groups webpage section, and prepare the lobby table cards (time, rough location, QR code) (BWR-028, DEC-059). Russ does a quick webpage review before October 4. Addresses go only privately to people who join.
+- Run the [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] workflow: send the City Group Profile form to ready leaders, build and assign Planning Center groups, publish the Open Groups webpage section, and prepare the lobby table cards (time, rough location, QR code) (BWR-028, DEC-059). Russ does a quick webpage review before October 4. Addresses go only privately to people who join.
 - Prepare additional leaders and hosts to be ready by the October 4 Group Launch Day, and communicate the DEC-052 expectations to City Group leaders.
 - Build Men's and Women's Collectives with Russ, Miranda, Conner, and Rachel, and record the meeting outcome.
 - Russ and Conner, with Miranda and Rachel: prepare the Galatians course materials (BWR-029). Russ and Paul: start the Weekly Recap (BWR-030).
@@ -72,7 +72,7 @@ Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboa
 
 ## Approved Group Leader Workflow
 
-DEC-042 governs both intake triggers and the four Planning Center stages through actual launch. Paul reported the workflow and documented email automations configured on August 28; the existing conversation-question resource is linked from [[07 Operations/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]]. Configuration does not prove that any person has completed a stage or that an offering is ready.
+DEC-042 governs both intake triggers and the four Planning Center stages through actual launch. Paul reported the workflow and documented email automations configured on August 28; the existing conversation-question resource is linked from [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]]. Configuration does not prove that any person has completed a stage or that an offering is ready.
 
 ## Decisions for Russ and Staff
 

@@ -61,16 +61,16 @@ Each practice was evaluated against:
 ## Resulting GCC Resources
 
 - [[Leader Training]] — proposed launch curriculum framework
-- [[Leader Conversation Guide]] — Launch Team discernment conversation tool
-- [[First Meetings Checklist]] — practical readiness for a group's first gatherings
-- [[Leader Support Check-In]] — relational support usable without a formal coaching layer
-- [[Hospitality]] — welcoming and participatory group practice
-- [[Bible Study]] — sermon-based Scripture discussion
-- [[Prayer]] — prayer practice with pastoral boundaries
-- [[Conflict]] — healthy discussion, repair, and escalation
+- [[07 Operations/Workflows/Leader Conversation Guide]] — Launch Team discernment conversation tool
+- [[07 Operations/Workflows/First Meetings Checklist]] — practical readiness for a group's first gatherings
+- [[07 Operations/Workflows/Leader Support Check-In]] — relational support usable without a formal coaching layer
+- [[07 Operations/Workflows/Hospitality]] — welcoming and participatory group practice
+- [[07 Operations/Workflows/Bible Study]] — sermon-based Scripture discussion
+- [[07 Operations/Workflows/Prayer]] — prayer practice with pastoral boundaries
+- [[07 Operations/Workflows/Conflict]] — healthy discussion, repair, and escalation
 - [[Discipleship]] — relational next steps through Belonging, Beholding, and Becoming
 - [[Policies]] — approved minimum boundaries with church-wide policy implementation still open
-- [[Icebreakers]] — low-pressure conversation prompts
+- [[10 Templates/Gatherings/Icebreakers]] — low-pressure conversation prompts
 - [[CoJourner]] — approved GCC leader-development pathway
 
 ## Freedom Groups Boundary

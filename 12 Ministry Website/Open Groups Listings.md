@@ -8,7 +8,7 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 
 ## Who Is Listed
 
-- **City Groups** that have completed [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]]: the leader is ready to lead, the City Group Profile is submitted and reviewed, and the Planning Center group is built.
+- **City Groups** that have completed [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]]: the leader is ready to lead, the City Group Profile is submitted and reviewed, and the Planning Center group is built.
 - **Men's Collective, Women's Collective, and *Planted.*,** whose profiles Paul prepares with their leaders.
 
 A group still under discussion, such as Run Club or a Young Adults City Group, is not listed until it comes through the same workflow.
@@ -37,5 +37,5 @@ The internal "Anything else we should know?" field is never published.
 
 ## Connections
 
-- [[07 Operations/Group Launches/Group Launch Readiness#Field use|City Group Profile field use]] — how each form field maps to the listing.
-- [[07 Operations/Planning Center Groups|Planning Center Groups]] — the groups each listing links to.
+- [[07 Operations/Workflows/Group Launch Readiness#Field use|City Group Profile field use]] — how each form field maps to the listing.
+- [[07 Operations/Workflows/Planning Center Groups|Planning Center Groups]] — the groups each listing links to.

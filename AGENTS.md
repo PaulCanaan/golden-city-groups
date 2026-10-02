@@ -39,7 +39,7 @@ When preparing or reviewing staff decisions, also read `00 Dashboard/Staff Decis
 ## Operational Pages
 
 - `00 Dashboard/Inbox.md` is temporary capture and triage. File clarified items in their permanent location; do not treat raw notes as approved direction or leave resolved items there.
-- `07 Operations/Biweekly Ministry Review.md` is the sole recurring review workflow. Use its queue-based first/third-Monday process to reconcile the Inbox, active documents, decisions, events, readiness, and next actions; do not create a parallel review cadence.
+- `07 Operations/Workflows/Biweekly Ministry Review.md` is the sole recurring review workflow. Use its queue-based first/third-Monday process to reconcile the Inbox, active documents, decisions, events, readiness, and next actions; do not create a parallel review cadence.
 - Biweekly Review checkboxes record that a review step was inspected and reconciled; they never establish ministry-task completion, readiness, appointment, or approval.
 - `00 Dashboard/Groups Ministry Dashboard.md` reports current priorities, readiness, and operational status.
 - `00 Dashboard/Staff Decision Brief.md` prepares matters requiring staff discussion or direction.
@@ -47,6 +47,13 @@ When preparing or reviewing staff decisions, also read `00 Dashboard/Staff Decis
 - `00 Dashboard/Governance Index.md` provides thematic navigation and never replaces the Decision Log or Decision History.
 - `00 Dashboard/Open Decisions.md` organizes unresolved governance questions without approving them.
 - Keep confidential pastoral, safeguarding, screening, and participant information out of broadly accessible operational pages.
+
+## Workflow and Template Homes
+
+- Active operating procedures live in `07 Operations/Workflows/`; use `Workflows Overview.md` for navigation.
+- Reusable message bodies, conversation prompts, gathering shapes, blank records, and report structures live in `10 Templates/`; use `Templates Overview.md` for navigation.
+- Operational and subject pages link to those canonical homes rather than duplicate them. Policy, curriculum, roles, calendars, dashboards, and historical evidence retain their own responsibilities.
+- Reorganization and formatting never establish approval, readiness, appointments, or a new review cadence.
 
 ## Content Standards
 

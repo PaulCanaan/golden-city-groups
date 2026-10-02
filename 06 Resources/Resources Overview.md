@@ -14,12 +14,12 @@ Make the right resource easy to find without copying the same material into mini
 
 Practical resources for hospitable, Scripture-centered, prayerful, and formative gatherings:
 
-- [[Hospitality]] — prepare an environment where people can belong and participate
-- [[Bible Study]] — facilitate sermon-based Scripture discussion without turning the group into a lecture
-- [[Prayer]] — guide prayer with appropriate confidentiality and escalation
+- [[07 Operations/Workflows/Hospitality]] — prepare an environment where people can belong and participate
+- [[07 Operations/Workflows/Bible Study]] — facilitate sermon-based Scripture discussion without turning the group into a lecture
+- [[07 Operations/Workflows/Prayer]] — guide prayer with appropriate confidentiality and escalation
 - [[Discipleship]] — notice relational next steps through Belonging, Beholding, and Becoming
-- [[Conflict]] — respond to difficult conversations and know when to escalate
-- [[Icebreakers]] — optional, low-pressure conversation prompts
+- [[07 Operations/Workflows/Conflict]] — respond to difficult conversations and know when to escalate
+- [[10 Templates/Gatherings/Icebreakers]] — optional, low-pressure conversation prompts
 - [[Weekly Recaps]] — optional weekend-message discussion resource for City Groups
 - [[Prayer Requests]] — privacy-conscious prayer-request guidance and escalation boundaries
 
@@ -27,11 +27,11 @@ Practical resources for hospitable, Scripture-centered, prayerful, and formative
 
 Resources for discerning, preparing, and supporting approved leaders:
 
-- [[Leader Conversation Guide]] — proposed Launch Team discernment conversation
+- [[07 Operations/Workflows/Leader Conversation Guide]] — proposed Launch Team discernment conversation
 - [[Leader Training]] — proposed curriculum for discerned and invited candidates
 - [[CoJourner]] — approved four-session pathway for ongoing leader development
-- [[First Meetings Checklist]] — preparation before, during, and after a group's first gatherings
-- [[Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
+- [[07 Operations/Workflows/First Meetings Checklist]] — preparation before, during, and after a group's first gatherings
+- [[07 Operations/Workflows/Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
 - [[Collective Leader Guide]] — draft role companion for Men's and Women's Collective leaders; starting point for the Men's and Women's Collective Guide (DEC-063)
 - **City Group Guide** — to be developed under DEC-063 (BWR-033)
 - [[06 Resources/Leader Development/Group Leader Policies — Draft for Pastoral Review|Group Leader Policies — Draft for Pastoral Review]] — draft policies for common group situations, awaiting Russ's review before they enter the guides
@@ -68,13 +68,14 @@ Future biblical, systematic, or applied theology libraries should be created onl
 
 ### Operations
 
-Operational resources remain under Operations because they govern repeatable ministry processes:
+Practical procedures now live together in [[07 Operations/Workflows/Workflows Overview|Workflows]]. Reusable messages and prompts live in [[10 Templates/Templates Overview|Templates]]. Curriculum, formation context, and policy resources retain their source homes:
 
-- [[Planning Center Groups]] — platform reference and end-to-end group administration
-- [[Forms]] — leader-interest and participant-intake procedures
-- [[Attendance]] — attendance practice and pastoral boundaries
-- [[Launch Checklist]] — readiness gates before an offering opens
-- [[Communication]] — canonical Group Leader communication library and related ministry communication guidance
+- [[07 Operations/Workflows/Planning Center Groups]] — platform reference and end-to-end group administration
+- [[07 Operations/Workflows/Forms]] — leader-interest and participant-intake procedures
+- [[07 Operations/Workflows/Attendance]] — attendance practice and pastoral boundaries
+- [[07 Operations/Workflows/Launch Checklist]] — readiness gates before an offering opens
+- [[10 Templates/Communication/Group Leader Communication Library]] — canonical Group Leader message bodies
+- [[07 Operations/Workflows/Ministry Communication Workflow]] — channel and sending guidance
 - [[07 Operations/Metrics]] — formation-aware evaluation
 
 ### External Adaptations
@@ -87,19 +88,19 @@ Original external source files remain outside this repository. Golden City resou
 
 | I need to… | Start here |
 |---|---|
-| prepare a prospective leader conversation | [[Leader Conversation Guide]] |
+| prepare a prospective leader conversation | [[07 Operations/Workflows/Leader Conversation Guide]] |
 | train an approved leader for a role | [[Leader Training]] |
 | develop leaders over time | [[CoJourner]] |
 | research a leader SOP | [[Resources Overview#Leader Resources and SOP Research Roadmap\|Leader Resources and SOP Research Roadmap]] |
 | review safeguarding and escalation gaps | [[Safeguarding and Escalation Resource Gap Audit]] |
-| prepare a new group's first gathering | [[First Meetings Checklist]] |
-| lead sermon-based discussion | [[Bible Study]] |
-| strengthen welcome and participation | [[Hospitality]] |
-| guide prayer safely | [[Prayer]] |
-| respond to conflict or a care concern | [[Conflict]] and [[Policies]] |
-| support a leader after launch | [[Leader Support Check-In]] |
-| administer a group in Church Center | [[Planning Center Groups]] |
-| launch or close an offering | [[Launch Checklist]] and [[Operation Overview]] |
+| prepare a new group's first gathering | [[07 Operations/Workflows/First Meetings Checklist]] |
+| lead sermon-based discussion | [[07 Operations/Workflows/Bible Study]] |
+| strengthen welcome and participation | [[07 Operations/Workflows/Hospitality]] |
+| guide prayer safely | [[07 Operations/Workflows/Prayer]] |
+| respond to conflict or a care concern | [[07 Operations/Workflows/Conflict]] and [[Policies]] |
+| support a leader after launch | [[07 Operations/Workflows/Leader Support Check-In]] |
+| administer a group in Church Center | [[07 Operations/Workflows/Planning Center Groups]] |
+| launch or close an offering | [[07 Operations/Workflows/Launch Checklist]] and [[Operation Overview]] |
 | teach or review a class | [[Curriculum Overview]] |
 | understand an external adaptation | [[Highlands Resource Adaptation]] |
 

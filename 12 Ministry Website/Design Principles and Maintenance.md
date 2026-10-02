@@ -41,58 +41,24 @@ This is a concise design history, not a second DEC register. Original research a
 - **Branch naming:** the public page keeps **Bible Club** (Paul's direction, October 1, 2026), while the vault records the branch as Bible Clubs (DEC-034). Purpose language confirmation for public use remains in BWR-020.
 - **Gold is a local treatment:** `#A99643` is the project's working gold. The September 15 audit found the global Squarespace `accent` token was approximately `#DCDCDC`; changing it to gold would affect the whole site. Gold buttons with dark text are a Groups adaptation. Check contrast rather than using gold for every small label.
 - **Photography is not proof of church attendance:** the mockup and installed snapshot reuse a stock-origin table image. Prefer an approved photo of real Golden City community when available, but do not describe illustrative imagery as a verified Golden City gathering.
-- **Old logistics stay historical:** do not reuse the build snapshot's schedules, addresses, group availability, or draft classifications as current copy. The [[12 Ministry Website/Groups Page#Needs Correcting|page correction record]] and existing queue carry those changes.
+- **Old logistics stay historical:** do not reuse the build snapshot's schedules, addresses, group availability, or draft classifications as current copy. The [[12 Ministry Website/Groups Page#Remaining Before Launch Review|page correction record]] and existing queue carry those changes.
 - **Old backlog items are unverified:** the earlier broken Custom CSS finding has no completion evidence in the reviewed build records. Inspect whether it still exists before treating it as current work; preserve a copy before editing site-wide CSS.
 
 ## Editing and Recovery
 
-**Recorded installation: September 19, 2026.** Verify these identifiers and the code block still match the page before applying them. The original build source remains in the website project; this migration does not move it or make its historical copy current.
-
-| Item | Recorded location |
-|---|---|
-| Page | Squarespace **Pages → Connect → Groups → Edit**, page ID `6a60d8adbe9fc61fc3e156c1` |
-| Installed component | Code block in section `6aaed596f92e6e235874ecb3`; Layers → Code → Content |
-| Code block ID | `block-yui_3_17_2_1_1789840878837_33216` |
-| Component scope | `#gc-groups`; structural CSS also targets specific section and block IDs |
-| Navigation anchors | `#find`, `#city-groups`, `#collectives`, `#bible-club`, `#lead`, `#questions` |
-| Recorded pre-build backup | **Groups Backup 2026-09-19**, under **Not Linked**, disabled, slug `groups-1` |
-
-Before editing, save a dated copy of the installed code or duplicate the current page as a disabled backup. Change the visible code block rather than the hidden native sections. If section/block IDs change, verify the targeted hiding and layout rules still apply correctly.
-
-The recorded full-reversal method is to replace the code block with its original `<div id="city-groups"></div>` content and save. This removes the replacement layout and its hiding rules, revealing the retained native sections. **Those sections and the September backup may contain obsolete public details.** Review and correct content before using either as a public recovery page. For routine recovery, prefer the most recent known-good copy of the current component.
-
-Preserve the interaction fixes unless a tested replacement covers them: the find/lead links stop Squarespace's click propagation from overriding their anchors; header clearance uses `--header-height`; entrance-animation overrides inside the component keep expanded text visible. Retest these behaviors after layout or platform changes.
-
-**Future option:** recreate the layout with native sections if the code block becomes a recurring obstacle for staff. Preserve the participant routes and accessibility, verify equivalent behavior, and remove obsolete hiding rules as part of that migration. There is no recorded requirement to rebuild it now.
+Use [[07 Operations/Workflows/Website Publication and Maintenance#Editing and Recovery|Website Publication and Maintenance]] for installed identifiers, backups, editing, and recovery. Historical identifiers and copies still require verification before use.
 
 ## Maintenance Within the Existing Review
 
-Paul owns updates under DEC-037. Use [[07 Operations/Biweekly Ministry Review|Biweekly Ministry Review]] and its existing queue; this does not create a second maintenance cadence. A known wrong schedule, exposed address, or broken join route should be corrected promptly within Paul's authority rather than waiting for the next review.
-
-| Trigger | Maintenance action |
-|---|---|
-| Regular biweekly review | Reconcile meaningful website changes, offering availability, dated announcements, and participant-path evidence with the OS and Planning Center. Carry unresolved consequential work in the existing queue. Do not infer live verification from a repository-only check. |
-| New profile, changed rhythm, closure, or full group | Follow [[12 Ministry Website/Open Groups Listings|Open Groups Listings]]; update Planning Center and reconcile any manually displayed profile text. A Church Center list can update dynamically, but copied Squarespace details cannot. |
-| Semester refresh | Refresh listings from reviewed City Group Profiles, remove expired dates and obsolete invitations, and verify destinations for the new offerings. |
-| Material content or design change | Save a recovery copy, test the affected visitor paths and layout, update the page record, and record the change and review in the Development Journey. Use the review path recorded in DEC-037; future review arrangements beyond its pre-launch quick review must be recorded rather than assumed. |
-| Parent-site redesign or Squarespace behavior change | Recheck visual alignment, component selectors, header clearance, disclosures, and shared navigation before changing global styles. |
-| Repeated participant or maintenance difficulty | Record the actual problem and evaluate the smallest improvement. A finder, new tool, or native-section rebuild remains a proposal until justified and authorized within the relevant authority. |
+Follow [[07 Operations/Workflows/Website Publication and Maintenance#Maintenance Within the Existing Review|the maintenance procedure]] within the existing Biweekly Ministry Review.
 
 ### Before Publishing a Material Change
 
-- [ ] Compare copy with current governing direction and reviewed profiles; distinguish active, upcoming, and future offerings, and follow rough-location and internal-field rules.
-- [ ] Open every affected join, lead, contact, and QR destination; verify the intended offering, enrollment state, and follow-up path using [[07 Operations/Forms#Pre-Publication Test|Pre-Publication Test]]. A successful page response alone is insufficient.
-- [ ] Check desktop and narrow phone layouts (the original publication checked 390px and 320px): no horizontal overflow, legible copy, reachable actions, and working shared navigation.
-- [ ] Check affected disclosures, FAQs, keyboard focus, find/lead anchors, and header clearance. Confirm useful image text and contrast; check text enlargement and reduced motion when styling changes.
-- [ ] Confirm the recovery copy and any applicable review. After saving, inspect the public result and record only what was actually verified.
-
-These checks record publication work; they do not grant ministry approval or establish offering readiness.
+Use [[07 Operations/Workflows/Website Publication and Maintenance#Before Publishing a Material Change|the publication checks]]. They record verification, not ministry approval.
 
 ## Recording Future Design Choices
 
-For a material design change, add a brief rationale to [[12 Ministry Website/Development Journey|Development Journey]]: **problem and evidence → alternatives considered → choice and reason → implementation/review status → validation and recovery reference**. One or two sentences are enough for a simple change. Label proposed work as pending; record publication only once it occurs.
-
-If the choice changes ministry purpose, offerings, leadership authority, public theological claims, or another matter requiring pastoral direction, use the existing [[00 Dashboard/Decision Log#Decision Workflow|Decision Workflow]] and link its DEC record. Keep unresolved implementation in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]], not in a new design backlog. A Development Journey entry does not approve a ministry decision.
+Follow [[07 Operations/Workflows/Website Publication and Maintenance#Recording Future Design Choices|Recording Future Design Choices]]; the Development Journey remains the actual change record.
 
 ## Source References
 

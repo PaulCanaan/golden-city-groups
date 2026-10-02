@@ -26,7 +26,7 @@ Start with the Overview. It is the shortest path to the rules that apply to ever
 
 **List a new group**
 
-A City Group is listed after its leader is ready to lead and its profile is built through [Group Launch Readiness](../07%20Operations/Group%20Launches/Group%20Launch%20Readiness.md). Then follow [Open Groups Listings](Open%20Groups%20Listings.md). Planning Center stays the record of the group; the page only introduces it.
+A City Group is listed after its leader is ready to lead and its profile is built through [Group Launch Readiness](../07%20Operations/Workflows/Group%20Launch%20Readiness.md). Then follow [Open Groups Listings](Open%20Groups%20Listings.md). Planning Center stays the record of the group; the page only introduces it.
 
 **Change layout or code**
 
@@ -51,8 +51,8 @@ A wrong schedule, an exposed address, or a broken join link should be corrected 
 | Why a rule exists | [Decision Log](../00%20Dashboard/Decision%20Log.md): DEC-037 (ownership), DEC-047 (branch language), DEC-049 (public formation language), DEC-050 (the rebuilt page), DEC-051 (rough locations), DEC-059 (Open Groups) |
 | Whether a group is ready to list | [Launch Readiness Dashboard](../00%20Dashboard/Launch%20Readiness%20Dashboard.md) |
 | What is waiting to be corrected | [Biweekly Review Queue](../00%20Dashboard/Biweekly%20Review%20Queue.md): BWR-009, BWR-020, BWR-024 through BWR-028 |
-| How the page is reviewed over time | [Biweekly Ministry Review](../07%20Operations/Biweekly%20Ministry%20Review.md). There is no separate website review cadence |
-| Group and enrollment records the page links to | [Planning Center Groups](../07%20Operations/Planning%20Center%20Groups.md) |
+| How the page is reviewed over time | [Biweekly Ministry Review](../07%20Operations/Workflows/Biweekly%20Ministry%20Review.md). There is no separate website review cadence |
+| Group and enrollment records the page links to | [Planning Center Groups](../07%20Operations/Workflows/Planning%20Center%20Groups.md) |
 | The wider vault | [Home](../Home.md) and the [root README](../README.md) |
 
 ## Source Material Outside the Vault

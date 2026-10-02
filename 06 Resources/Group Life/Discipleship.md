@@ -49,11 +49,11 @@ For fall 2026, initial City Group leaders come from the Launch Team through the 
 
 ## Resources
 
-- [[Bible Study]]
-- [[Prayer]]
-- [[Hospitality]]
-- [[Conflict]]
-- [[Leader Support Check-In]]
+- [[07 Operations/Workflows/Bible Study]]
+- [[07 Operations/Workflows/Prayer]]
+- [[07 Operations/Workflows/Hospitality]]
+- [[07 Operations/Workflows/Conflict]]
+- [[07 Operations/Workflows/Leader Support Check-In]]
 
 ## Metrics
 

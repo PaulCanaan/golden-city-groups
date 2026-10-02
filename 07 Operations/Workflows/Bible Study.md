@@ -10,6 +10,18 @@ Help participants behold Christ through Scripture and respond together in worshi
 
 For City Groups, use this resource directly or through the optional [[Weekly Recaps|Weekly Recap]] in service of shared life, pastoral connection, and faithful response. Bible Clubs may use a fuller facilitator-led flow through a book or section of Scripture. Collectives should adapt Scripture engagement to their approved gender-specific ministry purpose and offering plan.
 
+## Scope and Ownership
+
+**Owner:** approved leader/facilitator. **Start:** the group uses Scripture or optional sermon discussion. **Finish:** the group has attended to the text, considered Christ, and identified faithful response. Resource choice and pastoral teaching boundaries remain as stated below.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Prepare | Read the text in context and select a few useful prompts. | Purpose and questions are clear. |
+| Discuss | Attend to the text, behold Christ, and invite participation. | Discussion remains connected to Scripture and the approved purpose. |
+| Respond | Invite prayer and practical faithful response. | Next steps remain relational; care beyond the role is routed. |
+
 ## Preparation
 
 1. Listen carefully to the Sunday message and read the primary biblical text in context.
@@ -20,22 +32,7 @@ For City Groups, use this resource directly or through the optional [[Weekly Rec
 
 ## Discussion Flow
 
-### Attend to the text
-
-- What do we notice in this passage?
-- What does the surrounding context help us understand?
-- What did the Sunday message emphasize, and where do we see that in the text?
-
-### Behold Christ
-
-- What does this reveal about God, the gospel, or the life and work of Jesus?
-- How does this invite trust, worship, repentance, hope, or prayer?
-
-### Respond faithfully
-
-- What faithful response is the Spirit pressing on us through Scripture?
-- How might this shape our relationships, habits, service, generosity, work, or witness?
-- How can we pray for and support one another this week?
+Use [[10 Templates/Conversations/Scripture Discussion Prompts|Scripture Discussion Prompts]]: Attend to the text → Behold Christ → Respond faithfully. Choose a few questions suited to the approved gathering purpose.
 
 ## Facilitation Practices
 
@@ -60,6 +57,6 @@ The group leader facilitates the resource the group uses. Under DEC-052, City Gr
 ## Connections
 
 - [[Leader Training]] — Prepares leaders to facilitate rather than lecture.
-- [[Conflict]] — Governs unhealthy or divisive discussion.
-- [[Prayer]] — Helps the group respond to Scripture together.
-- [[First Meetings Checklist]] — Applies this process to launch gatherings.
+- [[07 Operations/Workflows/Conflict]] — Governs unhealthy or divisive discussion.
+- [[07 Operations/Workflows/Prayer]] — Helps the group respond to Scripture together.
+- [[07 Operations/Workflows/First Meetings Checklist]] — Applies this process to launch gatherings.

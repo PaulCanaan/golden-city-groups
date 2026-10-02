@@ -6,9 +6,13 @@
 
 ## Document Status
 
-**Existing canonical operational question bank; use remains subject to the approved conversation and privacy boundaries.** Use with [[06 Resources/Leader Development/Leader Conversation Guide|Leader Conversation Guide]]. These prompts do not authorize appointment, establish a scoring rubric, or settle the still-open interview format, outcome record, role-specific criteria, safeguarding, or pastoral-escalation implementation.
+**Existing canonical operational question bank; use remains subject to the approved conversation and privacy boundaries.** Use with [[07 Operations/Workflows/Leader Conversation Guide|Leader Conversation Guide]]. These prompts do not authorize appointment, establish a scoring rubric, or settle the still-open interview format, outcome record, role-specific criteria, safeguarding, or pastoral-escalation implementation.
 
 > The goal is not to conduct a job interview or find perfect leaders. The goal is to hear the person's story, understand their desire to serve, and discern together whether leading, co-leading, or hosting a group is a healthy next step.
+
+## Purpose and Ownership
+
+**Owner:** Paul under DEC-031, with participants authorized for discernment. **Trigger:** an arranged Group Leader Conversation following actual leadership interest. **Inputs:** the candidate’s actual context and selected questions; no completed answers or confidential assessments belong in this template.
 
 ## Conversation Posture
 
@@ -132,6 +136,8 @@ Do not score every question individually. After the conversation, consider the c
 
 ### Recommended Outcome
 
+These are proposed discernment descriptions, not approved disposition criteria or automatic workflow advancement.
+
 Choose one:
 
 - **Ready** — Proceed toward leader onboarding.
@@ -153,8 +159,29 @@ Group leadership should ultimately serve the Groups Ministry's formation movemen
 
 The interview is therefore not merely a gatekeeping step. It is an early step in identifying, developing, and equipping people who can cultivate healthy communities of discipleship.
 
+## Core Question Set
+
+This shorter set was transferred from Leader Conversation Guide. Use it or selected questions from the detailed bank; neither is an approved scoring rubric.
+
+1. How did you become connected with Golden City Church, and what has your experience on the Launch Team been like?
+2. Tell me about your relationship with Jesus and how you are currently growing in faith.
+3. What draws you toward helping people belong, behold Christ, and become more like him through a City Group?
+4. What have you learned through serving, hospitality, group participation, teaching, or caring for others?
+5. What is your current season of life, and what capacity do you realistically have for weekly preparation, gathering, and follow-up?
+6. How do you respond when you do not know an answer, encounter disagreement, or hear a need beyond your role?
+7. How do Golden City Church's mission, values, and beliefs shape the way you would lead?
+8. What support, training, or co-leadership would help you serve faithfully?
+9. Is there anything that could affect your availability, trustworthiness, safety, or ability to carry this responsibility that should be discussed through the approved process?
+10. What questions or concerns do you have about the role?
+
+## Before Use
+
+- [ ] The conversation is authorized and its purpose and next-step boundaries are clear.
+- [ ] Choose useful prompts; do not treat either list as a required questionnaire or approved scorecard.
+- [ ] Keep outcomes and sensitive disclosures in the approved restricted process.
+
 ## Connections
 
-- [[06 Resources/Leader Development/Leader Conversation Guide|Leader Conversation Guide]] — Governing purpose, privacy, safeguarding, recordkeeping, and approval boundaries.
-- [[Communication#Step 1 — Welcome / Group Leader Conversation|Group Leader Conversation Invitation]] — Canonical scheduling and reminder messages.
+- [[07 Operations/Workflows/Leader Conversation Guide|Leader Conversation Guide]] — Governing purpose, privacy, safeguarding, recordkeeping, and approval boundaries.
+- [[10 Templates/Communication/Group Leader Communication Library#Step 1 — Welcome / Group Leader Conversation|Group Leader Conversation Invitation]] — Canonical scheduling and reminder messages.
 - [[05 Leadership/Group Leaders|Group Leaders]] — Confirmed discernment and appointment pathway.

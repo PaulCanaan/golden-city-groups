@@ -27,7 +27,7 @@ For fall 2026, the City Group pipeline began with Launch Team members expressing
 
 ## Source Note
 
-Developed from [[01 Governance/Theological Framework|Theological Framework]], [[Leadership Overview]], [[Leader Conversation Guide]], [[Leader Training]], and the adaptation boundary in [[Highlands Resource Adaptation]].
+Developed from [[01 Governance/Theological Framework|Theological Framework]], [[Leadership Overview]], [[07 Operations/Workflows/Leader Conversation Guide]], [[Leader Training]], and the adaptation boundary in [[Highlands Resource Adaptation]].
 
 ## Implementation Still Required
 

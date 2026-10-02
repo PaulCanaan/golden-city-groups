@@ -8,6 +8,18 @@
 
 Hospitality helps people move from attendance toward genuine participation in the life of Christ's people. It is not entertainment or presentation; it is attentive welcome, clarity, generosity, and room for others.
 
+## Scope and Ownership
+
+**Owner:** approved group leader for participant experience; host for agreed location duties. Their exact division remains pending. **Start:** preparation for an approved gathering. **Finish:** newcomers are welcomed and the next step and follow-up are clear.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Before | Prepare a clear and accessible welcome. | Approved details, environment, and arrangements are ready. |
+| During | Explain the purpose and invite participation without pressure. | People can participate and know the next step. |
+| After | Follow up with newcomers and debrief practical needs. | Appropriate help or adjustments are identified without unsupported promises. |
+
 ## Before People Arrive
 
 - Pray for the people expected and for those who may be new.
@@ -44,7 +56,7 @@ The approved group leader is responsible for the participant experience; the hos
 
 ## Connections
 
-- [[First Meetings Checklist]] — Applies hospitality to launch preparation.
-- [[Icebreakers]] — Provides low-pressure conversation prompts.
+- [[07 Operations/Workflows/First Meetings Checklist]] — Applies hospitality to launch preparation.
+- [[10 Templates/Gatherings/Icebreakers]] — Provides low-pressure conversation prompts.
 - [[05 Leadership/Hosts]] — Host requirements remain unconfirmed.
 - [[Policies]] — Proposed boundaries for safe and truthful group life.

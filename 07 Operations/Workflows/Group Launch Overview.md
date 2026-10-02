@@ -1,10 +1,22 @@
 # Group Launches
 
-Connected to [[Semester Planning]] and [[07 Operations/Calendar]]
+Connected to [[07 Operations/Workflows/Semester Planning]] and [[07 Operations/Calendar]]
 
 ## Document Status
 
 **Confirmed intake-to-launch lifecycle; offering details remain incomplete.** DEC-042 governs the Planning Center leader workflow, while the Launch Team and three Team Nights govern the initial Fall 2026 recruitment context. This document does not establish leader appointments, training dates, assignments, or commissioning details.
+
+## Scope and Ownership
+
+**Owner:** Paul coordinates launch operations; Russ retains pastoral appointments and final offering readiness. **Use:** launch context and navigation across leader interest, preparation, publication, and actual gathering. The sequence below distinguishes confirmed context from pending implementation.
+
+## Process Map
+
+| Stage | Action | Completion / next step |
+|---|---|---|
+| Leader pathway | Follow the canonical Planning Center stages. | No appointment is inferred from workflow movement. |
+| Offering preparation | Use Group Launch Readiness and Launch Checklist. | Applicable review and readiness gates are evidenced. |
+| First gathering | Confirm what actually occurred. | Small Group Launched is used only after meeting. |
 
 ## Fall 2026 Sequence
 
@@ -28,16 +40,16 @@ The primary Fall 2026 objective is to recruit Launch Team members to host City G
 
 ## Readiness Check
 
-Use [[Launch Checklist]] for the operational gates that must be completed before any offering is represented as launch-ready.
+Use [[07 Operations/Workflows/Launch Checklist]] for the operational gates that must be completed before any offering is represented as launch-ready.
 
 ## Notes
 
 ## Connections
 
-- [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] — workflow for ready leaders: City Group Profile form, Planning Center group, Open Groups webpage listing, and table card (DEC-059).
-- [[07 Operations/Group Launches/Group Launch MOC.canvas|Group Launch MOC]] — visual map of the October 4 Group Launch, from governing decisions to after-launch support.
+- [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] — workflow for ready leaders: City Group Profile form, Planning Center group, Open Groups webpage listing, and table card (DEC-059).
+- [[07 Operations/Workflows/Group Launch MOC.canvas|Group Launch MOC]] — visual map of the October 4 Group Launch, from governing decisions to after-launch support.
 - [[Operation Overview]] — Group launches are a core operations activity each semester.
-- [[Semester Planning]] — Launch plans are developed during semester planning.
+- [[07 Operations/Workflows/Semester Planning]] — Launch plans are developed during semester planning.
 - [[07 Operations/Calendar]] — Launch dates and milestones appear on the ministry calendar.
 - [[Groups Overview]] — Distinguishes planned group forms from active offerings.
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Records confirmed Team Nights and pending fall milestones.

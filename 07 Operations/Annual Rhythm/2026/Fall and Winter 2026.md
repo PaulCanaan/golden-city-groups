@@ -71,7 +71,7 @@ Paul is confirmed to lead the twelve-week Planted Bible Club beginning Tuesday e
 ## Connections
 
 - [[07 Operations/Calendar]] — Separates confirmed dates from pending milestones.
-- [[Group Launch Overview]] — Applies readiness gates to the fall sequence.
+- [[07 Operations/Workflows/Group Launch Overview]] — Applies readiness gates to the fall sequence.
 - [[04 Classes/Curriculum/Planted Bible Study]] — Confirmed fall Bible Club; operational readiness remains open.
 - [[City Groups Overview]] — Initial leaders are developed through the Launch Team pathway.
 - [[03 Groups/Collectives/Men's Collective]] — Planned Men's Collective; readiness remains open.

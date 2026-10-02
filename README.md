@@ -41,10 +41,10 @@ The Decision Log and [Decision History](08%20Archive/Decisions/Decision%20Histor
 | [`04 Classes`](04%20Classes/) | Bible Club-first curriculum and development, with future Classes under Bible Clubs; not a current fourth branch |
 | [`05 Leadership`](05%20Leadership/) | Leader, host, and instructor role and authority documentation |
 | [`06 Resources`](06%20Resources/) | Group life and leader-development resources |
-| [`07 Operations`](07%20Operations/) | Calendar, Planning Center, launches, communication, and metrics |
+| [`07 Operations`](07%20Operations/) | Calendar, seasonal records, metrics, and all active workflows in [Workflows](07%20Operations/Workflows/Workflows%20Overview.md) |
 | [`08 Archive`](08%20Archive/) | Historical decisions, inactive groups, and past programs |
 | [`09 Reports`](09%20Reports/) | Dated biweekly review history; unresolved work remains in the dashboard queue |
-| [`10 Templates`](10%20Templates/) | Reusable communication, gathering, and record patterns |
+| [`10 Templates`](10%20Templates/) | [Templates Overview](10%20Templates/Templates%20Overview.md): communication, conversation prompts, gatherings, records, and report structures |
 | [`11 Database`](11%20Database/) | Non-sensitive ministry working views and ignored local records; Planning Center remains operationally authoritative |
 | [`12 Ministry Website`](12%20Ministry%20Website/) | The public Groups page: ownership and review, publication rules, page record, Open Groups listings, and change log |
 

@@ -60,7 +60,7 @@ The minimum boundaries above are approved. Russ directed staff to continue formi
 ## Connections
 
 - [[Leader Training]] — Leaders must understand approved boundaries before service.
-- [[Prayer]] — Applies consent and confidentiality boundaries.
-- [[Conflict]] — Applies correction and escalation boundaries.
-- [[Planning Center Groups]] — Applies participant-data and access boundaries.
+- [[07 Operations/Workflows/Prayer]] — Applies consent and confidentiality boundaries.
+- [[07 Operations/Workflows/Conflict]] — Applies correction and escalation boundaries.
+- [[07 Operations/Workflows/Planning Center Groups]] — Applies participant-data and access boundaries.
 - [[Highlands Resource Adaptation]] — Explains why another church's honor code and safeguarding rules were not imported.

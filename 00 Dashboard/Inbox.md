@@ -17,19 +17,7 @@ The Inbox may temporarily hold conversation notes, Team Night observations, lead
 
 ## Inbox Item Template
 
-```markdown
-## YYYY-MM-DD — Short title
-
-- **Source:**
-- **Type:** Action / Note / Question / Decision Candidate / Approved Decision / Resource / Feedback / Risk / Meeting Input / Operational Update / Historical Record
-- **Ministry Area:** General / City Groups / Collectives / Bible Clubs / Future Ministry / Leadership / Planning Center / Launch Operations / Governance / Resources
-- **Authority Status:** Approved Decision / Existing Policy / Current Operational Fact / Proposal / Recommendation / Unresolved Question / Personal Observation / External Resource / Historical Information
-- **Summary:**
-- **Next Action:**
-- **Owner:**
-- **Target Destination:**
-- **Status:** Unprocessed / Clarify / Ready to File / Blocked
-```
+Use [[10 Templates/Records/Inbox Item|Inbox Item]] to capture a non-sensitive item below. The [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]] handles triage and reconciliation; no separate review cadence is created.
 
 ## Processing Destinations
 
@@ -49,7 +37,7 @@ The Inbox may temporarily hold conversation notes, Team Night observations, lead
 ## Operating Boundaries
 
 - **Inbox:** temporary capture and triage.
-- **[[07 Operations/Biweekly Ministry Review|Biweekly Ministry Review]]:** sole recurring review workflow; it processes the Inbox and reconciles canonical sources.
+- **[[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]]:** sole recurring review workflow; it processes the Inbox and reconciles canonical sources.
 - **[[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]:** unresolved, review-worthy operational work carried between reviews.
 - **[[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]]:** current priorities, readiness, and operational status.
 - **[[00 Dashboard/Staff Decision Brief|Staff Decision Brief]]:** matters requiring staff discussion or direction.
@@ -61,7 +49,7 @@ The Inbox may temporarily hold conversation notes, Team Night observations, lead
 
 ## 2026-09-22 — Does DEC-049's publication boundary cover direct email?
 
-- **Source:** Drafting [[07 Operations/Planning & Communication/Participant Welcome and Groups Introduction|the participant welcome email]] on September 22, 2026
+- **Source:** Drafting [[10 Templates/Communication/Participant Welcome and Groups Introduction|the participant welcome email]] on September 22, 2026
 - **Type:** Question
 - **Ministry Area:** Governance
 - **Authority Status:** Unresolved Question

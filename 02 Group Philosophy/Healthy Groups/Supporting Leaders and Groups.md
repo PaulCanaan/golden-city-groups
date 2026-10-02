@@ -79,7 +79,7 @@ That is the argument for the church and the ministry staying connected to the gr
 ## What This Requires of the Ministry
 
 - **Launch nothing the ministry is not prepared to support.** Support capacity is part of readiness, not something arranged afterward.
-- **Treat support as a standing commitment, not a launch-week service.** The [[06 Resources/Leader Development/Leader Support Check-In|Leader Support Check-In]] carries the working rhythm: connection before the first meeting, a check-in after it, periodic contact through the season, timely response when a leader asks, and an end-of-season review.
+- **Treat support as a standing commitment, not a launch-week service.** The [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]] carries the working rhythm: connection before the first meeting, a check-in after it, periodic contact through the season, timely response when a leader asks, and an end-of-season review.
 - **Know leaders as people.** A leader should be known, prayed for, supported, corrected where necessary, and connected to pastoral help — without support becoming task surveillance.
 - **Notice a struggling group early**, while there is still something to support.
 - **Build the connection leaders cannot build for themselves.** They are in different rooms on different nights; only the ministry can put them in the same one.
@@ -93,7 +93,7 @@ That is the argument for the church and the ministry staying connected to the gr
 
 ## Source Note
 
-Developed from ministry direction supplied by Paul on September 22, 2026, together with [[Leadership Philosophy]], [[Healthy Groups]], [[06 Resources/Leader Development/CoJourner|CoJourner]] and DEC-045, [[06 Resources/Leader Development/Leader Support Check-In|Leader Support Check-In]], and the evaluation boundaries in [[07 Operations/Metrics|Metrics]].
+Developed from ministry direction supplied by Paul on September 22, 2026, together with [[Leadership Philosophy]], [[Healthy Groups]], [[06 Resources/Leader Development/CoJourner|CoJourner]] and DEC-045, [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]], and the evaluation boundaries in [[07 Operations/Metrics|Metrics]].
 
 ## Connections
 
@@ -104,4 +104,4 @@ Developed from ministry direction supplied by Paul on September 22, 2026, togeth
 - [[Growth Path]] — How a person reaches leadership in the first place.
 - [[Multiplying-disciples]] — What leaders grow into once they are supported well.
 - [[06 Resources/Resources Overview|Resources Overview]] — The leader-development and group-life material this page assumes.
-- [[07 Operations/Planning & Communication/Communication|Communication]] — The check-in and encouragement messages that carry ongoing support.
+- [[10 Templates/Communication/Group Leader Communication Library|Communication]] — The check-in and encouragement messages that carry ongoing support.

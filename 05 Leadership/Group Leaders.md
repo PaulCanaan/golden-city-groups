@@ -12,7 +12,7 @@
 3. **Attended Training:** required attendance is recorded; the approved completion standard must still be met before the person is treated as trained.
 4. **Small Group Launched:** the workflow completes only after the assigned group has actually begun meeting.
 
-The canonical entry, exit, owner, communication, and resource guidance is in [[Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]]. Assignment, appointment, and readiness actions occur within the path toward launch but are not separate Planning Center stages. Training details, assignments, appointment records, and commissioning remain approval-dependent. Russ or his designated pastor retains primary appointment and final-readiness authority.
+The canonical entry, exit, owner, communication, and resource guidance is in [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]]. Assignment, appointment, and readiness actions occur within the path toward launch but are not separate Planning Center stages. Training details, assignments, appointment records, and commissioning remain approval-dependent. Russ or his designated pastor retains primary appointment and final-readiness authority.
 
 ## Responsibilities and Expectations
 
@@ -32,7 +32,7 @@ An approved leader may receive access to their assigned group only after appoint
 - communicating with the group through approved email or chat settings
 - moving pastoral or safeguarding concerns to the approved escalation process
 
-A Planning Center leader role does not expand pastoral authority, permit access to the wider People database, or authorize storage of sensitive care details in event notes or chat. See [[Planning Center Groups]] and [[Attendance]].
+A Planning Center leader role does not expand pastoral authority, permit access to the wider People database, or authorize storage of sensitive care details in event notes or chat. See [[07 Operations/Workflows/Planning Center Groups]] and [[07 Operations/Workflows/Attendance]].
 
 ## Future Public Pathways
 
@@ -42,18 +42,18 @@ Broader public leadership pathways may be developed after launch. The initial in
 
 - [[Resources Overview]]
 - [[Leader Training]]
-- [[First Meetings Checklist]]
-- [[Leader Support Check-In]]
+- [[07 Operations/Workflows/First Meetings Checklist]]
+- [[07 Operations/Workflows/Leader Support Check-In]]
 
 ## Connections
 
 - [[Leadership Overview]] — Governs the initial Launch Team pathway and status of leadership roles.
 - [[Leader Training]] — Planned training for candidates who have been discerned and invited.
-- [[Leader Support Check-In]] — Current support guidance without a formal coaching structure.
+- [[07 Operations/Workflows/Leader Support Check-In]] — Current support guidance without a formal coaching structure.
 - [[City Groups Overview]] — Describes the confirmed City Group model and pending launch expressions.
 - [[Weekly Recaps]] — Optional weekend-message discussion resource for City Groups.
 - [[Groups Overview]] — Places City Group leadership within the wider planned ministry.
 - [[Discipleship]] — Future resource for formation within approved group life.
 - [[07 Operations/Metrics]] — Provisional evaluation framework; not an approval or appointment mechanism.
-- [[Planning Center Groups]] — Defines platform access and the group-management workflow after appointment.
-- [[Attendance]] — Defines the approved attendance practice and privacy boundary.
+- [[07 Operations/Workflows/Planning Center Groups]] — Defines platform access and the group-management workflow after appointment.
+- [[07 Operations/Workflows/Attendance]] — Defines the approved attendance practice and privacy boundary.

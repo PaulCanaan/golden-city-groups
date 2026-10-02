@@ -55,7 +55,7 @@ The practical gain is that expectations get spoken once, early, by everyone, rat
 
 Many group roles are designed for a season and then quietly extended indefinitely, which is a documented path to leader burnout. A defined season gives permission to serve well rather than endlessly, and it converts the awkward question — *am I still doing this?* — into a scheduled conversation.
 
-An end-of-season review and prayer conversation is already part of the working support rhythm in [[06 Resources/Leader Development/Leader Support Check-In|Leader Support Check-In]].
+An end-of-season review and prayer conversation is already part of the working support rhythm in [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]].
 
 ### Rhythms simple enough to survive a bad week
 
@@ -108,5 +108,5 @@ External material informs this page; it carries no doctrinal authority here. Ada
 - [[Supporting Leaders and Groups]] — Consistency and longevity as the two predictable struggles, and what the ministry owes the groups it launches.
 - [[Loving Leaders]] — The leader whose endurance this foundation is meant to protect.
 - [[Multiplying-disciples]] — What a group's fruit becomes once it carries seed.
-- [[06 Resources/Leader Development/First Meetings Checklist|First Meetings Checklist]] — The first gatherings where a foundation is actually laid.
+- [[07 Operations/Workflows/First Meetings Checklist|First Meetings Checklist]] — The first gatherings where a foundation is actually laid.
 - [[07 Operations/Metrics|Metrics]] — Why evaluation does not reduce to attendance.
