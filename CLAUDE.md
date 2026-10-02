@@ -84,7 +84,7 @@ Planning Center remains operationally authoritative for group and people records
 
 ## Conventions
 
-**Obsidian.** Numbered top-level folders (`00`–`11`) are the vault's spine; keep new material inside the existing structure. Internal links are `[[Wikilinks]]` inside vault documents; `README.md` and `CONTRIBUTING.md` use relative Markdown links with `%20` escapes for GitHub. `.canvas` files are Obsidian canvases. `.base` files are Obsidian Bases — YAML defining filters, formulas, properties, and table views over note frontmatter; they cross-reference notes by `record_type`, folder, and backlinks, so changing a record's frontmatter changes what the Bases show.
+**Obsidian.** Numbered top-level folders (`00`–`12`) are the vault's spine; keep new material inside the existing structure. Internal links are `[[Wikilinks]]` inside vault documents; `README.md` and `CONTRIBUTING.md` use relative Markdown links with `%20` escapes for GitHub. `.canvas` files are Obsidian canvases. `.base` files are Obsidian Bases — YAML defining filters, formulas, properties, and table views over note frontmatter; they cross-reference notes by `record_type`, folder, and backlinks, so changing a record's frontmatter changes what the Bases show.
 
 **Records.** New group and leader records come from `10 Templates/Records/`. Frontmatter drives everything: groups use `record_type: group` with `branch`, `group_status`, `semester`, `current_semester`, `leaders`; leaders use `record_type: group-leader` with `workflow_stage` (`Welcome email / call` → `Interviewed` → `Attended Training` → `Small Group Launched`). Leader–group assignment lives in the group's `leaders` property, not in a label on the leader note.
 

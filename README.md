@@ -46,6 +46,7 @@ The Decision Log and [Decision History](08%20Archive/Decisions/Decision%20Histor
 | [`09 Reports`](09%20Reports/) | Dated biweekly review history; unresolved work remains in the dashboard queue |
 | [`10 Templates`](10%20Templates/) | Reusable communication, gathering, and record patterns |
 | [`11 Database`](11%20Database/) | Non-sensitive ministry working views and ignored local records; Planning Center remains operationally authoritative |
+| [`12 Ministry Website`](12%20Ministry%20Website/) | The public Groups page: ownership and review, publication rules, page record, Open Groups listings, and change log |
 
 ## Working Agreements
 

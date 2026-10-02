@@ -48,4 +48,5 @@
 - [[Planning Center Groups]]
 - [[10 Templates/Communication/Communication Templates|Templates]] — reusable communication, gathering, and record patterns
 - [[11 Database/Groups Database/Groups Database.base|Groups Database]] · [[11 Database/People Database/Group Leader Database.base|Group Leader Database]] — non-sensitive ministry working views; Planning Center remains authoritative
+- [[12 Ministry Website/Ministry Website Overview|Ministry Website]] — the public Groups page, its publication rules, and its change log
 - **Archive:** [[Archive Overview]]
