@@ -13,10 +13,10 @@
 
 ## Geographic Scaffolds
 
-- [[Erie City Group]]
-- [[Lafayette City Group]]
+- [[Groups Ministry/08 Archive/Legacy Group Scaffolds/Erie City Group]]
+- [[Groups Ministry/08 Archive/Legacy Group Scaffolds/Lafayette City Group]]
 - [[Louisville City Group]]
-- [[Northglenn City Group]]
+- [[Groups Ministry/08 Archive/Legacy Group Scaffolds/Northglenn City Group]]
 - [[Superior City Group]]
 
 ## Leadership Scaffold
