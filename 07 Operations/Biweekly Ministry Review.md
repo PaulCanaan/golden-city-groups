@@ -121,7 +121,7 @@ This matrix records inspection, not offering readiness.
 
 - [ ] Reconcile launch-readiness and critical-path evidence without changing status absent support.
 - [ ] Review Planning Center workflows, participant paths, permissions, and testing evidence.
-- [ ] Review communication, website, and public-information readiness.
+- [ ] Review communication, website, and public-information readiness; use [[12 Ministry Website/Design Principles and Maintenance#Maintenance Within the Existing Review|website maintenance guidance]] to reconcile listings, dated copy, and participant-path evidence.
 - [ ] Review venue, calendar, schedule, safeguarding, and escalation dependencies.
 
 #### Governance

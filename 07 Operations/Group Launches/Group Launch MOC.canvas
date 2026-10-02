@@ -24,7 +24,7 @@
 		{"id":"f-hosts","type":"file","file":"Groups Ministry/05 Leadership/Hosts.md","x":-840,"y":90,"width":270,"height":60,"color":"3"},
 		{"id":"f-training","type":"file","file":"Groups Ministry/06 Resources/Leader Development/Leader Training.md","x":-1130,"y":180,"width":560,"height":60,"color":"3"},
 		{"id":"pipeline-open","type":"text","text":"## Ready to Lead · DEC-059\nGroup Leader Conversation (spiritual maturity, season of life) + brief training → **Paul and Russ decide together**.\n\nStill open: training record, appointment record, commissioning · **BWR-006**","x":-1130,"y":270,"width":560,"height":180,"color":"6"},
-		{"id":"g-sunday","type":"group","x":-440,"y":-730,"width":700,"height":1530,"label":"3 · Launch Sunday — October 4","color":"3"},
+		{"id":"g-sunday","type":"group","x":-440,"y":-730,"width":700,"height":1620,"label":"3 · Launch Sunday — October 4","color":"3"},
 		{"id":"lobby","type":"text","text":"## Lobby Tables\nGroup leaders introduce their groups to people interested in joining.\n\nGroups that still have many open spots may present again on **Sunday, October 11**.\n\n**Owner:** Paul · BWR-028","x":-400,"y":-650,"width":620,"height":200,"color":"3"},
 		{"id":"card","type":"text","text":"## Information Card — one per group\n- Meeting time\n- **Rough location only**, e.g. \"North Thornton\"\n- Join QR code → a **tested** destination (BWR-009)\n\nNo addresses on cards, the website, or Church Center. Full details are emailed to people who join.","x":-400,"y":-420,"width":620,"height":230,"color":"3"},
 		{"id":"finalize","type":"text","text":"## Before October 4\nPaul finalizes each group's details with its leaders by email and text, then updates the Groups webpage: leader photos, final times, and rough locations (DEC-051).","x":-400,"y":-160,"width":620,"height":150,"color":"3"},
@@ -66,7 +66,8 @@
 		{"id":"f-review","type":"file","file":"Groups Ministry/07 Operations/Biweekly Ministry Review.md","x":2340,"y":50,"width":270,"height":60,"color":"5"},
 		{"id":"next-review","type":"text","text":"## Next Review\n**Monday, October 5, 2026 · 7:00 AM**\nRecord which groups presented and aggregate outcomes only.","x":2050,"y":140,"width":560,"height":130},
 		{"id":"f-readiness-workflow","type":"file","file":"Groups Ministry/07 Operations/Group Launches/Group Launch Readiness.md","x":-400,"y":480,"width":620,"height":70,"color":"3"},
-		{"id":"readiness-workflow-note","type":"text","text":"## Group Launch Readiness · DEC-059\nReady leader → City Group Profile form → Planning Center group + leaders assigned → Russ's quick review → Church Center, **Open Groups** webpage, and table card.\n\nSeparate from the Lead a Group workflow.","x":-400,"y":570,"width":620,"height":180,"color":"3"}
+		{"id":"readiness-workflow-note","type":"text","text":"## Group Launch Readiness · DEC-059\nReady leader → City Group Profile form → Planning Center group + leaders assigned → Russ's quick review → Church Center, **Open Groups** webpage, and table card.\n\nSeparate from the Lead a Group workflow.","x":-400,"y":570,"width":620,"height":180,"color":"3"},
+		{"id":"f-website","type":"file","file":"Groups Ministry/12 Ministry Website/Ministry Website Overview.md","x":-400,"y":780,"width":620,"height":70,"color":"3"}
 	],
 	"edges":[
 		{"id":"edge-dec-summary-pipeline","fromNode":"dec-summary","fromSide":"right","toNode":"pipeline","toSide":"left","label":"governs"},
@@ -81,6 +82,7 @@
 		{"id":"edge-authority-rule-pipeline-open","fromNode":"authority-rule","fromSide":"right","toNode":"pipeline-open","toSide":"left","label":"appointment authority"},
 		{"id":"edge-first-gatherings-f-first","fromNode":"first-gatherings","fromSide":"bottom","toNode":"f-first","toSide":"bottom","label":"first meetings"},
 		{"id":"edge-pipeline-open-readiness","fromNode":"pipeline-open","fromSide":"right","toNode":"readiness-workflow-note","toSide":"left","label":"ready to lead"},
-		{"id":"edge-readiness-card","fromNode":"readiness-workflow-note","fromSide":"top","toNode":"f-readiness-workflow","toSide":"bottom"}
+		{"id":"edge-readiness-card","fromNode":"readiness-workflow-note","fromSide":"top","toNode":"f-readiness-workflow","toSide":"bottom"},
+		{"id":"edge-finalize-website","fromNode":"finalize","fromSide":"left","toNode":"f-website","toSide":"left","label":"Groups webpage"}
 	]
 }

@@ -19,6 +19,7 @@
 - [[00 Dashboard/Open Decisions|Open Decisions]] — review unresolved governance questions and their source proposals.
 - [[01 Governance/Safeguarding and Escalation Decision Brief|Safeguarding and Escalation Decision Brief]] — review launch-blocking safety, care, escalation, and data questions with Russ.
 - [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — view the ministry system and its connections.
+- [[12 Ministry Website/Ministry Website Overview|Ministry Website]] — the public Groups page: rules, page record, corrections, design, and Development Journey.
 - [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] — workflow from a ready leader's City Group Profile to a published group and Launch Sunday table card.
 - [[07 Operations/Group Launches/Group Launch MOC.canvas|Group Launch MOC]] — see the October 4 Group Launch on one canvas: decisions, leader pipeline, Launch Sunday, offerings, readiness gates, and after-launch support.
 
@@ -94,7 +95,7 @@ Confirmed dates, historical interpretation, and undated targets are maintained i
 - **Development:** CoJourner from The Garden Project Ministry is the selected four-session biweekly group-leader training program over approximately two months before the Spring 2027 group launch. It may be run during Group Leader Collaborations, the first of which follows about a month after October 4 (DEC-056). Its relationship to Fall 2026 leaders remains open.
 - **Pastoral baseline:** DEC-033 governs freedom in Christ, flourishing, Scripture-shaped prayer, dependence on the Holy Spirit, and escalation of significant care concerns.
 - **Systems:** Russ owns the public participant system, with Paul as backup. Planning Center Groups and Church Center support approved ministry operations but do not confer approval or appointment.
-- **Website:** Russ granted Paul Squarespace access; Paul owns current Groups page implementation and maintenance of approved content.
+- **Website:** Paul owns the Groups page (DEC-037), and Russ reviews before Group Launch Sunday. See [[12 Ministry Website/Ministry Website Overview|Ministry Website]].
 - **Communication:** email for general information, text for internal coordination, and a Church Center group chat for all current leaders (DEC-057).
 
 See the [[00 Dashboard/Decision Log#Chronological Decision Register|Chronological Decision Register]] for complete decision metadata and the [[00 Dashboard/Governance Index|Governance Index]] for thematic navigation.

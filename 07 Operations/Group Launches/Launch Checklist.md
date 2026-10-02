@@ -61,7 +61,7 @@
 - [ ] Participant fields, consent, access, correction, retention, and deletion practices are approved.
 - [ ] Public Church Center links, mobile display, notifications, confirmations, and capacity behavior are tested.
 - [x] Russ granted Paul Squarespace access by August 28.
-- [ ] Paul confirms the website and Church Center display the same approved information and tested destinations.
+- [ ] Paul confirms the website and Church Center display the same approved information and tested destinations, using [[12 Ministry Website/Design Principles and Maintenance#Before Publishing a Material Change|Before Publishing a Material Change]].
 
 ## Commissioning and Launch Readiness
 

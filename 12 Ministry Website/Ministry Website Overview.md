@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Scaffold created October 1, 2026 at Paul's request.** This folder is the home for Groups Ministry work on the church website. It gathers website material that was spread across the dashboards, Communication, and Decision History; it does not approve any public content. Approved direction stays in the [[00 Dashboard/Decision Log|Decision Log]], and open website work stays in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]].
+**Working documentation for the public Groups page.** This folder is the home for Groups Ministry work on the church website. It gathers website material that was spread across the dashboards, Communication, and Decision History; it does not approve any public content. Approved direction stays in the [[00 Dashboard/Decision Log|Decision Log]], and open website work stays in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]].
 
 ## What This Covers
 
@@ -23,16 +23,18 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 
 - **Publish only what is true.** A listing is not readiness, and a deferred idea is shown as future or not at all (DEC-022, DEC-050).
 - **Rough locations only.** Never publish an address or detailed location; show an area such as "North Thornton." Leaders share details privately with people who join (DEC-051, DEC-059).
-- **Branch language.** City Groups: life together. Collectives: shared encouragement. Bible Clubs: rooted in Scripture (DEC-047). Russ confirms this and the Belonging, Beholding, Becoming introduction (DEC-049) for public use (BWR-020).
+- **Branch language.** City Groups: life together. Collectives: shared encouragement. Bible Club: rooted in Scripture (DEC-047). The page keeps the name **Bible Club**. Russ confirms this and the Belonging, Beholding, Becoming introduction (DEC-049) for public use (BWR-020).
 - **Internal language stays internal.** The fellowship/discipleship ratios never appear publicly (DEC-053).
 - **Working links only.** Every join button, QR destination, and Planning Center link goes to a tested destination (BWR-009, [[07 Operations/Forms#Pre-Publication Test|Pre-Publication Test]]).
 - **Groups come through Group Launch Readiness.** City Groups appear in Open Groups only after their leader is ready to lead and the profile is built (DEC-059).
 
 ## In This Folder
 
+- [[12 Ministry Website/README|README]] — a short guide to this folder and common tasks.
+- [[12 Ministry Website/Design Principles and Maintenance|Design Principles and Maintenance]] — migrated design reasoning, implementation history, editing and recovery, and long-term maintenance.
 - [[12 Ministry Website/Groups Page|Groups Page]] — what is live, what is planned, and what needs correcting.
 - [[12 Ministry Website/Open Groups Listings|Open Groups Listings]] — the standard for each group profile on the page.
-- [[12 Ministry Website/Website Change Log|Website Change Log]] — dated record of material changes and reviews.
+- [[12 Ministry Website/Development Journey|Development Journey]] — how the page developed, and the dated record of material changes and reviews.
 
 ## Open Website Work
 

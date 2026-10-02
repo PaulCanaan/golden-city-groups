@@ -115,6 +115,7 @@ Run Club and a Young Adults City Group are still under discussion, with people i
 ## Connections
 
 - [[Group Launch Overview]] — launch sequence this workflow serves.
+- [[12 Ministry Website/Open Groups Listings|Open Groups Listings]] — how each profile appears on the Groups page.
 - [[Planning Center Groups]] — group build, testing, and publishing procedures.
 - [[07 Operations/Forms|Forms and Intake]] — all intake and profile forms.
 - [[Communication]] — Group Leader workflow messages; this workflow does not replace them.

@@ -87,7 +87,7 @@ This outcome is **proposed** and requires operational and pastoral confirmation.
 - Confirmation and follow-up messages
 - Leader communication rhythm
 - Privacy and consent practices
-- Paul-owned implementation of approved Groups Ministry page improvements following the completed Squarespace handoff
+- Paul-owned implementation of approved Groups page improvements, with Russ's review before Group Launch Sunday (see [[12 Ministry Website/Ministry Website Overview|Ministry Website]])
 
 ### Evaluation
 
@@ -164,7 +164,7 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 9. Remaining Planted Bible Club operational readiness with Paul as the confirmed leader
 10. Completion of Planted publishing in Notion without confusing publishing with readiness
 11. Intake, data, privacy, and placement practices
-12. Internal and public communication, including Paul-owned Groups webpage implementation and an approved review path
+12. Internal and public communication, including Paul-owned Groups webpage implementation under the review path recorded in DEC-037
 13. Launch readiness review
 14. Feedback and pastoral adaptation
 

@@ -1,0 +1,28 @@
+# Development Journey
+
+From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
+
+## Document Status
+
+**Dated record of how `goldencity.church/groups` has developed, and of every material change and review going forward.** Oldest first; add new entries at the bottom. **Decision** rows are ministry-wide decisions that mention or govern the page; **Development** rows are Paul's design, build, and publication work. Routine fixes (a typo, a broken link) need no entry. Design reasoning and technical detail are in [[12 Ministry Website/Design Principles and Maintenance|Design Principles and Maintenance]]; decision records are in the [[00 Dashboard/Decision Log|Decision Log]].
+
+For material design changes, also record the problem and evidence, alternatives considered, choice and reason, implementation/review status, validation, and recovery reference. Follow [[12 Ministry Website/Design Principles and Maintenance#Recording Future Design Choices|Recording Future Design Choices]]; link governing DEC records when applicable. Pending rows remain plans until publication is verified. Documentation-only updates are not live-page changes.
+
+## Journey
+
+| Date | Type | What happened | What it meant for the page |
+|---|---|---|---|
+| 2026-07-23 | Decision | [[08 Archive/Decisions/Decision History#DEC-014 — Public Groups Page Offering Set\|DEC-014]], [[08 Archive/Decisions/Decision History#DEC-015 — Published Fall 2026 Rhythms and Locations\|DEC-015]], [[08 Archive/Decisions/Decision History#DEC-016 — Public Church Center Enrollment Paths\|DEC-016]] recorded the page as it was: six offerings, their rhythms and locations, and Church Center enrollment for Men's Collective, Women's Collective, and Planted. | The July baseline. Recording what was published did not approve it. |
+| 2026-07-27 | Decision | [[08 Archive/Decisions/Decision History#DEC-022 — Initial Launch Scope and Deferred Public Ideas\|DEC-022]] deferred Run Club, Youth City Group, and Young Adults Group from the initial launch. | The page should not present deferred ideas as ready. |
+| 2026-08-05 | Decision | [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership\|DEC-037]] made Paul responsible for the Groups pages once Russ granted Squarespace access. | Paul became the page's owner. |
+| By 2026-08-28 | Decision | Russ granted Squarespace access (DEC-037 update). DEC-043 moved the Collectives to Wednesdays. | Paul could begin the rebuild; the published Monday rhythms became outdated. |
+| 2026-09-11 | Development | Researched other churches' groups pages: simple entry points and a contact fallback, parallel branch cards, and a possible future finder. | Reference patterns, not templates. Golden City kept its own identity and leader path. |
+| 2026-09-15 | Development | Reviewed the church's theme (Roboto, grayscale, gold, shared navigation); built a mockup with three branch cards, expandable details and FAQs, and equal Find a Group and Lead a Group routes; audited the Church Center links and found the leader application was a People form. | Set the design direction and confirmed the page could use existing Church Center paths without new forms. |
+| 2026-09-19 | Development | Published the mockup as one HTML/CSS code block inside the existing Squarespace page, keeping the original sections hidden for recovery and saving a disabled backup page. | The installed build that is live today. |
+| 2026-09-20 | Decision | [[08 Archive/Decisions/Decision History#DEC-050 — Rebuilt Public Groups Page (September 20, 2026)\|DEC-050]] recorded the rebuilt page. Paul set the publication posture: published details are provisional until his pre-launch finalization pass. [[08 Archive/Decisions/Decision History#DEC-047 — Revised Three-Branch Purpose Language\|DEC-047]] and [[08 Archive/Decisions/Decision History#DEC-049 — Belonging, Beholding, Becoming as Public-Facing Language\|DEC-049]] set branch purposes and public formation language, pending Russ's confirmation for public use. | The vault, not the page, is authoritative until finalization. Page conflicts were recorded as a checklist rather than blockers. |
+| 2026-09-25 | Decision | [[08 Archive/Decisions/Decision History#DEC-051 — Group Launch Sunday Presentation and Detail Finalization\|DEC-051]]: Paul finalizes each group's details with its leaders and updates the page with leader photos, times, and locations. [[08 Archive/Decisions/Decision History#DEC-052 — City Group Leader Design Freedom and Start Timing\|DEC-052]]: leaders choose their group's rhythm, materials, and features. | The pre-launch update got its content: leader-designed groups with photos. |
+| 2026-09-29 | Decision | Clarifications to DEC-051 and DEC-053: only rough locations are ever published, and the fellowship/discipleship ratios stay internal. | Two firm public-content rules. |
+| 2026-09-30 | Decision | DEC-060 moved both Collectives to every other Thursday, in homes. | Another schedule correction for the finalization pass. |
+| 2026-10-01 | Decision | [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow\|DEC-059]] added an **Open Groups** section, with a profile for each ready group linked to its Planning Center group. Russ approved Paul to make the planned changes and will review before Group Launch Sunday (DEC-037 update). | The page's next shape and its review path are set. |
+| 2026-10-01 | Development | Moved the design principles and maintenance guidance into the vault and created this folder. | Design reasoning, editing, and recovery now live alongside the ministry records. |
+| Before 2026-10-04 | Development | Pre-launch finalization pass and Russ's quick review (pending, BWR-028). | Next step. |

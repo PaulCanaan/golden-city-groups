@@ -59,4 +59,4 @@ Use [[Planning Center Groups]] for the detailed operating procedure.
 - Participant placement and follow-up ownership
 - Final readiness review date and designated pastoral backup
 - Planning Center backup, group type managers, remaining permission boundaries, data controls, and public enrollment-response workflow
-- Paul-owned Groups webpage implementation and the approved material-change review workflow; Squarespace access is complete
+- Paul-owned Groups webpage implementation, with Russ's review before Group Launch Sunday (see [[12 Ministry Website/Ministry Website Overview|Ministry Website]])

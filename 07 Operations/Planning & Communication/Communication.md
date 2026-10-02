@@ -477,7 +477,7 @@ Under DEC-028, sensitive pastoral, safeguarding, screening, or discernment detai
 
 ### Public and Website Accuracy
 
-Russ granted Paul Squarespace access by August 28. Paul now owns implementation work on `goldencity.church/groups` and maintenance of approved Groups Ministry content. Material changes still require an appropriate review path, and access does not authorize unapproved claims, offerings, leaders, schedules, locations, or readiness statuses.
+The public Groups page at `goldencity.church/groups` has its own home in [[12 Ministry Website/Ministry Website Overview|Ministry Website]]: ownership, review, publication rules, the page record, Open Groups listings, design and maintenance, and the Development Journey. Paul owns the page (DEC-037); Russ approved the planned changes and reviews before Group Launch Sunday. Access does not authorize unapproved claims, offerings, leaders, schedules, locations, or readiness statuses.
 
 Keep website and Church Center names, descriptions, schedules, locations, enrollment status, and participant next steps aligned. Do not publish unapproved offerings, doctrinal claims, policies, leaders, locations, or readiness statuses.
 

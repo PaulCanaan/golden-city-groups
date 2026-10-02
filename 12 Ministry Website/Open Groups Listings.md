@@ -33,7 +33,7 @@ The internal "Anything else we should know?" field is never published.
 
 - Update or remove a listing when a group changes its rhythm, closes, or fills.
 - Each semester, refresh listings from the new City Group Profile submissions.
-- Record material changes in the [[12 Ministry Website/Website Change Log|Website Change Log]].
+- Record material changes in the [[12 Ministry Website/Development Journey|Development Journey]].
 
 ## Connections
 
