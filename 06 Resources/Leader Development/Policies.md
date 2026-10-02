@@ -45,6 +45,8 @@ Group leadership is stewardship of people made in God's image. Boundaries serve 
 
 ## Remaining Policy Work
 
+Draft policies for common group situations (emergencies, suspected abuse, suicide risk, confidentiality, care referrals, money, conflict, conduct, home gatherings, alcohol, children, transportation, online privacy, and safety concerns) are in [[06 Resources/Leader Development/Group Leader Policies — Draft for Pastoral Review|Group Leader Policies — Draft for Pastoral Review]], awaiting Russ's review. They do not govern until approved.
+
 The minimum boundaries above are approved. Russ directed staff to continue forming governing policies and confirm the primary and backup escalation contacts. The completed policy should identify:
 
 - appointment, correction, pause, and removal authority

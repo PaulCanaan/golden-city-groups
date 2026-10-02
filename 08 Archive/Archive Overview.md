@@ -5,6 +5,7 @@
 - [[08 Archive/Decisions/2026-08-05 Staff Meeting Minutes]] — formal record of the August 5 approved staff meeting outcomes connected to DEC-034–041
 - [[08 Archive/Decisions/2026-08-28 Staff Meeting Updates]] — authoritative operational and ministry-direction updates connected to DEC-037, DEC-042, and DEC-043–046
 - [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes]] — Russ and Paul's September 25 Group Launch Readiness meeting, connected to DEC-051–058
+- [[08 Archive/Decisions/2026-09-30 Follow-Up Meeting Minutes]] — Russ and Paul's September 30 follow-up meeting, connected to DEC-060–064
 - [[08 Archive/Inactive Groups]]
 - [[08 Archive/Past Programs]]
 - [[08 Archive/Operations/Weekly Review]] — superseded recurring-review checklist preserved as historical operating evidence

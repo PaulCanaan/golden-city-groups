@@ -33,6 +33,12 @@ When a person expresses interest in Groups on the card, whether in leading or pa
 
 **Still undocumented:** the card's owner, field set, consent language, and routing to the Groups Director. As a church-wide instrument it falls under Russ's participant-system ownership (DEC-032) and is tracked in BWR-009.
 
+### City Group Profile (ready leaders)
+
+The Church Center form *City Group Profile — Fall 2026* goes only to City Group leaders who are already ready to lead: they have completed the Group Leader Conversation and brief training, and Paul and Russ have decided together that they are ready. Leaders use it to describe their group's name and area, leader photos, frequency, day, time, general meeting area, start date, resource, features, and public description. It collects no private address. Paul uses the submission to build the Planning Center group and publish it. The full field list and workflow are in [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] (DEC-059).
+
+This is not an intake form. It is separate from the Group Leader workflow and does not appoint anyone.
+
 ### Public participant enrollment
 
 Russ owns this system, with Paul as backup. Offering-specific notification and follow-up assignments still must be tested and recorded.
@@ -58,7 +64,7 @@ Before any link is promoted:
 
 - [ ] The offering has completed [[Launch Checklist]].
 - [ ] The specific Church Center URL works on desktop and mobile.
-- [ ] The public name, description, schedule, rough location, and capacity are accurate. No address or detailed location is published; full details go by email to people who join.
+- [ ] The public name, description, schedule, rough location, and capacity are accurate. No address or detailed location is published; full details go privately to people who join.
 - [ ] The enrollment mode matches the approved process.
 - [ ] Required fields and consent language are approved.
 - [ ] The request reaches the correct owner and backup.

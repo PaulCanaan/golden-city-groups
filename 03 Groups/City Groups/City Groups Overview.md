@@ -6,6 +6,8 @@
 
 ## Ministry Emphasis
 
+City Groups are meant to be a signature ministry of Golden City Church. Because the church bears the name Golden City, "City Groups" should be heard as Golden City's own groups ministry, sharing the church's vision and mission: to be in the city and for the city (DEC-062).
+
 City Groups provide community, pastoral connection, prayer, mutual care, and everyday discipleship close to home. Their emphasis is approximately 80% fellowship and 20% discipleship (DEC-053): breaking bread together and praying for one another. City Groups are unapologetically Christian community groups. They need not be in-depth Bible studies; their priority is that people find belonging.
 
 Shared life is part of discipleship. The [[Weekly Recaps|Weekly Recap]] is available but optional. When used, it should help people attend to Christ and respond faithfully without turning a City Group into a class.
@@ -25,7 +27,9 @@ Design freedom does not waive the leader standard (DEC-027), the care and safegu
 
 Young adults groups, Run Club, and a potential future Youth City Group sit under City Groups for now; no separate featured-groups category exists, though one may be considered later. Classification does not activate an offering: Run Club and Youth City Group remain deferred under DEC-022 until each has an owner and completes readiness, and a Youth City Group would first need the DEC-028 safeguards for minors.
 
-**Locations and group communication:** Publicly, a City Group shows only a rough location, such as "North Thornton." Its full details are emailed to people who join. Hosts are free to create a group chat for their group (group text, GroupMe, Church Center, or similar) and share gathering details there; sensitive care details stay out of it (DEC-028).
+**Locations and group communication:** Publicly, a City Group shows only a rough location, such as "North Thornton." Its full details go privately to people who join. Once Paul assigns the leaders to their Planning Center group, they manage the group themselves and may share details, including the address, by email or in a group chat (Planning Center, Church Center, group text, GroupMe, or similar); sensitive care details stay out of it (DEC-028).
+
+**Becoming a listed group:** A leader who is ready to lead (Group Leader Conversation, brief training, and a joint Paul–Russ decision) completes the City Group Profile form, and Paul builds and publishes the group through the [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] workflow (DEC-059).
 
 ## Group Launch Sunday
 

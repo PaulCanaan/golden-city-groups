@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Confirmed Bible Club with approved curriculum; Notion publishing and operating readiness are separate workstreams.** Paul will lead the twelve-week Planted Bible Club beginning Tuesday evening, October 6, 2026. The curriculum is being finalized and published in Notion. Location and final readiness remain unresolved; the location was still TBD at the September 25 staff meeting.
+**Confirmed Bible Club with approved curriculum; Notion publishing and operating readiness are separate workstreams.** Paul will lead the twelve-week Planted Bible Club beginning Tuesday evening, October 6, 2026. The curriculum is being finalized and published in Notion. Location and final readiness remain unresolved. As of September 30, Planted will very likely meet at Barn Door Coffee, the coffee shop of Discovery Church in Broomfield, on Tuesday evenings: Russ has spoken with Discovery Church's pastor, and Paul will visit to confirm the space.
 
 Under DEC-054, Planted recurs every fall as the Bible Club's seeker- and new-believer-friendly curriculum, and people who complete it may be considered to lead it in the future (subject to DEC-027). Paul is preparing the study materials (DEC-055). Paul's September 25 minutes style the title *Planted.*, which bears on the naming question below.
 

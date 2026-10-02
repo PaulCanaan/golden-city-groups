@@ -15,8 +15,9 @@ The July and August events are now historical. Their missing outcomes are tracke
 - **October 4:** Group Launch Day (DEC-048). Groups are presented at lobby tables, each with an information card and join QR code (DEC-051).
 - **October 11:** Optional second lobby presentation for groups with many open spots (DEC-051).
 - **October 4–18:** City Groups begin meeting at each leader's choice (DEC-052).
-- **Friday, October 16:** Women's Collective begins (DEC-058).
-- **Early November:** First Group Leader Collaboration, about one month after Group Launch Sunday (DEC-056).
+- **Thursday, October 8:** Men's Collective begins (DEC-060).
+- **Thursday, October 15:** Women's Collective begins (DEC-060).
+- **Early November:** First Group Leader Collaboration, a dinner for all current leaders about one month after Group Launch Sunday (DEC-056).
 
 During the August Team Nights, Paul was the assigned on-site leader-interest point person, helping Launch Team members submit the Planning Center form, receiving and organizing submissions through his admin access, and emailing applicants about Group Leader Conversations and immediate next steps. Actual execution still requires Paul's confirmation. Paul owns interviews, assessment, and training facilitation under DEC-031. Detailed standards, dates, assignment, appointment records, and commissioning remain unresolved.
 
@@ -34,7 +35,7 @@ The primary Fall 2026 objective is to recruit Launch Team members to host City G
 4. Confirm group assignments, hosts or locations, and participant capacity.
 5. Commission approved leaders through a practice still requiring confirmation.
 6. Open or continue participant sign-up only for launch-ready offerings.
-7. Prepare Collectives and Bible Clubs to operate in October; Planted begins Tuesday evening, October 6, Women's Collective begins Friday, October 16, Men's Collective's start date remains TBD, and every offering remains subject to final readiness.
+7. Prepare Collectives and Bible Clubs to operate in October; Planted begins Tuesday evening, October 6, Men's Collective begins Thursday, October 8, Women's Collective begins Thursday, October 15, and every offering remains subject to final readiness.
 
 Training dates, commissioning details, leader names, City Group assignments, and start dates other than Planted remain pending.
 
@@ -49,11 +50,11 @@ Their inclusion in planning does not mean each offering is staffed, approved, or
 
 Current Collective architecture:
 
-- **Men's Collective:** biweekly on first and third Wednesdays; intended co-leads Conner O'Brien and Russ Daly.
-- **Women's Collective:** every other Friday evening at the Dalys' home, starting Friday, October 16 (DEC-058); intended co-leads Rachel O'Brien and Miranda Daly.
+- **Men's Collective:** Thursdays from October 8, at the Dalys' home for now (DEC-060); intended co-leads Conner O'Brien and Russ Daly.
+- **Women's Collective:** Thursdays from October 15, likely rotating between the Dalys' and the O'Briens' homes (DEC-060); intended co-leads Rachel O'Brien and Miranda Daly.
 - **Study:** both Collectives study Galatians through 2026, paralleling *The Fruit of the Spirit* weekend series; Russ and Conner O'Brien are responsible for materials, with Miranda Daly and Rachel O'Brien in the content discussions (DEC-055).
 
-Times, Men's venue and start date, participant paths, communications, leader-path completion, and final readiness remain open. Conner's and Rachel's expressed interest is not formal appointment. Russ is responsible for securing an appropriate October classroom or venue for Men's Collective and Planted; Paul owns downstream setup after the venue is known.
+Both Collectives meet every other Thursday. Times, participant paths, communications, leader-path completion, and final readiness remain open. Conner's and Rachel's expressed interest is not formal appointment. Russ intends the Collectives to move on-site in the future, and the search for a location continues.
 
 Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-022 and are not required for the initial launch.
 
@@ -65,7 +66,7 @@ Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-
 - Planted Bible Club: facilitator-led study of Scripture
 - Future Classes: development path under Bible Clubs, not a fall offering category
 
-Paul is confirmed to lead the twelve-week Planted Bible Club beginning Tuesday evening, October 6. Curriculum is approved and is being finalized and published in Notion. Notion publishing, location, full session calendar, and remaining operational readiness details are tracked separately.
+Paul is confirmed to lead the twelve-week Planted Bible Club beginning Tuesday evening, October 6. Curriculum is approved and is being finalized and published in Notion. It will very likely meet at Barn Door Coffee (Discovery Church, Broomfield) on Tuesday evenings, pending Paul's confirmation visit. Notion publishing, full session calendar, and remaining operational readiness details are tracked separately.
 
 ## Connections
 

@@ -17,7 +17,7 @@ Future Classes may become teacher-led, structured environments for topic-based e
 
 Classes should be rigorous without becoming detached academic programs and spiritually formative without treating reflection or emotion as a substitute for careful learning.
 
-Financial classes and marriage classes are approved examples of possible future types, not approved offerings. Every future Class still requires an owner, teacher, curriculum review, operating plan, participant path, and readiness approval.
+Financial classes and marriage classes are approved examples of possible future types, not approved offerings. On September 30, 2026, Russ also mentioned Alpha, Barna resources, and the Freedom course from Church of the Highlands (see DEC-036) as future class ideas; none is approved. Every future Class still requires an owner, teacher, curriculum review, operating plan, participant path, and readiness approval.
 
 ## Curriculum
 

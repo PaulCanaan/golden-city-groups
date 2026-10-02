@@ -59,6 +59,8 @@ Do not evaluate every environment as though it serves the same purpose.
 
 The distinctions are interpretive guides, not numerical performance targets or public ministry language.
 
+**Uneven numbers are normal (DEC-061).** Some groups will be more popular than others. Few sign-ups or inconsistent attendance do not disqualify a leader, and leaders should not be discouraged by them; a Collective with 40 sign-ups and another with 2 can both be a normal dynamic for this church. Read sign-up and attendance counts as context for care, never as a verdict on a leader.
+
 ## Connections
 
 - [[Operation Overview]] — Metrics track ministry health as part of operations.

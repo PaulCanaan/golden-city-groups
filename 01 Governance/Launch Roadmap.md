@@ -15,9 +15,9 @@ This is a planning framework. The public church launch date and approved ministr
 - Paul is the operational point person for the ministry and Planning Center; Russ or his designated pastor gives final readiness approval.
 - Initial scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas.
 - Planted is a twelve-week Bible Club beginning Tuesday evening, October 6, 2026, with Paul leading. Its curriculum is approved and is being finalized and published in Notion; location and final operational readiness remain open.
-- Men's Collective will meet biweekly on first and third Wednesdays; its start date, time, venue, and final readiness remain open. Women's Collective starts Friday, October 16 and meets every other Friday evening at the Dalys' home (DEC-058). Both Collectives study Galatians through 2026 (DEC-055).
+- Men's Collective starts Thursday, October 8 at the Dalys' home for now; Women's Collective starts Thursday, October 15, likely rotating between the Dalys' and the O'Briens' homes (DEC-060). Both meet every other Thursday (every two weeks). Russ intends the Collectives to become on-site gatherings in the future. Both Collectives study Galatians through 2026 (DEC-055).
 - The intended co-leads are Conner O'Brien and Russ Daly for Men's Collective and Rachel O'Brien and Miranda Daly for Women's Collective. Conner's and Rachel's expressed interest is not appointment; the canonical leader pathway still applies.
-- Russ is seeking an appropriate classroom or venue for Men's Collective and Planted. Paul owns downstream setup after a venue is known.
+- *Planted.* will very likely meet at Barn Door Coffee (Discovery Church, Broomfield) on Tuesday evenings; Russ has spoken with Discovery Church's pastor, and Paul will visit to confirm. The search continues for a future on-site Collective location.
 - Groups Ministry has three confirmed branches: City Groups for life together, Collectives for shared encouragement, and Bible Clubs rooted in Scripture. Classes are a future development path under Bible Clubs.
 - Groups Ministry should support the launch without creating structures too complicated to operate.
 - The minimum viable launch model must be distinguished from the ideal future model.

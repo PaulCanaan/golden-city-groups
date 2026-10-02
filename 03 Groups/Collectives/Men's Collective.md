@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Planned Men's Collective; October readiness at risk.** The biweekly first-and-third-Wednesday cadence and intended co-lead structure are confirmed direction. The Galatians study is approved (DEC-055). Time, location (still TBD at the September 25 staff meeting), leader-path completion, participant path, communication, and final readiness remain unresolved.
+**Planned Men's Collective; October readiness at risk.** Men's Collective starts Thursday, October 8, 2026 at the Dalys' home for now (DEC-060). The intended co-lead structure is confirmed direction, and the Galatians study is approved (DEC-055). It meets every other Thursday. Time, leader-path completion, participant path, communication, and final readiness remain unresolved.
 
 ## Ministry Emphasis
 
@@ -12,7 +12,14 @@ The approved long-term direction is for Men's Collective to mature into a broade
 
 The intended co-leads are Conner O'Brien and Russ Daly. Conner expressed interest during a Group Leader Conversation; that interest is not formal approval or commissioning. Each named leader remains subject to the applicable qualification, conversation, safeguarding, preparation, appointment, and readiness requirements.
 
-The current cadence is the first and third Wednesdays of each month. The October start date, time, classroom or venue (BWR-018), capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.
+## Schedule and Location
+
+- **Start:** Thursday, October 8, 2026 (DEC-060), superseding the first-and-third-Wednesday cadence in DEC-043.
+- **Rhythm:** every other Thursday (every two weeks), confirmed by Paul on October 1, 2026.
+- **Location:** the Dalys' home for now. Russ intends the Collectives to become on-site gatherings in the future, and the ministry is watching for a location. Do not record the address in this repository; publicly, show only a rough area.
+- **Safeguards:** DEC-028 requires the applicable safeguards to be confirmed before meetings in a private home.
+
+The time, capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.
 
 ## Gathering Shape
 

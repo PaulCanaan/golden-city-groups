@@ -157,13 +157,15 @@ See [[Forms]], [[05 Leadership/Group Leaders]], and the [[Communication#Journey 
 
 ### 4. Build the group record
 
+For a City Group, build the record from the leader's City Group Profile submission through the [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] workflow (DEC-059). After assignment, leaders manage their own group in Planning Center.
+
 Keep the record **unlisted** with enrollment **closed** while details remain provisional. Enter only confirmed information:
 
 - approved name and public description;
 - accountable ministry owner;
 - appointed leader;
 - verified schedule and location;
-- realistic capacity and enrollment method;
+- enrollment method, and capacity once it is needed (capacity is set in follow-up rather than at launch under DEC-059);
 - approved Church Center contact path;
 - actual season events, including holidays and breaks;
 - approved reminder, RSVP, attendance, resource, privacy, and chat settings.

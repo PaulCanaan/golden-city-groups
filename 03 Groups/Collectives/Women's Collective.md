@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Planned Women's Collective; October readiness at risk.** DEC-058 sets the start (Friday, October 16), an every-other-Friday-evening rhythm, and the Dalys' home as the location. The intended co-lead structure is confirmed direction. Exact time, leader-path completion, participant path, communication, home-meeting safeguards, and final readiness remain unresolved.
+**Planned Women's Collective; October readiness at risk.** DEC-060 sets a Thursday rhythm starting October 15, with the location likely rotating between the Dalys' and the O'Briens' homes. It meets every other Thursday. The intended co-lead structure is confirmed direction. Exact time, leader-path completion, participant path, communication, home-meeting safeguards, and final readiness remain unresolved.
 
 ## Ministry Emphasis
 
@@ -24,9 +24,9 @@ Men's and Women's Collectives study the book of Galatians for the rest of 2026, 
 
 ## Schedule and Location
 
-- **Start:** Friday, October 16, 2026. (The minutes stated October 15; Paul corrected it on September 29.)
-- **Rhythm:** every other Friday evening (DEC-058). This supersedes the second-and-fourth-Wednesday cadence in DEC-043.
-- **Location:** the Dalys' home. Do not record the address in this repository. Publicly, show only a rough area; the full details are emailed to people who join.
+- **Start:** Thursday, October 15, 2026 (DEC-060). Miranda and Rachel found Thursdays work better than Fridays; this supersedes the Friday rhythm in DEC-058.
+- **Rhythm:** every other Thursday (every two weeks), confirmed by Paul on October 1, 2026.
+- **Location:** likely rotating between the Dalys' and the O'Briens' homes. Russ intends the Collectives to become on-site gatherings in the future. Do not record the address in this repository. Publicly, show only a rough area; the full details go privately to people who join.
 - **Safeguards:** DEC-028 requires the applicable safeguards to be confirmed before meetings in a private home.
 
 The exact time, capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.

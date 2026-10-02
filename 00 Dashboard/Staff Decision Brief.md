@@ -164,7 +164,7 @@ These recommendations are not a substitute for church policy, legal guidance, or
 
 Run Club, Youth City Group, and Young Adults Group remain deferred ideas under DEC-022 and should not be added to this active table unless staff reactivates them.
 
-DEC-043 confirms the first/third-Wednesday Men's cadence. DEC-058 moves Women's Collective to every other Friday evening at the Dalys' home, starting Friday, October 16. DEC-044 records the intended co-lead teams without treating Conner's or Rachel's expressed interest as appointment. Time, venue, October start dates, participant paths, leader-path completion, escalation contacts, and readiness dispositions remain open.
+DEC-060 moves both Collectives to Thursdays in homes: Men's from October 8, Women's from October 15. DEC-044 records the intended co-lead teams without treating Conner's or Rachel's expressed interest as appointment. Time, venue, October start dates, participant paths, leader-path completion, escalation contacts, and readiness dispositions remain open.
 
 **Question surfaced through Inbox processing:** Which of the three branches should the August Team Night leader-interest invitation name as actively receiving interest? Fall 2026 now prioritizes recruiting Launch Team members to host City Groups; naming another branch must not imply that a role or offering is approved or launch-ready.
 

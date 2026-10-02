@@ -11,6 +11,7 @@ This is the canonical chronological register for Groups Ministry decisions. It r
 - The August 5 staff meeting record is preserved in [[08 Archive/Decisions/2026-08-05 Staff Meeting Minutes|2026-08-05 Staff Meeting Minutes]].
 - The August 28 staff meeting updates are preserved in [[08 Archive/Decisions/2026-08-28 Staff Meeting Updates|2026-08-28 Staff Meeting Updates]].
 - The September 25 staff meeting minutes are preserved in [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes|2026-09-25 Staff Meeting Minutes]].
+- The September 30 follow-up meeting minutes are preserved in [[08 Archive/Decisions/2026-09-30 Follow-Up Meeting Minutes|2026-09-30 Follow-Up Meeting Minutes]].
 - Meeting-ready proposals are developed in [[Staff Decision Brief|Staff Decision Brief]].
 
 An item is not governing merely because it appears in the staff brief. Proposed items become confirmed only after staff or pastoral direction is recorded here and the full record is added to Decision History.
@@ -81,13 +82,13 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-034 | [[08 Archive/Decisions/Decision History#DEC-034 — Three-Branch Groups Ministry Architecture\|Three-Branch Groups Ministry Architecture]] | Superseded in part by DEC-047 | 2026-08-05 | Ministry Architecture | DEC-025 (active architecture and clarification) | DEC-047 (branch purpose language) | — |
 | DEC-035 | [[08 Archive/Decisions/Decision History#DEC-035 — Long-Term Ministry Development Pathways\|Long-Term Ministry Development Pathways]] | Confirmed long-term direction | 2026-08-05 | Strategy | — | — | — |
 | DEC-036 | [[08 Archive/Decisions/Decision History#DEC-036 — Freedom Groups as Future Featured Ministry\|Freedom Groups as Future Featured Ministry]] | Confirmed future planning direction | 2026-08-05 | Strategy | — | — | — |
-| DEC-037 | [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership\|Groups Ministry Website Ownership]] | Confirmed; implemented 2026-08-28 | 2026-08-05 | Communication | — | — | Paul |
+| DEC-037 | [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership\|Groups Ministry Website Ownership]] | Confirmed; implemented 2026-08-28; review path recorded 2026-10-01 | 2026-08-05 | Communication | — | — | Paul |
 | DEC-038 | [[08 Archive/Decisions/Decision History#DEC-038 — Planted Notion Finalization and October Readiness Target\|Planted Notion Finalization and October Readiness Target]] | Confirmed | 2026-08-05 | Curriculum | — | — | Paul |
 | DEC-039 | [[08 Archive/Decisions/Decision History#DEC-039 — Leader Resources and SOP Research Direction\|Leader Resources and SOP Research Direction]] | Confirmed development direction | 2026-08-05 | Safety & Care | — | — | — |
 | DEC-040 | [[08 Archive/Decisions/Decision History#DEC-040 — Fall 2026 and Spring 2027 Leadership Objectives\|Fall 2026 and Spring 2027 Leadership Objectives]] | Confirmed | 2026-08-05 | Strategy | — | — | — |
 | DEC-041 | [[08 Archive/Decisions/Decision History#DEC-041 — CoJourner Leader-Development Pathway\|CoJourner Leader-Development Pathway]] | Superseded by DEC-045 | 2026-08-05 | Leadership | — | DEC-045 | — |
 | DEC-042 | [[08 Archive/Decisions/Decision History#DEC-042 — Group Leader Intake-to-Launch Workflow\|Group Leader Intake-to-Launch Workflow]] | Confirmed | Recorded 2026-09-03; decision date not recorded | Operations | — | — | Groups Director |
-| DEC-043 | [[08 Archive/Decisions/Decision History#DEC-043 — Biweekly Collective Cadence\|Biweekly Collective Cadence]] | Confirmed for Men's; Women's cadence superseded by DEC-058 | 2026-08-28 | Operations | DEC-015 (Collective rhythms and prior Women's location) | DEC-058 (Women's cadence) | — |
+| DEC-043 | [[08 Archive/Decisions/Decision History#DEC-043 — Biweekly Collective Cadence\|Biweekly Collective Cadence]] | Superseded by DEC-058 (Women's) and DEC-060 (Men's) | 2026-08-28 | Operations | DEC-015 (Collective rhythms and prior Women's location) | DEC-058; DEC-060 | — |
 | DEC-044 | [[08 Archive/Decisions/Decision History#DEC-044 — Intended Collective Leadership Structure\|Intended Collective Leadership Structure]] | Confirmed direction; appointments pending | 2026-08-28 | Leadership | — | — | Men's: Conner O'Brien and Russ Daly; Women's: Rachel O'Brien and Miranda Daly |
 | DEC-045 | [[08 Archive/Decisions/Decision History#DEC-045 — CoJourner Group-Leader Training Architecture\|CoJourner Group-Leader Training Architecture]] | Confirmed | 2026-08-28 | Leadership | DEC-041 | — | Paul (implementation planning) |
 | DEC-046 | [[08 Archive/Decisions/Decision History#DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target\|October 2026 Collectives and Bible Clubs Readiness Target]] | Confirmed | 2026-08-28 | Launch | — | — | Russ (venue); Paul (downstream setup) |
@@ -102,7 +103,13 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-055 | [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study\|Weekly Recap and Fall 2026 Collectives Study]] | Confirmed; resolves PRO-033 | 2026-09-25 | Curriculum | — | — | Russ and Paul (Weekly Recap); Russ and Conner O'Brien (Collective materials), with Miranda Daly and Rachel O'Brien in content discussions; Paul (Planted materials) |
 | DEC-056 | [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations\|Group Leader Collaborations]] | Confirmed | 2026-09-25 | Leadership | — | — | — |
 | DEC-057 | [[08 Archive/Decisions/Decision History#DEC-057 — Groups Ministry Communication Channels\|Groups Ministry Communication Channels]] | Confirmed | 2026-09-25 | Communication | — | — | Paul |
-| DEC-058 | [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location\|Women's Collective Start, Rhythm, and Location]] | Confirmed; first date corrected to 2026-10-16 by Paul's 2026-09-29 clarification | 2026-09-25 | Operations | DEC-043 (Women's cadence) | — | — |
+| DEC-058 | [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location\|Women's Collective Start, Rhythm, and Location]] | Superseded by DEC-060 | 2026-09-25 | Operations | DEC-043 (Women's cadence) | DEC-060 | — |
+| DEC-059 | [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow\|Group Launch Readiness Workflow]] | Confirmed | 2026-10-01 | Operations | — | — | Paul |
+| DEC-060 | [[08 Archive/Decisions/Decision History#DEC-060 — Thursday Collective Schedules and On-Site Direction\|Thursday Collective Schedules and On-Site Direction]] | Confirmed | 2026-09-30 | Operations | DEC-058; DEC-043 (Men's cadence) | — | — |
+| DEC-061 | [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal\|Uneven Group Dynamics Are Normal]] | Confirmed | 2026-09-30 | Leadership | — | — | — |
+| DEC-062 | [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City\|City Groups as a Signature Ministry of Golden City]] | Confirmed | 2026-09-30 | Strategy | — | — | — |
+| DEC-063 | [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides\|City Group and Collective Leader Guides]] | Confirmed development direction | 2026-09-30 | Leadership | — | — | Paul |
+| DEC-064 | [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director\|Pastoral Availability of the Groups Ministry Director]] | Confirmed | 2026-09-30 | Leadership | — | — | Paul |
 
 ## Open Decisions
 

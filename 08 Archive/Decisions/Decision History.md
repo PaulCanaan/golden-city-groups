@@ -382,6 +382,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [[2026-08-05 Staff Meeting Minutes#3 — Freedom Groups|August 5, 2026 Staff Meeting Minutes]].
 - **Implications:** Future-ministry planning may name and research the concept.
 - **Boundary:** Freedom Groups are not an active Groups Ministry branch or an approved launch offering. The model, adaptation, curriculum, ownership, policy, and readiness would require later review.
+- **Later mention:** On September 30, 2026, Russ named the Freedom course from Church of the Highlands, alongside Alpha and Barna resources, as possible future class ideas. No class is approved. Source: [[2026-09-30 Follow-Up Meeting Minutes#7 — Future Class Ideas|September 30, 2026 Follow-Up Meeting Minutes]].
 
 ### DEC-037 — Groups Ministry Website Ownership
 
@@ -392,6 +393,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** Russ granted access by August 28. Paul now owns implementation work on `goldencity.church/groups` and may maintain approved Groups Ministry content.
 - **Boundary:** The completed access handoff does not confer authority to publish unapproved ministry claims, offerings, leaders, schedules, locations, or readiness statuses. Material-change review remains to be clarified.
 - **Implementation evidence:** Paul supplied the August 28 staff-meeting update that Russ had granted Squarespace access.
+- **Implementation update — October 1, 2026:** Paul reported that Russ has approved Paul to make changes to the Groups webpage, including the new **Open Groups** section (DEC-059), and that Russ will do a quick review before Group Launch Sunday. This establishes the material-change review path that had been open.
 
 ### DEC-038 — Planted Notion Finalization and October Readiness Target
 
@@ -451,7 +453,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]].
 - **Implications:** Collective, calendar, launch, readiness, and communication documents should use the Wednesday architecture and no longer treat the July 23 Monday rhythms or prior Women's location as current.
 - **Boundary:** This decision does not establish start dates, times, locations, capacity, participant paths, appointed leaders, communications readiness, or final readiness.
-- **Subsequent direction:** DEC-058 supersedes the Women's Collective cadence with an every-other-Friday-evening rhythm. The Men's first-and-third-Wednesday cadence remains governing.
+- **Subsequent direction:** DEC-058 superseded the Women's Collective cadence with an every-other-Friday-evening rhythm. DEC-060 then moved both Collectives to Thursdays, superseding the Men's first-and-third-Wednesday cadence.
 
 ### DEC-044 — Intended Collective Leadership Structure
 
@@ -597,6 +599,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Context:** Paul recorded group leader collaborations as a proposed future development on September 22, 2026 in [[02 Group Philosophy/Healthy Groups/Supporting Leaders and Groups|Supporting Leaders and Groups]]. This decision approves them and moves the first one into the launch season.
 - **Implications:** Leader support now has a peer setting alongside leader resources and CoJourner. CoJourner planning may use Collaborations as its setting (DEC-045). The first Collaboration falls in early November 2026.
 - **Boundary:** The exact date, location, format, cadence after the first gathering, and attendance expectations are open. CoJourner's facilitator, dates, and completion criteria remain open under DEC-045. A Collaboration is not the pastoral-care or safeguarding escalation path, and attendance is not appointment.
+- **Implementation update — September 30, 2026:** Russ affirmed the idea. Paul plans the first Collaboration as a dinner for all current leaders about one month after Group Launch Sunday, to hear how everyone's groups went. Details will be shared in the Planning Center group chat for all current leaders. Date, place, and cost remain open. Source: [[2026-09-30 Follow-Up Meeting Minutes#6 — Group Leader Collaborations|September 30, 2026 Follow-Up Meeting Minutes]].
 
 ### DEC-057 — Groups Ministry Communication Channels
 
@@ -617,7 +620,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 ### DEC-058 — Women's Collective Start, Rhythm, and Location
 
 - **Decision:** Women's Collective starts on Friday, October 16, 2026 and meets every other Friday evening at the Dalys' home. The locations for Men's Collective and *Planted.* remain to be determined.
-- **Status:** Confirmed; supersedes DEC-043's Women's Collective cadence
+- **Status:** Superseded by DEC-060; it had superseded DEC-043's Women's Collective cadence
 - **Date and approver:** September 25, 2026; Russ and Paul
 - **Domain:** Operations
 - **Supersedes:** DEC-043 in part (Women's second-and-fourth-Wednesday cadence)
@@ -625,6 +628,72 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** Women's Collective no longer depends on Russ's venue search (DEC-046, BWR-018), which now covers Men's Collective and *Planted.* The Women's second-and-fourth-Wednesday cadence is no longer current. Men's Collective keeps its first-and-third-Wednesday cadence.
 - **Clarification — September 29, 2026 (Paul):** The minutes stated October 15, which is a Thursday; the first gathering is Friday, October 16, 2026. Publicly, the location is shown only as a rough area; the full details are emailed to people who join. Source: [[2026-09-25 Staff Meeting Minutes#Clarifications|Paul's clarifications of September 29, 2026]].
 - **Boundary:** The exact time, capacity, participant path, and final readiness remain open. DEC-028 requires the applicable safeguards to be confirmed before meetings in a private home. The home address must not be recorded in this repository or published. DEC-044 co-lead appointments remain pending.
+- **Subsequent direction:** DEC-060 (September 30, 2026) moved Women's Collective to Thursdays, starting October 15, with a likely rotation between the Dalys' and O'Briens' homes.
+
+### DEC-059 — Group Launch Readiness Workflow
+
+- **Decision:** A City Group leader is **ready to lead** after completing the Group Leader Conversation, which looks at spiritual maturity and season of life, and a brief group leader training, and after Paul and Russ decide together, having talked through how the conversation went, that the person is ready. Each ready leader then enters the Group Launch Readiness workflow: Paul sends the *City Group Profile* form; reviews the submission; builds the Planning Center group and assigns the leaders, who then manage their own group; publishes the group in Church Center and in a new **Open Groups** section of the Groups webpage linked to its Planning Center group; and makes a lobby table card. Men's Collective, Women's Collective, and *Planted.* are also listed in Open Groups, have table cards, and are presented on Group Launch Sunday, though they do not use the form. Leaders share detailed meeting information, including addresses, privately with members, for example in a Planning Center or Church Center group chat. Capacity is set in follow-up when it becomes an issue rather than at launch.
+- **Status:** Confirmed
+- **Date and approver:** October 1, 2026; direction supplied by Paul as Ministry Director under DEC-021. The ready-to-lead decision is held jointly by Paul and Russ, as Paul described it; Russ's appointment authority under DEC-027 is unchanged.
+- **Domain:** Operations
+- **Owner:** Paul
+- **Evidence:** Paul's October 1, 2026 description of the workflow and the Church Center form *City Group Profile — Fall 2026*, recorded in [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]].
+- **Implications:** The Fall 2026 ready-to-lead standard is now recorded: conversation, brief training, and a joint Paul–Russ decision. The workflow carries ready leaders from the Group Leader workflow's **Attended Training** stage to **Small Group Launched**. It is a separate workflow from DEC-042 and does not change its stages. City Group detail finalization under DEC-051 runs through the profile form.
+- **Boundary:** The content and completion record of the brief training, the form of the appointment record, and commissioning remain undocumented (BWR-006). The form and a Planning Center group do not prove readiness, and the DEC-028 minimum boundaries still apply, including confirming safeguards before groups meet in private homes. Run Club and a Young Adults City Group are still under discussion and are not published as active groups until a ready leader brings each through this workflow (DEC-022).
+
+### DEC-060 — Thursday Collective Schedules and On-Site Direction
+
+- **Decision:** Both Collectives move to Thursdays. Women's Collective starts Thursday, October 15, 2026; its location will likely rotate between the Dalys' and the O'Briens' homes. Men's Collective starts Thursday, October 8, 2026 and gathers at the Dalys' home for now. Russ intends the Collectives to become on-site gatherings in the future, unlike the off-site, location-based City Groups, and the ministry keeps watching for a location to host them. Schedule and location details are normal to change and are held with flexibility.
+- **Status:** Confirmed; supersedes DEC-058 and the Men's cadence in DEC-043
+- **Date and approver:** September 30, 2026; Russ and Paul. The Women's Collective change came from Miranda Daly and Rachel O'Brien's discussion, relayed by Russ.
+- **Domain:** Operations
+- **Supersedes:** DEC-058 (Women's Friday rhythm, October 16 start, and location); DEC-043 (Men's first-and-third-Wednesday cadence)
+- **Evidence:** [[2026-09-30 Follow-Up Meeting Minutes#1 — Collective Schedules and Locations|September 30, 2026 Follow-Up Meeting Minutes, item 1]].
+- **Implications:** Calendar, Collective, launch, and communication pages use Thursday schedules. Men's Collective no longer depends on the venue search for its October start; the search continues for a future on-site location. The on-site intent restates the centralized model first described in DEC-009.
+- **Clarification — October 1, 2026 (Paul):** Both Collectives meet every two weeks (every other Thursday).
+- **Boundary:** The Women's rotation is likely, not settled. Exact times, capacity, participant paths, and final readiness remain open. DEC-028 requires the applicable safeguards to be confirmed before meetings in private homes. Addresses stay out of this repository and public listings. DEC-044 appointments remain pending.
+
+### DEC-061 — Uneven Group Dynamics Are Normal
+
+- **Decision:** Some groups will be more popular than others, and that is okay. Few sign-ups or inconsistent attendance do not disqualify a group's leaders, and leaders should not be discouraged by them. Large differences between groups, such as 40 sign-ups for Women's Collective and 2 for Men's Collective, can be a normal dynamic for the church and the ministry, which keeps group dynamics in view as it grows.
+- **Status:** Confirmed
+- **Date and approver:** September 30, 2026; Russ and Paul
+- **Domain:** Leadership
+- **Evidence:** [[2026-09-30 Follow-Up Meeting Minutes#2 — Group Dynamics|September 30, 2026 Follow-Up Meeting Minutes, item 2]].
+- **Implications:** Leader support, check-ins, and evaluation should not treat sign-up or attendance numbers as a verdict on a leader. Metrics remain descriptive, not a test of a leader's faithfulness.
+- **Boundary:** This does not set a minimum size for a group to continue, or decide when a group closes, merges, or reaches capacity. The numbers in the minutes are an illustration, not data.
+
+### DEC-062 — City Groups as a Signature Ministry of Golden City
+
+- **Decision:** City Groups are to be an important, recognizable feature of Golden City Church. Because the church is named Golden City, "City Groups" should be heard as Golden City's groups ministry. City Groups share the church's vision and mission: to be in the city and for the city.
+- **Status:** Confirmed
+- **Date and approver:** September 30, 2026; Russ's direction, recorded by Paul
+- **Domain:** Strategy
+- **Evidence:** [[2026-09-30 Follow-Up Meeting Minutes#4 — City Groups as a Signature Ministry|September 30, 2026 Follow-Up Meeting Minutes, item 4]].
+- **Implications:** City Groups carry particular weight in ministry planning, leader development, and presentation. Their identity is tied to the church's own name and mission, not only to a group format.
+- **Boundary:** This does not rank City Groups above Collectives or Bible Clubs in formation, change the three-branch architecture (DEC-034), or change the internal formation emphases (DEC-053).
+
+### DEC-063 — City Group and Collective Leader Guides
+
+- **Decision:** The ministry will make a **City Group Guide** and a **Men's and Women's Collective Guide** so leaders serve together with a clear vision. The guides help leaders know what to expect, how to troubleshoot, and how to make a mandatory report in an emergency. They include the Groups Ministry's mission, vision, and values, leader agreements, and church policies.
+- **Status:** Confirmed development direction
+- **Date and approver:** September 30, 2026; Russ and Paul
+- **Domain:** Leadership
+- **Owner:** Paul
+- **Evidence:** [[2026-09-30 Follow-Up Meeting Minutes#5 — Leader Guides|September 30, 2026 Follow-Up Meeting Minutes, item 5]].
+- **Implications:** The draft [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] becomes the starting point for the Collective guide; a City Group Guide is new. The DEC-039 resource research feeds both.
+- **Boundary:** The guides may not invent policy. Mandatory reporting, leader agreements, and church policies depend on the policy locations and escalation contacts still open under BWR-007, and on Russ's approval of safeguarding policy under DEC-021. No content, format, or deadline is set.
+
+### DEC-064 — Pastoral Availability of the Groups Ministry Director
+
+- **Decision:** Ministry directors at Golden City Church, in Groups and in other ministries such as Kids, carry a pastoral role, not only an operational one. Following Russ's example of a sign-up calendar for coffee with him, Paul will set up a calendar so group leaders can book time with him for any form of support, pastoral or practical.
+- **Status:** Confirmed
+- **Date and approver:** September 30, 2026; Russ's encouragement, recorded by Paul
+- **Domain:** Leadership
+- **Owner:** Paul
+- **Evidence:** [[2026-09-30 Follow-Up Meeting Minutes#8 — Pastoral Role of Ministry Directors|September 30, 2026 Follow-Up Meeting Minutes, item 8]].
+- **Implications:** Leader support includes open pastoral availability alongside check-ins and Collaborations.
+- **Boundary:** Notes from these conversations stay out of this repository and general systems (DEC-028). Significant pastoral, safeguarding, or crisis concerns follow the church's escalation path rather than resting on Paul alone (DEC-028, DEC-033). This does not make Paul a licensed counselor or define Russ's calendar practice for other ministries.
 
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 

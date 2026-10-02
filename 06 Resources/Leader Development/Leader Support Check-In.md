@@ -8,6 +8,10 @@
 
 Ensure leaders are known, prayed for, supported, corrected when necessary, and connected to pastoral help without turning support into task surveillance.
 
+The Groups Ministry Director carries a pastoral role, not only an operational one (DEC-064). Alongside these check-ins, Paul will offer a sign-up calendar so leaders can book time with him for any form of support (BWR-034).
+
+**Uneven numbers are normal (DEC-061).** Some groups will be more popular than others. Few sign-ups or inconsistent attendance do not disqualify a leader, and leaders should not be discouraged by them; a Collective with 40 sign-ups and another with 2 can both be a normal dynamic for this church.
+
 ## Support Rhythm
 
 The exact cadence remains an operational decision. At minimum, prioritize:

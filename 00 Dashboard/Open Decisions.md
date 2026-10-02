@@ -11,10 +11,10 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 ### Leader Workflow Implementation Details
 
 - **Question:** What interview format and records, role-specific assessment criteria, training dates and completion requirements, assignments, appointment record, correction and removal process, and commissioning practice will complete the workflow governed by DEC-042?
-- **Why unresolved:** DEC-042 resolves the intake triggers, four Planning Center stages, ownership, and completion point. DEC-027 and DEC-031 establish the minimum standard and ownership, but these implementation details remain open.
+- **Why unresolved:** DEC-042 resolves the intake triggers, four Planning Center stages, ownership, and completion point. DEC-027 and DEC-031 establish the minimum standard and ownership, but these implementation details remain open. DEC-059 records the Fall 2026 ready-to-lead standard: the Group Leader Conversation (spiritual maturity and season of life), a brief group leader training, and a joint Paul–Russ decision. The training's content and completion record, the appointment record, correction and removal, and commissioning remain open.
 - **Blocking impact:** Launch-blocking for City Groups.
 - **Expected decision owner:** Paul develops and facilitates the process; Russ retains primary-leader appointment authority.
-- **Sources:** [[Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan|PRO-029]], [[08 Archive/Decisions/Decision History#OQ-005 — Leadership Standards and Discernment|OQ-005]].
+- **Sources:** [[Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan|PRO-029]], [[08 Archive/Decisions/Decision History#OQ-005 — Leadership Standards and Discernment|OQ-005]], [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059]].
 
 ### Backup Final-Readiness Authority
 
@@ -37,7 +37,7 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 ### Offering Readiness
 
 - **Question:** Which City Groups, Collectives, and Bible Clubs will launch, and what remaining leader approvals, escalation contacts, locations, times, start dates, capacities, participant paths, and readiness dispositions apply?
-- **Why unresolved:** DEC-043–044 establish the Men's Collective cadence and intended co-leads for both Collectives, but expressed interest is not appointment. DEC-058 sets the Women's Collective start, Friday-evening rhythm, and home location, though its first date needs clarification. DEC-051–052 set the Group Launch Sunday format and City Group design freedom without approving any group. DEC-029 assigns operational owners without completing these offering-level gates.
+- **Why unresolved:** DEC-044 establishes intended co-leads for both Collectives, but expressed interest is not appointment. DEC-060 sets Thursday starts and home locations for both Collectives (Men's October 8, Women's October 15); both meet every other Thursday. DEC-051–052 set the Group Launch Sunday format and City Group design freedom without approving any group. DEC-029 assigns operational owners without completing these offering-level gates.
 - **Blocking impact:** Launch-blocking for each offering.
 - **Expected decision owner:** Assigned operational owners prepare readiness; staff and pastoral leadership decide the remaining items within DEC-021.
 - **Sources:** [[Staff Decision Brief#PRO-027 — Active Offering Ownership and Readiness|PRO-027]], [[08 Archive/Decisions/Decision History#OQ-003 — Launch-Ready Group Expressions|OQ-003]].
@@ -94,14 +94,6 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 - **Blocking impact:** Launch-blocking before registration opens.
 - **Expected decision owner:** Russ, with Paul as backup.
 - **Sources:** [[Staff Decision Brief#PRO-030 — Church Center Intake and Planning Center Governance|PRO-030]], [[08 Archive/Decisions/Decision History#OQ-007 — Sign-Up and Placement|OQ-007]], [[08 Archive/Decisions/Decision History#OQ-012 — Participant Data Governance|OQ-012]], [[08 Archive/Decisions/Decision History#OQ-016 — Public Groups Page Participant Paths|OQ-016]].
-
-### Groups Webpage Review and Publication
-
-- **Question:** What review workflow will govern Paul's implementation and publication of material changes to `goldencity.church/groups`?
-- **Why unresolved:** Squarespace access is resolved and Paul owns implementation, but the review path for material changes is not established.
-- **Blocking impact:** Access no longer blocks work; content, offering readiness, links, and material-change approval can still block publication.
-- **Expected decision owner:** Paul implements; Russ or the appropriate pastoral reviewer confirms the review boundary.
-- **Sources:** [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership|DEC-037]], [[01 Governance/Launch Roadmap#Communication|Launch Roadmap]].
 
 ## Operations
 

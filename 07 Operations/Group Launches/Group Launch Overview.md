@@ -20,7 +20,7 @@ Connected to [[Semester Planning]] and [[07 Operations/Calendar]]
 
 The shared Planning Center workflow and documented email automations are configured. Live use, candidate-stage reconciliation, testing, and all appointment/readiness gates remain separate.
 
-Collectives and Bible Clubs have an October 2026 readiness target. Men's Collective uses a first/third-Wednesday cadence; its start, time, venue, and final readiness remain open. Women's Collective starts Friday, October 16 and meets every other Friday evening at the Dalys' home (DEC-058). Russ owns venue acquisition for Men's Collective and Planted, and Paul owns downstream operational setup after confirmation.
+Collectives and Bible Clubs have an October 2026 readiness target. Men's Collective starts Thursday, October 8 at the Dalys' home for now; Women's Collective starts Thursday, October 15, likely rotating between the Dalys' and the O'Briens' homes (DEC-060). Both meet every other Thursday (every two weeks). Russ intends the Collectives to become on-site gatherings in the future. *Planted.* will very likely meet at Barn Door Coffee in Broomfield on Tuesday evenings, pending Paul's confirmation visit. Paul owns downstream operational setup.
 
 Public leadership pathways may be developed later but are not part of the initial pre-launch recruitment process.
 
@@ -34,6 +34,7 @@ Use [[Launch Checklist]] for the operational gates that must be completed before
 
 ## Connections
 
+- [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] — workflow for ready leaders: City Group Profile form, Planning Center group, Open Groups webpage listing, and table card (DEC-059).
 - [[07 Operations/Group Launches/Group Launch MOC.canvas|Group Launch MOC]] — visual map of the October 4 Group Launch, from governing decisions to after-launch support.
 - [[Operation Overview]] — Group launches are a core operations activity each semester.
 - [[Semester Planning]] — Launch plans are developed during semester planning.

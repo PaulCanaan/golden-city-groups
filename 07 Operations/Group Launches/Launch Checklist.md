@@ -48,7 +48,7 @@
 - [ ] Required safeguarding and escalation preparation is included.
 - [ ] Each proposed group has approved leadership.
 - [ ] Each proposed group has an approved host or location.
-- [ ] Each proposed group has a defined rhythm, start window, and realistic capacity.
+- [ ] Each proposed group has a defined rhythm and start window, captured through the City Group Profile form ([[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]]). Capacity is set in follow-up when it becomes an issue (DEC-059).
 - [ ] Group assignments and participant-placement ownership are confirmed.
 
 ## Planning Center Configuration

@@ -489,7 +489,7 @@ Keep website and Church Center names, descriptions, schedules, locations, enroll
 
 DEC-053's fellowship/discipleship ratios are internal language and a ministry-design principle only; never use them in public or participant-facing communication. Young adults groups, Run Club, and a potential future Youth City Group are classified under City Groups; there is no separate featured-groups category. Run Club and Youth City Group remain deferred under DEC-022 and should not be presented as active launch offerings.
 
-**Locations:** Never publish an address or detailed location. The website, Church Center listings, and Launch Sunday information cards show only a rough location, such as "North Thornton." Send the full details by email to people who join. City Group hosts may also create their own group chats (group text, GroupMe, Church Center, or similar) and share gathering details there (DEC-057).
+**Locations:** Never publish an address or detailed location. The website, Church Center listings, and Launch Sunday information cards show only a rough location, such as "North Thornton." Full details, including addresses, go privately to people who join. Once Paul assigns leaders to their Planning Center group, leaders manage the group and may share details by email or in their own group chat (Planning Center, Church Center, group text, GroupMe, or similar) (DEC-057, DEC-059).
 
 ## Communication Gaps
 

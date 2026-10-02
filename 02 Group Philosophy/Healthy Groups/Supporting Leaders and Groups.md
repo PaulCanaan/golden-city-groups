@@ -6,7 +6,7 @@
 
 - **Leader resources** exist now in [[06 Resources/Resources Overview|Resources]].
 - **CoJourner** is the confirmed group-leader training architecture under DEC-045, targeted for completion before the Spring 2027 launch.
-- **Group leader collaborations** were approved by Russ and Paul on September 25, 2026 under [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]. The first is held about one month after Group Launch Sunday. Its date, location, format, and later cadence remain open (BWR-031).
+- **Group leader collaborations** were approved by Russ and Paul on September 25, 2026 under [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]. The first is held about one month after Group Launch Sunday. Russ affirmed the idea on September 30: the first will be a dinner for all current leaders, to hear how everyone's groups went, with details shared in the leaders' Planning Center group chat. Its date and place remain open (BWR-031).
 
 No coaching layer is established. Whether one becomes necessary is an open model question.
 
@@ -59,7 +59,9 @@ Those three things do different work, and the difference is the point:
 
 Only the third one produces knowledge the ministry did not already have. It is also the only one where a leader discovers that their hardest month is not unique to them.
 
-The September 25 staff meeting added two purposes to this one. The first Collaboration checks in with every leader about how their group is going, and Collaborations are where leaders align with the ministry's mission, vision, and values. CoJourner may also be run during Collaborations, which lets training happen alongside peers rather than in a separate room. The date, location, format, and cadence after the first gathering are still open.
+The September 25 staff meeting added two purposes to this one. The first Collaboration checks in with every leader about how their group is going, and Collaborations are where leaders align with the ministry's mission, vision, and values. CoJourner may also be run during Collaborations, which lets training happen alongside peers rather than in a separate room. The first Collaboration will be a dinner for all current leaders. Its date and place, and the cadence after it, are still open.
+
+The Groups Ministry Director is also available to leaders pastorally, not only operationally. Following Russ's practice, Paul will set up a sign-up calendar so any leader can book time with him for support (DEC-064).
 
 ## Why Consistency and Longevity Are the Real Struggle
 

@@ -47,7 +47,7 @@ Three words shape everything we do:
 There are three ways to be part of Groups at Golden City:
 
 - **City Groups — life together.** Neighborhood-based groups around the north Denver area. Ordinary, everyday discipleship: a shared table, honest conversation, prayer, and people who notice when you're not there.
-- **Collectives — shared encouragement.** Our Men's Collective and Women's Collective each gather every other week to encourage one another as men and women following Jesus.
+- **Collectives — shared encouragement.** Our Men's Collective and Women's Collective each gather on Thursdays to encourage one another as men and women following Jesus.
 - **Bible Clubs — rooted in Scripture.** Facilitator-led study through a book or section of Scripture, for anyone who wants to slow down and pay close attention to what God has said. *Planted*, our first Bible Club, begins Tuesday evening, October 6.
 
 **What's next.** Sunday, October 4 is our Group Launch Day. I'm finalizing group details now — where each one meets, who's leading, and how to join — and I'll follow up with you as soon as those are confirmed.

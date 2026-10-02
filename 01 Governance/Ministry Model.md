@@ -22,6 +22,8 @@ City Groups, Collectives, and Bible Clubs are not disconnected departments or in
 
 ### City Groups — Life Together
 
+City Groups are meant to be a signature, recognizable ministry of Golden City Church: when people hear "City Groups," they should think of Golden City's groups ministry. City Groups share the church's vision and mission, to be in the city and for the city (DEC-062).
+
 City Groups begin as location-based groups that meet in homes or local meeting places throughout the city. They build relationships, break bread and pray together, offer pastoral connection and mutual care, and practice everyday discipleship. They are unapologetically Christian community groups whose priority is that people find belonging; they need not be in-depth Bible studies. The [[Weekly Recaps|Weekly Recap]] may help a group respond to the weekend message, but it is optional rather than defining.
 
 Under DEC-052, each leader designs the group's frequency (weekly or biweekly), day, time, materials, and descriptive features. Features help people find a fitting group without restricting who may join. Young adults groups, Run Club, and a potential future Youth City Group sit under City Groups for now; no separate featured-groups category exists, though one may be considered later. A group may begin meeting one or two weeks after Group Launch Sunday, and its first gatherings focus on getting to know one another.
@@ -82,6 +84,8 @@ Future curriculum may address covenant, temple, ecclesiology, Christian metaphys
 Collectives are centralized, gender-specific ministry environments currently expressed through Men's Collective and Women's Collective. They create space for community, prayer, pastoral connection, biblical formation, and faithful response among men and among women.
 
 Collectives are accessible gatherings where men and women walk alongside other men and women of God, and they should become places of mentorship and lasting connection. A typical gathering opens with a 15–20 minute devotional followed by discussion at breakout tables, where Collective leaders and table leaders equip participants to take part (DEC-053). Both Collectives study Galatians for the rest of 2026 (DEC-055).
+
+The Collectives begin in homes on Thursdays in October 2026, but Russ intends them to become on-site gatherings in the future, distinct from the off-site, location-based City Groups (DEC-060).
 
 Men's Collective and Women's Collective are intended to mature over time into broader Men's Ministry and Women's Ministry. This long-term direction does not by itself establish a leader, location, capacity, curriculum, schedule, safeguarding plan, or launch readiness for a particular offering.
 
@@ -169,6 +173,7 @@ Under DEC-056, Group Leader Collaborations are gatherings where current leaders 
 - Additional geographic communities
 - Run Club and a potential Youth City Group, classified under City Groups but still deferred from the initial launch scope (DEC-022); young adults City Groups may form under DEC-052's feature labels
 - A future featured-groups category, which may be considered later but is not created now
+- Future class ideas Russ mentioned on September 30, 2026: Alpha, Barna resources, and the Freedom course from Church of the Highlands
 - Financial and marriage Classes under the Bible Clubs branch
 - Freedom Groups as a potential future featured ministry under the Golden City Church umbrella
 - Other expressions that emerge from real pastoral need and leader capacity

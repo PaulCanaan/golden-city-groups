@@ -32,7 +32,9 @@ Resources for discerning, preparing, and supporting approved leaders:
 - [[CoJourner]] — approved four-session pathway for ongoing leader development
 - [[First Meetings Checklist]] — preparation before, during, and after a group's first gatherings
 - [[Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
-- [[Collective Leader Guide]] — shared role companion for approved Men's and Women's Collective leaders
+- [[Collective Leader Guide]] — draft role companion for Men's and Women's Collective leaders; starting point for the Men's and Women's Collective Guide (DEC-063)
+- **City Group Guide** — to be developed under DEC-063 (BWR-033)
+- [[06 Resources/Leader Development/Group Leader Policies — Draft for Pastoral Review|Group Leader Policies — Draft for Pastoral Review]] — draft policies for common group situations, awaiting Russ's review before they enter the guides
 - [[Policies]] — approved minimum group boundaries with church-wide policy implementation still open
 - [[Safeguarding and Escalation Resource Gap Audit]] — evidence, policy-location, escalation, data, and launch-blocker audit for pastoral review
 

@@ -2,7 +2,7 @@
 
 ## Dashboard Status
 
-**Executive control surface; not a governing decision record.** Last reconciled **September 21, 2026** through the current [[09 Reports/Biweekly Reviews/2026-09-21 Groups Ministry Biweekly Review|biweekly review]]. Repository execution is complete; required Paul and Russ review remains in progress. Updated **September 29, 2026** with the [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes|September 25 staff meeting]] decisions (DEC-051–058) and Paul's same-day clarifications. The next review is October 5, 2026. Update governing sources before this dashboard when approved direction changes.
+**Executive control surface; not a governing decision record.** Last reconciled **September 21, 2026** through the current [[09 Reports/Biweekly Reviews/2026-09-21 Groups Ministry Biweekly Review|biweekly review]]. Repository execution is complete; required Paul and Russ review remains in progress. Updated **September 29, 2026** with the [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes|September 25 staff meeting]] decisions (DEC-051–058) and Paul's same-day clarifications, then the [[08 Archive/Decisions/2026-09-30 Follow-Up Meeting Minutes|September 30 follow-up meeting]] (DEC-060–064). The next review is October 5, 2026. Update governing sources before this dashboard when approved direction changes.
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
@@ -19,6 +19,7 @@
 - [[00 Dashboard/Open Decisions|Open Decisions]] — review unresolved governance questions and their source proposals.
 - [[01 Governance/Safeguarding and Escalation Decision Brief|Safeguarding and Escalation Decision Brief]] — review launch-blocking safety, care, escalation, and data questions with Russ.
 - [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — view the ministry system and its connections.
+- [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] — workflow from a ready leader's City Group Profile to a published group and Launch Sunday table card.
 - [[07 Operations/Group Launches/Group Launch MOC.canvas|Group Launch MOC]] — see the October 4 Group Launch on one canvas: decisions, leader pipeline, Launch Sunday, offerings, readiness gates, and after-launch support.
 
 The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biweekly Ministry Review performs first/third-Monday reconciliation; this Dashboard reports current priorities and readiness. None approves policy or replaces a decision record.
@@ -32,7 +33,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 | Most recent milestone | **September 25 staff meeting** — Russ and Paul set the Launch Sunday format, City Group design freedom, branch emphases, fall studies, Group Leader Collaborations, communication channels, and the Women's Collective start (DEC-051–058) |
 | Next confirmed ministry milestone | **Group Launch Day — October 4, 2026**: groups presented at lobby tables (DEC-048, DEC-051) |
 | Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
-| October Collectives readiness | **At Risk** — Women's starts Friday, October 16, every other Friday evening at the Dalys' home; Galatians study approved. Men's venue and start, times, materials, leader approvals, participant paths, and final readiness remain open |
+| October Collectives readiness | **At Risk** — both every other Thursday in homes: Men's from October 8, Women's from October 15 (DEC-060); Galatians study approved. Times, materials (Russ and Conner in progress), leader approvals, participant paths, home-meeting safeguards, and final readiness remain open |
 | Planted October 6 readiness | **At Risk** — see [[00 Dashboard/Launch Readiness Dashboard#K. Planted Operational Readiness\|Planted Operational Readiness]] |
 | Ministry architecture | City Groups — life together; Collectives — shared encouragement; Bible Clubs — rooted in Scripture |
 | Group Leader workflow | **Configured** — `Interest → Welcome / Contact → Group Leader Conversation → Training → Launch`; live use and candidate stages still require reconciliation |
@@ -47,20 +48,21 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - **Scheduled occurrence:** September 21, 2026 at 7:00 AM America/Denver; actual start was 7:46:14 AM
 - **Next review:** October 5, 2026 at 7:00 AM America/Denver
 - **Scheduler:** macOS job active; this occurrence began about 46 minutes late. No cause is inferred from repository evidence.
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|24 active items]] after the September 29 staff-meeting intake
-- **Human input outstanding:** Paul — four earlier event outcomes, Launch Sunday response follow-up, aggregate leader-pipeline state, Fall training recommendation, Collective meeting and leader-stage status, webpage finalization, and Planted status; Russ — Men's Collective and Planted venue, safeguarding, appointments/offerings, participant systems, public-language/review boundary, Collective curriculum, and final approvals
-- **Critical blockers:** Men's Collective and Planted venue; tested join-QR destinations; safeguarding contacts and policies; active-offering appointments/readiness; Fall leader preparation; participant-system governance and testing; offering-specific readiness evidence
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|26 active items]] after the September 29 staff-meeting intake
+- **Human input outstanding:** Paul — four earlier event outcomes, Launch Sunday response follow-up, aggregate leader-pipeline state, Fall training recommendation, Collective meeting and leader-stage status, webpage finalization, and Planted status; Russ — safeguarding, appointments/offerings, participant systems, public-language/review boundary, Collective curriculum, and final approvals
+- **Critical blockers:** Planted venue confirmation; tested join-QR destinations; safeguarding contacts and policies; active-offering appointments/readiness; Fall leader preparation; participant-system governance and testing; offering-specific readiness evidence
 
 ## Next Actions
 
 - Set up the Planning Center automation and send welcome emails to everyone who expressed Groups interest on the Connection Card, leading or participating; invite only those with leadership interest to a Group Leader Conversation. Store no participant details here.
-- Finalize each group's details with its leaders and prepare the Launch Sunday information cards (time, rough location, QR code) and tables (BWR-028). Full addresses go only by email to people who join.
+- Run the [[07 Operations/Group Launches/Group Launch Readiness|Group Launch Readiness]] workflow: send the City Group Profile form to ready leaders, build and assign Planning Center groups, publish the Open Groups webpage section, and prepare the lobby table cards (time, rough location, QR code) (BWR-028, DEC-059). Russ does a quick webpage review before October 4. Addresses go only privately to people who join.
 - Prepare additional leaders and hosts to be ready by the October 4 Group Launch Day, and communicate the DEC-052 expectations to City Group leaders.
 - Build Men's and Women's Collectives with Russ, Miranda, Conner, and Rachel, and record the meeting outcome.
 - Russ and Conner, with Miranda and Rachel: prepare the Galatians course materials (BWR-029). Russ and Paul: start the Weekly Recap (BWR-030).
 - Reconcile the July 28, August 11, August 16, and August 25 event outcomes without storing participant details here.
 - Confirm that every prospective leader has an approved workflow stage and known next action in the restricted system.
-- Russ: secure an appropriate October venue for Men's Collective and Planted.
+- Paul: visit Barn Door Coffee to confirm Planted's Tuesday-evening space; confirm the Women's Collective location rotation (BWR-018, BWR-032).
+- Plan the first Group Leader Collaboration dinner (BWR-031), begin the City Group and Collective leader guides (BWR-033), and set up a leader sign-up calendar (BWR-034).
 - Paul: advance intended Collective leaders through the canonical pathway, improve the Groups webpage, and prepare downstream setup.
 - Bring the minimum safeguarding, offering, Fall-training, appointment, participant-system, and publication-boundary decisions to Paul and Russ before any affected offering is promoted or begins.
 - Complete the October 4 webpage finalization pass using confirmed branch language and only readiness-supported offering details.
@@ -77,7 +79,7 @@ The unresolved governance questions remain in [[00 Dashboard/Open Decisions|Open
 
 ## Offering Readiness Snapshot
 
-No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. Current City Group, Collective, and Planted status is maintained in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]. Men's Collective is planned for first/third Wednesdays with intended co-leads Conner O'Brien and Russ Daly; Women's Collective starts Friday, October 16 and meets every other Friday evening at the Dalys' home, with intended co-leads Rachel O'Brien and Miranda Daly. Conner's and Rachel's expressed interest is not appointment. Other offering-governance questions remain in [[00 Dashboard/Open Decisions#Offering Readiness|Open Decisions — Offering Readiness]].
+No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. Current City Group, Collective, and Planted status is maintained in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]. Men's Collective starts Thursday, October 8 at the Dalys' home, with intended co-leads Conner O'Brien and Russ Daly; Women's Collective starts Thursday, October 15, likely rotating between the Dalys' and the O'Briens' homes, with intended co-leads Rachel O'Brien and Miranda Daly (DEC-060). Conner's and Rachel's expressed interest is not appointment. Other offering-governance questions remain in [[00 Dashboard/Open Decisions#Offering Readiness|Open Decisions — Offering Readiness]].
 
 ## Confirmed Milestones
 

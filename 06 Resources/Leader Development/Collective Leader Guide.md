@@ -4,6 +4,8 @@
 
 **Draft role companion under the approved minimum standard; individual leadership and appointment remain open.** This guide applies shared Golden City Church resources to Men's and Women's Collectives without creating separate leadership policy.
 
+Under DEC-063 (September 30, 2026), this draft becomes the starting point for the **Men's and Women's Collective Guide**: the Groups Ministry's mission, vision, and values; what to expect; troubleshooting; mandatory reporting in emergencies; leader agreements; and church policies. The reporting and policy sections wait on the church's approved policies and escalation contacts (BWR-007, BWR-033).
+
 ## Leader Responsibility
 
 An appointed leader would steward the approved Collective purpose, gathering plan, participant care, communication, and follow-through under pastoral oversight. Interest, Launch Team participation, training, or Planning Center access does not constitute appointment.
