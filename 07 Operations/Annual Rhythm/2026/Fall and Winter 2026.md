@@ -12,11 +12,18 @@
 
 The July and August events are now historical. Their missing outcomes are tracked in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] rather than left as future plans.
 - **September 20:** Golden City Church public launch — completed; the church is established in Broomfield, Colorado
-- **October 4:** Group Launch Day (DEC-048). Groups are presented at lobby tables, each with an information card and join QR code (DEC-051).
+- **October 4:** Group Launch Day (DEC-048). Groups are presented at lobby tables, each with an information card and join QR code (DEC-051). The nine print-ready cards are in [[07 Operations/Annual Rhythm/2026/Fall 2026 Group Profile Cards|Fall 2026 Group Profile Cards]].
 - **October 11:** Optional second lobby presentation for groups with many open spots (DEC-051).
-- **October 4–18:** City Groups begin meeting at each leader's choice (DEC-052).
-- **Thursday, October 8:** Men's Collective begins (DEC-060).
-- **Thursday, October 15:** Women's Collective begins (DEC-060).
+- **Wednesday, October 7:** Erie City Group begins.
+- **Thursday, October 8:** Men's Collective begins, 7:00pm.
+- **Sunday, October 11:** Lafayette City Group begins.
+- **Wednesday, October 14:** Broomfield City Group begins.
+- **Thursday, October 15:** Women's Collective begins, 7:00pm.
+- **Friday, October 16:** Thornton City Group begins.
+- **Tuesday, October 20:** Westminster City Group (Young Adults) begins.
+- **Saturday, November 7:** Run Club begins.
+
+All start dates are official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]; the full schedule table is in [[03 Groups/City Groups/City Groups Overview#Fall 2026 City Groups|City Groups Overview]].
 - **Early November:** First Group Leader Collaboration, a dinner for all current leaders about one month after Group Launch Sunday (DEC-056).
 
 During the August Team Nights, Paul was the assigned on-site leader-interest point person, helping Launch Team members submit the Planning Center form, receiving and organizing submissions through his admin access, and emailing applicants about Group Leader Conversations and immediate next steps. Actual execution still requires Paul's confirmation. Paul owns interviews, assessment, and training facilitation under DEC-031. Detailed standards, dates, assignment, appointment records, and commissioning remain unresolved.
@@ -37,7 +44,7 @@ The primary Fall 2026 objective is to recruit Launch Team members to host City G
 6. Open or continue participant sign-up only for launch-ready offerings.
 7. Prepare Collectives and Bible Clubs to operate in October; Planted begins Tuesday evening, October 6, Men's Collective begins Thursday, October 8, Women's Collective begins Thursday, October 15, and every offering remains subject to final readiness.
 
-Training dates, commissioning details, leader names, City Group assignments, and start dates other than Planted remain pending.
+Fall 2026 group leaders, schedules, and start dates are recorded in [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]. Training dates and commissioning details remain pending.
 
 ## Planned Fall Offerings
 
@@ -50,13 +57,13 @@ Their inclusion in planning does not mean each offering is staffed, approved, or
 
 Current Collective architecture:
 
-- **Men's Collective:** Thursdays from October 8, at the Dalys' home for now (DEC-060); intended co-leads Conner O'Brien and Russ Daly.
-- **Women's Collective:** Thursdays from October 15, likely rotating between the Dalys' and the O'Briens' homes (DEC-060); intended co-leads Rachel O'Brien and Miranda Daly.
+- **Men's Collective:** every other Thursday at 7:00pm from October 8, Thornton / Erie area; intended co-leads Conner O'Brien and Russ Daly.
+- **Women's Collective:** every other Thursday at 7:00pm from October 15, Thornton / Erie area; intended co-leads Rachel O'Brien and Miranda Daly.
 - **Study:** both Collectives study Galatians through 2026, paralleling *The Fruit of the Spirit* weekend series; Russ and Conner O'Brien are responsible for materials, with Miranda Daly and Rachel O'Brien in the content discussions (DEC-055).
 
-Both Collectives meet every other Thursday. Times, participant paths, communications, leader-path completion, and final readiness remain open. Conner's and Rachel's expressed interest is not formal appointment. Russ intends the Collectives to move on-site in the future, and the search for a location continues.
+Participant paths, communications, leader-path completion, and final readiness remain open. Conner's and Rachel's expressed interest is not formal appointment. Russ intends the Collectives to move on-site in the future, and the search for a location continues.
 
-Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-022 and are not required for the initial launch.
+Run Club and a Young Adults City Group launch as Fall 2026 City Groups ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Youth City Group remains deferred under DEC-022.
 
 ### Internal Development Orientation
 

@@ -13,7 +13,7 @@ The public Groups pages, built on Squarespace: the overview at **https://www.gol
 | Role | Who | Source |
 |---|---|---|
 | Page owner and implementer | Paul | [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership\|DEC-037]] |
-| Review of material changes | Russ approved Paul to make the changes, including the Open Groups section, and does a quick review before Group Launch Sunday | DEC-037 implementation update, October 1, 2026 |
+| Review of material changes | Russ approved Paul to make the changes, including the Open Groups section, and completed his quick pre-launch review | DEC-037 implementation updates, October 1 and 3, 2026 |
 | Final readiness of any listed offering | Russ, or a pastor he designates | [[08 Archive/Decisions/Decision History#DEC-021 — Ministry Authority and Final Readiness Approval\|DEC-021]] |
 | Group and enrollment records the page links to | Planning Center (system of record) | [[07 Operations/Workflows/Planning Center Groups\|Planning Center Groups]] |
 
@@ -40,11 +40,8 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 
 | Item | Queue |
 |---|---|
-| Native overview and Fall 2026 directory are live (October 1); remaining profile details, City Group join links, and Russ’s quick review before October 4 are pending | BWR-028 |
-| Reconcile queue/governance wording with Paul’s October 1 training-only direction; website excludes this language | BWR-020 |
-| Website rhythms and old Women’s address corrected; Collective times and rough areas still to be confirmed; the Women’s Church Center page it links to still says “Women’s Bible Club” and needs correcting in Planning Center | BWR-024 |
-| Run Club and Youth removed from the website October 1; reconcile queue status in the existing review workflow | BWR-025 |
-| Seven-group set published per Paul’s confirmation, including Lafayette; remaining profile details still needed | BWR-026 |
+| Group Launch Sunday lobby tables and table cards (Russ's pre-launch review of the website is complete) | BWR-028 |
+| Directory fixes: "Woman's" and "Eire" typos, Planted under "Open Classes," cross-street specificity, and the outdated "coming soon" FAQ | [[12 Ministry Website/Groups Page#Remaining Before Launch Review\|Groups Page]] |
 | Tested participant paths for every join link | BWR-009 |
 
 ## Connections

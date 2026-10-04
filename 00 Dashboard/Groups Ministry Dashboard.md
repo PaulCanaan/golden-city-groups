@@ -34,11 +34,11 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 | Most recent milestone | **September 25 staff meeting** — Russ and Paul set the Launch Sunday format, City Group design freedom, branch emphases, fall studies, Group Leader Collaborations, communication channels, and the Women's Collective start (DEC-051–058) |
 | Next confirmed ministry milestone | **Group Launch Day — October 4, 2026**: groups presented at lobby tables (DEC-048, DEC-051) |
 | Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
-| October Collectives readiness | **At Risk** — both every other Thursday in homes: Men's from October 8, Women's from October 15 (DEC-060); Galatians study approved. Times, materials (Russ and Conner in progress), leader approvals, participant paths, home-meeting safeguards, and final readiness remain open |
+| October Collectives readiness | **At Risk** — both every other Thursday at 7:00pm, Thornton / Erie area: Men's from October 8, Women's from October 15 ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]]); Galatians study approved. Materials, leader approvals, participant-path testing, home-meeting safeguards, and final readiness remain open |
 | Planted October 6 readiness | **At Risk** — see [[00 Dashboard/Launch Readiness Dashboard#K. Planted Operational Readiness\|Planted Operational Readiness]] |
 | Ministry architecture | City Groups — life together; Collectives — shared encouragement; Bible Clubs — rooted in Scripture |
 | Group Leader workflow | **Configured** — `Interest → Welcome / Contact → Group Leader Conversation → Training → Launch`; live use and candidate stages still require reconciliation |
-| Groups webpage | **Rebuilt (DEC-050)**; three-branch structure live. Paul is finalizing group details with leaders by email and text and will add leader photos, times, and locations before October 4 (DEC-051) |
+| Groups webpage | **Fall 2026 directory official (October 3)** — nine offerings, including Erie City Group, Run Club, and a Young Adults City Group, each with full details and a Church Center join link ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]]). Russ completed his quick pre-launch review |
 | Paul's focus through October 4 | Welcome emails for Connection Card interest, finalizing group details with leaders, information cards and QR codes for the lobby tables, and building the Collectives with Russ, Miranda, Conner, and Rachel without implying appointment |
 | Final readiness authority | Russ or a pastor explicitly designated by Russ |
 
@@ -49,7 +49,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - **Scheduled occurrence:** September 21, 2026 at 7:00 AM America/Denver; actual start was 7:46:14 AM
 - **Next review:** October 5, 2026 at 7:00 AM America/Denver
 - **Scheduler:** macOS job active; this occurrence began about 46 minutes late. No cause is inferred from repository evidence.
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|26 active items]] after the September 29 staff-meeting intake
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|22 active items]] after the September 29 staff-meeting intake
 - **Human input outstanding:** Paul — four earlier event outcomes, Launch Sunday response follow-up, aggregate leader-pipeline state, Fall training recommendation, Collective meeting and leader-stage status, webpage finalization, and Planted status; Russ — safeguarding, appointments/offerings, participant systems, public-language/review boundary, Collective curriculum, and final approvals
 - **Critical blockers:** Planted venue confirmation; tested join-QR destinations; safeguarding contacts and policies; active-offering appointments/readiness; Fall leader preparation; participant-system governance and testing; offering-specific readiness evidence
 

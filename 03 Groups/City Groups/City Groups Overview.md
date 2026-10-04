@@ -25,11 +25,24 @@ A City Group need not begin meeting right after Group Launch Sunday; the leader 
 
 Design freedom does not waive the leader standard (DEC-027), the care and safeguarding boundaries (DEC-028), or the prayer and formation baseline (DEC-033).
 
-Young adults groups, Run Club, and a potential future Youth City Group sit under City Groups for now; no separate featured-groups category exists, though one may be considered later. Classification does not activate an offering: Run Club and Youth City Group remain deferred under DEC-022 until each has an owner and completes readiness, and a Youth City Group would first need the DEC-028 safeguards for minors.
+Young adults groups, Run Club, and a potential future Youth City Group sit under City Groups; no separate featured-groups category exists, though one may be considered later. Run Club and a Young Adults City Group launch this fall ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Youth City Group remains deferred under DEC-022, and would first need the DEC-028 safeguards for minors.
 
 **Locations and group communication:** Publicly, a City Group shows only a rough location, such as "North Thornton." Its full details go privately to people who join. Once Paul assigns the leaders to their Planning Center group, they manage the group themselves and may share details, including the address, by email or in a group chat (Planning Center, Church Center, group text, GroupMe, or similar); sensitive care details stay out of it (DEC-028).
 
 **Becoming a listed group:** A leader who is ready to lead (Group Leader Conversation, brief training, and a joint Paul–Russ decision) completes the City Group Profile form, and Paul builds and publishes the group through the [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] workflow (DEC-059).
+
+## Fall 2026 City Groups
+
+Official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] (October 3, 2026). Current details are kept on the [[12 Ministry Website/Groups Page|Groups Page]].
+
+| City Group | Leaders | Rhythm | Starts | Area |
+|---|---|---|---|---|
+| Erie | Troy & Kate Wojick | Weekly, Wednesdays 6:00–8:00pm | October 7 | Erie |
+| Lafayette | Julianne McKay | Every other Sunday, 12:00–1:30pm | October 11 | Lafayette |
+| Broomfield | Aaron & Minette McGeehon | Weekly, Wednesdays 7:00–8:30pm | October 14 | Broomfield |
+| Thornton | Conner & Rachel O'Brien | Every other Friday, 6:00–8:00pm | October 16 | Thornton |
+| Westminster (Young Adults City Group) | Bobby Pascale | Weekly, Tuesdays 7:00–8:30pm | October 20 | Broomfield / Westminster |
+| Run Club (co-ed, ages 18 and up) | Jeremy & Glenys Parker | Weekly, Saturdays 7:00–9:00am | November 7 | Broomfield |
 
 ## Group Launch Sunday
 

@@ -162,7 +162,7 @@ These recommendations are not a substitute for church policy, legal guidance, or
 | Women's Collective | Miranda           | Intended co-leads: Rachel O'Brien and Miranda Daly; appointments pending |                     | Launch / Develop / Defer |
 | Planted            | Paul              | Paul, Bible Club leader |                | Launch / Develop / Defer |
 
-Run Club, Youth City Group, and Young Adults Group remain deferred ideas under DEC-022 and should not be added to this active table unless staff reactivates them.
+Run Club and a Young Adults City Group launched as Fall 2026 City Groups under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] and are part of the City Group(s) row. Youth City Group remains deferred under DEC-022.
 
 DEC-060 moves both Collectives to Thursdays in homes: Men's from October 8, Women's from October 15. DEC-044 records the intended co-lead teams without treating Conner's or Rachel's expressed interest as appointment. Time, venue, October start dates, participant paths, leader-path completion, escalation contacts, and readiness dispositions remain open.
 

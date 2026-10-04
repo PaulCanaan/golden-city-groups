@@ -171,7 +171,7 @@ Under DEC-056, Group Leader Collaborations are gatherings where current leaders 
 
 - Future home, activity-based, and demographic-based City Groups
 - Additional geographic communities
-- Run Club and a potential Youth City Group, classified under City Groups but still deferred from the initial launch scope (DEC-022); young adults City Groups may form under DEC-052's feature labels
+- A potential Youth City Group, classified under City Groups but still deferred (DEC-022). Run Club and a Young Adults City Group launched as Fall 2026 City Groups ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]])
 - A future featured-groups category, which may be considered later but is not created now
 - Future class ideas Russ mentioned on September 30, 2026: Alpha, Barna resources, and the Freedom course from Church of the Highlands
 - Financial and marriage Classes under the Bible Clubs branch

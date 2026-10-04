@@ -88,7 +88,7 @@ Three boundaries govern the whole sequence:
 | **Collectives** | Men's and Women's Collectives → broader Men's Ministry and Women's Ministry |
 | **Bible Clubs** | Facilitator-led study → teacher-led Classes on a topic or area of growth |
 
-Run Club, Youth City Group, and Young Adults Group remain deferred under DEC-022. Financial and marriage classes are examples of the *type* of future Class, not approved offerings. Freedom Groups remain a future-ministry concept only.
+Run Club and a Young Adults City Group launch as City Groups in Fall 2026 ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]); Youth City Group remains deferred under DEC-022. Financial and marriage classes are examples of the *type* of future Class, not approved offerings. Freedom Groups remain a future-ministry concept only.
 
 A branch develops when real pastoral need and real leader capacity call for it — not because a page, a folder, or a good idea exists.
 

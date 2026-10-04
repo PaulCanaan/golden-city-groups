@@ -4,17 +4,20 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 
 ## Document Status
 
-**Working standard for the Open Groups directory** at `/groups/fall2026`, live October 1, 2026, under [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059]]. Paul confirmed the seven published groups; remaining profile fields and verified group links are still being completed. See [[12 Ministry Website/Groups Page|Groups Page]] for the actual published content and verification limits.
+**Working standard for the Open Groups directory** at `/groups/fall2026`, live October 1, 2026, under [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059]]. Paul confirmed the published set as official on October 3, 2026 ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). See [[12 Ministry Website/Groups Page|Groups Page]] for the actual published content and verification limits.
 
 ## Who Is Listed
 
 - **City Groups** that have completed [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]]: the leader is ready to lead, the City Group Profile is submitted and reviewed, and the Planning Center group is built.
 - **Men's Collective, Women's Collective, and *Planted.*,** whose profiles Paul prepares with their leaders.
 
-A group still under discussion, such as Run Club or a Young Adults City Group, is not listed until it comes through the same workflow.
+Run Club and the Young Adults City Group (the Westminster group) are listed as City Groups from October 3. Youth City Group remains deferred and is not listed.
 
-## October 1 Publication
+## Fall 2026 Publication
 
+**October 3:** the directory lists nine offerings: Broomfield, Lafayette, Erie, Thornton, and Westminster (Young Adults) City Groups, Run Club, Men's Collective, Women's Collective, and Planted. Bible Study. Each has full schedule, area, description, and its own Church Center join link. The current details are in [[12 Ministry Website/Groups Page|Groups Page]].
+
+**October 1:** 
 Paul confirmed Broomfield, Westminster, Thornton, Lafayette, Men's Collective, Women's Collective, and Planted. Bible Study for Open Groups. This explicitly includes Lafayette despite the older archived-scaffolding note. Broomfield's submitted profile supplies its photo and detailed public fields. Other profiles show verified leader names and known details; unconfirmed information is not invented. Since the October 1 evening rebuild, every card has a **Join Group** button and none links to the contact page: Men's Collective, Women's Collective, and Planted link to their Church Center group pages, and the four City Groups show "Join link coming soon" until their Church Center links exist.
 
 The table below remains the target for complete profiles, not a claim that every published profile already contains every field. The theological branch-purpose language and Belonging/Beholding/Becoming stay in leader training and off the website, per Paul's October 1 direction.

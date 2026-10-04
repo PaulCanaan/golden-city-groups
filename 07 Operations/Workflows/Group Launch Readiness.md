@@ -116,7 +116,7 @@ As the church begins, the aim is to help as many people as possible into groups.
 
 ## Possible City Group Expressions
 
-Run Club and a Young Adults City Group are still under discussion, with people in the church interested in leading and joining each. They sit under City Groups. The window stays open; each would enter this workflow like any other City Group once its leader is ready to lead. Until then, neither is published as an active group (DEC-022).
+Run Club (Jeremy & Glenys Parker) and a Young Adults City Group (the Westminster group, Bobby Pascale) are published as Fall 2026 City Groups ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). A Youth City Group remains deferred (DEC-022) and would first need the DEC-028 safeguards for minors.
 
 ## Boundaries
 
@@ -127,6 +127,7 @@ Run Club and a Young Adults City Group are still under discussion, with people i
 
 ## Connections
 
+- [[07 Operations/Annual Rhythm/2026/Fall 2026 Group Profile Cards|Fall 2026 Group Profile Cards]] — the Fall 2026 table cards made in step 6.
 - [[07 Operations/Workflows/Group Launch Overview]] — launch sequence this workflow serves.
 - [[12 Ministry Website/Open Groups Listings|Open Groups Listings]] — how each profile appears on the Groups page.
 - [[07 Operations/Workflows/Planning Center Groups]] — group build, testing, and publishing procedures.

@@ -21,11 +21,11 @@ The confirmed initial pipeline called for City Group leaders to be prayerfully i
 
 Specific leaders, hosts, communities, locations, capacities, and assignments remain pending until they complete the applicable approval and launch-readiness gates.
 
-For Collectives, the current direction is Men's Collective on Thursdays from October 8 with intended co-leads Conner O'Brien and Russ Daly, and Women's Collective on Thursdays from October 15 with intended co-leads Rachel O'Brien and Miranda Daly, both in homes for now (DEC-060). Both study Galatians through 2026 (DEC-055). Frequency, times, participant paths, and final appointments/readiness remain open; Conner's and Rachel's expressed interest is not appointment.
+For Collectives: Men's Collective meets every other Thursday at 7:00pm from October 8 (Thornton / Erie area), with intended co-leads Conner O'Brien and Russ Daly; Women's Collective meets every other Thursday at 7:00pm from October 15 (Thornton / Erie area), with intended co-leads Rachel O'Brien and Miranda Daly (DEC-060, [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Both study Galatians through 2026 (DEC-055). Conner's and Rachel's expressed interest is not appointment.
 
 For City Groups, leaders design frequency, day, time, resource, and descriptive features (DEC-052). Groups are presented at lobby tables on Group Launch Sunday, October 4 (DEC-051).
 
-Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-022 and are not required for the initial Groups ministry launch.
+Fall 2026 has six City Groups: Erie, Lafayette, Broomfield, Thornton, Westminster (a Young Adults City Group), and Run Club ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Youth City Group remains deferred under DEC-022.
 
 ## Connections
 

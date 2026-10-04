@@ -4,9 +4,9 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 
 ## Document Status
 
-**Working page record; not a decision record.** Updated October 2, 2026 from a live inspection of both pages, checked against the build record in the Website Development project. Paul confirmed the seven groups for publication and approved the native rebuild after reviewing a preview. Russ's quick pre-launch review remains pending; publication does not establish completed intake or follow-up testing.
+**Working page record; not a decision record.** Updated October 3, 2026 from a live inspection after Paul finalized the details. Paul states that all information on the Fall 2026 directory is official; it is recorded in [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]. Russ completed his quick pre-launch review of the groups and the website on or before October 3. Russ's quick pre-launch review remains pending; publication does not establish completed intake or follow-up testing.
 
-## Live Now (inspected October 2, 2026)
+## Live Now (inspected October 3, 2026)
 
 Since the evening of October 1, the Groups page is two native Squarespace pages instead of one code-block page. Both keep the church's shared header and footer.
 
@@ -24,21 +24,23 @@ Linked under **Connect → Groups**. Page title: *Groups | Find Community*.
 
 ### `/groups/fall2026` — Open Groups · Fall 2026
 
-Listed under **Not Linked** in Squarespace and reached from the overview. Category links jump to City Groups, Collectives, and Bible Club. Each card shows a cover, the group name, its leaders, and **Join Group**; schedule, area, and description sit inside a collapsed **Group details**.
+Listed under **Not Linked** in Squarespace and reached from the overview. Category links jump to City Groups, Collectives, and Bible Club. The directory has three headed sections: **City Groups · Fall 2026**, **Men's & Woman's Gatherings · Fall 2026**, and **Open Classes · Fall 2026**. Each card shows a photo or cover, the group name, its leaders, and **Join Group**; schedule, area, and description sit inside a collapsed **Group details**. Official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]].
 
-| Group | Leaders | Published details | Join Group |
-|---|---|---|---|
-| Broomfield City Group | Aaron & Minette McGeehon | Weekly on Wednesdays, 7–8:30pm, from October 14; Broomfield; Golden City weekly message recap; open to all; submitted photo | Join link coming soon |
-| Westminster City Group | Bobby Pascale | Westminster; schedule to be confirmed | Join link coming soon |
-| Thornton City Group | Conner & Rachel O'Brien | Thornton; schedule to be confirmed | Join link coming soon |
-| Lafayette City Group | Julianne McKay | Lafayette; schedule to be confirmed | Join link coming soon |
-| Men's Collective | Russ Daly & Conner O'Brien | Every other Thursday from October 8; time and area to be confirmed | Church Center group page |
-| Women's Collective | Miranda Daly & Rachel O'Brien | Every other Thursday from October 15; time and area to be confirmed | Church Center group page |
-| Planted. Bible Study | Paul Zhang | Weekly on Tuesdays, 7–8:30pm, from October 6; 12 weeks; area to be confirmed | Church Center group page |
+| Group | Leaders | Rhythm | Starts | Meeting area (as published) |
+|---|---|---|---|---|
+| Broomfield City Group | Aaron & Minette McGeehon | Weekly, Wednesdays 7:00–8:30pm | October 14 | Broomfield (136th & Lowell) |
+| Lafayette City Group | Julianne McKay | Every other Sunday, 12:00–1:30pm | October 11 | Lafayette (Wanneka Lake, Otis, or a local space) |
+| Erie City Group | Troy & Kate Wojick | Weekly, Wednesdays 6:00–8:00pm | October 7 | Erie (Erie Parkway & Briggs) |
+| Thornton City Group | Conner & Rachel O'Brien | Every other Friday, 6:00–8:00pm | October 16 | Thornton (128th & Colorado) |
+| Westminster City Group (Young Adults City Group) | Bobby Pascale | Weekly, Tuesdays 7:00–8:30pm | October 20 | Broomfield / Westminster (TBD) |
+| Run Club | Jeremy & Glenys Parker | Weekly, Saturdays 7:00–9:00am | November 7 | Broomfield (McKay Lake Trail) |
+| Men's Collective | Russ Daly & Conner O'Brien | Every other Thursday, 7:00pm | October 8 | Thornton / Erie |
+| Women's Collective | Miranda Daly & Rachel O'Brien | Every other Thursday, 7:00pm | October 15 | Thornton / Eire *(sic)* |
+| Planted. Bible Study | Paul Zhang | Weekly, Tuesdays 7:00–8:30pm; 12 weeks | October 6 | Broomfield (144th & Zuni) |
 
-No card links to the contact page. No addresses, private contact details, or internal profile answers appear on either page.
+Every **Join Group** button links to that group's own Church Center page: the four co-ed City Groups under the *City Group Co-ed* group type, the young adults group under *City Group Young Adult*, Run Club under *Unique*, and the Collectives and Planted under their existing types. Descriptions are written by each group's leaders; Run Club notes it is co-ed, ages 18 and up. No card links to the contact page, and no street address appears.
 
-## October 1 Direction and Changes
+## Direction and Changes
 
 - Paul confirmed that Russ has confirmed the branch-purpose and Belonging, Beholding, Becoming language, **but it is for group leader training only for now and must not be on the website**. This supersedes the earlier plan for a public language pass. The public branch names are City Groups, Collectives, and Bible Club.
 - Paul explicitly included Lafayette in the published group set.
@@ -47,18 +49,22 @@ No card links to the contact page. No addresses, private contact details, or int
 - City Groups introduced as gatherings in homes and local spaces; Planted shown as a twelve-week study from October 6.
 - First published the seven profiles inside the existing code block (afternoon), then rebuilt both pages with native Squarespace content after Paul approved a preview (evening). Paul Zhang was removed from the overview and kept as Planted's leader.
 - Women's Collective now links to its existing Church Center group page at Paul's request, replacing the earlier contact route.
+- **October 3:** Paul finalized the details and declared the directory official ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Added Erie City Group, Run Club, and the young adults group (Westminster); filled in every schedule, start date, and meeting area; added leader-written descriptions and photos; replaced all "coming soon" placeholders with Church Center links.
 
 ## Remaining Before Launch Review
 
-- **Women's Church Center page:** still titled *Women's Bible Club*, lists Miranda and Russ, and has inconsistent event dates. The website links to it anyway at Paul's request; the Planning Center record needs correcting.
-- **City Group join links:** all four, Broomfield included, show "Join link coming soon." No public City Group destination was found in Church Center. Add each real link as it becomes available.
-- **Profile details:** photos for Westminster, Thornton, and Lafayette (they use an illustrated cover for now); their schedules and fuller profiles; Collective times and rough areas; Planted's area. Do not invent missing details.
-- **Planted:** reconcile its older "class" description in Church Center, and the leader form's broader activity/youth/young-adult/class options in Planning Center.
-- **Contact fallback:** neither page now offers a contact route for someone unsure which group fits, which [[12 Ministry Website/Design Principles and Maintenance|Design Principles]] recommends ("Offer personal help"). Decide whether to add one, for example in the FAQ.
-- **Intake testing:** no requests were submitted; consent, routing, and follow-up are untested (BWR-009).
-- **Russ's quick review** before October 4 (BWR-028).
+- **Typos on the directory:** the Collectives heading reads "Men's & **Woman's** Gatherings," and Women's Collective's area reads "Thornton / **Eire**."
+- **Planted under "Open Classes":** the directory files *Planted.* under **Open Classes · Fall 2026**, while the page otherwise calls it a Bible Club (DEC-030) and Classes are a future path under Bible Club (DEC-034). Decide whether the heading should say Bible Club.
+- **Meeting areas include cross-streets** (for example 136th & Lowell, 128th & Colorado). They are not addresses, but they are more specific than the rough-area example in the DEC-051 clarification ("North Thornton"). Where a group meets in a home, check that the cross-street does not point to it.
+- **Overview FAQ:** "If a join link is marked coming soon, check back" no longer applies; every card now has a link.
+- **Women's Church Center page:** last recorded as titled *Women's Bible Club* with inconsistent dates; confirm it has been corrected in Planning Center.
+- **Planted:** the published area is Broomfield (144th & Zuni). Confirm whether this is the Barn Door Coffee space (BWR-018), and reconcile its older "class" description in Church Center.
+- **Contact fallback:** neither page offers a contact route for someone unsure which group fits ("Offer personal help" in [[12 Ministry Website/Design Principles and Maintenance|Design Principles]]).
+- **Intake testing:** no requests were submitted through the new links; consent, routing, and follow-up are untested (BWR-009).
 
 ## Verification
+
+**October 3, 2026 (repository check after finalization):** both pages return successfully; the directory shows all nine groups with the details above; every Join Group button links to a Church Center group page. The overview is unchanged from October 2. Church Center pages load their content with JavaScript, so their titles and settings were not read.
 
 **October 2, 2026 (repository check of the live pages):** both pages return successfully; the overview's links go to the directory and its three categories, and to the leader application; the directory shows all seven profiles and their published details as listed above; Men's, Women's, and Planted link to their Church Center group pages, and those pages and the leader application respond. The directory's category anchors and "Join link coming soon" notes are added by its page script; their presence was confirmed in the script, not in a browser.
 

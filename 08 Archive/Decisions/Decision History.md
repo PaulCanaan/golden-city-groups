@@ -230,7 +230,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** Russ's direction on Decision 2 of the Pastoral Approval Brief at the July 27, 2026 staff meeting: “Run Club, Youth City Group, Young Adults Group are just ideas for now, we don't have to start the groups ministry with them.”
 - **Implications:** Launch planning, staffing, safeguarding, Planning Center setup, and participant pathways should prioritize the four confirmed environments. Public website and Church Center presentation should not imply that the three deferred ideas are launch-ready. Ownership of each active launch offering still must be assigned before it opens.
 - **Boundary:** Deferral does not cancel these ideas permanently or assign their future ownership. Any later activation requires an accountable owner and the appropriate readiness, safeguarding, communication, and participant-path review.
-- **Subsequent direction:** Paul's September 29, 2026 clarification of DEC-052 classifies young adults groups, Run Club, and a potential future Youth City Group under City Groups. The deferral above is unchanged.
+- **Subsequent direction:** Paul's September 29, 2026 clarification of DEC-052 classifies young adults groups, Run Club, and a potential future Youth City Group under City Groups. DEC-065 (October 3, 2026) activates Run Club and a Young Adults City Group as Fall 2026 City Groups. Youth City Group remains deferred.
 
 ### DEC-023 — First Planted Instructor and Course Window
 
@@ -394,6 +394,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Boundary:** The completed access handoff does not confer authority to publish unapproved ministry claims, offerings, leaders, schedules, locations, or readiness statuses. Material-change review remains to be clarified.
 - **Implementation evidence:** Paul supplied the August 28 staff-meeting update that Russ had granted Squarespace access.
 - **Implementation update — October 1, 2026:** Paul reported that Russ has approved Paul to make changes to the Groups webpage, including the new **Open Groups** section (DEC-059), and that Russ will do a quick review before Group Launch Sunday. This establishes the material-change review path that had been open.
+- **Implementation update — October 3, 2026:** Paul reported that Russ completed the quick pre-launch review and really liked how the groups and the website turned out (DEC-065).
 
 ### DEC-038 — Planted Notion Finalization and October Readiness Target
 
@@ -652,6 +653,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** Calendar, Collective, launch, and communication pages use Thursday schedules. Men's Collective no longer depends on the venue search for its October start; the search continues for a future on-site location. The on-site intent restates the centralized model first described in DEC-009.
 - **Clarification — October 1, 2026 (Paul):** Both Collectives meet every two weeks (every other Thursday).
 - **Boundary:** The Women's rotation is likely, not settled. Exact times, capacity, participant paths, and final readiness remain open. DEC-028 requires the applicable safeguards to be confirmed before meetings in private homes. Addresses stay out of this repository and public listings. DEC-044 appointments remain pending.
+- **Subsequent direction:** DEC-065 records the Collectives' 7:00pm time and published meeting areas (Thornton / Erie).
 
 ### DEC-061 — Uneven Group Dynamics Are Normal
 
@@ -694,6 +696,32 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [[2026-09-30 Follow-Up Meeting Minutes#8 — Pastoral Role of Ministry Directors|September 30, 2026 Follow-Up Meeting Minutes, item 8]].
 - **Implications:** Leader support includes open pastoral availability alongside check-ins and Collaborations.
 - **Boundary:** Notes from these conversations stay out of this repository and general systems (DEC-028). Significant pastoral, safeguarding, or crisis concerns follow the church's escalation path rather than resting on Paul alone (DEC-028, DEC-033). This does not make Paul a licensed counselor or define Russ's calendar practice for other ministries.
+
+### DEC-065 — Fall 2026 Open Groups
+
+- **Decision:** The Fall 2026 offerings published on the Open Groups · Fall 2026 page (`goldencity.church/groups/fall2026`) are official:
+
+  | Offering | Leaders | Rhythm | Starts | Meeting area (as published) |
+  |---|---|---|---|---|
+  | Broomfield City Group | Aaron & Minette McGeehon | Weekly, Wednesdays 7:00–8:30pm | October 14 | Broomfield (136th & Lowell) |
+  | Lafayette City Group | Julianne McKay | Every other Sunday, 12:00–1:30pm | October 11 | Lafayette (Wanneka Lake, Otis, or a local space) |
+  | Erie City Group | Troy & Kate Wojick | Weekly, Wednesdays 6:00–8:00pm | October 7 | Erie (Erie Parkway & Briggs) |
+  | Thornton City Group | Conner & Rachel O'Brien | Every other Friday, 6:00–8:00pm | October 16 | Thornton (128th & Colorado) |
+  | Westminster City Group (Young Adults City Group) | Bobby Pascale | Weekly, Tuesdays 7:00–8:30pm | October 20 | Broomfield / Westminster (to be determined) |
+  | Run Club (a City Group; co-ed, ages 18 and up) | Jeremy & Glenys Parker | Weekly, Saturdays 7:00–9:00am | November 7 | Broomfield (McKay Lake Trail) |
+  | Men's Collective | Russ Daly & Conner O'Brien | Every other Thursday, 7:00pm | October 8 | Thornton / Erie |
+  | Women's Collective | Miranda Daly & Rachel O'Brien | Every other Thursday, 7:00pm | October 15 | Thornton / Erie |
+  | Planted. Bible Study | Paul Zhang | Weekly, Tuesdays 7:00–8:30pm, 12 weeks | October 6 | Broomfield (144th & Zuni) |
+
+  Every offering links to its own Church Center group for joining.
+- **Status:** Confirmed; activates Run Club and the Young Adults City Group, deferred under DEC-022, as City Groups
+- **Date and approver:** Recorded October 3, 2026; Paul's direction as Ministry Director that all information on the page is official. Russ completed his quick pre-launch review of the groups and the website and was pleased with how they turned out (reported by Paul, October 3, 2026).
+- **Domain:** Launch
+- **Supersedes:** DEC-022 in part (deferral of Run Club and Young Adults Group); DEC-060 in part (adds the Collectives' 7:00pm time and meeting areas)
+- **Owner:** Paul
+- **Evidence:** [Open Groups · Fall 2026](https://www.goldencity.church/groups/fall2026), inspected October 3, 2026; recorded in [[12 Ministry Website/Groups Page|Groups Page]].
+- **Implications:** Six City Groups launch this fall, including Erie (a new group) and two expressions previously deferred: Run Club and a young adults group, which is the Westminster City Group. Calendar, branch pages, the Planted venue search, and the website correction queue use these details. Youth City Group remains deferred.
+- **Boundary:** Russ's pre-launch review is recorded as a review of the published groups and website. It is not separately recorded as leader appointment (DEC-027), the joint Paul–Russ ready-to-lead decision for each leader (DEC-059), or final readiness approval of each offering (DEC-021). Intake through the Church Center links has not been tested (BWR-009). Exact meeting locations stay out of this repository; the published areas include cross-streets, which are more specific than the rough-area example in the DEC-051 clarification.
 
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 

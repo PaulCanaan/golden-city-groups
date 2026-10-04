@@ -13,9 +13,9 @@ This is a planning framework. The public church launch date and approved ministr
 - Fall 2026 primarily focuses on recruiting Launch Team members to host City Groups through the approved discernment and appointment process rather than recruiting from the general public.
 - Team Nights on July 28, August 11, and August 25 were scheduled to include dedicated City Group leadership preparation; event outcomes remain subject to reconciliation.
 - Paul is the operational point person for the ministry and Planning Center; Russ or his designated pastor gives final readiness approval.
-- Initial scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Run Club, Youth City Group, and Young Adults Group are deferred ideas.
+- Initial scope prioritizes City Groups, Men's Collective, Women's Collective, and Planted. Fall 2026 City Groups include Run Club and a Young Adults City Group ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]); Youth City Group remains deferred.
 - Planted is a twelve-week Bible Club beginning Tuesday evening, October 6, 2026, with Paul leading. Its curriculum is approved and is being finalized and published in Notion; location and final operational readiness remain open.
-- Men's Collective starts Thursday, October 8 at the Dalys' home for now; Women's Collective starts Thursday, October 15, likely rotating between the Dalys' and the O'Briens' homes (DEC-060). Both meet every other Thursday (every two weeks). Russ intends the Collectives to become on-site gatherings in the future. Both Collectives study Galatians through 2026 (DEC-055).
+- Men's Collective meets every other Thursday at 7:00pm from October 8, and Women's Collective every other Thursday at 7:00pm from October 15, both in the Thornton / Erie area (DEC-060, [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Russ intends the Collectives to become on-site gatherings in the future. Both Collectives study Galatians through 2026 (DEC-055).
 - The intended co-leads are Conner O'Brien and Russ Daly for Men's Collective and Rachel O'Brien and Miranda Daly for Women's Collective. Conner's and Rachel's expressed interest is not appointment; the canonical leader pathway still applies.
 - *Planted.* will very likely meet at Barn Door Coffee (Discovery Church, Broomfield) on Tuesday evenings; Russ has spoken with Discovery Church's pastor, and Paul will visit to confirm. The search continues for a future on-site Collective location.
 - Groups Ministry has three confirmed branches: City Groups for life together, Collectives for shared encouragement, and Bible Clubs rooted in Scripture. Classes are a future development path under Bible Clubs.
@@ -135,7 +135,7 @@ These may wait until after launch unless pastoral leadership explicitly prioriti
 
 - Activating every city-group page
 - Simultaneously launching every possible group expression
-- Run Club, Youth City Group, and Young Adults Group unless later reactivated through a separate readiness decision
+- Youth City Group, unless later reactivated through a separate readiness decision (Run Club and a Young Adults City Group were activated by DEC-065)
 - A complete class catalogue
 - Financial, marriage, or other future Classes under Bible Clubs
 - Freedom Groups, which are a potential future featured ministry rather than a launch offering

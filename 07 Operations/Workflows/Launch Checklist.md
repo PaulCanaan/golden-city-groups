@@ -31,7 +31,7 @@
 - [x] Paul owns Planning Center form intake, submission organization, initial applicant emails, and interview scheduling under DEC-026.
 - [x] DEC-042 confirms both Group Leader intake triggers, the four Planning Center stages, Groups Director ownership through launch, and actual launch as workflow completion.
 - [x] Paul recommends offering readiness; Russ or his designated pastor gives final approval.
-- [x] Run Club, Youth City Group, and Young Adults Group are deferred ideas rather than required launch offerings.
+- [x] Youth City Group is a deferred idea rather than a required launch offering (DEC-022). Run Club and a Young Adults City Group were activated as Fall 2026 City Groups by [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]].
 
 ## Team Night Follow-Through
 

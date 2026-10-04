@@ -60,6 +60,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target|DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target]]
 - [[08 Archive/Decisions/Decision History#DEC-048 — October 4, 2026 Group Launch Day|DEC-048 — October 4, 2026 Group Launch Day]]
 - [[08 Archive/Decisions/Decision History#DEC-051 — Group Launch Sunday Presentation and Detail Finalization|DEC-051 — Group Launch Sunday Presentation and Detail Finalization]]
+- [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065 — Fall 2026 Open Groups]]
 
 ### Curriculum
 
@@ -110,7 +111,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, and DEC-064. DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065. DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
 
 ### Confirmed in Part
 
@@ -145,21 +146,22 @@ DEC-039 and DEC-063.
 - [[08 Archive/Decisions/Decision History#DEC-008 — City Groups Model|DEC-008]] — weekly, sermon-based rhythm superseded by DEC-052.
 - [[08 Archive/Decisions/Decision History#DEC-043 — Biweekly Collective Cadence|DEC-043]] — Women's cadence superseded by DEC-058; Men's cadence superseded by DEC-060.
 - [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location|DEC-058]] — superseded by DEC-060.
+- [[08 Archive/Decisions/Decision History#DEC-022 — Initial Launch Scope and Deferred Public Ideas|DEC-022]] — Run Club and Young Adults deferral superseded by DEC-065; Youth City Group remains deferred.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions begin with the September 30 follow-up meeting decisions:
+The ten most recent numbered decisions begin with the October 3 Fall 2026 Open Groups record:
 
-1. [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director|DEC-064 — Pastoral Availability of the Groups Ministry Director]]
-2. [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063 — City Group and Collective Leader Guides]]
-3. [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City|DEC-062 — City Groups as a Signature Ministry of Golden City]]
-4. [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal|DEC-061 — Uneven Group Dynamics Are Normal]]
-5. [[08 Archive/Decisions/Decision History#DEC-060 — Thursday Collective Schedules and On-Site Direction|DEC-060 — Thursday Collective Schedules and On-Site Direction]]
-6. [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059 — Group Launch Readiness Workflow]]
-7. [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location|DEC-058 — Women's Collective Start, Rhythm, and Location]]
-8. [[08 Archive/Decisions/Decision History#DEC-057 — Groups Ministry Communication Channels|DEC-057 — Groups Ministry Communication Channels]]
-9. [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056 — Group Leader Collaborations]]
-10. [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055 — Weekly Recap and Fall 2026 Collectives Study]]
+1. [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065 — Fall 2026 Open Groups]]
+2. [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director|DEC-064 — Pastoral Availability of the Groups Ministry Director]]
+3. [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063 — City Group and Collective Leader Guides]]
+4. [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City|DEC-062 — City Groups as a Signature Ministry of Golden City]]
+5. [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal|DEC-061 — Uneven Group Dynamics Are Normal]]
+6. [[08 Archive/Decisions/Decision History#DEC-060 — Thursday Collective Schedules and On-Site Direction|DEC-060 — Thursday Collective Schedules and On-Site Direction]]
+7. [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059 — Group Launch Readiness Workflow]]
+8. [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location|DEC-058 — Women's Collective Start, Rhythm, and Location]]
+9. [[08 Archive/Decisions/Decision History#DEC-057 — Groups Ministry Communication Channels|DEC-057 — Groups Ministry Communication Channels]]
+10. [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056 — Group Leader Collaborations]]
 
 ## Supersession Map
 
@@ -200,6 +202,10 @@ DEC-043
 DEC-058
    ↓ superseded by
 DEC-060 (which also supersedes DEC-043's Men's cadence)
+
+DEC-022 (Run Club and Young Adults deferral)
+   ↓ superseded by
+DEC-065
 ```
 
 Only the explicit supersession relationships recorded in the [[Decision Log#Chronological Decision Register|chronological register]] appear here.

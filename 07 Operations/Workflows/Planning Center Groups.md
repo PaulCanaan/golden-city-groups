@@ -68,7 +68,7 @@ The July 27, 2026 Planning Center export contains seven non-archived records. Th
 
 ### Reconciliation needed
 
-- Run Club, Youth City Group, and Young Adults Group are deferred ideas under DEC-022. Public and Church Center presentation should not imply they are launch-ready; keep them closed, unlisted, or clearly future until a later readiness decision.
+- Run Club and a Young Adults City Group launched as Fall 2026 City Groups ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]) with public Church Center groups; the July snapshot above shows Run Club as unlisted and is now outdated. Youth City Group remains deferred under DEC-022.
 - Reconcile names, descriptions, schedules, locations, events, and enrollment status between the website and Church Center.
 - Review the ongoing purpose, access, privacy, and chat settings of the Launch Team records.
 - Add capacities, tags, or limits only where an approved need and accountable owner justify them.

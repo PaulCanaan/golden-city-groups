@@ -67,7 +67,7 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-019 | [[08 Archive/Decisions/Decision History#DEC-019 — Team Night City Group Leadership Preparation\|Team Night City Group Leadership Preparation]] | Confirmed | 2026-07-23 | Leadership | — | — | — |
 | DEC-020 | [[08 Archive/Decisions/Decision History#DEC-020 — Planning Center Groups Platform Context\|Planning Center Groups Platform Context]] | Confirmed | Not recorded | Technology & Systems | — | — | — |
 | DEC-021 | [[08 Archive/Decisions/Decision History#DEC-021 — Ministry Authority and Final Readiness Approval\|Ministry Authority and Final Readiness Approval]] | Confirmed | 2026-07-27 | Governance | — | — | Paul (operations); Russ or designated pastor (final readiness) |
-| DEC-022 | [[08 Archive/Decisions/Decision History#DEC-022 — Initial Launch Scope and Deferred Public Ideas\|Initial Launch Scope and Deferred Public Ideas]] | Confirmed | 2026-07-27 | Launch | — | — | — |
+| DEC-022 | [[08 Archive/Decisions/Decision History#DEC-022 — Initial Launch Scope and Deferred Public Ideas\|Initial Launch Scope and Deferred Public Ideas]] | Confirmed; Run Club and Young Adults deferral superseded by DEC-065 | 2026-07-27 | Launch | — | DEC-065 (in part) | — |
 | DEC-023 | [[08 Archive/Decisions/Decision History#DEC-023 — First Planted Instructor and Course Window\|First Planted Instructor and Course Window]] | Superseded in part by DEC-030 | 2026-07-27 | Curriculum | — | DEC-030 (length and classification) | Paul (instructor) |
 | DEC-024 | [[08 Archive/Decisions/Decision History#DEC-024 — Distinct Formation Emphases Across Ministry Environments\|Distinct Formation Emphases Across Ministry Environments]] | Superseded by DEC-025 | 2026-07-27 | Ministry Architecture | — | DEC-025 | — |
 | DEC-025 | [[08 Archive/Decisions/Decision History#DEC-025 — Golden City Groups Ministry Environments\|Golden City Groups Ministry Environments]] | Superseded by DEC-034 | Recorded 2026-08-01; decision date not recorded | Ministry Architecture | DEC-024 | DEC-034 | — |
@@ -110,6 +110,7 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-062 | [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City\|City Groups as a Signature Ministry of Golden City]] | Confirmed | 2026-09-30 | Strategy | — | — | — |
 | DEC-063 | [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides\|City Group and Collective Leader Guides]] | Confirmed development direction | 2026-09-30 | Leadership | — | — | Paul |
 | DEC-064 | [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director\|Pastoral Availability of the Groups Ministry Director]] | Confirmed | 2026-09-30 | Leadership | — | — | Paul |
+| DEC-065 | [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|Fall 2026 Open Groups]] | Confirmed; Russ's pre-launch review completed | 2026-10-03 | Launch | DEC-022 (Run Club and Young Adults deferral); DEC-060 (in part) | — | Paul |
 
 ## Open Decisions
 
