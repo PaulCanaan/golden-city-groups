@@ -26,12 +26,22 @@ Participant communication is a separate library. A person expressing interest in
 
 | Participant trigger | Canonical template |
 |---|---|
-| Connection Card interest in Groups | [[10 Templates/Communication/Participant Welcome and Groups Introduction]] |
+| Connection Card interest in Groups — email | [[10 Templates/Communication/Participant Welcome and Groups Introduction#Email — Groups Welcome and Introduction\|Groups welcome email]] |
+| Connection Card interest in Groups — short text | [[10 Templates/Communication/Participant Welcome and Groups Introduction#Text — Groups Welcome\|Groups welcome text]] |
 | Request to join Planted for Fall 2026 | [[10 Templates/Communication/Planted Introduction Email]] |
 | Added to Planted — personal welcome email | [[10 Templates/Communication/Planted Introduction Email#Email — Personal Welcome\|Planted welcome email]] |
 | Added to Planted — short text / Church Center welcome | [[10 Templates/Communication/Planted Introduction Email#Short Message — Text or Church Center\|Planted short welcome message]] |
 
-Both templates are drafts. Each carries its own blocking conditions and a pre-send checklist; neither is cleared to send until those are satisfied.
+All participant templates are drafts. Each carries its own blocking conditions and a pre-send checklist; none is cleared to send until those are satisfied.
+
+## Church-Wide Welcome
+
+Drafted by Groups Ministry for the church. Russ confirms its owner and sender before use (DEC-032).
+
+| Trigger | Draft template |
+|---|---|
+| First visit; Connection Card received — email introducing who we are and how to get involved | [[10 Templates/Communication/New to Golden City Welcome#Email — Welcome to Golden City\|Welcome email]] |
+| First visit; Connection Card received — short text | [[10 Templates/Communication/New to Golden City Welcome#Text — Welcome to Golden City\|Welcome text]] |
 
 ## Before Sending
 
