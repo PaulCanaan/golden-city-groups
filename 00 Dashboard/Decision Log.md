@@ -105,12 +105,13 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-057 | [[08 Archive/Decisions/Decision History#DEC-057 — Groups Ministry Communication Channels\|Groups Ministry Communication Channels]] | Confirmed | 2026-09-25 | Communication | — | — | Paul |
 | DEC-058 | [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location\|Women's Collective Start, Rhythm, and Location]] | Superseded by DEC-060 | 2026-09-25 | Operations | DEC-043 (Women's cadence) | DEC-060 | — |
 | DEC-059 | [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow\|Group Launch Readiness Workflow]] | Confirmed | 2026-10-01 | Operations | — | — | Paul |
-| DEC-060 | [[08 Archive/Decisions/Decision History#DEC-060 — Thursday Collective Schedules and On-Site Direction\|Thursday Collective Schedules and On-Site Direction]] | Confirmed | 2026-09-30 | Operations | DEC-058; DEC-043 (Men's cadence) | — | — |
+| DEC-060 | [[08 Archive/Decisions/Decision History#DEC-060 — Thursday Collective Schedules and On-Site Direction\|Thursday Collective Schedules and On-Site Direction]] | Confirmed; Thursday schedules and locations superseded by DEC-066; on-site direction stands | 2026-09-30 | Operations | DEC-058; DEC-043 (Men's cadence) | DEC-066 (in part) | — |
 | DEC-061 | [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal\|Uneven Group Dynamics Are Normal]] | Confirmed | 2026-09-30 | Leadership | — | — | — |
 | DEC-062 | [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City\|City Groups as a Signature Ministry of Golden City]] | Confirmed | 2026-09-30 | Strategy | — | — | — |
 | DEC-063 | [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides\|City Group and Collective Leader Guides]] | Confirmed development direction | 2026-09-30 | Leadership | — | — | Paul |
 | DEC-064 | [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director\|Pastoral Availability of the Groups Ministry Director]] | Confirmed | 2026-09-30 | Leadership | — | — | Paul |
-| DEC-065 | [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|Fall 2026 Open Groups]] | Confirmed; Russ's pre-launch review completed | 2026-10-03 | Launch | DEC-022 (Run Club and Young Adults deferral); DEC-060 (in part) | — | Paul |
+| DEC-065 | [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|Fall 2026 Open Groups]] | Confirmed; Russ's pre-launch review completed; Collective, Planted, and Westminster details superseded by DEC-066 | 2026-10-03 | Launch | DEC-022 (Run Club and Young Adults deferral); DEC-060 (in part) | DEC-066 (in part) | Paul |
+| DEC-066 | [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates\|Fall 2026 Open Groups Schedule Updates]] | Confirmed; approved by Russ | 2026-10-05 | Launch | DEC-065 (Collective, Planted, and Westminster details); DEC-060 (Thursday schedules and locations) | — | Paul |
 
 ## Open Decisions
 

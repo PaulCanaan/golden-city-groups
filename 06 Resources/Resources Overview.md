@@ -60,7 +60,7 @@ Bible Club and future Class resources remain with the curriculum they support so
 Future Classes may provide topic-based equipping under Bible Clubs while holding intellectual and spiritual formation together. Resources should be adapted to the confirmed purpose of the three branches rather than copied unchanged across City Groups, Collectives, and Bible Clubs.
 
 - [[Curriculum Overview]] — entry point for the current curriculum library
-- [[04 Classes/Curriculum/Planted Bible Study]] — confirmed twelve-week Bible Club beginning October 6, 2026, led by Paul; final readiness remains open
+- [[04 Classes/Curriculum/Planted Bible Study]] — confirmed twelve-week Bible Club beginning Monday, October 12, 2026, led by Paul; final readiness remains open
 - [[08 Archive/Classes/God With Us|God With Us]] — archived unapproved curriculum scaffold
 - [[08 Archive/Classes/Covenant, Kingdom, People of God|Covenant, Kingdom, People of God]] — archived unapproved curriculum scaffold
 

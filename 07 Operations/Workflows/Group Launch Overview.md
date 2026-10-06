@@ -32,7 +32,7 @@ Connected to [[07 Operations/Workflows/Semester Planning]] and [[07 Operations/C
 
 The shared Planning Center workflow and documented email automations are configured. Live use, candidate-stage reconciliation, testing, and all appointment/readiness gates remain separate.
 
-Collectives and Bible Clubs have an October 2026 readiness target. Men's Collective starts Thursday, October 8 at the Dalys' home for now; Women's Collective starts Thursday, October 15, likely rotating between the Dalys' and the O'Briens' homes (DEC-060). Both meet every other Thursday (every two weeks). Russ intends the Collectives to become on-site gatherings in the future. *Planted.* will very likely meet at Barn Door Coffee in Broomfield on Tuesday evenings, pending Paul's confirmation visit. Paul owns downstream operational setup.
+Collectives and Bible Clubs have an October 2026 readiness target. Both Collectives meet every other Tuesday at 6:30pm in the Broomfield (144th & Zuni) area, on alternating weeks: Men's from October 6 and Women's from October 13 (DEC-066, replacing DEC-060's Thursday schedules). Russ intends the Collectives to become on-site gatherings in the future. *Planted.* meets Mondays 6:30–8:00pm from October 12 in the Broomfield (120th & Interlocken) area (DEC-066); its specific venue is still to be confirmed (BWR-018). Paul owns downstream operational setup.
 
 Public leadership pathways may be developed later but are not part of the initial pre-launch recruitment process.
 

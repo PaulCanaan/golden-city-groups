@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Confirmed model; Group Launch Day is October 4, 2026 (DEC-048); individual launch expressions pending.** City Groups begin as location-based groups that help people share life together in homes or public spaces. No geographic page, leader, host, coach, location, capacity, or assignment is confirmed merely because it appears in this repository.
+**Confirmed model; October 4 Group Launch Day has passed, but its outcome and individual readiness evidence remain under review.** City Groups begin as location-based groups that help people share life together in homes or public spaces. DEC-065 confirms the Fall 2026 offering set and published leaders; publication does not by itself establish appointment, final readiness, or an actual first gathering.
 
 ## Ministry Emphasis
 
@@ -41,12 +41,12 @@ Official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Ope
 | Lafayette | Julianne McKay | Every other Sunday, 12:00–1:30pm | October 11 | Lafayette |
 | Broomfield | Aaron & Minette McGeehon | Weekly, Wednesdays 7:00–8:30pm | October 14 | Broomfield |
 | Thornton | Conner & Rachel O'Brien | Every other Friday, 6:00–8:00pm | October 16 | Thornton |
-| Westminster (Young Adults City Group) | Bobby Pascale | Weekly, Tuesdays 7:00–8:30pm | October 20 | Broomfield / Westminster |
+| Westminster (Young Adults City Group) | Bobby Pascale | Weekly, Tuesdays 7:00–8:30pm | October 20 | Westminster |
 | Run Club (co-ed, ages 18 and up) | Jeremy & Glenys Parker | Weekly, Saturdays 7:00–9:00am | November 7 | Broomfield |
 
 ## Group Launch Sunday
 
-On October 4, 2026, groups are presented at lobby tables, where leaders introduce their groups to interested people (DEC-051). Paul prepares an information card for each group with its meeting time, rough location, and a join QR code. A group with many open spots may present again on October 11. Presenting a group does not appoint its leader or approve it as launch-ready.
+October 4, 2026 was the confirmed lobby-presentation date under DEC-051. Nine information cards with join QR codes were prepared and verified before the event, but the repository does not record whether they were printed and used, which groups presented, or the aggregate outcome. [[00 Dashboard/Biweekly Review Queue|BWR-028]] carries that post-event reconciliation and the October 11 second-presentation decision. Presenting a group does not appoint its leader or approve it as launch-ready.
 
 ## Long-Term Development Path
 

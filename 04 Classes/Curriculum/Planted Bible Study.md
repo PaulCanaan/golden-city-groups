@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Confirmed Bible Club with approved curriculum; Notion publishing and operating readiness are separate workstreams.** Paul will lead the twelve-week Planted Bible Club beginning Tuesday evening, October 6, 2026. The curriculum is being finalized and published in Notion. It meets Tuesdays 7:00–8:30pm in the published area Broomfield (144th & Zuni) ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Whether that is the Barn Door Coffee space at Discovery Church, identified as very likely on September 30, is not yet recorded. Final readiness remains unresolved.
+**Confirmed Bible Club with approved curriculum; Notion publishing and operating readiness are separate workstreams.** DEC-030, DEC-054, and DEC-065 govern a twelve-week Planted Bible Club led by Paul. Russ approved its current schedule on October 5 ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]): weekly on Mondays, 6:30–8:00pm, beginning October 12, 2026, with the published area Broomfield (120th & Interlocken). This replaces the Tuesday, October 6 start at Broomfield (144th & Zuni). The specific venue (BWR-018) and final readiness remain unresolved.
 
 Under DEC-054, Planted recurs every fall as the Bible Club's seeker- and new-believer-friendly curriculum, and people who complete it may be considered to lead it in the future (subject to DEC-027). Paul is preparing the study materials (DEC-055). Paul's September 25 minutes style the title *Planted.*, which bears on the naming question below.
 
@@ -182,7 +182,7 @@ Completion of Notion publishing does not establish operational readiness.
 
 ## Remaining Readiness Needs
 
-- Confirm the complete twelve-session calendar and holiday implications after the October 6 start. This is now blocked on a prior question: how the ten movements in [[#The Journey Ahead|The Journey Ahead]], the five chapters named in the curriculum overview, and twelve sessions relate to one another.
+- Confirm the complete twelve-session calendar and holiday implications after the governing start is reconciled with the October 5 public change. This is also blocked on how the ten movements in [[#The Journey Ahead|The Journey Ahead]], the five chapters named in the curriculum overview, and twelve sessions relate to one another.
 - Record the four remaining [[#Recurring Frameworks|recurring frameworks]] so participant communication and the session calendar work from one source.
 - Russ is seeking an appropriate October classroom or venue; after confirmation, Paul completes room setup, capacity, and participant-path planning. **Give the venue search the room's real requirements:** open floor space for the four-quadrant Four Relationships activity, a circle that can hear itself, and a way to play music for worship. A room of rows will not run Session 0 as written.
 - Complete and verify the Notion publishing package and document any participant cost. Session 0 requires snacks and drinks as supplies, which carries both a cost and an allergen question.

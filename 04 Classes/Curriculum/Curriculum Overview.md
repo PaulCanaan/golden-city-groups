@@ -6,7 +6,7 @@
 
 ## Current Materials
 
-- [[04 Classes/Curriculum/Planted Bible Study|Planted Bible Study]] — confirmed twelve-week Bible Club beginning October 6 with Paul leading; curriculum approved, Notion publishing underway, and operating readiness still pending
+- [[04 Classes/Curriculum/Planted Bible Study|Planted Bible Study]] — confirmed twelve-week Bible Club beginning Monday, October 12 with Paul leading; curriculum approved, Notion publishing underway, and operating readiness still pending
 
 The Planted page now carries the study's formation goal, forms of learning, journey arc, first recurring framework, and Session 0 session shape, recorded September 22, 2026 from Paul's introduction deck. Curriculum content is recorded there; operating readiness is unchanged.
 

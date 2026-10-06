@@ -4,9 +4,9 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 
 ## Document Status
 
-**Working page record; not a decision record.** Updated October 3, 2026 from a live inspection after Paul finalized the details. Paul states that all information on the Fall 2026 directory is official; it is recorded in [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]. Russ completed his quick pre-launch review of the groups and the website on or before October 3. Russ's quick pre-launch review remains pending; publication does not establish completed intake or follow-up testing.
+**Working page record; not a decision record.** Updated October 5, 2026 from a live inspection. Paul declared the October 3 directory official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]], and Russ completed his quick pre-launch review on or before October 3. Russ approved the October 5 schedule and area changes, recorded as [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]; the live page holds the latest group information (Paul, October 5). Publication does not establish appointment, final readiness, completed intake, or follow-up testing.
 
-## Live Now (inspected October 3, 2026)
+## Live Now (inspected October 5, 2026)
 
 Since the evening of October 1, the Groups page is two native Squarespace pages instead of one code-block page. Both keep the church's shared header and footer.
 
@@ -24,7 +24,7 @@ Linked under **Connect → Groups**. Page title: *Groups | Find Community*.
 
 ### `/groups/fall2026` — Open Groups · Fall 2026
 
-Listed under **Not Linked** in Squarespace and reached from the overview. Category links jump to City Groups, Collectives, and Bible Club. The directory has three headed sections: **City Groups · Fall 2026**, **Men's & Woman's Gatherings · Fall 2026**, and **Open Classes · Fall 2026**. Each card shows a photo or cover, the group name, its leaders, and **Join Group**; schedule, area, and description sit inside a collapsed **Group details**. Official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]].
+Listed under **Not Linked** in Squarespace and reached from the overview. Category links jump to City Groups, Collectives, and Bible Club. The directory has three headed sections: **City Groups · Fall 2026**, **Men's & Women's Gatherings · Fall 2026**, and **Open Classes · Fall 2026**. Each card shows a photo or cover, the group name, its leaders, and **Join Group**; schedule, area, and description sit inside a collapsed **Group details**. The details below are official under DEC-065 as updated by DEC-066.
 
 | Group | Leaders | Rhythm | Starts | Meeting area (as published) |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ Listed under **Not Linked** in Squarespace and reached from the overview. Catego
 | Lafayette City Group | Julianne McKay | Every other Sunday, 12:00–1:30pm | October 11 | Lafayette (Wanneka Lake, Otis, or a local space) |
 | Erie City Group | Troy & Kate Wojick | Weekly, Wednesdays 6:00–8:00pm | October 7 | Erie (Erie Parkway & Briggs) |
 | Thornton City Group | Conner & Rachel O'Brien | Every other Friday, 6:00–8:00pm | October 16 | Thornton (128th & Colorado) |
-| Westminster City Group (Young Adults City Group) | Bobby Pascale | Weekly, Tuesdays 7:00–8:30pm | October 20 | Broomfield / Westminster (TBD) |
+| Westminster City Group (Young Adults City Group) | Bobby Pascale | Weekly, Tuesdays 7:00–8:30pm | October 20 | Westminster (100th & Summit) |
 | Run Club | Jeremy & Glenys Parker | Weekly, Saturdays 7:00–9:00am | November 7 | Broomfield (McKay Lake Trail) |
-| Men's Collective | Russ Daly & Conner O'Brien | Every other Thursday, 7:00pm | October 8 | Thornton / Erie |
-| Women's Collective | Miranda Daly & Rachel O'Brien | Every other Thursday, 7:00pm | October 15 | Thornton / Eire *(sic)* |
-| Planted. Bible Study | Paul Zhang | Weekly, Tuesdays 7:00–8:30pm; 12 weeks | October 6 | Broomfield (144th & Zuni) |
+| Men's Collective | Russ Daly & Conner O'Brien | Every other Tuesday, 6:30pm | October 6 | Broomfield (144th & Zuni) |
+| Women's Collective | Miranda Daly & Rachel O'Brien | Every other Tuesday, 6:30pm | October 13 | Broomfield (144th & Zuni) |
+| Planted. Bible Study | Paul Zhang | Weekly, Mondays 6:30–8:00pm; 12 weeks | October 12 | Broomfield (120th & Interlocken) |
 
 Every **Join Group** button links to that group's own Church Center page: the four co-ed City Groups under the *City Group Co-ed* group type, the young adults group under *City Group Young Adult*, Run Club under *Unique*, and the Collectives and Planted under their existing types. Descriptions are written by each group's leaders; Run Club notes it is co-ed, ages 18 and up. No card links to the contact page, and no street address appears.
 
@@ -50,19 +50,32 @@ Every **Join Group** button links to that group's own Church Center page: the fo
 - First published the seven profiles inside the existing code block (afternoon), then rebuilt both pages with native Squarespace content after Paul approved a preview (evening). Paul Zhang was removed from the overview and kept as Planted's leader.
 - Women's Collective now links to its existing Church Center group page at Paul's request, replacing the earlier contact route.
 - **October 3:** Paul finalized the details and declared the directory official ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Added Erie City Group, Run Club, and the young adults group (Westminster); filled in every schedule, start date, and meeting area; added leader-written descriptions and photos; replaced all "coming soon" placeholders with Church Center links.
+- **October 5:** Both Collectives moved to every other Tuesday at 6:30pm in Broomfield (144th & Zuni), Men's from October 6 and Women's from October 13; Planted moved to Mondays 6:30–8:00pm from October 12 in Broomfield (120th & Interlocken); the young adults group's area became Westminster (100th & Summit); and the leader-written typos were corrected. Russ approved these changes ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]).
 
-## Remaining Before Launch Review
+## October 5 Schedule Changes (Resolved)
 
-- **Typos on the directory:** the Collectives heading reads "Men's & **Woman's** Gatherings," and Women's Collective's area reads "Thornton / **Eire**."
-- **Planted under "Open Classes":** the directory files *Planted.* under **Open Classes · Fall 2026**, while the page otherwise calls it a Bible Club (DEC-030) and Classes are a future path under Bible Club (DEC-034). Decide whether the heading should say Bible Club.
+A morning inspection on October 5 found Collective and Planted changes made after the October 3 record and routed them as a conflict (BWR-035). Later that day the page changed again to the details in the table above, and Paul reported that Russ approved all of the changes. They are recorded as [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]], which closes BWR-035. The intermediate morning version (Men's from October 13, Women's from October 20, both at 7:00pm; Planted on Saturdays from October 10) is superseded and is not used anywhere.
+
+## Remaining Follow-Up
+
+- **Printed Group Profile Cards:** the October 3 cards no longer match the page for Men's Collective, Women's Collective, Planted, and the Westminster group (schedule or area), or for the corrected Broomfield, Lafayette, and Thornton descriptions. Reprint them before they are used again. See [[07 Operations/Annual Rhythm/2026/Fall 2026 Group Profile Cards|Fall 2026 Group Profile Cards]].
+- **Planted under "Open Classes":** *(still live October 5)* the directory files *Planted.* under **Open Classes · Fall 2026**, while the page otherwise calls it a Bible Club (DEC-030) and Classes are a future path under Bible Club (DEC-034). Decide whether the heading should say Bible Club.
 - **Meeting areas include cross-streets** (for example 136th & Lowell, 128th & Colorado). They are not addresses, but they are more specific than the rough-area example in the DEC-051 clarification ("North Thornton"). Where a group meets in a home, check that the cross-street does not point to it.
 - **Overview FAQ:** "If a join link is marked coming soon, check back" no longer applies; every card now has a link.
 - **Women's Church Center page:** last recorded as titled *Women's Bible Club* with inconsistent dates; confirm it has been corrected in Planning Center.
-- **Planted:** the published area is Broomfield (144th & Zuni). Confirm whether this is the Barn Door Coffee space (BWR-018), and reconcile its older "class" description in Church Center.
+- **Planted:** the published area is now Broomfield (120th & Interlocken). Confirm the venue and its facility arrangements (BWR-018), and check that the Church Center group shows the Monday, October 12 schedule and no longer carries the older "class" description.
+- **Events page:** `goldencity.church/events` still lists *Planted.* as "Planted Bible Class," Tuesdays 7–8:30 PM (seen October 5). Under DEC-066 it meets Mondays 6:30–8:00pm from October 12. The *You Said Yes* page also calls it a "Bible class." Update both to match the directory.
+- **Church Center schedules:** check that the Men's and Women's Collective Church Center groups show the Tuesday, 6:30pm schedules and October 6 and 13 starts.
 - **Contact fallback:** neither page offers a contact route for someone unsure which group fits ("Offer personal help" in [[12 Ministry Website/Design Principles and Maintenance|Design Principles]]).
 - **Intake testing:** no requests were submitted through the new links; consent, routing, and follow-up are untested (BWR-009).
 
 ## Verification
+
+**October 5, 2026, later in the day:** the directory returned successfully with all nine offerings and nine Church Center join links, unchanged from the morning except for the details now in the table: Men's Collective every other Tuesday at 6:30pm from October 6; Women's Collective every other Tuesday at 6:30pm from October 13; Planted weekly on Mondays 6:30–8:00pm from October 12 at Broomfield (120th & Interlocken); the young adults group at Westminster (100th & Summit); and corrected Broomfield, Lafayette, and Thornton descriptions. The **Open Classes · Fall 2026** heading remains. The overview page and the Church Center pages were not re-checked. No join request was submitted.
+
+**October 5, 2026, morning:** both public pages returned successfully. The overview still says to check back if a join link is marked coming soon even though every directory card has a link. The directory shows the corrected **Men's & Women's** heading and **Thornton / Erie** no longer appears for the Collectives; it still uses **Open Classes · Fall 2026** for *Planted.*. The two Collective schedules and Planted schedule/area then conflicted with DEC-060 and DEC-065; see the resolved section above. No join request was submitted.
+
+**October 3, 2026, evening:** Paul fixed the "Men's & Woman's Gatherings" heading and the Women's Collective's "Eire" area. The page now reads "Men's & Women's Gatherings" and "Thornton / Erie," and the printed cards already matched it.
 
 **October 3, 2026 (repository check after finalization):** both pages return successfully; the directory shows all nine groups with the details above; every Join Group button links to a Church Center group page. The overview is unchanged from October 2. Church Center pages load their content with JavaScript, so their titles and settings were not read.
 

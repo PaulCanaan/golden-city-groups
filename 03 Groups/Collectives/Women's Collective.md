@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Planned Women's Collective; October readiness at risk.** DEC-060 sets a Thursday rhythm starting October 15, with the location likely rotating between the Dalys' and the O'Briens' homes. It meets every other Thursday at 7:00pm in the Thornton / Erie area ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). The intended co-lead structure is confirmed direction. Leader-path completion, participant path, communication, home-meeting safeguards, and final readiness remain unresolved.
+**Planned Women's Collective; October readiness at risk.** Women's Collective starts Tuesday, October 13, 2026 and meets every other Tuesday at 6:30pm in the Broomfield (144th & Zuni) area ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]], approved by Russ). The intended co-lead structure is confirmed direction. Leader-path completion, participant path, communication, home-meeting safeguards, and final readiness remain unresolved.
 
 ## Ministry Emphasis
 
@@ -24,12 +24,12 @@ Men's and Women's Collectives study the book of Galatians for the rest of 2026, 
 
 ## Schedule and Location
 
-- **Start:** Thursday, October 15, 2026 (DEC-060). Miranda and Rachel found Thursdays work better than Fridays; this supersedes the Friday rhythm in DEC-058.
-- **Rhythm:** every other Thursday at 7:00pm ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]).
-- **Location:** published area Thornton / Erie ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]); homes were expected to rotate between the Dalys' and the O'Briens' (DEC-060). Russ intends the Collectives to become on-site gatherings in the future. Do not record the address in this repository; the full details go privately to people who join.
+- **Start:** Tuesday, October 13, 2026 ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]), replacing the Thursday, October 15 start in DEC-060 and DEC-065 (which had earlier replaced DEC-058's Friday rhythm).
+- **Rhythm:** every other Tuesday at 6:30pm (DEC-066), alternating weeks with Men's Collective.
+- **Location:** published area Broomfield (144th & Zuni) (DEC-066), replacing the Thornton / Erie area and the expected rotation between the Dalys' and the O'Briens' homes (DEC-060). The repository does not record whether this is a home. Russ intends the Collectives to become on-site gatherings in the future. Do not record the address in this repository; the full details go privately to people who join.
 - **Safeguards:** DEC-028 requires the applicable safeguards to be confirmed before meetings in a private home.
 
-The exact time, capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.
+The capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.
 
 Paul is convening a Collectives construction meeting with Russ, Miranda, Conner, and Rachel (BWR-022).
 

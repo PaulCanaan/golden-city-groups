@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Reviewed August 10 and reconciled September 3, 2026 with the [[08 Archive/Decisions/2026-08-28 Staff Meeting Updates|August 28 staff-meeting updates]]. Approved direction is governing through DEC-058 in the [[Decision Log|Active Decision Register]]; the [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes|September 25 staff meeting]] resolved PRO-033 (DEC-055). This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].**
+**Reviewed August 10 and reconciled October 5, 2026 through DEC-066 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); DEC-059–066 further clarified launch workflow, schedules, leadership support, and the official Fall 2026 offering directory. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
 
 ## Confirmed Ministry Language
 
@@ -162,9 +162,9 @@ These recommendations are not a substitute for church policy, legal guidance, or
 | Women's Collective | Miranda           | Intended co-leads: Rachel O'Brien and Miranda Daly; appointments pending |                     | Launch / Develop / Defer |
 | Planted            | Paul              | Paul, Bible Club leader |                | Launch / Develop / Defer |
 
-Run Club and a Young Adults City Group launched as Fall 2026 City Groups under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] and are part of the City Group(s) row. Youth City Group remains deferred under DEC-022.
+Run Club and a Young Adults City Group were activated as official Fall 2026 City Groups under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] and are part of the City Group(s) row. Actual launch still requires a first gathering and the applicable readiness evidence. Youth City Group remains deferred under DEC-022.
 
-DEC-060 moves both Collectives to Thursdays in homes: Men's from October 8, Women's from October 15. DEC-044 records the intended co-lead teams without treating Conner's or Rachel's expressed interest as appointment. Time, venue, October start dates, participant paths, leader-path completion, escalation contacts, and readiness dispositions remain open.
+DEC-066 governs both Collectives on alternating Tuesdays at 6:30pm in the Broomfield (144th & Zuni) area: Men's from October 6 and Women's from October 13, replacing DEC-060/065's Thursday schedules. DEC-044 records the intended co-lead teams without treating Conner's or Rachel's expressed interest as appointment. Participant paths, leader-path completion, escalation contacts, and readiness dispositions remain open.
 
 **Question surfaced through Inbox processing:** Which of the three branches should the August Team Night leader-interest invitation name as actively receiving interest? Fall 2026 now prioritizes recruiting Launch Team members to host City Groups; naming another branch must not imply that a role or offering is approved or launch-ready.
 
@@ -181,7 +181,7 @@ DEC-060 moves both Collectives to Thursdays in homes: Men's from October 8, Wome
 - **Approval status:** Partially confirmed August 5, 2026 under DEC-030; operating details and final readiness remain open
 - **Launch priority:** Launch-blocking for Planted
 - **Decision needed:** Confirm the remaining operating details and final readiness for the first Planted Bible Club.
-- **Confirmed context:** Planted is a twelve-week Bible Club beginning Tuesday evening, October 6, 2026, with Paul leading. Curriculum is approved and is being finalized and published in Notion; operational readiness remains separate.
+- **Confirmed context:** Planted is a twelve-week Bible Club meeting Mondays 6:30–8:00pm from October 12, 2026, in the Broomfield (120th & Interlocken) area, with Paul leading (DEC-066; originally Tuesday, October 6). Curriculum is approved and is being finalized and published in Notion; operational readiness remains separate.
 - **Why it matters:** Leadership, curriculum review, and a start date do not by themselves authorize location, enrollment, or launch.
 - **Formation relationship:** Planted should hold intellectual and spiritual formation together and remain connected to the life and oversight of the church.
 

@@ -8,7 +8,7 @@
 
 - **Offering:** Planted Bible Study
 - **Role:** Bible Club leader / facilitator — Paul
-- **Window:** Twelve weeks beginning Tuesday evening, October 6, 2026
+- **Window:** Twelve weeks beginning Monday evening, October 12, 2026 (DEC-066; originally Tuesday, October 6)
 - **Evidence:** DEC-030
 
 ## Instructor Purpose

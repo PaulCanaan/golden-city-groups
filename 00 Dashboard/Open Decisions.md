@@ -37,7 +37,7 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 ### Offering Readiness
 
 - **Question:** Which City Groups, Collectives, and Bible Clubs will launch, and what remaining leader approvals, escalation contacts, locations, times, start dates, capacities, participant paths, and readiness dispositions apply?
-- **Why unresolved:** DEC-044 establishes intended co-leads for both Collectives, but expressed interest is not appointment. DEC-060 sets Thursday starts and home locations for both Collectives (Men's October 8, Women's October 15); both meet every other Thursday. DEC-051–052 set the Group Launch Sunday format and City Group design freedom without approving any group. DEC-029 assigns operational owners without completing these offering-level gates.
+- **Why unresolved:** DEC-044 establishes intended co-leads for both Collectives, but expressed interest is not appointment. DEC-066 sets both Collectives on alternating Tuesdays at 6:30pm in the Broomfield (144th & Zuni) area (Men's from October 6, Women's from October 13), replacing DEC-060/065's Thursday schedules. DEC-051–052 set the Group Launch Sunday format and City Group design freedom without recording per-offering appointment or final readiness. DEC-029 assigns operational owners without completing these offering-level gates.
 - **Blocking impact:** Launch-blocking for each offering.
 - **Expected decision owner:** Assigned operational owners prepare readiness; staff and pastoral leadership decide the remaining items within DEC-021.
 - **Sources:** [[Staff Decision Brief#PRO-027 — Active Offering Ownership and Readiness|PRO-027]], [[08 Archive/Decisions/Decision History#OQ-003 — Launch-Ready Group Expressions|OQ-003]].
@@ -45,7 +45,7 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 ### Planted Final Readiness
 
 - **Question:** What location, capacity, participant path, support role, complete session calendar, tested Church Center page, and final approval will govern Planted?
-- **Why unresolved:** DEC-030 and DEC-038 confirm the Bible Club model, leader, curriculum, length, date, and Notion publishing direction, and DEC-054 makes Planted a recurring fall curriculum, but operational readiness remains incomplete. The location was still TBD at the September 25 staff meeting.
+- **Why unresolved:** DEC-030, DEC-038, DEC-054, DEC-065, and DEC-066 confirm the Bible Club model, leader, curriculum, length, Notion direction, and the Monday 6:30–8:00pm schedule from October 12 in the published Broomfield (120th & Interlocken) area, but the specific venue and operational readiness remain incomplete.
 - **Blocking impact:** Launch-blocking for Planted.
 - **Expected decision owner:** Paul and Russ.
 - **Sources:** [[Staff Decision Brief#PRO-028 — Planted Final Readiness|PRO-028]], [[08 Archive/Decisions/Decision History#OQ-011 — Planted Operational Readiness|OQ-011]].

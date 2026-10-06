@@ -47,14 +47,4 @@ Use [[10 Templates/Records/Inbox Item|Inbox Item]] to capture a non-sensitive it
 
 <!-- Capture new items below using the Inbox Item Template. -->
 
-## 2026-09-22 — Does DEC-049's publication boundary cover direct email?
-
-- **Source:** Drafting [[10 Templates/Communication/Participant Welcome and Groups Introduction|the participant welcome email]] on September 22, 2026
-- **Type:** Question
-- **Ministry Area:** Governance
-- **Authority Status:** Unresolved Question
-- **Summary:** DEC-049 approves the Belonging–Beholding–Becoming introduction as public-facing ministry language, and its boundary states that published participant-facing use travels with Russ's confirmation under BWR-020. The record does not say whether a direct pastoral email to an individual counts as publication. The welcome template carries a reduced variant that omits the framework block so it can be sent either way, but the question should be settled rather than worked around.
-- **Next Action:** Ask Russ as part of BWR-020 whether the DEC-047 and DEC-049 language is confirmed for direct participant email as well as for published pages.
-- **Owner:** Paul to raise; Russ confirms
-- **Target Destination:** [[00 Dashboard/Biweekly Review Queue|BWR-020]], then the DEC-049 record if the boundary is clarified
-- **Status:** Clarify
+No active items. The September 22 question about DEC-049 and direct participant email was filed into [[00 Dashboard/Biweekly Review Queue|BWR-020]] on October 5, 2026; it remains unresolved there.

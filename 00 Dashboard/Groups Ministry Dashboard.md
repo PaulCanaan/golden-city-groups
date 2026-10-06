@@ -2,7 +2,7 @@
 
 ## Dashboard Status
 
-**Executive control surface; not a governing decision record.** Last reconciled **September 21, 2026** through the current [[09 Reports/Biweekly Reviews/2026-09-21 Groups Ministry Biweekly Review|biweekly review]]. Repository execution is complete; required Paul and Russ review remains in progress. Updated **September 29, 2026** with the [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes|September 25 staff meeting]] decisions (DEC-051–058) and Paul's same-day clarifications, then the [[08 Archive/Decisions/2026-09-30 Follow-Up Meeting Minutes|September 30 follow-up meeting]] (DEC-060–064). The next review is October 5, 2026. Update governing sources before this dashboard when approved direction changes.
+**Executive control surface; not a governing decision record.** Last reconciled **October 5, 2026** through the current [[09 Reports/Biweekly Reviews/2026-10-05 Groups Ministry Biweekly Review|biweekly review]], DEC-051–065, the October 3 profile-card evidence, the October 4 milestone, an October 5 public-page inspection, and DEC-066 (Russ's approval of the October 5 schedule changes). Repository execution is complete; required Paul and Russ review remains in progress. The next review is October 19, 2026. Update governing sources before this dashboard when approved direction changes.
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
@@ -30,43 +30,40 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 | Item | Current status |
 |---|---|
 | Public church launch | **September 20, 2026 — completed**; the church is established in Broomfield, Colorado |
-| Current phase | Final week before the October 4 Group Launch Day: finalizing group details with leaders, Launch Sunday lobby preparation, Connection Card follow-up, Collectives construction, and launch-blocking decisions |
-| Most recent milestone | **September 25 staff meeting** — Russ and Paul set the Launch Sunday format, City Group design freedom, branch emphases, fall studies, Group Leader Collaborations, communication channels, and the Women's Collective start (DEC-051–058) |
-| Next confirmed ministry milestone | **Group Launch Day — October 4, 2026**: groups presented at lobby tables (DEC-048, DEC-051) |
+| Current phase | Post–Group Launch Day reconciliation and first-gathering readiness: establish what occurred October 4, prepare the first gatherings under the DEC-066 schedules, test participant paths, and record only evidence-backed appointments and final readiness |
+| Most recent milestone | **October 4 Group Launch Day** — the date has passed; nine cards and QR destinations were prepared, but event execution and aggregate outcomes are not recorded (BWR-028) |
+| Next dated decision point | **October 11 optional second lobby presentation** for groups with many open spots (DEC-051), pending the October 4 outcome; first gatherings run October 6–20 under DEC-065 and DEC-066, beginning with Men's Collective on Tuesday, October 6 |
 | Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
-| October Collectives readiness | **At Risk** — both every other Thursday at 7:00pm, Thornton / Erie area: Men's from October 8, Women's from October 15 ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]]); Galatians study approved. Materials, leader approvals, participant-path testing, home-meeting safeguards, and final readiness remain open |
-| Planted October 6 readiness | **At Risk** — see [[00 Dashboard/Launch Readiness Dashboard#K. Planted Operational Readiness\|Planted Operational Readiness]] |
+| October Collectives readiness | **At Risk** — DEC-066 sets every other Tuesday at 6:30pm in Broomfield (144th & Zuni): Men's from October 6, Women's from October 13. Materials, appointments, participant-path testing, safeguards, and final readiness remain open |
+| Planted readiness | **At Risk** — DEC-066 sets Mondays 6:30–8:00pm from October 12 in the Broomfield (120th & Interlocken) area. Specific venue, full calendar, testing, support, and final approval remain open |
 | Ministry architecture | City Groups — life together; Collectives — shared encouragement; Bible Clubs — rooted in Scripture |
 | Group Leader workflow | **Configured** — `Interest → Welcome / Contact → Group Leader Conversation → Training → Launch`; live use and candidate stages still require reconciliation |
-| Groups webpage | **Fall 2026 directory official (October 3)** — nine offerings, including Erie City Group, Run Club, and a Young Adults City Group, each with full details and a Church Center join link ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]]). Russ completed his quick pre-launch review |
-| Paul's focus through October 4 | Welcome emails for Connection Card interest, finalizing group details with leaders, information cards and QR codes for the lobby tables, and building the Collectives with Russ, Miranda, Conner, and Rachel without implying appointment |
+| Groups webpage | **Live** — nine offerings and Church Center links published; schedules match DEC-065 as updated by DEC-066, which Russ approved October 5. The printed profile cards for six offerings are now out of date |
+| Paul's immediate focus | Supply the October 4 outcome, make sure joined participants have the new Collective and Planted dates, confirm Planted's venue and operating plan, complete participant-path evidence, and record only non-sensitive aggregate leader and connection movement |
 | Final readiness authority | Russ or a pastor explicitly designated by Russ |
 
 ## Biweekly Ministry Review
 
-- **Latest review:** [[09 Reports/Biweekly Reviews/2026-09-21 Groups Ministry Biweekly Review|September 21, 2026 — repository execution complete; human review in progress]]
-- **Current review window:** After the September 8 repository pass through September 21, 2026; previous human-review questions remain outstanding
-- **Scheduled occurrence:** September 21, 2026 at 7:00 AM America/Denver; actual start was 7:46:14 AM
-- **Next review:** October 5, 2026 at 7:00 AM America/Denver
-- **Scheduler:** macOS job active; this occurrence began about 46 minutes late. No cause is inferred from repository evidence.
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|22 active items]] after the September 29 staff-meeting intake
-- **Human input outstanding:** Paul — four earlier event outcomes, Launch Sunday response follow-up, aggregate leader-pipeline state, Fall training recommendation, Collective meeting and leader-stage status, webpage finalization, and Planted status; Russ — safeguarding, appointments/offerings, participant systems, public-language/review boundary, Collective curriculum, and final approvals
-- **Critical blockers:** Planted venue confirmation; tested join-QR destinations; safeguarding contacts and policies; active-offering appointments/readiness; Fall leader preparation; participant-system governance and testing; offering-specific readiness evidence
+- **Latest review:** [[09 Reports/Biweekly Reviews/2026-10-05 Groups Ministry Biweekly Review|October 5, 2026 — repository execution complete; human review in progress]]
+- **Current review window:** After the September 21 repository pass through October 5, 2026; earlier human-review questions remain outstanding
+- **Scheduled occurrence:** October 5, 2026 at 7:00 AM America/Denver; actual start was 12:03:01 PM
+- **Next review:** October 19, 2026 at 7:00 AM America/Denver
+- **Scheduler:** macOS job active; this occurrence began about 5 hours 3 minutes late. Repository evidence does not explain the delay.
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|23 active items]] carried to October 19
+- **Human input outstanding:** Paul — October 4 outcome, four earlier event outcomes, aggregate pipeline and connection follow-up, Planted venue/readiness, Collective meeting, and Fall implementation evidence; Russ — safeguarding contacts/policies, appointments and final readiness, participant-system governance, and the DEC-047/049 direct-email boundary
+- **Critical blockers:** Planted venue/calendar; tested participant paths; safeguarding contacts/policies; offering appointments/final readiness; Fall leader-preparation records; October 4 event outcome
 
 ## Next Actions
 
-- Set up the Planning Center automation and send welcome emails to everyone who expressed Groups interest on the Connection Card, leading or participating; invite only those with leadership interest to a Group Leader Conversation. Store no participant details here.
-- Run the [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] workflow: send the City Group Profile form to ready leaders, build and assign Planning Center groups, publish the Open Groups webpage section, and prepare the lobby table cards (time, rough location, QR code) (BWR-028, DEC-059). Russ does a quick webpage review before October 4. Addresses go only privately to people who join.
-- Prepare additional leaders and hosts to be ready by the October 4 Group Launch Day, and communicate the DEC-052 expectations to City Group leaders.
-- Build Men's and Women's Collectives with Russ, Miranda, Conner, and Rachel, and record the meeting outcome.
-- Russ and Conner, with Miranda and Rachel: prepare the Galatians course materials (BWR-029). Russ and Paul: start the Weekly Recap (BWR-030).
-- Reconcile the July 28, August 11, August 16, and August 25 event outcomes without storing participant details here.
-- Confirm that every prospective leader has an approved workflow stage and known next action in the restricted system.
-- Paul: visit Barn Door Coffee to confirm Planted's Tuesday-evening space; confirm the Women's Collective location rotation (BWR-018, BWR-032).
-- Plan the first Group Leader Collaboration dinner (BWR-031), begin the City Group and Collective leader guides (BWR-033), and set up a leader sign-up calendar (BWR-034).
-- Paul: advance intended Collective leaders through the canonical pathway, improve the Groups webpage, and prepare downstream setup.
-- Bring the minimum safeguarding, offering, Fall-training, appointment, participant-system, and publication-boundary decisions to Paul and Russ before any affected offering is promoted or begins.
-- Complete the October 4 webpage finalization pass using confirmed branch language and only readiness-supported offering details.
+- Paul: record the non-sensitive October 4 outcome and the October 11 second-presentation decision (BWR-028).
+- Paul: make sure everyone who already joined a Collective or Planted has the DEC-066 dates, starting with Men's Collective on October 6.
+- Paul and Russ: reconcile per-offering appointments, final-readiness decisions, and actual first gatherings; publication is not enough (BWR-006, BWR-008, BWR-010).
+- Paul: confirm Planted's venue and complete its readiness package after the schedule is settled (BWR-011, BWR-018).
+- Russ and Paul: test every join path end to end and approve system ownership, response, access, consent, and backup boundaries (BWR-009).
+- Paul: process the 16 connection-card responses and reconcile the four earlier events and aggregate leader pipeline without storing identities here (BWR-001–005, BWR-021).
+- Paul: record the Collectives construction meeting outcome; Russ and Conner, with Miranda and Rachel, finish the Galatians materials (BWR-022, BWR-029).
+- Russ and Paul: begin Weekly Recap production (BWR-030).
+- Paul: plan the first Group Leader Collaboration, continue the leader guides within approved policy boundaries, and set up the support calendar (BWR-031, BWR-033, BWR-034).
 
 Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboard/Launch Readiness Dashboard#Immediate Priorities|Launch Readiness Dashboard — Immediate Priorities]].
 
@@ -80,7 +77,7 @@ The unresolved governance questions remain in [[00 Dashboard/Open Decisions|Open
 
 ## Offering Readiness Snapshot
 
-No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. Current City Group, Collective, and Planted status is maintained in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]. Men's Collective starts Thursday, October 8 at the Dalys' home, with intended co-leads Conner O'Brien and Russ Daly; Women's Collective starts Thursday, October 15, likely rotating between the Dalys' and the O'Briens' homes, with intended co-leads Rachel O'Brien and Miranda Daly (DEC-060). Conner's and Rachel's expressed interest is not appointment. Other offering-governance questions remain in [[00 Dashboard/Open Decisions#Offering Readiness|Open Decisions — Offering Readiness]].
+No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. DEC-065 confirms the Fall offering set and published leaders, but explicitly does not establish appointment, final readiness, or actual launch. DEC-066 is the governing Collective and Planted schedule source. Conner's and Rachel's expressed interest is not appointment. Current evidence is maintained in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]].
 
 ## Confirmed Milestones
 
@@ -95,7 +92,7 @@ Confirmed dates, historical interpretation, and undated targets are maintained i
 - **Development:** CoJourner from The Garden Project Ministry is the selected four-session biweekly group-leader training program over approximately two months before the Spring 2027 group launch. It may be run during Group Leader Collaborations, the first of which follows about a month after October 4 (DEC-056). Its relationship to Fall 2026 leaders remains open.
 - **Pastoral baseline:** DEC-033 governs freedom in Christ, flourishing, Scripture-shaped prayer, dependence on the Holy Spirit, and escalation of significant care concerns.
 - **Systems:** Russ owns the public participant system, with Paul as backup. Planning Center Groups and Church Center support approved ministry operations but do not confer approval or appointment.
-- **Website:** Paul owns the Groups page (DEC-037), and Russ reviews before Group Launch Sunday. See [[12 Ministry Website/Ministry Website Overview|Ministry Website]].
+- **Website:** Paul owns the Groups page (DEC-037), and Russ completed the quick pre-launch review by October 3. Russ approved the October 5 schedule changes (DEC-066); later material changes still follow the recorded path. See [[12 Ministry Website/Ministry Website Overview|Ministry Website]].
 - **Communication:** email for general information, text for internal coordination, and a Church Center group chat for all current leaders (DEC-057).
 
 See the [[00 Dashboard/Decision Log#Chronological Decision Register|Chronological Decision Register]] for complete decision metadata and the [[00 Dashboard/Governance Index|Governance Index]] for thematic navigation.

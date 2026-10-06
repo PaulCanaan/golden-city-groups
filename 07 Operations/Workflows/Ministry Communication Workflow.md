@@ -70,7 +70,7 @@ Keep website and Church Center names, descriptions, schedules, locations, enroll
 - **City Groups — life together:** location-based community, pastoral connection, prayer, and everyday discipleship; Weekly Recap is optional.
 - **Collectives — shared encouragement:** Men's Collective and Women's Collective, with a long-term path toward broader Men's and Women's Ministries.
 - **Bible Clubs — rooted in Scripture:** facilitator-led Bible study through a book or section of Scripture.
-- **Planted Bible Club:** a twelve-week study beginning October 6, with Paul leading; curriculum is approved and Notion publishing is underway, but final readiness remains open.
+- **Planted Bible Club:** a twelve-week study beginning Monday, October 12 (DEC-066), with Paul leading; curriculum is approved and Notion publishing is underway, but final readiness remains open.
 - **Future Classes:** possible topic-based equipping under Bible Clubs, not active offerings.
 
 DEC-053's fellowship/discipleship ratios are internal language and a ministry-design principle only; never use them in public or participant-facing communication. Young adults groups, Run Club, and a potential future Youth City Group are classified under City Groups; there is no separate featured-groups category. Run Club and Youth City Group remain deferred under DEC-022 and should not be presented as active launch offerings.

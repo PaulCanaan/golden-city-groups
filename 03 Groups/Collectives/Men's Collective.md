@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Planned Men's Collective; October readiness at risk.** Men's Collective starts Thursday, October 8, 2026 at the Dalys' home for now (DEC-060). The intended co-lead structure is confirmed direction, and the Galatians study is approved (DEC-055). It meets every other Thursday at 7:00pm in the Thornton / Erie area ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Leader-path completion, participant path, communication, and final readiness remain unresolved.
+**Planned Men's Collective; October readiness at risk.** Men's Collective starts Tuesday, October 6, 2026 and meets every other Tuesday at 6:30pm in the Broomfield (144th & Zuni) area ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]], approved by Russ). The intended co-lead structure is confirmed direction, and the Galatians study is approved (DEC-055). Leader-path completion, participant path, communication, and final readiness remain unresolved.
 
 ## Ministry Emphasis
 
@@ -14,12 +14,12 @@ The intended co-leads are Conner O'Brien and Russ Daly. Conner expressed interes
 
 ## Schedule and Location
 
-- **Start:** Thursday, October 8, 2026 (DEC-060), superseding the first-and-third-Wednesday cadence in DEC-043.
-- **Rhythm:** every other Thursday at 7:00pm ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]).
-- **Location:** published area Thornton / Erie ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]); it began at the Dalys' home (DEC-060). Russ intends the Collectives to become on-site gatherings in the future, and the ministry is watching for a location. Do not record the address in this repository.
+- **Start:** Tuesday, October 6, 2026 ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]), replacing the Thursday, October 8 start in DEC-060 and DEC-065.
+- **Rhythm:** every other Tuesday at 6:30pm (DEC-066), alternating weeks with Women's Collective.
+- **Location:** published area Broomfield (144th & Zuni) (DEC-066), replacing the Thornton / Erie area and the Dalys' home in DEC-060/065. The repository does not record whether this is a home. Russ intends the Collectives to become on-site gatherings in the future, and the ministry is watching for a location. Do not record the address in this repository.
 - **Safeguards:** DEC-028 requires the applicable safeguards to be confirmed before meetings in a private home.
 
-The time, capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.
+The capacity, participant path, communication, and final launch readiness remain subject to the active decision and readiness process.
 
 ## Gathering Shape
 

@@ -4,7 +4,7 @@
 
 **Recorded operating plan; implementation and final readiness remain unverified.** Recorded October 2, 2026 from Paul's description in [Write Welcome Messages](chatgpt-conversation://6abfd407-3fe0-83e8-a88c-d5ee3f3e3ea0). Paul reported that Planted is open for join requests through Church Center and the Groups webpage, with an October 4 lobby table and QR card planned. He will send personal welcome messages and post October 6 first-gathering information in Planted's Church Center group chat.
 
-This note organizes that process. It does not establish that requests have been approved, messages sent, chat access tested, or the offering cleared to gather. The confirmed twelve-week Bible Club, Paul’s leadership, and October 6 start are recorded in [[04 Classes/Curriculum/Planted Bible Study|Planted Bible Study]]. Venue, exact time, full calendar, support arrangements, and final readiness still require confirmation.
+This note organizes that process. It does not establish that requests have been approved, messages sent, chat access tested, or the offering cleared to gather. The confirmed twelve-week Bible Club and Paul’s leadership are recorded in [[04 Classes/Curriculum/Planted Bible Study|Planted Bible Study]]. On October 5 Russ approved moving the first gathering to **Monday, October 12, 2026**, meeting Mondays 6:30–8:00pm in the Broomfield (120th & Interlocken) area ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]); the October 6 references in Paul's original description are superseded. Specific venue, full calendar, support arrangements, and final readiness still require confirmation. Anyone who joined expecting October 6 needs the new date.
 
 ## Purpose and Ownership
 
@@ -16,7 +16,7 @@ Help people move from discovering Planted to being personally welcomed, connecte
 
 **Offering owner:** Paul, Ministry Director for Groups & Classes and Planted facilitator (DEC-029, DEC-030). Russ retains public participant-system ownership, with Paul as backup (DEC-032); this workflow does not change that assignment. Russ or his designated pastor gives final readiness approval (DEC-021).
 
-**Launch priority:** October 4, 2026 Group Launch Sunday intake, leading toward the first Planted gathering on Tuesday, October 6, 2026. The same path continues for later join requests.
+**Launch priority:** October 4, 2026 Group Launch Sunday intake, leading toward the first Planted gathering on Monday, October 12, 2026. The same path continues for later join requests.
 
 ## Multiple Entrances, One Intake Point
 
@@ -40,7 +40,7 @@ The table introduces the study and helps people submit the request; it does not 
 | **2. Review / add** | Review the request through the authorized participant process; approve and add the person when appropriate. Clarify or arrange another next step if needed. | Membership is actually recorded. A request alone is not a confirmed place. |
 | **3. Personal welcome** | Send a warm email introducing GCC Groups & Classes and Planted's journey through Scripture. Use a short personal text or Church Center message as appropriate. | The welcome is sent, with wording that matches the person's actual status. |
 | **4. Connect to group chat** | Help the participant access Planted in Church Center and find its group chat. | Member access and the communication path are confirmed; adding someone to a roster alone does not prove chat access. |
-| **5. Prepare for October 6** | Post the confirmed first-gathering details in Planted's group chat. Direct each newly added participant to the information, including people who join after the post. | The participant has access to the current details and a way to ask questions. |
+| **5. Prepare for October 12** | Post the confirmed first-gathering details in Planted's group chat. Direct each newly added participant to the information, including people who join after the post. | The participant has access to the current details and a way to ask questions. |
 | **6. First gathering** | Welcome people personally, introduce the study, and record actual attendance through the existing [[07 Operations/Workflows/Attendance|Attendance]] procedure. | The gathering has occurred. Membership or an RSVP is not attendance. |
 | **7. Ongoing participation** | Use Planted's group chat for ordinary reminders, logistics, resources, and community conversation; keep the roster and events current. | Normal Bible Club operation continues, with personal help where needed. |
 
@@ -52,7 +52,7 @@ Planning Center remains the roster of record. Keep participant names, contact de
 
 **First-gathering announcement:** send in **Planted's participant group chat**, distinct from the ministry-wide leaders' chat under DEC-057. Include:
 
-- Tuesday, October 6, 2026, with the confirmed start and end times.
+- Monday, October 12, 2026, 6:30–8:00pm.
 - Confirmed meeting location and private arrival details.
 - What the first gathering will be like and any confirmed preparation or things to bring.
 - How to contact Paul with questions or access difficulties.
@@ -67,7 +67,7 @@ These are pending action checks, not evidence that the work is complete:
 - [ ] Test approval, member access, and Planted's participant chat from an ordinary member's view.
 - [ ] Confirm the venue, exact time, preparation, and applicable readiness requirements; record final approval from Russ or his designated pastor before gathering.
 - [ ] Review outstanding requests, add approved participants, and send personal welcomes with accurate status wording.
-- [ ] Post confirmed October 6 information; ensure later joiners and participants unable to use chat receive it.
+- [ ] Post confirmed October 12 information; ensure later joiners and participants unable to use chat receive it.
 - [ ] After the gathering, record actual attendance and continue normal communication.
 
 **Participant preparation is complete** when the person is added, welcomed, and connected to confirmed first-gathering information. **The first gathering is complete** only after it occurs; each person's attendance is recorded separately.

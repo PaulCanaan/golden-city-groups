@@ -4,11 +4,11 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 
 ## Document Status
 
-**Working standard for the Open Groups directory** at `/groups/fall2026`, live October 1, 2026, under [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059]]. Paul confirmed the published set as official on October 3, 2026 ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). See [[12 Ministry Website/Groups Page|Groups Page]] for the actual published content and verification limits.
+**Working standard for the Open Groups directory** at `/groups/fall2026`, live October 1, 2026, under [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059]]. Paul confirmed the published set as official on October 3, 2026 ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Russ approved the October 5 Collective, Planted, and Westminster changes ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]); the live page holds the latest group information. See [[12 Ministry Website/Groups Page|Groups Page]] for the actual published content and verification limits.
 
 ## Who Is Listed
 
-- **City Groups** that have completed [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]]: the leader is ready to lead, the City Group Profile is submitted and reviewed, and the Planning Center group is built.
+- **City Groups** in the official DEC-065 Fall 2026 set. The operating standard remains that the leader is ready to lead, the City Group Profile is submitted and reviewed, and the Planning Center group is built; however, the repository does not contain the per-group appointment or final-readiness evidence, so publication must not be used as proof that those gates were completed.
 - **Men's Collective, Women's Collective, and *Planted.*,** whose profiles Paul prepares with their leaders.
 
 Run Club and the Young Adults City Group (the Westminster group) are listed as City Groups from October 3. Youth City Group remains deferred and is not listed.
@@ -16,6 +16,8 @@ Run Club and the Young Adults City Group (the Westminster group) are listed as C
 ## Fall 2026 Publication
 
 **October 3:** the directory lists nine offerings: Broomfield, Lafayette, Erie, Thornton, and Westminster (Young Adults) City Groups, Run Club, Men's Collective, Women's Collective, and Planted. Bible Study. Each has full schedule, area, description, and its own Church Center join link. The current details are in [[12 Ministry Website/Groups Page|Groups Page]].
+
+**October 5:** the same nine offerings remain listed. Both Collectives moved to every other Tuesday at 6:30pm in Broomfield (Men's from October 6, Women's from October 13), Planted moved to Mondays from October 12 in Broomfield (120th & Interlocken), the young adults group's area became Westminster (100th & Summit), and leader-written typos were corrected. Russ approved the changes (DEC-066), which closes BWR-035.
 
 **October 1:** 
 Paul confirmed Broomfield, Westminster, Thornton, Lafayette, Men's Collective, Women's Collective, and Planted. Bible Study for Open Groups. This explicitly includes Lafayette despite the older archived-scaffolding note. Broomfield's submitted profile supplies its photo and detailed public fields. Other profiles show verified leader names and known details; unconfirmed information is not invented. Since the October 1 evening rebuild, every card has a **Join Group** button and none links to the contact page: Men's Collective, Women's Collective, and Planted link to their Church Center group pages, and the four City Groups show "Join link coming soon" until their Church Center links exist.

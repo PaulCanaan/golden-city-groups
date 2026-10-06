@@ -654,6 +654,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Clarification — October 1, 2026 (Paul):** Both Collectives meet every two weeks (every other Thursday).
 - **Boundary:** The Women's rotation is likely, not settled. Exact times, capacity, participant paths, and final readiness remain open. DEC-028 requires the applicable safeguards to be confirmed before meetings in private homes. Addresses stay out of this repository and public listings. DEC-044 appointments remain pending.
 - **Subsequent direction:** DEC-065 records the Collectives' 7:00pm time and published meeting areas (Thornton / Erie).
+- **Subsequent direction — October 5, 2026:** DEC-066 replaces the Thursday schedules, starts, and locations: both Collectives now meet every other Tuesday at 6:30pm in Broomfield (144th & Zuni), Men's from October 6 and Women's from October 13. The on-site intent stands.
 
 ### DEC-061 — Uneven Group Dynamics Are Normal
 
@@ -722,6 +723,28 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [Open Groups · Fall 2026](https://www.goldencity.church/groups/fall2026), inspected October 3, 2026; recorded in [[12 Ministry Website/Groups Page|Groups Page]].
 - **Implications:** Six City Groups launch this fall, including Erie (a new group) and two expressions previously deferred: Run Club and a young adults group, which is the Westminster City Group. Calendar, branch pages, the Planted venue search, and the website correction queue use these details. Youth City Group remains deferred.
 - **Boundary:** Russ's pre-launch review is recorded as a review of the published groups and website. It is not separately recorded as leader appointment (DEC-027), the joint Paul–Russ ready-to-lead decision for each leader (DEC-059), or final readiness approval of each offering (DEC-021). Intake through the Church Center links has not been tested (BWR-009). Exact meeting locations stay out of this repository; the published areas include cross-streets, which are more specific than the rough-area example in the DEC-051 clarification.
+- **Subsequent direction:** DEC-066 replaces the Men's Collective, Women's Collective, Planted, and Westminster details in the table above.
+
+### DEC-066 — Fall 2026 Open Groups Schedule Updates
+
+- **Decision:** The Open Groups · Fall 2026 page, as published on October 5, 2026, is the current official schedule. It changes four offerings from DEC-065:
+
+  | Offering | Rhythm | Starts | Meeting area (as published) |
+  |---|---|---|---|
+  | Men's Collective | Every other Tuesday, 6:30pm | October 6 | Broomfield (144th & Zuni) |
+  | Women's Collective | Every other Tuesday, 6:30pm | October 13 | Broomfield (144th & Zuni) |
+  | Planted. Bible Study | Weekly, Mondays 6:30–8:00pm; 12 weeks | October 12 | Broomfield (120th & Interlocken) |
+  | Westminster City Group (Young Adults City Group) | Weekly, Tuesdays 7:00–8:30pm (unchanged) | October 20 (unchanged) | Westminster (100th & Summit) |
+
+  Leaders are unchanged. The other five offerings keep their DEC-065 details. Leader-written descriptions on the page were also corrected (Broomfield, Lafayette, and Thornton typos).
+- **Status:** Confirmed
+- **Date and approver:** Recorded October 5, 2026; Russ approved all of the changes (reported by Paul, October 5, 2026). Paul's direction is that the live page holds the latest group information.
+- **Domain:** Launch
+- **Supersedes:** DEC-065 in part (Men's, Women's, Planted, and Westminster details); DEC-060 in part (Thursday Collective schedules, October 8 and 15 starts, and home locations)
+- **Owner:** Paul
+- **Evidence:** [Open Groups · Fall 2026](https://www.goldencity.church/groups/fall2026), inspected October 5, 2026; recorded in [[12 Ministry Website/Groups Page|Groups Page]]. Resolves BWR-035.
+- **Implications:** Both Collectives now meet on alternating Tuesdays at the same Broomfield area, a week apart, so Men's gathers on October 6, 20, and so on and Women's on October 13, 27, and so on. Men's Collective's first gathering is the day after this decision. Planted moves from Tuesday, October 6 to Monday, October 12, so its twelve weeks run through December 28 unless breaks are set. Calendar, branch, Planted, readiness, and communication pages use these details. The printed Group Profile Cards for these four offerings no longer match the page.
+- **Boundary:** DEC-060's intent that the Collectives become on-site gatherings stands. The repository does not record whether either Broomfield area is a home, a church-related space, or a public venue, so the DEC-028 home safeguards and BWR-018's Planted venue question remain open. Like DEC-065, this is not leader appointment (DEC-027), a ready-to-lead decision (DEC-059), final readiness approval (DEC-021), or a tested intake path (BWR-009). Whether registered participants were told of the changes is not recorded.
 
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 

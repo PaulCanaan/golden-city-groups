@@ -19,6 +19,18 @@ From [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall and Winter 202
 
 Each card mirrors the group's card on the website: the group's photo or cover, name, leaders, schedule, start date, meeting area, and the leaders' own description. In place of the website's **Join Group** button, a QR code opens the group's Church Center page, where people tap **Request to Join**. Every card also gives the directory address, `goldencity.church/groups/fall2026`, for anyone who prefers to browse. Layout follows the Golden City look: Roboto type, charcoal and gold on white.
 
+**Matches the website:** rechecked against the live directory on the evening of October 3, after Paul fixed the "Women's" heading and the "Erie" area. All nine cards carry the same text as the page.
+
+**Out of date since October 5:** Russ approved schedule and area changes to the live directory ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]). Below, each card's details are recorded **as printed**, so these cards no longer match the page:
+
+- **Men's Collective** — now every other Tuesday, 6:30pm, from October 6, Broomfield (144th & Zuni).
+- **Women's Collective** — now every other Tuesday, 6:30pm, from October 13, Broomfield (144th & Zuni).
+- **Planted. Bible Study** — now weekly on Mondays, 6:30–8:00pm, from October 12, Broomfield (120th & Interlocken).
+- **Westminster City Group** — area now Westminster (100th & Summit); the description now reads "fellowship" and "Christ-centered."
+- **Lafayette and Thornton City Groups** — schedules unchanged; leader-written typos are corrected on the page ("be able to recognize," "everyday," "The O'Briens," "As things progress, we will build into a group with a deep focus").
+
+Remake these six cards from the live page before the set is used again. Broomfield, Erie, and Run Club still match.
+
 **Verification:** every QR code was decoded from the finished PDF at three print scales with ZXing (the decoding engine many phone scanners use). Each page carries exactly one code, and it opens that group's join link; all nine links responded. The photos for Run Club and the three covers (Men's, Women's, Planted) are 720 × 405 pixels on the website, so they print slightly soft at full card width.
 
 ## The Nine Cards

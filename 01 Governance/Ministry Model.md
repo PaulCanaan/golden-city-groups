@@ -58,7 +58,7 @@ Bible Clubs contribute:
 - Prayer and faithful response to the biblical text
 - Growth in reading Scripture with the church
 
-Planted is the first confirmed Bible Club offering. Paul will lead the twelve-week study beginning Tuesday evening, October 6, 2026. Pastoral and theological curriculum review and required-materials review are complete. Its location, capacity, participant path, support role, complete session calendar, and final readiness approval remain open.
+Planted is the first confirmed Bible Club offering. Paul will lead the twelve-week study, meeting Monday evenings from October 12, 2026 (DEC-066). Pastoral and theological curriculum review and required-materials review are complete. Its location, capacity, participant path, support role, complete session calendar, and final readiness approval remain open.
 
 Under DEC-054, Planted is seeker- and new-believer-friendly and recurs every fall. In Spring 2027 the following curriculum may be *Covenant, Kingdom, and People of God*; that is planning direction, not an approved offering. People who complete Planted may be considered to lead it in the future, subject to DEC-027.
 
@@ -85,7 +85,7 @@ Collectives are centralized, gender-specific ministry environments currently exp
 
 Collectives are accessible gatherings where men and women walk alongside other men and women of God, and they should become places of mentorship and lasting connection. A typical gathering opens with a 15–20 minute devotional followed by discussion at breakout tables, where Collective leaders and table leaders equip participants to take part (DEC-053). Both Collectives study Galatians for the rest of 2026 (DEC-055).
 
-The Collectives begin in homes on Thursdays in October 2026, but Russ intends them to become on-site gatherings in the future, distinct from the off-site, location-based City Groups (DEC-060).
+The Collectives begin every other Tuesday in October 2026 in the Broomfield area (DEC-066), and Russ intends them to become on-site gatherings in the future, distinct from the off-site, location-based City Groups (DEC-060).
 
 Men's Collective and Women's Collective are intended to mature over time into broader Men's Ministry and Women's Ministry. This long-term direction does not by itself establish a leader, location, capacity, curriculum, schedule, safeguarding plan, or launch readiness for a particular offering.
 

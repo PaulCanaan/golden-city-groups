@@ -4,7 +4,7 @@ From [[Operation Overview]] · Participant-facing companion to the [[10 Template
 
 ## Document Status
 
-**Draft templates; blocked from sending until Planted's operating details are confirmed.** This note holds the participant-facing request-received email and the shorter personal welcome email and text / Church Center message for *Planted* in Fall 2026. Planted's curriculum, leader, twelve-week length, and October 6 start are confirmed under DEC-030 and DEC-038. Its **venue, session calendar, capacity, support role, participant path, and final readiness are not** — the September 21 review carries Planted as **At Risk**.
+**Draft templates; blocked from sending until Planted's operating details are confirmed.** This note holds the participant-facing request-received email and the shorter personal welcome email and text / Church Center message for *Planted* in Fall 2026. Planted's curriculum, leader, and twelve-week length are confirmed under DEC-030 and DEC-038; its Monday, October 12 start (6:30–8:00pm) is confirmed under DEC-066, replacing the earlier October 6 start. Its **venue, session calendar, capacity, support role, participant path, and final readiness are not** — the September 21 review carries Planted as **At Risk**.
 
 The request-received email confirms receipt, introduces the study, and promises practical details rather than asserting them. The personal welcome templates use joining language and belong after the request is approved and membership is recorded. Do not add a location, time, cost, or confirmed spot until each is recorded.
 
@@ -27,7 +27,7 @@ Introduce Planted warmly within GCC Groups & Classes and help the participant un
 
 - A join request is a **request**. Under [[07 Operations/Workflows/Forms#Public participant enrollment|Forms and Intake]], the confirmation states what happens next and does not imply placement until placement is complete.
 - Russ owns the public participant system with Paul as backup (DEC-032). Offering-specific notification and follow-up routing still must be tested and recorded — [[00 Dashboard/Biweekly Review Queue|BWR-009]].
-- Planted is a **Bible Club**, not a Class. The public page still calls it "a class" without its confirmed October 6 twelve-week Bible Club framing; correcting that is [[00 Dashboard/Biweekly Review Queue|BWR-026]]. This email uses the confirmed framing.
+- Planted is a **Bible Club**, not a Class. The public page still calls it "a class" without its confirmed twelve-week Bible Club framing; correcting that is [[00 Dashboard/Biweekly Review Queue|BWR-026]]. This email uses the confirmed framing.
 - Name no co-facilitator, host, or support role until it is appointed.
 - Participant cost is undocumented. Say nothing about cost until it is confirmed, then say it plainly and early.
 
@@ -103,7 +103,7 @@ The name is the picture. Like a seed planted in the ground, faith is meant to ta
 
 You don't need any background in the Bible. You don't need to have answers ready. Come as you are.
 
-**What I can tell you now.** *Planted* runs twelve weeks, beginning Tuesday evening, October 6, 2026. It's discussion-based, so plan on talking as much as listening.
+**What I can tell you now.** *Planted* runs twelve weeks, beginning Monday evening, October 12, 2026. It's discussion-based, so plan on talking as much as listening.
 
 **What's next.** Your request has been received. I'm finalizing the meeting location and the full session calendar now, and I'll follow you up with those confirmed details and everything you'll need for the first night [Response Window]. Your spot isn't confirmed until you hear back from me — I'll let you know either way.
 
@@ -121,8 +121,8 @@ Send only after the venue, calendar, capacity, and participant path are confirme
 
 > You're in. Here are the details for *Planted*:
 >
-> - **Starts:** Tuesday, October 6, 2026
-> - **Time:** [Time]
+> - **Starts:** Monday, October 12, 2026
+> - **Time:** 6:30–8:00pm
 > - **Location:** [Location]
 > - **Length:** Twelve weeks
 > - **Bring:** [What to Bring / Preparation]
