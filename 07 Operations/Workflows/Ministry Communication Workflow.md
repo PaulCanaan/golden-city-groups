@@ -41,7 +41,7 @@ DEC-057 sets three Groups Ministry channels:
 
 - **Email — general information:** welcome emails, the Groups Ministry introduction, coffee conversation (Group Leader Conversation) invitations, newsletters, and similar.
 - **Text — internal coordination:** course content, coffee meeting details, quick questions, and urgent matters. Text is coordination, not the pastoral or safeguarding escalation path; escalation contacts remain open (BWR-007).
-- **Church Center group chat — all current leaders:** City Group hosts, Collective leaders and co-leaders, table leaders and discussion facilitators, and class instructors. Paul creates and maintains it (BWR-031). Membership is not appointment.
+- **Church Center group chat — all current leaders:** City Group hosts, Collective leaders and co-leaders, table leaders and discussion facilitators, and class instructors. Paul creates and maintains it (BWR-031). Membership is not appointment. The Weekly Recap is posted here as a PDF on Sunday evening ([[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]]).
 
 Also:
 

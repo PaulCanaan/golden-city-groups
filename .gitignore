@@ -6,3 +6,6 @@
 /11 Database/Groups Database/Groups/
 /11 Database/People Database/All Leaders/
 /11 Database/Groups Database/All Groups/
+/06 Resources/Resource Inbox/*
+!/06 Resources/Resource Inbox/Resource Inbox.md
+/06 Resources/Group Life/Weekly Recaps/*.pdf

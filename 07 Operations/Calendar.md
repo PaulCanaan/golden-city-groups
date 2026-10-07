@@ -25,6 +25,7 @@
 | October 7, 2026 (Wednesday) | Erie City Group begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Wednesdays 6:00–8:00pm |
 | October 11, 2026 | Optional second lobby presentation | **Confirmed option** | Groups that still have many open spots after October 4 may present again (DEC-051) |
 | October 11, 2026 (Sunday) | Lafayette City Group begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Every other Sunday, 12:00–1:30pm |
+| October 11, 2026 (Sunday evening) | First Weekly Recap posted for leaders | **Planned (Paul, October 7); depends on Russ's October 11 script** | From the October 11 message; posted as a PDF in the All Group Leaders chat. Recaps then come every Sunday evening, with 5:00 and 8:00 PM reminders ([[07 Operations/Workflows/Weekly Recap Production\|Weekly Recap Production]], BWR-030) |
 | October 12, 2026 (Monday) | Planted Bible Club begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates\|DEC-066]]); final readiness open** | Weekly, Mondays 6:30–8:00pm for twelve weeks, Broomfield (120th & Interlocken) area; venue confirmation (BWR-018), participant path, testing, and final approval remain incomplete |
 | October 13, 2026 (Tuesday) | Women's Collective begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates\|DEC-066]]); readiness incomplete** | Every other Tuesday, 6:30pm, Broomfield (144th & Zuni) area; leader-path completion, participant-path testing, and final approval remain open |
 | October 14, 2026 (Wednesday) | Broomfield City Group begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Wednesdays 7:00–8:30pm |
@@ -42,7 +43,6 @@
 - Leader commissioning
 - Final launch-readiness review
 - Planted venue confirmation; a future on-site Collective location
-- Weekly Recap delivery day (BWR-030)
 
 Dates, owners, and approval status for these milestones remain unresolved.
 

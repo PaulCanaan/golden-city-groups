@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Proposed leader resource aligned with the confirmed City Group model.** Exact sermon-discussion production, review, and distribution responsibilities remain pending.
+**Proposed leader resource aligned with the confirmed City Group model.** Weekly Recap production, approval, and distribution follow [[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]].
 
 ## Ministry Purpose
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Recap"
+  short_description: "Draft the Weekly Recap from Russ's sermon script"
+  default_prompt: "Use $weekly-recap to draft this week's Weekly Recap from the script in the Resource Inbox."

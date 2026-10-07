@@ -23,6 +23,8 @@ Practical resources for hospitable, Scripture-centered, prayerful, and formative
 - [[Weekly Recaps]] — optional weekend-message discussion resource for City Groups
 - [[Prayer Requests]] — privacy-conscious prayer-request guidance and escalation boundaries
 
+Printable resources share one look: [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]] (logo, colors, type, layout).
+
 ### Leader Development
 
 Resources for discerning, preparing, and supporting approved leaders:

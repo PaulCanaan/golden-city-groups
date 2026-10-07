@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Approved optional City Group resource with named owners; delivery rhythm still in development.** Under DEC-055, Russ and Paul prepare the Weekly Recap from each weekend message, with check-in questions and discussion questions. City Group leaders are not required to use it (DEC-052); it does not define a City Group and is not an administrative leader report.
+**Approved optional City Group resource with named owners and a working delivery rhythm.** Under DEC-055, Russ and Paul prepare the Weekly Recap from each weekend message, with check-in questions and discussion questions. Under the October 7, 2026 clarification of DEC-055, Russ sends the sermon script on Sunday afternoon, and Paul approves and posts the recap as a PDF in the All Group Leaders Church Center chat on Sunday evening ([[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]]). Each recap is kept in this repository as a published resource. City Group leaders are not required to use it (DEC-052); it does not define a City Group and is not an administrative leader report.
 
 ## Purpose
 
@@ -10,7 +10,7 @@ When a group chooses to use it, help people carry the weekend message into share
 
 ## Suggested Shape
 
-Use [[10 Templates/Gatherings/Weekly Recap|Weekly Recap]] for the concise suggested structure. It is optional, supports conversation rather than testing recall, and remains distinct from an administrative leader report.
+Each recap opens with check-in questions so people can share how their week has actually gone, gives a short summary for anyone who missed the message, then moves into discussion questions that go deeper into the weekend message, and closes with a prayer prompt. [[10 Templates/Gatherings/Weekly Recap|Weekly Recap]] holds the structure. It is optional, supports conversation rather than testing recall, and remains distinct from an administrative leader report.
 
 ## Leader Use
 
@@ -26,14 +26,16 @@ Do not record participant names, identifiable prayer requests, counseling notes,
 ## Operational Needs
 
 - **Owners:** Russ and Paul (DEC-055).
-- **Content:** check-in questions and discussion questions from the weekend message (DEC-055).
-- Set a reliable delivery day and channel before the first City Groups meet (BWR-030).
-- Confirm the review process and format.
-- Coordinate with the preaching calendar and [[10 Templates/Communication/Group Leader Communication Library]].
+- **Content:** check-in questions and discussion questions from the weekend message (DEC-055), with a summary for those who missed it.
+- **Approval:** Paul approves and posts; Russ may read any recap at any time (DEC-055 clarification, October 7, 2026).
+- **Delivery:** Sunday evening, as a PDF in the All Group Leaders chat in Church Center (channel under DEC-057). Production steps: [[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]].
+- **Records:** `06 Resources/Group Life/Weekly Recaps/`, one Markdown file per week.
+- **Open:** backup coverage when Paul is unavailable (BWR-030).
 
 ## Connections
 
 - [[City Groups Overview]] — Establishes the City Group purpose and setting.
+- [[07 Operations/Workflows/Weekly Recap Production]] — Weekly production and delivery.
 - [[07 Operations/Workflows/Bible Study]] — Provides facilitation guidance for attending to Scripture, beholding Christ, and responding faithfully.
 - [[05 Leadership/Group Leaders]] — Approved leaders facilitate the recap without turning the gathering into a class.
 - [[10 Templates/Communication/Group Leader Communication Library]] — Governs delivery channels and schedule changes.

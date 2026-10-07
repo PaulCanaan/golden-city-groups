@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key><string>church.goldencity.groups-weekly-recap-reminder</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/local/bin/python3</string>
+        <string>/Users/paulcanaan/Workspace/Projects/Golden City Church/Groups Ministry/scripts/weekly_recap.py</string>
+        <string>remind</string>
+    </array>
+    <key>WorkingDirectory</key><string>/Users/paulcanaan/Workspace/Projects/Golden City Church/Groups Ministry</string>
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict><key>Weekday</key><integer>0</integer><key>Hour</key><integer>17</integer><key>Minute</key><integer>0</integer></dict>
+        <dict><key>Weekday</key><integer>0</integer><key>Hour</key><integer>20</integer><key>Minute</key><integer>0</integer></dict>
+    </array>
+    <key>StandardOutPath</key><string>/Users/paulcanaan/Workspace/Projects/Golden City Church/Groups Ministry/.review-runtime/weekly-recap-reminder.log</string>
+    <key>StandardErrorPath</key><string>/Users/paulcanaan/Workspace/Projects/Golden City Church/Groups Ministry/.review-runtime/weekly-recap-reminder.log</string>
+</dict>
+</plist>
