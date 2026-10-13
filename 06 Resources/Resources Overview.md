@@ -74,6 +74,7 @@ Future biblical, systematic, or applied theology libraries should be created onl
 - [[06 Resources/Curriculum Development/Ministry Curriculum Development.canvas|Curriculum Development Canvas]] — editable intellectual-development and four-folder map, with linked Planted/Galatians workspaces.
 - [[06 Resources/Curriculum Development/AI Agent Roles|AI Agent Roles]] — Canvas Organizer, Curriculum Editor, and Resource Producer with human review handoffs.
 - [[06 Resources/Curriculum Development/01 Research & Brainstorm/README|Research & Brainstorm inbox]] — local-only rough input drop-off; [[06 Resources/Curriculum Development/04 Design & Publish/README|Design & Publish library]] holds accepted final resources once they exist.
+- Galatians Session 1 participant handouts, approved v1.0: [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Women's Collective/Womens Galatians G01A 2026-10-13 Handout.pdf|Women — October 13]] and [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Men's Collective/Mens Galatians G01A 2026-10-20 Handout.pdf|Men — October 20]].
 
 These are working development tools. Existing curriculum pages retain their authority. Notion remains the information/knowledge source; the development workspace produces teaching resources. Paul develops Planted and Collective resources, while the Collective operators lead with the materials he provides (DEC-067); pastoral approval boundaries remain in place.
 

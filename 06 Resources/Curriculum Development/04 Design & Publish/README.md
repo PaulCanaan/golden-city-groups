@@ -1,6 +1,15 @@
 # Design & Publish
 
-**Final resource library and release workspace, October 13, 2026.** This folder holds Paul-reviewed reusable PDFs, presentations, and other final ministry resources. It currently contains this guide only; scaffolding is not evidence that a resource is finished or shared.
+**Final resource library and release workspace, October 13, 2026.** This folder holds Paul-reviewed reusable PDFs, presentations, and other final ministry resources. Local library placement does not record external distribution.
+
+## Current Resources
+
+Galatians Session 1 participant handouts, v1.0, approved by Paul October 13 with his requested final edits applied:
+
+- [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Women's Collective/Womens Galatians G01A 2026-10-13 Handout.pdf|Women's Collective — October 13]]
+- [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Men's Collective/Mens Galatians G01A 2026-10-20 Handout.pdf|Men's Collective — October 20]]
+
+Each is three pages. Editable sources and review evidence remain linked in [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|the project record]].
 
 ## Design, Verify, and Release
 

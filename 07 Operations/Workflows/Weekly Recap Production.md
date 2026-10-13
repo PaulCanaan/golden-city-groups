@@ -36,6 +36,8 @@ A launchd job (`scripts/church.goldencity.groups-weekly-recap-reminder.plist`) r
 
 `python3 scripts/weekly_recap.py check` prints the current state without notifying. The job only runs while the Mac is on; if it is asleep at the scheduled time, the reminder appears when it wakes.
 
+**Scheduled drafting (Claude, added 2026-10-11 at Paul's request):** a Claude scheduled task, *Weekly Recap Draft*, checks the Resource Inbox at **5:28 PM and 7:28 PM every Sunday**. When a script is waiting and no recap exists for that Sunday, it follows the `weekly-recap` skill: it writes the `Draft` record, builds the PDF with this repository's renderer, moves the script to `Processed/`, and sends Paul the PDF with its notes. If no script has arrived by 7:28 PM, it sends a one-line nudge. It never posts, commits, or marks a recap `Posted`, so the Review, Post, and Record stages are unchanged. It needs the Mac awake with the Claude desktop app open. Running `/weekly-recap` by hand still works, and the task skips any Sunday that already has a recap.
+
 ## Detailed Steps
 
 ### 1. Drop the script
