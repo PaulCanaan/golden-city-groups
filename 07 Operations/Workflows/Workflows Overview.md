@@ -6,7 +6,7 @@
 
 ## Purpose and Use
 
-Find how to carry out a ministry process in one place. Active workflow instructions live in this folder; reusable copy, questions, report structures, and blank records live under [[10 Templates/Templates Overview|10 Templates]]. Role definitions, curriculum, policy, calendar, metrics, dashboards, and historical evidence retain their own homes.
+Find how to carry out a ministry process in one place. Active workflow instructions live in this folder; reusable copy, questions, report structures, and blank records live under [[10 Templates/Templates Overview|10 Templates]]. Role definitions, curriculum, policy, calendar, metrics, dashboards, and historical evidence retain their own homes. At Paul's explicit request on October 13, 2026, the canonical [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]] process and visual workspaces live under `06 Resources`; this index links there without duplicating them.
 
 ## Find a Workflow
 
@@ -29,6 +29,7 @@ Find how to carry out a ministry process in one place. Active workflow instructi
 | Prepare the first gathering | [[07 Operations/Workflows/First Meetings Checklist\|First Meetings Checklist]] | Proposed tool; only after applicable readiness approval |
 | Welcome participants | [[07 Operations/Workflows/Hospitality\|Hospitality]] | Proposed practical guidance; location/safety requirements pending |
 | Produce and share the Weekly Recap | [[07 Operations/Workflows/Weekly Recap Production\|Weekly Recap Production]] | Working procedure (DEC-055 clarification, October 7); backup coverage open |
+| Develop curriculum resources visually | [[06 Resources/Curriculum Development/Ministry Curriculum Development\|Ministry Curriculum Development]] | Working development system; existing material ownership, curriculum approval, and readiness remain separate |
 | Facilitate Scripture discussion | [[07 Operations/Workflows/Bible Study\|Bible Study]] | Proposed facilitation; resource-choice and doctrinal boundaries retained |
 | Facilitate prayer | [[07 Operations/Workflows/Prayer\|Prayer]] | Confirmed minimum baseline; additional practices require approval |
 | Respond to ordinary conflict | [[07 Operations/Workflows/Conflict\|Conflict]] | Proposed ordinary response; beyond-role matters must escalate |

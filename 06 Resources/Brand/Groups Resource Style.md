@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Working visual style for printable and shareable Groups resources, set October 7, 2026 at Paul's request.** It follows goldencity.church (Roboto, a grayscale base, restrained gold; see [[12 Ministry Website/Design Principles and Maintenance|Website Design Principles]]) and the Groups logo Paul supplied. The Weekly Recap PDF is the first resource built to it. Style gives no approval to any resource's content.
+**Working visual style for printable and shareable Groups resources, set October 7, 2026 at Paul's request; length/depth guidance clarified October 13.** It follows goldencity.church (Roboto, a grayscale base, restrained gold; see [[12 Ministry Website/Design Principles and Maintenance|Website Design Principles]]) and the Groups logo Paul supplied. The Weekly Recap PDF is the first resource built to it. Style gives no approval to any resource's content.
 
 ## Look in One Line
 
@@ -38,10 +38,24 @@ Roboto only (files and license in `fonts/`):
 
 ## Layout
 
-- Letter size, one page where possible; generous margins.
+- Letter size with generous margins; use the resource lengths below rather than forcing every resource onto one page.
 - **Header:** logo left; resource name (uppercase label) and date right; a 1.5pt emblem-gold rule beneath.
 - **Footer:** hairline, then "Golden City Church · Groups" left and "goldencity.church" right, small gray.
 - Numbered questions with deep-gold numerals; no boxes around questions.
+
+## Length and Depth by Ministry Branch
+
+Paul's working guidance of October 13, 2026 keeps one visual family while allowing depth to fit the resource and gathering:
+
+| Resource | Working length | Depth and purpose |
+|---|---|---|
+| City Groups — Weekly Recap | 1 page | Brief weekend-message connection, check-in/discussion prompts, and room for life together |
+| Collectives — separate Men’s and Women’s Galatians participant handouts | 2–3 pages each | Shared biblical study with audience-specific formation goals, actual dates, and clearly marked Block 1/2 teaching and discussion space |
+| Bible Clubs — e.g. Planted session notes | 4 pages or more when needed | Sustained biblical study, theological connections, learning movements, reflection, and practice |
+
+These are design targets, not fixed quotas. They serve the branches' different fellowship/discipleship emphases under DEC-053; the ratios stay internal and do not appear in participant-facing resources. Leader notes and slides take the length their function requires. Preserve readable type and writing space rather than shrinking them to hit a page count.
+
+For longer notes, continue the header/footer style across pages, add page numbers, and use clear section breaks. Presentation slides retain the visual family while scaling type and spacing for projection. The development Canvas colors identify content types within [[06 Resources/Curriculum Development/Ministry Curriculum Development#Canvas Color Code|the workspace]]; printed resources retain the grayscale-and-gold palette above.
 
 ## Where It Is Applied
 

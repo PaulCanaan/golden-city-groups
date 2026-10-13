@@ -34,6 +34,12 @@ Find what to send, ask, or record under 10 Templates. Follow the associated [[07
 - [[10 Templates/Records/Inbox Item|Inbox Item]] — temporary capture and authority/filing status.
 - [[10 Templates/Records/Decision Record|Decision Record]] — approved DEC record; evidence and actual approver required.
 - [[10 Templates/Records/Ministry Story|Ministry Story]] — non-identifying planning only; not consent or publication permission.
+- [[10 Templates/Records/Curriculum Project|Curriculum Project]] — project brief, source/approval boundaries, session/resource links, and next action.
+- [[10 Templates/Records/Curriculum Session|Curriculum Session]] — one selected-content master from which session resources are derived; includes a bounded AI handoff.
+
+## Canvas
+
+- [[10 Templates/Canvas/Curriculum Session Brainstorm.canvas|Curriculum Session Brainstorm]] — copy into an actual development project for short source, idea, question, session-flow, and output cards. Follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]].
 
 ## Reports
 

@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"g-exegesis","type":"group","label":"1 · Biblical Exegesis","x":0,"y":0,"width":620,"height":1290,"color":"#4A90D9"},
+		{"id":"g-synthesis","type":"group","label":"2 · Theological Synthesis","x":680,"y":0,"width":620,"height":1290,"color":"#9B72CF"},
+		{"id":"g-formation","type":"group","label":"3 · Formation Goals","x":1360,"y":0,"width":620,"height":1290,"color":"#65A86B"},
+		{"id":"g-design","type":"group","label":"4 · Session Design","x":2040,"y":0,"width":620,"height":1290,"color":"#D6B34B"},
+		{"id":"g-production","type":"group","label":"5 · Resource Production","x":2720,"y":0,"width":620,"height":1290,"color":"#9098A1"},
+		{"id":"title","type":"text","text":"# [Project / session] · Brainstorm\nCopy into the project folder, rename, replace bracketed prompts, and link real source notes and the session master.","x":0,"y":-380,"width":3340,"height":130,"color":"#9098A1"},
+		{"id":"legend-scripture","type":"text","text":"## Blue · Scripture\nText · context · exegesis\nContent color ≠ approval status.","x":0,"y":-210,"width":520,"height":150,"color":"#4A90D9"},
+		{"id":"legend-theology","type":"text","text":"## Purple · Theology\nSynthesis · research\nContent color ≠ approval status.","x":560,"y":-210,"width":520,"height":150,"color":"#9B72CF"},
+		{"id":"legend-formation","type":"text","text":"## Green · Formation\nBelonging · Beholding · Becoming\nContent color ≠ approval status.","x":1120,"y":-210,"width":520,"height":150,"color":"#65A86B"},
+		{"id":"legend-flow","type":"text","text":"## Yellow · Teaching Flow\nMovements · activities · timing\nContent color ≠ approval status.","x":1680,"y":-210,"width":520,"height":150,"color":"#D6B34B"},
+		{"id":"legend-discussion","type":"text","text":"## Red · Discussion\nQuestions · table-leader prompts\nContent color ≠ approval status.","x":2240,"y":-210,"width":520,"height":150,"color":"#D96B6B"},
+		{"id":"legend-output","type":"text","text":"## Gray · Resource Output\nSlides · handouts · notes · review\nContent color ≠ approval status.","x":2800,"y":-210,"width":520,"height":150,"color":"#9098A1"},
+		{"id":"exegesis","type":"text","text":"## Scripture · [passage / source version]\nText in context · argument · structure · words · questions\n\nLink actual Scripture and Notion/source notes. Distinguish observation from interpretation.","x":30,"y":70,"width":560,"height":330,"color":"#4A90D9"},
+		{"id":"synthesis","type":"text","text":"## Theology · [central claim]\nConnect the exegesis to Christ and the biblical story.\n\nAttribute research contributions by author/edition/page; name disputed or unresolved claims.","x":710,"y":70,"width":560,"height":330,"color":"#9B72CF"},
+		{"id":"formation","type":"text","text":"## Formation · [Collective / goal]\nBelonging · Beholding · Becoming\n\nFor Collectives: develop separate Men’s/Women’s goals with actual pastoral rationale. Connect them to the text and synthesis; do not assume identical applications.","x":1390,"y":70,"width":560,"height":330,"color":"#65A86B"},
+		{"id":"design","type":"text","text":"## Teaching Flow · [gathering / date]\nCollectives: two blocks, each 20 teaching + 10 discussion, inside a 6:30–8:00 PM gathering.\n\n20 community + 60 study + 10 closing. Provisional; adjust after use.\n\nLink this audience’s separate master. Planted can retain its own movements.","x":2070,"y":70,"width":560,"height":330,"color":"#D6B34B"},
+		{"id":"discussion","type":"text","text":"## Discussion · [block / question]\nGalatians For You: primary development/question source. Traveling Light: secondary for freedom.\n\nRecord actual source edition/page, adaptation, formation goal, question intent, and optional leader cue.","x":2070,"y":460,"width":560,"height":300,"color":"#D96B6B"},
+		{"id":"production","type":"text","text":"## Resource Output · [audience / actual date]\nSeparate Men’s/Women’s packages from their own masters; shared biblical research stays linked.\n\nHandout · leader notes · slides when needed\nRecord actual files, exports, and review/version.","x":2750,"y":70,"width":560,"height":330,"color":"#9098A1"},
+		{"id":"source-status","type":"text","text":"## Source / Observation / Proposal / Question / Selected\nUse explicit labels to show evidence and development status. Color identifies content type, not approval.","x":30,"y":460,"width":560,"height":250,"color":"#4A90D9"},
+		{"id":"session-template","type":"file","file":"Groups Ministry/10 Templates/Records/Curriculum Session.md","x":1390,"y":460,"width":560,"height":190,"color":"#65A86B"},
+		{"id":"depth","type":"text","text":"## Length and review\nWeekly Recap: 1 page\nCollectives handout: 2–3 pages\nBible Club notes: 4+ pages as needed\n\nApply Groups Resource Style; record human review/version and inspect actual exports.","x":2750,"y":460,"width":560,"height":310,"color":"#9098A1"},
+		{"id":"style","type":"file","file":"Groups Ministry/06 Resources/Brand/Groups Resource Style.md","x":2750,"y":830,"width":560,"height":160,"color":"#9098A1"},
+		{"id":"workflow","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/Ministry Curriculum Development.md","x":30,"y":1060,"width":1240,"height":160,"color":"#9098A1"},
+		{"id":"project-template","type":"file","file":"Groups Ministry/10 Templates/Records/Curriculum Project.md","x":1390,"y":1060,"width":1240,"height":160,"color":"#9098A1"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"exegesis","toNode":"synthesis","fromSide":"right","toSide":"left"},
+		{"id":"e2","fromNode":"synthesis","toNode":"formation","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"formation","toNode":"design","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"design","toNode":"production","fromSide":"right","toSide":"left"},
+		{"id":"ed","fromNode":"design","toNode":"discussion","fromSide":"bottom","toSide":"top","color":"#D96B6B"}
+	]
+}

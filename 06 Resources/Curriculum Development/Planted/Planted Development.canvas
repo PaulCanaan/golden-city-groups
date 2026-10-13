@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"g-exegesis","type":"group","label":"1 · Biblical Exegesis","x":0,"y":0,"width":620,"height":1290,"color":"#4A90D9"},
+		{"id":"g-synthesis","type":"group","label":"2 · Theological Synthesis","x":680,"y":0,"width":620,"height":1290,"color":"#9B72CF"},
+		{"id":"g-formation","type":"group","label":"3 · Formation Goals","x":1360,"y":0,"width":620,"height":1290,"color":"#65A86B"},
+		{"id":"g-design","type":"group","label":"4 · Session Design","x":2040,"y":0,"width":620,"height":1290,"color":"#D6B34B"},
+		{"id":"g-production","type":"group","label":"5 · Resource Production","x":2720,"y":0,"width":620,"height":1290,"color":"#9098A1"},
+		{"id":"title","type":"text","text":"# Planted Development\nFive-stage visual workspace · updated October 13, 2026","x":0,"y":-380,"width":1300,"height":130,"color":"#9098A1"},
+		{"id":"brief","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/Planted/Planted Development.md","x":1360,"y":-380,"width":1980,"height":130,"color":"#9098A1"},
+		{"id":"legend-scripture","type":"text","text":"## Blue · Scripture\nText · context · exegesis\nContent color ≠ approval status.","x":0,"y":-210,"width":520,"height":150,"color":"#4A90D9"},
+		{"id":"legend-theology","type":"text","text":"## Purple · Theology\nSynthesis · research\nContent color ≠ approval status.","x":560,"y":-210,"width":520,"height":150,"color":"#9B72CF"},
+		{"id":"legend-formation","type":"text","text":"## Green · Formation\nBelonging · Beholding · Becoming\nContent color ≠ approval status.","x":1120,"y":-210,"width":520,"height":150,"color":"#65A86B"},
+		{"id":"legend-flow","type":"text","text":"## Yellow · Teaching Flow\nMovements · activities · timing\nContent color ≠ approval status.","x":1680,"y":-210,"width":520,"height":150,"color":"#D6B34B"},
+		{"id":"legend-discussion","type":"text","text":"## Red · Discussion\nQuestions · table-leader prompts\nContent color ≠ approval status.","x":2240,"y":-210,"width":520,"height":150,"color":"#D96B6B"},
+		{"id":"legend-output","type":"text","text":"## Gray · Resource Output\nSlides · handouts · notes · review\nContent color ≠ approval status.","x":2800,"y":-210,"width":520,"height":150,"color":"#9098A1"},
+		{"id":"exegesis","type":"text","text":"## Scripture · begin with the actual source\nPlanted has approved curriculum. The vault records Session 0 and the Session 1 title, “In the Beginning, a Garden.”\n\nChoose the next session and read its supplied text/material; do not invent the absent sequence.","x":30,"y":70,"width":560,"height":360,"color":"#4A90D9"},
+		{"id":"synthesis","type":"text","text":"## Theology · synthesis from the text\nHow does the supplied passage illuminate Christ and the biblical story?\n\nKeep observation, interpretation, and proposal distinct. Use actual Notion/source notes; do not infer the four unrecorded frameworks.","x":710,"y":70,"width":560,"height":360,"color":"#9B72CF"},
+		{"id":"formation","type":"text","text":"## Formation · approved goal\nBelong to God’s people · behold and follow Jesus · grow in faith · plant seeds of hope in others.\n\nTranslate the goal into concrete invitations for this session.","x":1390,"y":70,"width":560,"height":360,"color":"#65A86B"},
+		{"id":"design","type":"text","text":"## Teaching Flow · Planted\nWorking envelope: 6:30–8:00 PM\n20 community/check-in + about 60 study/discussion + 10 closing.\n\nRetain approved Scripture, story, experience, conversation, practice, prayer/worship, and community.\n\nThe Collective two-block pattern is not automatically applied here.","x":2070,"y":70,"width":560,"height":340,"color":"#D6B34B"},
+		{"id":"discussion","type":"text","text":"## Discussion · develop from the passage\nWhat helps people notice the text, behold Christ, and respond honestly?\n\nKeep room for newcomers and honest questions; no pressure to disclose.","x":2070,"y":440,"width":560,"height":310,"color":"#D96B6B"},
+		{"id":"production","type":"text","text":"## Resource Output · Paul develops\nSession presentation slides + participant handout/notes\n\nPlanted session notes may be 4+ pages where depth requires. Apply the shared Groups style; inspect exported pages/slides.","x":2750,"y":70,"width":560,"height":360,"color":"#9098A1"},
+		{"id":"source-notes","type":"text","text":"## Open source details\nActual next-session source / Notion version\nTen movements / five chapters / twelve-session mapping\nFour remaining frameworks\n\nApproved curriculum stays approved; local source gaps remain named.","x":30,"y":710,"width":560,"height":330,"color":"#4A90D9"},
+		{"id":"next","type":"text","text":"## Next action · Paul\nLink the next approved session source and Notion version, then develop one session master through the five stages.","x":2070,"y":800,"width":560,"height":250,"color":"#D6B34B"},
+		{"id":"session-template","type":"file","file":"Groups Ministry/10 Templates/Records/Curriculum Session.md","x":1390,"y":480,"width":560,"height":180,"color":"#9098A1"},
+		{"id":"master-link","type":"text","text":"## Link the actual session master\nCreate it from the template as selected content develops. Add a file card here.\n\nShort Canvas ideas remain exploratory; the master holds selected exegesis, synthesis, goals, design, and output content.","x":1390,"y":720,"width":560,"height":310,"color":"#65A86B"},
+		{"id":"review","type":"text","text":"## Review and export evidence\nPaul checks content, sources, voice, and usability. Retained pastoral matters follow DEC-021/DEC-033.\n\nRecord reviewer/date/version, editable file/export, and intended audience; check actual final layout.","x":2750,"y":480,"width":560,"height":310,"color":"#9098A1"},
+		{"id":"style","type":"file","file":"Groups Ministry/06 Resources/Brand/Groups Resource Style.md","x":2750,"y":850,"width":560,"height":160,"color":"#9098A1"},
+		{"id":"learn","type":"text","text":"## After actual use\nNon-identifying observations → revise the master → regenerate affected outputs.","x":2750,"y":1060,"width":560,"height":160,"color":"#9098A1"},
+		{"id":"source-main","type":"file","file":"Groups Ministry/04 Classes/Curriculum/Planted Bible Study.md","x":30,"y":480,"width":560,"height":180,"color":"#4A90D9"},
+		{"id":"source-session0","type":"file","file":"Groups Ministry/04 Classes/Curriculum/Planted Bible Study.md","x":710,"y":480,"width":560,"height":230,"color":"#9B72CF","subpath":"#Session 0 — Orientation: The Seed and the Soil"},
+		{"id":"synthesis-gap","type":"text","text":"## Theology · source gap\nThe other four recurring frameworks are not recorded locally. Read the actual Notion material before naming or teaching them.","x":710,"y":770,"width":560,"height":230,"color":"#9B72CF"},
+		{"id":"governance","type":"file","file":"Groups Ministry/01 Governance/Theological Framework.md","x":710,"y":1050,"width":560,"height":160,"color":"#9B72CF"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"exegesis","toNode":"synthesis","fromSide":"right","toSide":"left"},
+		{"id":"e2","fromNode":"synthesis","toNode":"formation","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"formation","toNode":"design","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"design","toNode":"production","fromSide":"right","toSide":"left"},
+		{"id":"ed","fromNode":"design","toNode":"discussion","fromSide":"bottom","toSide":"top","color":"#D96B6B"},
+		{"id":"review-master","fromNode":"review","toNode":"master-link","fromSide":"left","toSide":"right","label":"corrections","color":"#9098A1"}
+	]
+}

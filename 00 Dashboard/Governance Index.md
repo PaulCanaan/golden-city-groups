@@ -71,6 +71,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-038 — Planted Notion Finalization and October Readiness Target|DEC-038 — Planted Notion Finalization and October Readiness Target]]
 - [[08 Archive/Decisions/Decision History#DEC-054 — Bible Club Curriculum Sequence|DEC-054 — Bible Club Curriculum Sequence]]
 - [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055 — Weekly Recap and Fall 2026 Collectives Study]]
+- [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067 — Collective Resource Development and Galatians Course Plan]]
 
 ### Communication
 
@@ -112,7 +113,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–066. DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–067 (DEC-067 retains pending calendar details). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
 
 ### Confirmed in Part
 
@@ -136,6 +137,7 @@ DEC-039 and DEC-063.
 
 ### Superseded or Superseded in Part
 
+- [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055]] — Collective resource responsibility and course window superseded/clarified by DEC-067.
 - [[08 Archive/Decisions/Decision History#DEC-023 — First Planted Instructor and Course Window|DEC-023]] — superseded in part by DEC-030.
 - [[08 Archive/Decisions/Decision History#DEC-024 — Distinct Formation Emphases Across Ministry Environments|DEC-024]] — superseded by DEC-025.
 - [[08 Archive/Decisions/Decision History#DEC-025 — Golden City Groups Ministry Environments|DEC-025]] — superseded by DEC-034.
@@ -153,22 +155,26 @@ DEC-039 and DEC-063.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions begin with the October 5 Fall 2026 Open Groups schedule updates:
+The ten most recent numbered decisions begin with the October 13 Collective resource-development clarification and Galatians course plan:
 
-1. [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066 — Fall 2026 Open Groups Schedule Updates]]
-2. [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065 — Fall 2026 Open Groups]]
-3. [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director|DEC-064 — Pastoral Availability of the Groups Ministry Director]]
-4. [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063 — City Group and Collective Leader Guides]]
-5. [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City|DEC-062 — City Groups as a Signature Ministry of Golden City]]
-6. [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal|DEC-061 — Uneven Group Dynamics Are Normal]]
-7. [[08 Archive/Decisions/Decision History#DEC-060 — Thursday Collective Schedules and On-Site Direction|DEC-060 — Thursday Collective Schedules and On-Site Direction]]
-8. [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059 — Group Launch Readiness Workflow]]
-9. [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location|DEC-058 — Women's Collective Start, Rhythm, and Location]]
-10. [[08 Archive/Decisions/Decision History#DEC-057 — Groups Ministry Communication Channels|DEC-057 — Groups Ministry Communication Channels]]
+1. [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067 — Collective Resource Development and Galatians Course Plan]]
+2. [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066 — Fall 2026 Open Groups Schedule Updates]]
+3. [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065 — Fall 2026 Open Groups]]
+4. [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director|DEC-064 — Pastoral Availability of the Groups Ministry Director]]
+5. [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063 — City Group and Collective Leader Guides]]
+6. [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City|DEC-062 — City Groups as a Signature Ministry of Golden City]]
+7. [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal|DEC-061 — Uneven Group Dynamics Are Normal]]
+8. [[08 Archive/Decisions/Decision History#DEC-060 — Thursday Collective Schedules and On-Site Direction|DEC-060 — Thursday Collective Schedules and On-Site Direction]]
+9. [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059 — Group Launch Readiness Workflow]]
+10. [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location|DEC-058 — Women's Collective Start, Rhythm, and Location]]
 
 ## Supersession Map
 
 ```text
+DEC-055 (Collective resource responsibility and course window)
+   ↓ superseded / clarified in part by
+DEC-067
+
 DEC-024
    ↓ superseded by
 DEC-025 (including its later four-environment clarification)

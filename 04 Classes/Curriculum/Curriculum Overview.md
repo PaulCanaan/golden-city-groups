@@ -14,7 +14,7 @@ The Planted page now carries the study's formation goal, forms of learning, jour
 
 - **Every fall:** Planted (DEC-054).
 - **Spring 2027:** *Covenant, Kingdom, and People of God* may follow (DEC-054). This is planning direction, not an approved offering; its review, facilitator, schedule, and classification as a Bible Club or future Class remain open. Its earlier scaffold is preserved in [[08 Archive/Classes/Covenant, Kingdom, People of God|the Classes archive]].
-- **Collectives, Fall 2026:** Galatians, paralleling *The Fruit of the Spirit* weekend series; Russ and Conner O'Brien are responsible for materials (DEC-055). Collectives are not Bible Clubs; the study is listed here for curriculum visibility.
+- **Collectives, Fall 2026–Spring 2027:** all six chapters of Galatians, two study gatherings per chapter: twelve study gatherings per Collective, plus separate introductions (DEC-067). The study retains its connection to *The Fruit of the Spirit* under DEC-055. Paul develops separate dated Men’s and Women’s course content, handouts, and leader notes for their distinct formation goals; Russ, Miranda, and Conner operate the gatherings using them. Keller’s *Galatians For You* is the primary development/question resource, with Peterson’s *Traveling Light* secondary for freedom (DEC-067 follow-up). Holiday dates remain open. Collectives are not Bible Clubs; the study is listed here for curriculum visibility.
 
 Planted is not yet recorded as operationally launch-ready. A future curriculum decision should identify whether each other offering is a facilitator-led Bible Club or a future teacher-led Class before it is scheduled or communicated.
 
@@ -24,6 +24,7 @@ Slides, handouts, facilitator or instructor guides, participant guides, reading 
 
 ## Connections
 
+- [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]] — linked Canvas workspaces and a source-to-resource development process for Planted and Collectives Galatians; curriculum authority and ownership remain here and in the governing records.
 - [[01 Governance/Ministry Model#Bible Clubs — Rooted in Scripture|Bible Clubs]] — Governing purpose for facilitator-led study of Scripture.
 - [[Classes Overview]] — Governing purpose for teacher-led, topic-based equipping.
 - [[08 Archive/Classes/Upcoming|Archived curriculum planning]] — Preserved unapproved curriculum scaffolds and development questions.

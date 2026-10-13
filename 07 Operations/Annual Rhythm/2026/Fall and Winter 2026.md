@@ -63,7 +63,7 @@ Current Collective architecture:
 
 - **Men's Collective:** every other Tuesday at 6:30pm from October 6, Broomfield (144th & Zuni) area (DEC-066); intended co-leads Conner O'Brien and Russ Daly.
 - **Women's Collective:** every other Tuesday at 6:30pm from October 13, Broomfield (144th & Zuni) area (DEC-066); intended co-leads Rachel O'Brien and Miranda Daly.
-- **Study:** both Collectives study Galatians through 2026, paralleling *The Fruit of the Spirit* weekend series; Russ and Conner O'Brien are responsible for materials, with Miranda Daly and Rachel O'Brien in the content discussions (DEC-055).
+- **Study:** Galatians across Fall 2026–Spring 2027; all six chapters, two study gatherings per chapter, twelve study gatherings per Collective plus separate introductions (DEC-067, clarifying DEC-055). Paul develops materials; Russ, Miranda, and Conner operate the gatherings. The study retains its connection to *The Fruit of the Spirit*. Holiday skips are likely, but dates and the spring continuation calendar remain open. Paul reports Men's introductory gathering occurred October 6; Women's is planned for October 13 tonight.
 
 Participant paths, communications, leader-path completion, and final readiness remain open. Conner's and Rachel's expressed interest is not formal appointment. Russ intends the Collectives to move on-site in the future, and the search for a location continues.
 

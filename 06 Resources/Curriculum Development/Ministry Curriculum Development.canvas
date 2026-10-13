@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# Ministry Curriculum Development\nBiblical Exegesis → Theological Synthesis → Formation Goals → Session Design → Resource Production","x":0,"y":-380,"width":3340,"height":130,"color":"#9098A1"},
+		{"id":"legend-scripture","type":"text","text":"## Blue · Scripture\nText · context · exegesis\nContent color ≠ approval status.","x":0,"y":-210,"width":520,"height":150,"color":"#4A90D9"},
+		{"id":"legend-theology","type":"text","text":"## Purple · Theology\nSynthesis · research\nContent color ≠ approval status.","x":560,"y":-210,"width":520,"height":150,"color":"#9B72CF"},
+		{"id":"legend-formation","type":"text","text":"## Green · Formation\nBelonging · Beholding · Becoming\nContent color ≠ approval status.","x":1120,"y":-210,"width":520,"height":150,"color":"#65A86B"},
+		{"id":"legend-flow","type":"text","text":"## Yellow · Teaching Flow\nMovements · activities · timing\nContent color ≠ approval status.","x":1680,"y":-210,"width":520,"height":150,"color":"#D6B34B"},
+		{"id":"legend-discussion","type":"text","text":"## Red · Discussion\nQuestions · table-leader prompts\nContent color ≠ approval status.","x":2240,"y":-210,"width":520,"height":150,"color":"#D96B6B"},
+		{"id":"legend-output","type":"text","text":"## Gray · Resource Output\nSlides · handouts · notes · review\nContent color ≠ approval status.","x":2800,"y":-210,"width":520,"height":150,"color":"#9098A1"},
+		{"id":"exegesis","type":"text","text":"## 1 · Biblical Exegesis\nRead the passage in context. Trace its argument, structure, words, and interpretive questions.\n\nLink Scripture and actual Notion/source notes with references and versions. Distinguish observation from interpretation.","x":0,"y":40,"width":620,"height":400,"color":"#4A90D9"},
+		{"id":"synthesis","type":"text","text":"## 2 · Theological Synthesis\nConnect the exegesis to Christ and the biblical story. Bring properly cited research into conversation with the text.\n\nKeep the source contribution distinct from your synthesis; flag disputed claims.","x":680,"y":40,"width":620,"height":400,"color":"#9B72CF"},
+		{"id":"formation","type":"text","text":"## 3 · Formation Goals\nWhat does the text invite people to trust, behold, pray, and practice?\n\nFor Collectives, develop separate Men’s/Women’s goals and pastoral rationale before choosing applications and questions. Specific focuses need actual participant context.","x":1360,"y":40,"width":620,"height":400,"color":"#65A86B"},
+		{"id":"design","type":"text","text":"## 4 · Session Design\nShape audience-specific session masters.\n\nCollectives: 6:30–8:00 PM; 20 community + two (20 teaching + 10 discussion) blocks + 10 closing.\n\nThis is provisional; adjust from actual use. Planted retains its own learning movements.","x":2040,"y":40,"width":620,"height":400,"color":"#D6B34B"},
+		{"id":"production","type":"text","text":"## 5 · Resource Production\nPaul develops resources from reviewed masters.\n\nSeparate dated Men’s/Women’s handouts, table-leader notes, and needed slides. Shared biblical research stays linked.\n\nApply Groups Resource Style; inspect actual exports.","x":2720,"y":40,"width":620,"height":400,"color":"#9098A1"},
+		{"id":"source-role","type":"text","text":"## Source role\nNotion supplies information and knowledge. Link actual pages/versions.\n\nThe vault develops teaching resources; final slides and handouts have their own editable files and exports.","x":0,"y":510,"width":620,"height":270,"color":"#4A90D9"},
+		{"id":"workflow","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/Ministry Curriculum Development.md","x":0,"y":830,"width":620,"height":190,"color":"#9098A1"},
+		{"id":"roles","type":"text","text":"## People and authority\nPaul develops ministry resources. Russ, Miranda, and Conner operate the Collectives using them (DEC-067).\n\nKeep curriculum approval, resource production, actual gatherings, and formal readiness evidence separately stated.","x":680,"y":510,"width":620,"height":270,"color":"#9098A1"},
+		{"id":"decision","type":"file","file":"Groups Ministry/08 Archive/Decisions/Decision History.md","x":680,"y":830,"width":620,"height":190,"color":"#9098A1","subpath":"#DEC-067 — Collective Resource Development and Galatians Course Plan"},
+		{"id":"planted","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/Planted/Planted Development.canvas","x":1360,"y":510,"width":620,"height":180,"color":"#9098A1"},
+		{"id":"galatians","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/Collectives Galatians/Collectives Galatians Development.canvas","x":1360,"y":740,"width":620,"height":180,"color":"#9098A1"},
+		{"id":"discussion","type":"text","text":"## Discussion\nCollectives Galatians: gather base questions from Keller’s Galatians For You. Record edition/page and any adaptation.\n\nSelect for each Collective’s formation goals and its two discussion blocks; add intent and leader follow-ups.","x":2040,"y":510,"width":620,"height":270,"color":"#D96B6B"},
+		{"id":"session-template","type":"file","file":"Groups Ministry/10 Templates/Records/Curriculum Session.md","x":2040,"y":830,"width":620,"height":190,"color":"#9098A1"},
+		{"id":"depth","type":"text","text":"## Similar format · different depth\nWeekly Recap: 1 page\nCollectives Galatians handout: 2–3 pages\nBible Club notes, e.g. Planted: 4+ pages as needed\n\nDesign targets; preserve readable type and reflection space.","x":2720,"y":510,"width":620,"height":270,"color":"#9098A1"},
+		{"id":"style","type":"file","file":"Groups Ministry/06 Resources/Brand/Groups Resource Style.md","x":2720,"y":830,"width":620,"height":190,"color":"#9098A1"},
+		{"id":"project-template","type":"file","file":"Groups Ministry/10 Templates/Records/Curriculum Project.md","x":0,"y":1090,"width":1640,"height":180,"color":"#9098A1"},
+		{"id":"brainstorm-template","type":"file","file":"Groups Ministry/10 Templates/Canvas/Curriculum Session Brainstorm.canvas","x":1700,"y":1090,"width":1640,"height":180,"color":"#9098A1"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"exegesis","toNode":"synthesis","fromSide":"right","toSide":"left"},
+		{"id":"e2","fromNode":"synthesis","toNode":"formation","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"formation","toNode":"design","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"design","toNode":"production","fromSide":"right","toSide":"left"},
+		{"id":"ed","fromNode":"design","toNode":"discussion","fromSide":"bottom","toSide":"top","color":"#D96B6B"}
+	]
+}

@@ -68,6 +68,13 @@ Future Classes may provide topic-based equipping under Bible Clubs while holding
 
 Future biblical, systematic, or applied theology libraries should be created only when approved content exists. Empty subject folders are not maintained as placeholders.
 
+### Curriculum Development
+
+- [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]] — visual-first Obsidian process from source material and brainstorming to a reviewed session master, slides, handouts, course content, and leader notes.
+- [[06 Resources/Curriculum Development/Ministry Curriculum Development.canvas|Curriculum Development Canvas]] — editable process map with links to the Planted and Collectives Galatians workspaces.
+
+These are working development tools. Existing curriculum pages retain their authority. Notion remains the information/knowledge source; the development workspace produces teaching resources. Paul develops Planted and Collective resources, while the Collective operators lead with the materials he provides (DEC-067); pastoral approval boundaries remain in place.
+
 ### Operations
 
 Practical procedures now live together in [[07 Operations/Workflows/Workflows Overview|Workflows]]. Reusable messages and prompts live in [[10 Templates/Templates Overview|Templates]]. Curriculum, formation context, and policy resources retain their source homes:
@@ -104,6 +111,7 @@ Original external source files remain outside this repository. Golden City resou
 | administer a group in Church Center | [[07 Operations/Workflows/Planning Center Groups]] |
 | launch or close an offering | [[07 Operations/Workflows/Launch Checklist]] and [[Operation Overview]] |
 | teach or review a class | [[Curriculum Overview]] |
+| develop session slides, handouts, or table-leader notes | [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]] |
 | understand an external adaptation | [[Highlands Resource Adaptation]] |
 
 ## Resource Stewardship

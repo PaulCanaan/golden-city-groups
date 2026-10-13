@@ -160,7 +160,11 @@ Pastoral and theological curriculum review is complete. The curriculum should no
 
 ## Publishing in Notion
 
-Notion is the active finalization and publishing workspace. The publishing package may include:
+Notion is the active finalization and publishing workspace.
+
+**Clarification — October 13, 2026 (Paul):** Notion continues to serve as the information/knowledge source. Paul uses [[06 Resources/Curriculum Development/Planted/Planted Development|the curriculum development workspace]] to turn that material into actual presentation slides, handouts, and session notes. Source-page versions, editable teaching files, and exported resources are recorded separately; Notion knowledge availability does not itself establish that those deliverables exist. Session notes may run 4 pages or more where their depth requires, following [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]].
+
+The resource package may include:
 
 Slides
 
@@ -193,6 +197,7 @@ Completion of Notion publishing does not establish operational readiness.
 
 ## Connections
 
+- [[06 Resources/Curriculum Development/Planted/Planted Development|Planted Development]] — visual workspace for session slides and handouts from approved material; this page remains the canonical curriculum record and Notion remains the publishing workspace.
 - [[07 Operations/Workflows/Planted Participant Intake and Communication Workflow|Planted Participant Intake and Communication Workflow]] — Church Center, webpage, and launch-table requests through personal welcome, group chat, and the first gathering; implementation remains unverified.
 - [[Groups Ministry/11 Database/Groups Database/All Groups/Bible Clubs/Planted Bible Study|Planted working Group record]] — Non-sensitive ministry planning; Planning Center remains authoritative for official operational data.
 - [[01 Governance/Ministry Model#Bible Clubs — Rooted in Scripture|Ministry Model]] — Governing Bible Club purpose.

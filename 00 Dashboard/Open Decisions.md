@@ -109,6 +109,13 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 
 No unresolved curriculum approval is currently recorded for Planted: its curriculum is approved under DEC-030 and DEC-038. Notion publishing and operational readiness remain incomplete but are tracked under Planted Final Readiness rather than treated as incomplete curriculum development.
 
+### Galatians Calendar and Resource Details
+
+- **Question:** Which holiday weeks will be skipped, what dates will carry the twelve study gatherings, and when/where are Paul's next resources needed?
+- **Established direction:** DEC-067 records all six chapters, two study gatherings per chapter per Collective, plus separate introductions, across Fall 2026–Spring 2027. Paul develops resources; Collective operators lead with them.
+- **Remaining scope:** Exact passage subdivisions, study dates, breaks, restart/end dates, resource deadlines, delivery path, specific Men’s/Women’s formation goals, and source question references. The two-block agenda is a provisional design to evaluate after use, not an unresolved approval blocking routine drafting. Anticipated holiday skips are not dated cancellations.
+- **Owners / source:** Paul develops resources and supplies further calendar decisions with the Collective operators; [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067]] and [[06 Resources/Curriculum Development/Collectives Galatians/Collectives Galatians Development|the development brief]].
+
 ## Connections
 
 - [[Decision Log|Decision Log]] — canonical chronological decision register.

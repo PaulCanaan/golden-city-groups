@@ -32,14 +32,14 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 | Public church launch | **September 20, 2026 — completed**; the church is established in Broomfield, Colorado |
 | Current phase | Post–Group Launch Day reconciliation and first-gathering readiness: establish what occurred October 4, prepare the first gatherings under the DEC-066 schedules, test participant paths, and record only evidence-backed appointments and final readiness |
 | Most recent milestone | **October 4 Group Launch Day** — the date has passed; nine cards and QR destinations were prepared, but event execution and aggregate outcomes are not recorded (BWR-028) |
-| Next dated decision point | **October 11 optional second lobby presentation** for groups with many open spots (DEC-051), pending the October 4 outcome; first gatherings run October 6–20 under DEC-065 and DEC-066, beginning with Men's Collective on Tuesday, October 6 |
+| Next dated decision point | **Women's Collective introduction tonight, Tuesday, October 13** (Paul's update); completion not yet reported. Subsequent Galatians study dates and holiday adjustments remain to be supplied |
 | Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
-| October Collectives readiness | **At Risk** — DEC-066 sets every other Tuesday at 6:30pm in Broomfield (144th & Zuni): Men's from October 6, Women's from October 13. Materials, appointments, participant-path testing, safeguards, and final readiness remain open |
+| October Collectives readiness | **Men's began October 6 (Paul, October 13); Women's first gathering planned tonight, October 13.** Operational evidence gaps remain; completed introductions do not establish unreported appointments/final readiness. Paul develops the Galatians resources for twelve study gatherings per Collective across fall/spring, plus introductions (DEC-067); holiday dates remain pending |
 | Planted readiness | **At Risk** — DEC-066 sets Mondays 6:30–8:00pm from October 12 in the Broomfield (120th & Interlocken) area. Specific venue, full calendar, testing, support, and final approval remain open |
 | Ministry architecture | City Groups — life together; Collectives — shared encouragement; Bible Clubs — rooted in Scripture |
 | Group Leader workflow | **Configured** — `Interest → Welcome / Contact → Group Leader Conversation → Training → Launch`; live use and candidate stages still require reconciliation |
 | Groups webpage | **Live** — nine offerings and Church Center links published; schedules match DEC-065 as updated by DEC-066, which Russ approved October 5. The printed profile cards for six offerings are now out of date |
-| Paul's immediate focus | Supply the October 4 outcome, make sure joined participants have the new Collective and Planted dates, confirm Planted's venue and operating plan, complete participant-path evidence, and record only non-sensitive aggregate leader and connection movement |
+| Paul's immediate focus | Develop the next Galatians course resources for the Collective operators; supply the October 4 outcome, make sure joined participants have the new Collective and Planted dates, confirm Planted's venue and operating plan, complete participant-path evidence, and record only non-sensitive aggregate leader and connection movement |
 | Final readiness authority | Russ or a pastor explicitly designated by Russ |
 
 ## Biweekly Ministry Review
@@ -61,7 +61,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - Paul: confirm Planted's venue and complete its readiness package after the schedule is settled (BWR-011, BWR-018).
 - Russ and Paul: test every join path end to end and approve system ownership, response, access, consent, and backup boundaries (BWR-009).
 - Paul: process the 16 connection-card responses and reconcile the four earlier events and aggregate leader pipeline without storing identities here (BWR-001–005, BWR-021).
-- Paul: record the Collectives construction meeting outcome; Russ and Conner, with Miranda and Rachel, finish the Galatians materials (BWR-022, BWR-029).
+- Paul: develop the first Galatians study resources for the Collective operators; record remaining construction-meeting outcomes and later calendar decisions (BWR-022, BWR-029; DEC-067).
 - Russ and Paul: begin Weekly Recap production (BWR-030).
 - Paul: plan the first Group Leader Collaboration, continue the leader guides within approved policy boundaries, and set up the support calendar (BWR-031, BWR-033, BWR-034).
 
@@ -77,7 +77,7 @@ The unresolved governance questions remain in [[00 Dashboard/Open Decisions|Open
 
 ## Offering Readiness Snapshot
 
-No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. DEC-065 confirms the Fall offering set and published leaders, but explicitly does not establish appointment, final readiness, or actual launch. DEC-066 is the governing Collective and Planted schedule source. Conner's and Rachel's expressed interest is not appointment. Current evidence is maintained in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]].
+No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. DEC-065 confirms the Fall offering set and published leaders, but explicitly does not establish appointment, final readiness, or actual launch. DEC-066 is the governing Collective and Planted schedule source. Paul reports Men’s introductory gathering occurred October 6 and Women’s is planned October 13 tonight (DEC-067); this actual-use update is separate from remaining formal readiness evidence. Conner's and Rachel's expressed interest is not appointment. Current evidence is maintained in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]].
 
 ## Confirmed Milestones
 
