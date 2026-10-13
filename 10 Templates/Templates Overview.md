@@ -39,7 +39,7 @@ Find what to send, ask, or record under 10 Templates. Follow the associated [[07
 
 ## Canvas
 
-- [[10 Templates/Canvas/Curriculum Session Brainstorm.canvas|Curriculum Session Brainstorm]] — copy into an actual development project for short source, idea, question, session-flow, and output cards. Follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]].
+- [[10 Templates/Canvas/Curriculum Session Brainstorm.canvas|Curriculum Session Brainstorm]] — copy into the curriculum Research & Brainstorm inbox for rough inputs; maintained project development maps live in Structure & Synthesize. Follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]].
 
 ## Reports
 

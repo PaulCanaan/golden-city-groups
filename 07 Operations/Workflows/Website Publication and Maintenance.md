@@ -57,7 +57,7 @@ Paul owns updates under DEC-037. Use [[07 Operations/Workflows/Biweekly Ministry
 | Trigger | Maintenance action |
 |---|---|
 | Regular biweekly review | Reconcile meaningful website changes, offering availability, dated announcements, and participant-path evidence with the OS and Planning Center. Carry unresolved consequential work in the existing queue. Do not infer live verification from a repository-only check. |
-| New profile, changed rhythm, closure, or full group | Follow [[12 Ministry Website/Open Groups Listings|Open Groups Listings]]; update Planning Center and reconcile any manually displayed profile text. A Church Center list can update dynamically, but copied Squarespace details cannot. |
+| New profile, changed rhythm, closure, or full group | Follow [[12 Ministry Website/Open Groups Listings\|Open Groups Listings]]; update Planning Center and reconcile any manually displayed profile text. A Church Center list can update dynamically, but copied Squarespace details cannot. |
 | Semester refresh | Refresh listings from reviewed City Group Profiles, remove expired dates and obsolete invitations, and verify destinations for the new offerings. |
 | Material content or design change | Save a recovery copy, test the affected visitor paths and layout, update the page record, and record the change and review in the Development Journey. Use the review path recorded in DEC-037; future review arrangements beyond its pre-launch quick review must be recorded rather than assumed. |
 | Parent-site redesign or Squarespace behavior change | Recheck visual alignment, component selectors, header clearance, disclosures, and shared navigation before changing global styles. |

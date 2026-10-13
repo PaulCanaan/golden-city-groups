@@ -16,20 +16,34 @@
 		{"id":"workflow","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/Ministry Curriculum Development.md","x":0,"y":830,"width":620,"height":190,"color":"#9098A1"},
 		{"id":"roles","type":"text","text":"## People and authority\nPaul develops ministry resources. Russ, Miranda, and Conner operate the Collectives using them (DEC-067).\n\nKeep curriculum approval, resource production, actual gatherings, and formal readiness evidence separately stated.","x":680,"y":510,"width":620,"height":270,"color":"#9098A1"},
 		{"id":"decision","type":"file","file":"Groups Ministry/08 Archive/Decisions/Decision History.md","x":680,"y":830,"width":620,"height":190,"color":"#9098A1","subpath":"#DEC-067 — Collective Resource Development and Galatians Course Plan"},
-		{"id":"planted","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/Planted/Planted Development.canvas","x":1360,"y":510,"width":620,"height":180,"color":"#9098A1"},
-		{"id":"galatians","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/Collectives Galatians/Collectives Galatians Development.canvas","x":1360,"y":740,"width":620,"height":180,"color":"#9098A1"},
+		{"id":"planted","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/02 Structure & Synthesize/Planted/Planted Development.canvas","x":1360,"y":510,"width":620,"height":180,"color":"#9098A1"},
+		{"id":"galatians","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development.canvas","x":1360,"y":740,"width":620,"height":180,"color":"#9098A1"},
 		{"id":"discussion","type":"text","text":"## Discussion\nCollectives Galatians: gather base questions from Keller’s Galatians For You. Record edition/page and any adaptation.\n\nSelect for each Collective’s formation goals and its two discussion blocks; add intent and leader follow-ups.","x":2040,"y":510,"width":620,"height":270,"color":"#D96B6B"},
 		{"id":"session-template","type":"file","file":"Groups Ministry/10 Templates/Records/Curriculum Session.md","x":2040,"y":830,"width":620,"height":190,"color":"#9098A1"},
 		{"id":"depth","type":"text","text":"## Similar format · different depth\nWeekly Recap: 1 page\nCollectives Galatians handout: 2–3 pages\nBible Club notes, e.g. Planted: 4+ pages as needed\n\nDesign targets; preserve readable type and reflection space.","x":2720,"y":510,"width":620,"height":270,"color":"#9098A1"},
 		{"id":"style","type":"file","file":"Groups Ministry/06 Resources/Brand/Groups Resource Style.md","x":2720,"y":830,"width":620,"height":190,"color":"#9098A1"},
 		{"id":"project-template","type":"file","file":"Groups Ministry/10 Templates/Records/Curriculum Project.md","x":0,"y":1090,"width":1640,"height":180,"color":"#9098A1"},
-		{"id":"brainstorm-template","type":"file","file":"Groups Ministry/10 Templates/Canvas/Curriculum Session Brainstorm.canvas","x":1700,"y":1090,"width":1640,"height":180,"color":"#9098A1"}
+		{"id":"brainstorm-template","type":"file","file":"Groups Ministry/10 Templates/Canvas/Curriculum Session Brainstorm.canvas","x":1700,"y":1090,"width":1640,"height":180,"color":"#9098A1"},
+		{"id":"workspace-map","type":"text","text":"## Four workspace folders · supporting the five development stages","x":0,"y":1350,"width":3340,"height":100,"color":"#9098A1"},
+		{"id":"phase-research","type":"text","text":"## 01 Research & Brainstorm\nCanvas Organizer\nLocal-only input inbox. Preserve originals; read dropped Canvases and actual linked notes.","x":0,"y":1510,"width":790,"height":240,"color":"#9098A1"},
+		{"id":"phase-research-guide","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/01 Research & Brainstorm/README.md","x":0,"y":1800,"width":790,"height":150,"color":"#9098A1"},
+		{"id":"phase-structure","type":"text","text":"## 02 Structure & Synthesize\nCanvas Organizer → Curriculum Editor\nFollow the development map; research real gaps; return synthesis/goals/outline to Paul.","x":850,"y":1510,"width":790,"height":240,"color":"#9098A1"},
+		{"id":"phase-structure-guide","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/02 Structure & Synthesize/README.md","x":850,"y":1800,"width":790,"height":150,"color":"#9098A1"},
+		{"id":"phase-develop","type":"text","text":"## 03 Develop Content\nCurriculum Editor → Resource Producer\nReal editable masters, scripts, leader notes, handouts, and slide drafts after direction review.","x":1700,"y":1510,"width":790,"height":240,"color":"#9098A1"},
+		{"id":"phase-develop-guide","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/03 Develop Content/README.md","x":1700,"y":1800,"width":790,"height":150,"color":"#9098A1"},
+		{"id":"phase-publish","type":"text","text":"## 04 Design & Publish\nResource Producer\nAccepted final PDFs/presentations/resources after Paul reviews the actual export.","x":2550,"y":1510,"width":790,"height":240,"color":"#9098A1"},
+		{"id":"phase-publish-guide","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/04 Design & Publish/README.md","x":2550,"y":1800,"width":790,"height":150,"color":"#9098A1"},
+		{"id":"human-handoffs","type":"text","text":"## Human review\nPaul confirms synthesis/goals/outline → reviews actual editable content → reviews actual export candidate.\nRecord response/date/version in the project brief. No reply is not confirmation. Library placement is not external publication.","x":0,"y":2040,"width":1640,"height":260,"color":"#9098A1"},
+		{"id":"agent-roles","type":"file","file":"Groups Ministry/06 Resources/Curriculum Development/AI Agent Roles.md","x":1700,"y":2040,"width":1640,"height":260,"color":"#9098A1"}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"exegesis","toNode":"synthesis","fromSide":"right","toSide":"left"},
 		{"id":"e2","fromNode":"synthesis","toNode":"formation","fromSide":"right","toSide":"left"},
 		{"id":"e3","fromNode":"formation","toNode":"design","fromSide":"right","toSide":"left"},
 		{"id":"e4","fromNode":"design","toNode":"production","fromSide":"right","toSide":"left"},
-		{"id":"ed","fromNode":"design","toNode":"discussion","fromSide":"bottom","toSide":"top","color":"#D96B6B"}
+		{"id":"ed","fromNode":"design","toNode":"discussion","fromSide":"bottom","toSide":"top","color":"#D96B6B"},
+		{"id":"phase-edge-structure","fromNode":"phase-research","fromSide":"right","toNode":"phase-structure","toSide":"left"},
+		{"id":"phase-edge-develop","fromNode":"phase-structure","fromSide":"right","toNode":"phase-develop","toSide":"left"},
+		{"id":"phase-edge-publish","fromNode":"phase-develop","fromSide":"right","toNode":"phase-publish","toSide":"left"}
 	]
 }

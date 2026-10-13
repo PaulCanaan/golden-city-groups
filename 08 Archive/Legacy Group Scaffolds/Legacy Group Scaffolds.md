@@ -13,10 +13,12 @@
 
 ## Geographic Scaffolds
 
-- [[Groups Ministry/08 Archive/Legacy Group Scaffolds/Erie City Group]]
-- [[Groups Ministry/08 Archive/Legacy Group Scaffolds/Lafayette City Group]]
+The Erie, Lafayette, and Northglenn source files are absent from this checkout. Their historical names and paths are retained below as reference text; no inactive group page is recreated by this link repair.
+
+- Erie City Group — `Groups Ministry/08 Archive/Legacy Group Scaffolds/Erie City Group.md`
+- Lafayette City Group — `Groups Ministry/08 Archive/Legacy Group Scaffolds/Lafayette City Group.md`
 - [[Louisville City Group]]
-- [[Groups Ministry/08 Archive/Legacy Group Scaffolds/Northglenn City Group]]
+- Northglenn City Group — `Groups Ministry/08 Archive/Legacy Group Scaffolds/Northglenn City Group.md`
 - [[Superior City Group]]
 
 ## Leadership Scaffold

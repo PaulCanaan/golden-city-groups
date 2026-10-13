@@ -2,7 +2,13 @@
 
 ## Document Status
 
-**Working resource-development brief, October 13, 2026.** Planted's curriculum is approved. This brief organizes its development and publishing work; it does not supply missing sessions or establish operational readiness. Open [[06 Resources/Curriculum Development/Planted/Planted Development.canvas|the Planted Canvas]] and follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|the development workflow]].
+**Working resource-development brief, October 13, 2026.** Planted's curriculum is approved. This brief organizes its development and publishing work; it does not supply missing sessions or establish operational readiness. Open [[06 Resources/Curriculum Development/02 Structure & Synthesize/Planted/Planted Development.canvas|the Planted Canvas]] and follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|the development workflow]].
+
+## Workspace Handoff
+
+This brief and its maintained Canvas live in phase 02. Put permitted original inputs in [[06 Resources/Curriculum Development/01 Research & Brainstorm/README|phase 01]]. After Paul's direction review, actual editable masters/scripts/notes/handouts/slides live in [[06 Resources/Curriculum Development/03 Develop Content/README|phase 03]]; accepted final resources enter [[06 Resources/Curriculum Development/04 Design & Publish/README|phase 04]] after final review. Record input provenance, actual responses/versions, real file links, and the next role/action here using [[10 Templates/Records/Curriculum Project#Human Review and Handoffs|the project handoff record]].
+
+No direction/content/final-artifact handoff is completed by this scaffold. Current next role: **Canvas Organizer** for incoming input organization, then **Curriculum Editor** for source-backed synthesis and an outline to review with Paul.
 
 ## Development Brief
 
@@ -29,11 +35,11 @@ These rows show available inputs and gaps. They do not label approved curriculum
 
 | Session / known content | Available source / master | Resource needed | Production evidence |
 |---|---|---|---|
-| Session 0 — orientation: seed and soil; Matthew 13; Grace-Truth Matrix, John 1:14 | [[04 Classes/Curriculum/Planted Bible Study#Session 0 — Orientation: The Seed and the Soil|Recorded Session 0 content]]; original deck/Notion version not supplied | Existing presentation/handout verification as needed | No current file or export verified in this setup |
-| Session 1 — “In the Beginning, a Garden” | Title confirmed in [[04 Classes/Curriculum/Planted Bible Study#The Journey Ahead|the curriculum record]]; full session content not supplied | Session slides and handout | No session master or output created; source needed first |
+| Session 0 — orientation: seed and soil; Matthew 13; Grace-Truth Matrix, John 1:14 | [[04 Classes/Curriculum/Planted Bible Study#Session 0 — Orientation: The Seed and the Soil\|Recorded Session 0 content]]; original deck/Notion version not supplied | Existing presentation/handout verification as needed | No current file or export verified in this setup |
+| Session 1 — “In the Beginning, a Garden” | Title confirmed in [[04 Classes/Curriculum/Planted Bible Study#The Journey Ahead\|the curriculum record]]; full session content not supplied | Session slides and handout | No session master or output created; source needed first |
 | Remaining sessions | Full approved sequence and four remaining recurring frameworks not recorded in the vault | Only outputs needed for the confirmed sequence | Do not invent session numbers, titles, chapter mapping, or framework names |
 
-When the source arrives, create a session master from [[10 Templates/Records/Curriculum Session|Curriculum Session]], link it here and on the Canvas, then record actual output links, owner review, and source/published versions.
+When the source arrives and Paul confirms its proposed direction, create the actual phase 03 session master from [[10 Templates/Records/Curriculum Session|Curriculum Session]], link it here and on the Canvas, then record actual output links, owner review, and source/published versions.
 
 ## Questions to Carry Forward
 

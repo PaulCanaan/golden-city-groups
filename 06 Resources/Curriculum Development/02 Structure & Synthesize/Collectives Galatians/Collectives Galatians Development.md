@@ -2,7 +2,13 @@
 
 ## Document Status
 
-**Working resource-development brief, updated October 13, 2026 from Paul's clarification of his role and the course planned with Russ.** The course covers all six chapters of Galatians in twelve study gatherings per Collective, plus separate introductory gatherings, across Fall 2026–Spring 2027. Holiday breaks and exact study dates remain open. Paul's follow-up sets Keller as the primary development/question resource, Peterson as secondary, and separate Men's/Women's resource packages. The two-block gathering flow is a working design for use and later adjustment, not an execution report. Course resources are in development, not verified finished files. Open [[06 Resources/Curriculum Development/Collectives Galatians/Collectives Galatians Development.canvas|the Galatians Canvas]] and follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|the development workflow]].
+**Working resource-development brief, updated October 13, 2026 from Paul's clarification of his role and the course planned with Russ.** The course covers all six chapters of Galatians in twelve study gatherings per Collective, plus separate introductory gatherings, across Fall 2026–Spring 2027. Holiday breaks and exact study dates remain open. Paul's follow-up sets Keller as the primary development/question resource, Peterson as secondary, and separate Men's/Women's resource packages. The two-block gathering flow is a working design for use and later adjustment, not an execution report. Course resources are in development, not verified finished files. Open [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development.canvas|the Galatians Canvas]] and follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|the development workflow]].
+
+## Workspace Handoff
+
+This brief and its maintained Canvas live in phase 02. Put permitted original inputs in [[06 Resources/Curriculum Development/01 Research & Brainstorm/README|phase 01]]. After Paul's direction review, actual editable masters/scripts/notes/handouts/slides live in [[06 Resources/Curriculum Development/03 Develop Content/README|phase 03]]; accepted final resources enter [[06 Resources/Curriculum Development/04 Design & Publish/README|phase 04]] after final review. Record input provenance, actual responses/versions, real file links, and the next role/action here using [[10 Templates/Records/Curriculum Project#Human Review and Handoffs|the project handoff record]].
+
+No direction/content/final-artifact handoff is completed by this scaffold. Current next role: **Canvas Organizer** for incoming input organization, then **Curriculum Editor** for source-backed synthesis and an outline to review with Paul.
 
 ## Development Brief
 
@@ -74,7 +80,7 @@ The chapter sequence and two-gathering allocation are confirmed direction. A/B i
 | 5 | G05A / G05B | Study gatherings 9–10 | Passage splits and resources not yet drafted |
 | 6 | G06A / G06B | Study gatherings 11–12 | Passage splits and resources not yet drafted |
 
-Create separate actual Men’s/Women’s gathering masters from [[10 Templates/Records/Curriculum Session|Curriculum Session]] as their sources and content develop. Record each audience, actual date, master, editable file/export, source version, and review evidence here; no twelve-file empty scaffold is created. No finished resource has been verified in this setup.
+After Paul confirms the synthesis/goals/outline, create separate actual phase 03 Men’s/Women’s gathering masters from [[10 Templates/Records/Curriculum Session|Curriculum Session]]. Record each audience, actual date, master, editable file/export, source version, and review evidence here; no twelve-file empty scaffold is created. No finished resource has been verified in this setup.
 
 ## Development Sources
 

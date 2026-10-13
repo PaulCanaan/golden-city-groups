@@ -71,7 +71,9 @@ Future biblical, systematic, or applied theology libraries should be created onl
 ### Curriculum Development
 
 - [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]] — visual-first Obsidian process from source material and brainstorming to a reviewed session master, slides, handouts, course content, and leader notes.
-- [[06 Resources/Curriculum Development/Ministry Curriculum Development.canvas|Curriculum Development Canvas]] — editable process map with links to the Planted and Collectives Galatians workspaces.
+- [[06 Resources/Curriculum Development/Ministry Curriculum Development.canvas|Curriculum Development Canvas]] — editable intellectual-development and four-folder map, with linked Planted/Galatians workspaces.
+- [[06 Resources/Curriculum Development/AI Agent Roles|AI Agent Roles]] — Canvas Organizer, Curriculum Editor, and Resource Producer with human review handoffs.
+- [[06 Resources/Curriculum Development/01 Research & Brainstorm/README|Research & Brainstorm inbox]] — local-only rough input drop-off; [[06 Resources/Curriculum Development/04 Design & Publish/README|Design & Publish library]] holds accepted final resources once they exist.
 
 These are working development tools. Existing curriculum pages retain their authority. Notion remains the information/knowledge source; the development workspace produces teaching resources. Paul develops Planted and Collective resources, while the Collective operators lead with the materials he provides (DEC-067); pastoral approval boundaries remain in place.
 
@@ -111,7 +113,7 @@ Original external source files remain outside this repository. Golden City resou
 | administer a group in Church Center | [[07 Operations/Workflows/Planning Center Groups]] |
 | launch or close an offering | [[07 Operations/Workflows/Launch Checklist]] and [[Operation Overview]] |
 | teach or review a class | [[Curriculum Overview]] |
-| develop session slides, handouts, or table-leader notes | [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]] |
+| develop session slides, handouts, or table-leader notes | [[06 Resources/Curriculum Development/Ministry Curriculum Development\|Ministry Curriculum Development]] |
 | understand an external adaptation | [[Highlands Resource Adaptation]] |
 
 ## Resource Stewardship

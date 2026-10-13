@@ -2,7 +2,7 @@
 
 ## Template Status and Use
 
-**Reusable working record; not an approval form.** Paul maintains the template; each copied record names its actual material owner. Copy into the relevant folder under `06 Resources/Curriculum Development` when a real curriculum/resource need exists. Replace placeholders, remove these template instructions, and retain the authority distinctions. Follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]].
+**Reusable working record; not an approval form.** Paul maintains the template; each copied record names its actual material owner. Copy into the actual project folder under `06 Resources/Curriculum Development/02 Structure & Synthesize` when a real curriculum/resource need exists. Replace placeholders, remove these template instructions, and retain the authority distinctions. Follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]].
 
 ## Development Brief
 
@@ -22,6 +22,9 @@
 - **Operational requirements:** [time, room, supplies, accessibility, costs; confirmation gaps]
 - **Publishing destination:** [actual destination, or not recorded]
 - **Canvas:** [link to the project's actual board]
+- **Source inbox inputs / provenance:** [phase 01 files or Notion/source links used; unavailable sources named]
+- **Current AI role / next handoff:** [Canvas Organizer / Curriculum Editor / Resource Producer; actual next action]
+- **Editable content / final library:** [actual phase 03/04 links when files exist]
 
 ## Formation Invitations
 
@@ -42,6 +45,16 @@ Use one row per needed resource and confirmed session. Link a session master whe
 | Session / passage | Master | Resource / audience | Production state | Current editable file / export / destination | Review evidence and source version |
 |---|---|---|---|---|---|
 | [confirmed ID and text] | [actual link or not created] | [needed output] | Draft / In review / Ready to produce / Final resource / Revised | [actual links or not created] | [person, date, scope/version; or not recorded] |
+
+## Human Review and Handoffs
+
+Record the actual response from Paul and any retained pastoral decision; an agent-generated status or checkbox cannot establish confirmation.
+
+| Review point | Actual artifact / version and scope | State | Reviewer / response date | Actual direction / corrections |
+|---|---|---|---|---|
+| Synthesis, formation goals, and outline before phase 03 | [phase 02 map/notes] | Awaiting Paul / Revisions requested / Paul confirmed | [actual evidence] | [faithful record of response] |
+| Editable content before final design | [phase 03 master/files] | [actual state] | [actual evidence] | [required changes / accepted scope] |
+| Final artifact before phase 04 promotion | [actual verified candidate/version] | [actual state] | [actual evidence] | [accepted edition; publication authorization separate] |
 
 ## Open Questions and Next Action
 

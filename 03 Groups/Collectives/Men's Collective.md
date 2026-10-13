@@ -41,7 +41,7 @@ Paul reported the Galatians planning direction with Russ on October 13 (DEC-067)
 
 ## Connections
 
-- [[06 Resources/Curriculum Development/Collectives Galatians/Collectives Galatians Development|Collectives Galatians Development]] — Paul's shared visual workspace for course content, participant handouts, and table-leader notes used by the Collective operators.
+- [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|Collectives Galatians Development]] — Paul's shared visual workspace for course content, participant handouts, and table-leader notes used by the Collective operators.
 - [[Groups Overview]] — Places the planned Men's Collective within the broader Groups ministry.
 - [[Collective Leader Guide]] — Shared role companion for approved Collective leaders.
 - [[10 Templates/Gatherings/Collective Gathering|Collective Gathering]] — Reusable draft gathering shape.

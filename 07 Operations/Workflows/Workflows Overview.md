@@ -29,7 +29,7 @@ Find how to carry out a ministry process in one place. Active workflow instructi
 | Prepare the first gathering | [[07 Operations/Workflows/First Meetings Checklist\|First Meetings Checklist]] | Proposed tool; only after applicable readiness approval |
 | Welcome participants | [[07 Operations/Workflows/Hospitality\|Hospitality]] | Proposed practical guidance; location/safety requirements pending |
 | Produce and share the Weekly Recap | [[07 Operations/Workflows/Weekly Recap Production\|Weekly Recap Production]] | Working procedure (DEC-055 clarification, October 7); backup coverage open |
-| Develop curriculum resources visually | [[06 Resources/Curriculum Development/Ministry Curriculum Development\|Ministry Curriculum Development]] | Working development system; existing material ownership, curriculum approval, and readiness remain separate |
+| Develop curriculum resources visually | [[06 Resources/Curriculum Development/Ministry Curriculum Development\|Ministry Curriculum Development]] | Four-folder development system and three AI working roles with Paul’s review handoffs; curriculum approval/readiness remain separate |
 | Facilitate Scripture discussion | [[07 Operations/Workflows/Bible Study\|Bible Study]] | Proposed facilitation; resource-choice and doctrinal boundaries retained |
 | Facilitate prayer | [[07 Operations/Workflows/Prayer\|Prayer]] | Confirmed minimum baseline; additional practices require approval |
 | Respond to ordinary conflict | [[07 Operations/Workflows/Conflict\|Conflict]] | Proposed ordinary response; beyond-role matters must escalate |

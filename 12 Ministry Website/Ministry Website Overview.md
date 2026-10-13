@@ -41,7 +41,7 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 | Item | Queue |
 |---|---|
 | Group Launch Sunday lobby tables and table cards (Russ's pre-launch review of the website is complete) | BWR-028 |
-| Directory fixes: "Woman's" and "Eire" typos, Planted under "Open Classes," cross-street specificity, and the outdated "coming soon" FAQ | [[12 Ministry Website/Groups Page#Remaining Before Launch Review\|Groups Page]] |
+| Directory fixes: "Woman's" and "Eire" typos, Planted under "Open Classes," cross-street specificity, and the outdated "coming soon" FAQ | [[12 Ministry Website/Groups Page#Remaining Follow-Up\|Groups Page]] |
 | Tested participant paths for every join link | BWR-009 |
 
 ## Connections

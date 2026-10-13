@@ -41,7 +41,7 @@ This is a concise design history, not a second DEC register. Original research a
 - **Branch naming:** the public page keeps **Bible Club** (Paul's direction, October 1, 2026), while the vault records the branch as Bible Clubs (DEC-034). Purpose language confirmation for public use remains in BWR-020.
 - **Gold is a local treatment:** `#A99643` is the project's working gold. The September 15 audit found the global Squarespace `accent` token was approximately `#DCDCDC`; changing it to gold would affect the whole site. Gold buttons with dark text are a Groups adaptation. Check contrast rather than using gold for every small label.
 - **Photography is not proof of church attendance:** the mockup and installed snapshot reuse a stock-origin table image. Prefer an approved photo of real Golden City community when available, but do not describe illustrative imagery as a verified Golden City gathering.
-- **Old logistics stay historical:** do not reuse the build snapshot's schedules, addresses, group availability, or draft classifications as current copy. The [[12 Ministry Website/Groups Page#Remaining Before Launch Review|page correction record]] and existing queue carry those changes.
+- **Old logistics stay historical:** do not reuse the build snapshot's schedules, addresses, group availability, or draft classifications as current copy. The [[12 Ministry Website/Groups Page#Remaining Follow-Up|page correction record]] and existing queue carry those changes.
 - **Old backlog items are unverified:** the earlier broken Custom CSS finding has no completion evidence in the reviewed build records. Inspect whether it still exists before treating it as current work; preserve a copy before editing site-wide CSS.
 
 ## Editing and Recovery
