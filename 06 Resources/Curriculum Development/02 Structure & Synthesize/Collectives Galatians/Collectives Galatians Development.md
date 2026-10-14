@@ -2,13 +2,13 @@
 
 ## Document Status
 
-**Working resource-development brief, updated October 13, 2026 from Paul's clarification of his role and the course planned with Russ.** The course covers all six chapters of Galatians in twelve study gatherings per Collective, plus separate introductory gatherings, across Fall 2026–Spring 2027. Holiday breaks and exact study dates remain open. Paul's follow-up sets Keller as the primary development/question resource, Peterson as secondary, and separate Men's/Women's resource packages. The two-block gathering flow is a working design for use and later adjustment, not an execution report. Session 1 participant handouts are approved final resources; later course resources remain in development. Open [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development.canvas|the Galatians Canvas]] and follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|the development workflow]].
+**Working resource-development brief, updated October 13, 2026 from Paul's clarification of his role and the course planned with Russ.** The course covers all six chapters of Galatians in twelve study gatherings per Collective, plus separate introductory gatherings, across Fall 2026–Spring 2027. Holiday breaks and exact study dates remain open. Paul's follow-up sets Keller as the primary development/question resource, Peterson as secondary, and separate Men's/Women's resource packages. The two-block gathering flow is a working design for use and later adjustment, not an execution report. Session 1 participant handouts are approved final resources. On the evening of October 13 Paul moved the Women's Session 1 study gathering from October 13 to October 27; Men's Session 1 remains October 20. G01B drafts are in review. Later course resources remain in development. Open [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development.canvas|the Galatians Canvas]] and follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|the development workflow]].
 
 ## Workspace Handoff
 
 This brief and its maintained Canvas live in phase 02. Put permitted original inputs in [[06 Resources/Curriculum Development/01 Research & Brainstorm/README|phase 01]]. After Paul's direction review, actual editable masters/scripts/notes/handouts/slides live in [[06 Resources/Curriculum Development/03 Develop Content/README|phase 03]]; accepted final resources enter [[06 Resources/Curriculum Development/04 Design & Publish/README|phase 04]] after final review. Record input provenance, actual responses/versions, real file links, and the next role/action here using [[10 Templates/Records/Curriculum Project#Human Review and Handoffs|the project handoff record]].
 
-**Session 1 development, October 13, 2026:** Paul supplied his Canvas and requested separate course drafts covering Galatians overview and 1:1–9, with proposed formation emphases. He then reviewed the maintained development Canvas, called it “really good synthesis,” and requested participant handouts for Women tonight (October 13) and Men next Tuesday (October 20). Canvas Organizer → Curriculum Editor → Resource Producer produced the synthesis, maintained Canvas, two course masters, and separate three-page handouts. Paul approved the participant PDFs with two final edits: use “Part 1/2” and remove the closing development note. CSB is selected; MSG is excluded. The v1.0 handouts are saved in phase 04; editable sources remain in phase 03.
+**Session 1 development, October 13, 2026:** Paul supplied his Canvas and requested separate course drafts covering Galatians overview and 1:1–9, with proposed formation emphases. He then reviewed the maintained development Canvas, called it “really good synthesis,” and requested participant handouts for Women tonight (October 13) and Men next Tuesday (October 20). Canvas Organizer → Curriculum Editor → Resource Producer produced the synthesis, maintained Canvas, two course masters, and separate three-page handouts. Paul approved the participant PDFs with two final edits: use “Part 1/2” and remove the closing development note. CSB is selected; MSG is excluded. The v1.0 handouts were saved in phase 04; editable sources remain in phase 03. Later that evening Paul moved Women's Session 1 to October 27. The current women's file is the v1.1 date correction; the October 13 PDF is kept as the earlier dated edition. Content wording was not reopened.
 
 | Human input / handoff | Actual evidence and current state |
 |---|---|
@@ -16,7 +16,7 @@ This brief and its maintained Canvas live in phase 02. Put permitted original in
 | Synthesis / formation direction | Paul first requested proposed emphases, then reviewed the development Canvas synthesis and requested participant production from it; October 13 |
 | Actual phase 02 work | [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Session 1 Synthesis\|Session 1 synthesis]] and [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Galatians Study Session 1 Development.canvas\|maintained development Canvas]] |
 | Actual phase 03 work | Separate v0.2 course masters and approved v1.0 editable participant sources linked below; no timing or leader cues in participant exports |
-| Dates / translation | Women: October 13, 2026; Men: October 20, 2026; CSB specified by Paul |
+| Dates / translation | Men: October 20, 2026. Women: Paul first named October 13, then that evening moved Session 1 to October 27. CSB specified by Paul. The October 13 PDF remains the earlier dated edition; the October 27 PDF is the current one |
 | Content / final review | Canvas synthesis and participant handouts reviewed by Paul, October 13; his two requested final edits are applied. Full teaching-script review remains separate; no external delivery recorded |
 | Next role / action | Resource Producer records Paul’s acceptance and the v1.0 library edition; future changes start from the linked editable sources |
 
@@ -33,14 +33,14 @@ This brief and its maintained Canvas live in phase 02. Put permitted original in
 - **Gathering shape / current working design:** 6:30–8:00 PM: 20 minutes community/check-in, 60 minutes study, 10 minutes closing. The study hour uses two blocks of 20 minutes exegesis/devotional + 10 minutes table discussion. Follow [[10 Templates/Gatherings/Collective Gathering#Working 6:30–8:00 PM Flow|the provisional agenda]]; adjust after execution and feedback. This develops DEC-053’s teaching/discussion movement.
 - **Notion:** Information and knowledge source. Link the actual course/source pages and source versions when available; the development system produces editable teaching resources and exports from that knowledge.
 - **Needed outputs / depth:** Separate dated Men's and Women's course/session masters, 2–3-page participant handouts, and table-leader notes; separate slides when needed. Different formation goals and meeting dates require separate resources. Both packages retain the shared Galatians research and course sequence. Follow [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]].
-- **Priority:** Paul requests the Women's Session 1 handout for October 13 and the Men's for October 20. Resources for later gatherings follow the recorded course sequence.
+- **Priority:** Men's Session 1 is October 20. Women's Session 1 is October 27. G01B working dates, taken from the next DEC-066 Tuesdays, are November 3 for the men and November 10 for the women. Those two dates are for these drafts only. The rest of the course calendar remains open.
 - **Operational requirements:** Confirm passage subdivisions, teaching/table preparation, discussion time, room/table arrangements, and printing/projection needs. The 90-minute window is supplied by Paul; the internal allocation is provisional. Particular worship practices, food, childcare, and unreported logistics remain separate matters.
 - **Final resource delivery:** Approved Session 1 PDFs are under phase 04 in separate audience folders, with phase 03 editable sources linked below. Local library placement does not record external distribution.
 
 ## Introductory Gatherings and Calendar
 
 - **Men's Collective:** Paul reports its first gathering occurred Tuesday, October 6, 2026.
-- **Women's Collective:** Earlier input described the October 13 first gathering as introductory. Paul's subsequent handout request assigns Session 1 study content to that evening; do not assume that an earlier separate introduction occurred or that this gathering has been completed.
+- **Women's Collective:** The October 13 gathering remains the DEC-066 start and the introductory gathering. Paul's evening direction on October 13 sets Session 1, the first study gathering, for October 27. Do not treat October 13 as the study session.
 - **Introduction purpose:** Introduce the Collectives within GCC Groups & Classes Ministry and help people get to know one another. These introductions sit outside the twelve study gatherings.
 - **Study rhythm:** Each Collective meets every other week, on alternating Tuesdays under DEC-066. Twelve study gatherings therefore extend across Fall 2026 into Spring 2027 rather than occupying twelve consecutive calendar weeks.
 - **Holiday planning:** Thanksgiving, Christmas, New Year, and other holiday weeks will likely be skipped. Those are anticipated adjustments, not approved cancellation dates. Paul will supply further details/decisions; no end date or dated session calendar is calculated here.
@@ -85,7 +85,7 @@ The chapter sequence and two-gathering allocation are confirmed direction. A/B i
 
 | Galatians chapter | Working study IDs | Allocation per Collective | Current production action |
 |---|---|---|---|
-| 1 | G01A / G01B | Study gatherings 1–2 | G01A: overview + 1:1–9 synthesis reviewed; separate v1.0 three-page handouts approved for October 13/20 and saved in phase 04. G01B passage split and content remain to be developed |
+| 1 | G01A / G01B | Study gatherings 1–2 | G01A: overview + 1:1–9. Men's handout approved for October 20. Women's handout content approved, then dated October 27 by Paul. G01B: 1:10–24 drafts and PDF candidates awaiting Paul's review. Working dates November 3 and November 10 |
 | 2 | G02A / G02B | Study gatherings 3–4 | Develop after the immediate chapter 1 resources |
 | 3 | G03A / G03B | Study gatherings 5–6 | Passage splits and resources not yet drafted |
 | 4 | G04A / G04B | Study gatherings 7–8 | Passage splits and resources not yet drafted |
@@ -97,11 +97,13 @@ For later sessions, confirm the synthesis/goals/outline with Paul before produci
 | Study / audience | Actual editable master | Date / version | Production and review state |
 |---|---|---|---|
 | G01A / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Mens Galatians Session 1 Course Draft\|Men's Session 1 course master]] | October 20, 2026; v0.2 | Synthesis reviewed; full teaching script remains editable; participant export below |
-| G01A / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Womens Galatians Session 1 Course Draft\|Women's Session 1 course master]] | October 13, 2026; v0.2 | Synthesis reviewed; full teaching script remains editable; participant export below |
+| G01A / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Womens Galatians Session 1 Course Draft\|Women's Session 1 course master]] | October 27, 2026; v0.2 | Synthesis reviewed; gathering date corrected by Paul on the evening of October 13; full teaching script remains editable |
+| G01B / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Mens Galatians Session 2 Course Draft\|Men's Session 2 course master]] | November 3, 2026; v0.1 | Draft from the October 13 workflow test. Synthesis and script awaiting Paul |
+| G01B / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Womens Galatians Session 2 Course Draft\|Women's Session 2 course master]] | November 10, 2026; v0.1 | Draft from the October 13 workflow test. Separate formation goal. Awaiting Paul |
 
 | Audience / date | Editable participant source | Approved PDF | Review / library state |
 |---|---|---|---|
-| Women / October 13 | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Womens Galatians G01A 2026-10-13 Handout\|Women's handout source]] | [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Women's Collective/Womens Galatians G01A 2026-10-13 Handout.pdf\|Women's three-page handout]] | v1.0; approved by Paul October 13 with requested edits applied; phase 04 |
+| Women / October 27 | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Womens Galatians G01A 2026-10-27 Handout\|Women's handout source]] | [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Women's Collective/Womens Galatians G01A 2026-10-27 Handout.pdf\|Women's current handout]] | v1.1 date correction. Content approved October 13. The October 13 PDF remains in the same folder as the earlier dated edition |
 | Men / October 20 | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Mens Galatians G01A 2026-10-20 Handout\|Men's handout source]] | [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Men's Collective/Mens Galatians G01A 2026-10-20 Handout.pdf\|Men's three-page handout]] | v1.0; approved by Paul October 13 with requested edits applied; phase 04 |
 
 ## Development Sources
@@ -119,12 +121,24 @@ Publisher references: [Peterson — Traveling Light](https://www.ivpress.com/tra
 
 ## Open Details and Next Action
 
-- Record later study-gathering dates and holiday adjustments when decisions arrive; Session 1 dates are supplied above.
-- Review the full teaching scripts separately and select chapter 1's second-gathering passage. Session 1 handouts are approved; CSB is selected.
+- Record later study-gathering dates and holiday adjustments when decisions arrive. Session 1 dates are October 20 and October 27. G01B uses November 3 and November 10 as working dates only.
+- Review the Session 1 teaching scripts, and review the G01B synthesis, scripts, and PDF candidates. CSB is selected.
 - Develop later sessions' formation goals and Keller question adaptations from actual source material.
 - Link the relevant Notion pages and Peterson/Keller notes with edition/page references.
 - Record actual external delivery when it occurs; the Session 1 dates and final library files are linked above.
 
 **Requires Russ's approval if introduced:** new/disputed doctrinal positions, practices beyond DEC-033, policy changes, material public claims, or other retained matters under DEC-021. Paul's routine resource development can proceed within confirmed direction.
 
-**Next action — Paul:** use the approved participant handouts for the supplied dates and review the full teaching scripts separately as needed. Teaching assignments and book edition/pages remain to be supplied; use Peterson secondarily when actual excerpts/notes become available. No external distribution is recorded by this library update.
+## G01B Workflow Test — October 13, 2026
+
+Paul asked to run the full path for Galatians 1:10–24: phase 01 brainstorm Canvas, phase 02 synthesis and development Canvas, phase 03 masters and handouts, and PDF candidates for both Collectives. Session 2 opens with a short review of 1:1–9 and does not repeat the book overview.
+
+| Human input / handoff | Actual evidence and current state |
+|---|---|
+| Input | [[06 Resources/Curriculum Development/01 Research & Brainstorm/2026-10-13 Galatians G01B.canvas\|Phase 01 Canvas]] records his request. The folder is local-only |
+| Synthesis | [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Session 2 Synthesis\|Session 2 Synthesis]] and [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Galatians Study Session 2 Development.canvas\|Session 2 Canvas]]. Formation goals are proposed. **Awaiting Paul** |
+| Phase 03 | Separate v0.1 course drafts and handout sources. Questions are original because Keller's chapter 2 question bank was not supplied |
+| Working dates | Men, November 3; Women, November 10. Next DEC-066 Tuesdays after the corrected Session 1 dates. Not a remaining-course calendar |
+| Exports | PDF candidates sit with the phase 03 sources. They are not in phase 04 and are not approved |
+
+**Next action — Paul:** review the G01B synthesis, the two teaching drafts, and the PDF candidates. Session 1 handouts can be used on October 20 and October 27. Keller's chapter 2 questions, when supplied, replace the original discussion questions. No external distribution is recorded.

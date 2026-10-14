@@ -4,9 +4,10 @@
 
 ## Current Resources
 
-Galatians Session 1 participant handouts, v1.0, approved by Paul October 13 with his requested final edits applied:
+Galatians Session 1 participant handouts. Paul approved the content October 13 with his requested final edits applied. That evening he moved the Women's study gathering to October 27, so the current women's file is the v1.1 date correction:
 
-- [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Women's Collective/Womens Galatians G01A 2026-10-13 Handout.pdf|Women's Collective — October 13]]
+- [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Women's Collective/Womens Galatians G01A 2026-10-27 Handout.pdf|Women's Collective — October 27, current]]
+- [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Women's Collective/Womens Galatians G01A 2026-10-13 Handout.pdf|Women's Collective — October 13, earlier dated edition]]
 - [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Men's Collective/Mens Galatians G01A 2026-10-20 Handout.pdf|Men's Collective — October 20]]
 
 Each is three pages. Editable sources and review evidence remain linked in [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|the project record]].

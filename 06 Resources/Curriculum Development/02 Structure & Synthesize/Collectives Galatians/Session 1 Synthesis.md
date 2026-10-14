@@ -75,7 +75,7 @@ Keller's supplied Part 2 question 3 mentions three modern false-gospel dangers, 
 | Input and drafting scope | Paul requested Session 1 drafts from the supplied Canvas; Galatians overview and 1:1–9; October 13, 2026 |
 | Synthesis / formation direction | Paul reviewed the maintained development Canvas and requested handouts from it; October 13 |
 | Full teaching scripts | Editable masters updated to v0.2 for CSB and supplied dates; no separate full-script review recorded |
-| Dates / translation | Women: October 13, 2026; Men: October 20, 2026; CSB selected by Paul |
+| Dates / translation | Men: October 20, 2026. Women: October 27, 2026, after Paul moved Session 1 off October 13 that evening. CSB selected by Paul |
 | Leader allocation / edition/pages | Still unconfirmed; no appointment or page references inferred |
 | Handout exports | Paul approved the PDFs October 13 with “Block” changed to “Part” and the closing development note removed. Separate v1.0 three-page PDFs are in phase 04; editable sources remain in phase 03; no external sharing recorded |
 

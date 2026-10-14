@@ -6,7 +6,7 @@
 
 - **Study:** Galatians overview and 1:1–9; first study gathering, excluding the introductory gathering.
 - **Working ID:** G01A / Session 1. Block 1 and Block 2 belong within this one gathering.
-- **Gathering date:** October 13, 2026, supplied by Paul. Teaching assignment remains to be confirmed.
+- **Gathering date:** October 27, 2026. Paul first supplied October 13, then on the evening of October 13 moved the first study gathering to October 27. Teaching assignment remains to be confirmed.
 - **Working window:** 6:30–8:00 PM, with two twenty-minute teaching blocks and two ten-minute discussions.
 - **Developer:** Paul, assisted in this draft by the Curriculum Editor role; Collective operators use the reviewed materials.
 - **Primary development source:** The Keller quotations/notes and questions Paul supplied in the Session 1 Canvas. Edition/pages remain unrecorded. Teaching prose below is original draft synthesis; discussion wording is adapted from that supplied bank.

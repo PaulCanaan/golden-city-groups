@@ -4,7 +4,7 @@
 
 **Planned Women's Collective; October readiness at risk.** Women's Collective starts Tuesday, October 13, 2026 and meets every other Tuesday at 6:30pm in the Broomfield (144th & Zuni) area ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]], approved by Russ). The intended co-lead structure is confirmed direction. Leader-path completion, participant path, communication, home-meeting safeguards, and final readiness remain unresolved.
 
-Paul confirms on October 13 that the first gathering is planned for tonight, with an introduction and connection focus (DEC-067). Completion is not yet reported.
+Paul confirms on October 13 that the first gathering is planned for that evening, with an introduction and connection focus (DEC-067). Completion is not yet reported. Later the same evening he set the first Galatians study gathering, Session 1, for October 27. October 13 remains the DEC-066 start. The study gathering is not the introductory gathering.
 
 ## Ministry Emphasis
 

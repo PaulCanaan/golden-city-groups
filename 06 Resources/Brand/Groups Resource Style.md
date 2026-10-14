@@ -60,5 +60,6 @@ For longer notes, continue the header/footer style across pages, add page number
 ## Where It Is Applied
 
 - [[07 Operations/Workflows/Weekly Recap Production|Weekly Recap]] PDFs: `scripts/weekly_recap.py` holds the CSS.
+- Collective Galatians participant handouts: `scripts/collective_handout.py` reuses that CSS. The editable markdown in phase 03 remains the source.
 
 When another resource gets a printable form, reuse that CSS and the assets here rather than designing a new look.

@@ -1,9 +1,9 @@
 ---
 record_type: collective-participant-handout
 audience: "Women's Collective"
-gathering_date: 2026-10-13
+gathering_date: 2026-10-27
 study_id: G01A
-version: 1.0
+version: 1.1
 status: Approved
 reviewed_by: Paul
 reviewed_date: 2026-10-13
