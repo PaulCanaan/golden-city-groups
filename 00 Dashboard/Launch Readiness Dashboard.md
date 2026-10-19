@@ -24,7 +24,7 @@ Do not record applicant names, participant information, interview notes, screeni
 
 | Launch track | Overall status | Major progress | Top blockers | Next critical action | Russ decision or action | Paul action |
 |---|---|---|---|---|---|---|
-| October 4 Group Launch Day / Fall City Groups readiness | **Blocked** | Six City Groups are official and published with leaders, schedules, start dates, areas, and Church Center links (DEC-065). Nine profile cards were produced and each QR destination opened. | October 4/11 outcomes, appointment records, final-readiness approvals, escalation contacts, aggregate pipeline state, and end-to-end participant-path tests are not recorded. Erie, Lafayette, Broomfield, and Thornton scheduled first-gathering dates have passed without outcome evidence. | Paul supplies non-sensitive October 4/11 and first-gathering outcomes; reconcile Westminster after October 20 and Run Club after November 7. | Name policies and escalation contacts; record applicable appointments and final-readiness decisions. | Supply event outcomes, aggregate pipeline movement, and system/readiness evidence without participant details. |
+| October 4 Group Launch Day / Fall City Groups readiness | **Blocked** | Six City Groups are official and published with leaders, schedules, start dates, areas, and Church Center links (DEC-065). Nine profile cards were produced and each QR destination opened. Paul reports (October 19) that two City Groups have no one signed up yet; they stay open and their leaders are encouraged to join another group meanwhile (DEC-075). | October 4/11 outcomes, appointment records, final-readiness approvals, escalation contacts, aggregate pipeline state, and end-to-end participant-path tests are not recorded. Erie, Lafayette, Broomfield, and Thornton scheduled first-gathering dates have passed without outcome evidence. | Paul supplies non-sensitive October 4/11 and first-gathering outcomes; reconcile Westminster after October 20 and Run Club after November 7. | Name policies and escalation contacts; record applicable appointments and final-readiness decisions. | Supply event outcomes, aggregate pipeline movement, and system/readiness evidence without participant details. |
 | October Men's and Women's Collectives | **At Risk — documentation gaps remain** | Every-other-Tuesday schedules stand (DEC-066). Paul reports Men's introductory gathering occurred October 6. Session 1 handouts are approved for Men's October 20 and Women's October 27. DEC-067 records twelve study gatherings per Collective across fall/spring, plus introductions. | The Women's October 13 outcome is unreported. Appointment, participant-path testing, safeguards, communication, and final-readiness evidence remain open. Session 2 resources and the holiday calendar remain incomplete. | Confirm the Men's October 20 teaching assignment and delivery; reconcile the Women's introduction and remaining operational evidence. | Retained pastoral matters, applicable appointments, and final-readiness documentation. | Review/deliver the dated resources and supply non-sensitive operating evidence. |
 | Planted Bible Club | **At Risk — scheduled start passed** | DEC-066 sets Mondays 6:30–8:00pm from October 12 in the Broomfield (120th & Interlocken) area; Paul, the twelve-week model, curriculum review, and required-materials review are confirmed. | The October 12 outcome, specific venue, calendar, capacity, support, testing, communication, and final readiness are not recorded. | Paul supplies the October 12 outcome and venue evidence; complete or replan the remaining readiness package from confirmed facts. | Provide final approval with Paul. | Finish publishing and supply the calendar, capacity, registration, support, communication, and system evidence. |
 
@@ -32,6 +32,7 @@ Do not record applicant names, participant information, interview notes, screeni
 
 ### Major Progress
 
+- The October 19 staff meeting (Russ and Paul) recorded DEC-071–075 and approved the first Group Leader Collaboration for October 30 (DEC-056 update): the Weekly Recap is the model for other Groups resources, with Paul's [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] for study depth; a Groups resources page is planned; email is the main participant channel; and two standing lobby cards (Church Center app, Groups & Classes Ministry) will be made. City Groups no one has joined yet stay open, and their leaders are encouraged to join another group meanwhile (DEC-075).
 - DEC-068 and DEC-069 (recorded October 19) name Dominique Simon as Westminster co-leader with Bobby Pascale at 100th & Simms, and Niki Pike as Women's Collective co-lead with Miranda Daly in place of Rachel O'Brien. DEC-070 sets Planted's naming (*Planted.* Bible Study; *Planted.* 2026). Neither leader change records appointment or leader-pathway completion.
 - DEC-067 clarifies Paul’s resource-development role and the twelve-study-gathering course across fall/spring. Introductions are additional; holiday dates remain pending.
 - Men's October 6 introductory gathering occurred as reported by Paul. Men's October 20 and Women's October 27 Session 1 participant handouts are approved; Session 2 packages remain drafts awaiting Paul.
@@ -93,7 +94,8 @@ The current public-page record lives in [[12 Ministry Website/Groups Page|Groups
 | October 13, 2026 | Women's Collective scheduled start | Past; completion is not reported. | Reconcile outcome, participant path, safeguards, communication, appointment, and final approval (BWR-008). |
 | October 20, 2026 | Men's Galatians Session 1; Westminster City Group scheduled start | Men's handout approved; teaching assignment unconfirmed. Westminster outcome will require reconciliation. | Confirm resource delivery and record actual outcomes without inferring readiness (BWR-010, BWR-029). |
 | October 27, 2026 | Women's Galatians Session 1 | Participant handout approved; teaching assignment unconfirmed. | Confirm resource delivery and actual gathering outcome (BWR-029). |
-| Early November / November 7, 2026 | First Group Leader Collaboration / Run Club scheduled start | Collaboration date, place, and cost remain open; Run Club schedule is confirmed. | Set Collaboration details and reconcile Run Club after its first gathering (BWR-031, BWR-010). |
+| October 30, 2026 | First Group Leader Collaboration | Confirmed by Russ October 19: dinner at Paul's home for all current group leaders. | Invite leaders; record that it occurred and set the later rhythm (BWR-031). |
+| November 7, 2026 | Run Club scheduled start | Schedule is confirmed. | Reconcile Run Club after its first gathering (BWR-010). |
 
 ### Targets Without Approved Dates
 
@@ -103,7 +105,7 @@ The current public-page record lives in [[12 Ministry Website/Groups Page|Groups
 - Appointment and commissioning
 - Planning Center and Church Center testing
 - *Planted.* venue confirmation; a future on-site Collective location
-- First Group Leader Collaboration (early November; DEC-056)
+- Group Leader Collaboration rhythm after October 30 (DEC-056)
 - Groups webpage implementation and material-change review
 - Final City Group readiness review and City Group start date
 - Planted final readiness review
@@ -118,7 +120,7 @@ The current public-page record lives in [[12 Ministry Website/Groups Page|Groups
 | 4 | Supply Planted's actual venue and October 12 outcome; finish or replan its operating-readiness package. | Paul with Russ | Immediate | [[00 Dashboard/Biweekly Review Queue\|BWR-011 and BWR-018]]. |
 | 5 | Test each participant path end to end and approve settings, ownership, access, consent, response, and backup coverage. | Russ; Paul backup | Before further promotion or enrollment reliance | [[00 Dashboard/Biweekly Review Queue\|BWR-009]]. |
 | 6 | Reconcile DEC-066 participant/public communication and replace stale profile cards before reuse. | Paul for Groups-owned materials; Unresolved for other public pages | Immediate | [[00 Dashboard/Biweekly Review Queue\|BWR-036]]. |
-| 7 | Set the early-November Group Leader Collaboration date, place, cost, and leader-chat path. | Paul | Before November 2 | [[00 Dashboard/Biweekly Review Queue\|BWR-031]]. |
+| 7 | Invite all current leaders to the October 30 Group Leader Collaboration; set the leader-chat path. | Paul | Before October 30 | [[00 Dashboard/Biweekly Review Queue\|BWR-031]]. |
 | 8 | Reconcile Weekly Recap approval/posting and name backup coverage. | Paul with Russ supplying scripts | Weekly; before November 2 review | [[00 Dashboard/Biweekly Review Queue\|BWR-030]]. |
 
 ## A. Governance and Pastoral Approval
@@ -340,7 +342,10 @@ Current operating window: **October 19–November 1, 2026**.
 - [ ] Paul: supply Planted's venue and October 12 outcome; complete or replan its operating-readiness package (BWR-011, BWR-018).
 - [ ] Russ and Paul: complete end-to-end join testing and participant-system decisions for every public offering (BWR-009).
 - [ ] Paul: reconcile DEC-066 participant/public communication and replace stale profile cards before reuse (BWR-036).
-- [ ] Paul: set the early-November Group Leader Collaboration details and leader-chat path (BWR-031).
+- [ ] Paul: invite leaders to the October 30 Group Leader Collaboration and set the leader-chat path (BWR-031).
+- [ ] Paul: tell group leaders that email is the main channel to members and confirm current members are receiving updates by email (BWR-039).
+- [ ] Paul: produce the Church Center app and Groups & Classes Ministry lobby cards (BWR-038).
+- [ ] Paul: encourage the leaders of the two City Groups waiting for members to join another group meanwhile; Russ keeps promoting groups with open spots (BWR-040).
 - [ ] Paul: record Weekly Recap posting only after human approval/posting and name backup coverage (BWR-030).
 - [ ] Paul: reconcile the four earlier events, the 16 connection-card responses, and aggregate leader-pipeline movement in the restricted system (BWR-001–005, BWR-021).
 

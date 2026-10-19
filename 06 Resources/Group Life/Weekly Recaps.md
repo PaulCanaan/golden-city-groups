@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Approved optional City Group resource with named owners and a working delivery rhythm.** Under DEC-055, Russ and Paul prepare the Weekly Recap from each weekend message, with check-in questions and discussion questions. Under the October 7, 2026 clarification of DEC-055, Russ sends the sermon script on Sunday afternoon, and Paul approves and posts the recap as a PDF in the All Group Leaders Church Center chat on Sunday evening ([[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]]). Each recap is kept in this repository as a published resource. City Group leaders are not required to use it (DEC-052); it does not define a City Group and is not an administrative leader report.
+**Approved optional City Group resource with named owners and a working delivery rhythm.** Under DEC-055, Russ and Paul prepare the Weekly Recap from each weekend message, with check-in questions and discussion questions. Under the October 7, 2026 clarification of DEC-055, Russ sends the sermon script on Sunday afternoon, and Paul approves and posts the recap as a PDF in the All Group Leaders Church Center chat on Sunday evening ([[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]]). Each recap is kept in this repository as a published resource. Russ affirmed its format and content on October 19, 2026, and it is now the model for other Groups resources (DEC-071); a public Groups resources page is planned to carry it (DEC-072). City Group leaders are not required to use it (DEC-052); it does not define a City Group and is not an administrative leader report.
 
 ## Purpose
 

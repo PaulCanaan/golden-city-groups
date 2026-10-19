@@ -4,7 +4,7 @@ From [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall and Winter 202
 
 ## Document Status
 
-**Print-ready table cards for Group Launch Sunday, October 4, 2026.** Made October 3, 2026 from the official Open Groups · Fall 2026 directory ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]); each card's content matches the live page as of that evening. Paul prints the PDF and assembles the cards in 8.5 × 11 acrylic display stands, one per table (DEC-051).
+**Print-ready table cards for Group Launch Sunday, October 4, 2026.** Made October 3, 2026 from the official Open Groups · Fall 2026 directory ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]); each card's content matches the live page as of that evening. Paul prints the PDF and assembles the cards in 8.5 × 11 acrylic display stands, one per table (DEC-051). Group profile cards are used only for group launches; the Church Center app card and the Groups & Classes Ministry card are the standing lobby cards ([[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards|DEC-074]]).
 
 **File:** ![[07 Operations/Annual Rhythm/2026/Fall 2026 Group Profile Cards.pdf]]
 

@@ -23,7 +23,7 @@ Practical resources for hospitable, Scripture-centered, prayerful, and formative
 - [[Weekly Recaps]] — optional weekend-message discussion resource for City Groups
 - [[Prayer Requests]] — privacy-conscious prayer-request guidance and escalation boundaries
 
-Printable resources share one look: [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]] (logo, colors, type, layout).
+Printable resources share one look: [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]] (logo, colors, type, layout). The Weekly Recap is the model for other Groups resources in style and question design (DEC-071). A public Groups resources page is planned ([[12 Ministry Website/Resources Page|Resources Page]], DEC-072).
 
 ### Leader Development
 
@@ -72,6 +72,7 @@ Future biblical, systematic, or applied theology libraries should be created onl
 
 - [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]] — visual-first Obsidian process from source material and brainstorming to a reviewed session master, slides, handouts, course content, and leader notes.
 - [[06 Resources/Curriculum Development/Ministry Curriculum Development.canvas|Curriculum Development Canvas]] — editable intellectual-development and four-folder map, with linked Planted/Galatians workspaces.
+- [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] — Paul's design philosophy for study depth: keep participants in the adventure zone, neither too shallow nor too deep (DEC-071).
 - [[06 Resources/Curriculum Development/AI Agent Roles|AI Agent Roles]] — Canvas Organizer, Curriculum Editor, and Resource Producer with human review handoffs.
 - [[06 Resources/Curriculum Development/01 Research & Brainstorm/README|Research & Brainstorm inbox]] — local-only rough input drop-off; [[06 Resources/Curriculum Development/04 Design & Publish/README|Design & Publish library]] holds accepted final resources once they exist.
 - Galatians Session 1 participant handouts: [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Women's Collective/Womens Galatians G01A 2026-10-27 Handout.pdf|Women — October 27]] and [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Men's Collective/Mens Galatians G01A 2026-10-20 Handout.pdf|Men — October 20]]. Content was approved October 13. Paul then moved the women's study gathering to October 27.

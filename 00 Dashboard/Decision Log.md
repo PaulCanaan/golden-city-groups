@@ -12,6 +12,7 @@ This is the canonical chronological register for Groups Ministry decisions. It r
 - The August 28 staff meeting updates are preserved in [[08 Archive/Decisions/2026-08-28 Staff Meeting Updates|2026-08-28 Staff Meeting Updates]].
 - The September 25 staff meeting minutes are preserved in [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes|2026-09-25 Staff Meeting Minutes]].
 - The September 30 follow-up meeting minutes are preserved in [[08 Archive/Decisions/2026-09-30 Follow-Up Meeting Minutes|2026-09-30 Follow-Up Meeting Minutes]].
+- The October 19 staff meeting minutes are preserved in [[08 Archive/Decisions/2026-10-19 Staff Meeting Minutes|2026-10-19 Staff Meeting Minutes]].
 - Meeting-ready proposals are developed in [[Staff Decision Brief|Staff Decision Brief]].
 
 An item is not governing merely because it appears in the staff brief. Proposed items become confirmed only after staff or pastoral direction is recorded here and the full record is added to Decision History.
@@ -101,7 +102,7 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-053 | [[08 Archive/Decisions/Decision History#DEC-053 — Branch Formation Emphases and Collective Gathering Shape\|Branch Formation Emphases and Collective Gathering Shape]] | Confirmed | 2026-09-25 | Ministry Architecture | — | — | — |
 | DEC-054 | [[08 Archive/Decisions/Decision History#DEC-054 — Bible Club Curriculum Sequence\|Bible Club Curriculum Sequence]] | Confirmed; Spring 2027 curriculum is future planning direction | 2026-09-25 | Curriculum | — | — | — |
 | DEC-055 | [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study\|Weekly Recap and Fall 2026 Collectives Study]] | Confirmed; resolves PRO-033; superseded in part by DEC-067 | 2026-09-25 | Curriculum | — | DEC-067 (Collective resource responsibility and course window) | Russ and Paul (Weekly Recap; Paul approves and posts, clarified October 7); original Collective ownership clarified by DEC-067; Paul (Planted materials) |
-| DEC-056 | [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations\|Group Leader Collaborations]] | Confirmed | 2026-09-25 | Leadership | — | — | — |
+| DEC-056 | [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations\|Group Leader Collaborations]] | Confirmed; first gathering October 30, 2026 (update of October 19); later rhythm open | 2026-09-25 | Leadership | — | — | Paul |
 | DEC-057 | [[08 Archive/Decisions/Decision History#DEC-057 — Groups Ministry Communication Channels\|Groups Ministry Communication Channels]] | Confirmed | 2026-09-25 | Communication | — | — | Paul |
 | DEC-058 | [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location\|Women's Collective Start, Rhythm, and Location]] | Superseded by DEC-060 | 2026-09-25 | Operations | DEC-043 (Women's cadence) | DEC-060 | — |
 | DEC-059 | [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow\|Group Launch Readiness Workflow]] | Confirmed | 2026-10-01 | Operations | — | — | Paul |
@@ -116,6 +117,11 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-068 | [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area\|Westminster City Group Co-Leader and Meeting Area]] | Confirmed; leader-pathway completion not recorded | 2026-10-04 | Leadership | DEC-065 (Westminster leader); DEC-066 (Westminster area) | — | Paul |
 | DEC-069 | [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change\|Women's Collective Co-Leader Change]] | Confirmed; leader-pathway completion not recorded | 2026-10-11 | Leadership | DEC-044 (Women's co-lead); DEC-065 (Women's leaders) | — | Paul |
 | DEC-070 | [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming\|Planted Naming]] | Confirmed | 2026-10-19 | Communication | — | — | Paul |
+| DEC-071 | [[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard\|Groups Resource Design Standard]] | Confirmed; Galatians refactor planned | 2026-10-19 | Curriculum | — | — | Paul |
+| DEC-072 | [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page\|Groups Resources Page]] | Confirmed development direction; content and access open | 2026-10-19 | Communication | — | — | Paul |
+| DEC-073 | [[08 Archive/Decisions/Decision History#DEC-073 — Email as the Primary Participant Channel\|Email as the Primary Participant Channel]] | Confirmed | 2026-10-19 | Communication | — | — | Paul; group leaders for their groups |
+| DEC-074 | [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards\|Standing Lobby Table Cards]] | Confirmed; production pending | 2026-10-19 | Communication | — | — | Paul |
+| DEC-075 | [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members\|City Groups Waiting for Members]] | Confirmed | 2026-10-19 | Leadership | — | — | Paul (outreach); Russ (promotion) |
 
 ## Open Decisions
 

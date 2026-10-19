@@ -27,7 +27,7 @@ Design freedom does not waive the leader standard (DEC-027), the care and safegu
 
 Young adults groups, Run Club, and a potential future Youth City Group sit under City Groups; no separate featured-groups category exists, though one may be considered later. Run Club and a Young Adults City Group launch this fall ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). Youth City Group remains deferred under DEC-022, and would first need the DEC-028 safeguards for minors.
 
-**Locations and group communication:** Publicly, a City Group shows only a rough location, such as "North Thornton." Its full details go privately to people who join. Once Paul assigns the leaders to their Planning Center group, they manage the group themselves and may share details, including the address, by email or in a group chat (Planning Center, Church Center, group text, GroupMe, or similar); sensitive care details stay out of it (DEC-028).
+**Locations and group communication:** Publicly, a City Group shows only a rough location, such as "North Thornton." Its full details go privately to people who join. Once Paul assigns the leaders to their Planning Center group, they manage the group themselves and share details, including the address, by email, which is the main channel since not everyone uses the Church Center app (DEC-073). A group chat (Planning Center, Church Center, group text, GroupMe, or similar) can add to email but should not replace it; sensitive care details stay out of both (DEC-028).
 
 **Becoming a listed group:** A leader who is ready to lead (Group Leader Conversation, brief training, and a joint Paul–Russ decision) completes the City Group Profile form, and Paul builds and publishes the group through the [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] workflow (DEC-059).
 
@@ -43,6 +43,8 @@ Official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Ope
 | Thornton | Conner & Rachel O'Brien | Every other Friday, 6:00–8:00pm | October 16 | Thornton |
 | Westminster (Young Adults City Group) | Bobby Pascale & Dominique Simon | Weekly, Tuesdays 7:00–8:30pm | October 20 | Westminster |
 | Run Club (co-ed, ages 18 and up) | Jeremy & Glenys Parker | Weekly, Saturdays 7:00–9:00am | November 7 | Broomfield |
+
+As of October 19, two of these City Groups have no one signed up yet. They stay open and start whenever people join; meanwhile their leaders are encouraged to join another City Group ([[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075]]; see [[07 Operations/Workflows/Group Launch Readiness#When No One Has Joined Yet|When No One Has Joined Yet]]).
 
 ## Group Launch Sunday
 

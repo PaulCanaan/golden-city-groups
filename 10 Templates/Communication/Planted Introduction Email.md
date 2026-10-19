@@ -39,7 +39,7 @@ Recorded October 2, 2026 from the final, shorter versions in [Write Welcome Mess
 - **Owner:** Paul, Ministry Director, Groups & Classes.
 - **Variable:** `[First Name]`.
 - **Status:** Recorded drafts; the sending conditions in this note still apply. Recording them does not confirm any participant's membership or that a message has been sent.
-- **Meeting details:** Send confirmed first-gathering information separately through Planted's participant group chat, with personal help if someone cannot access it.
+- **Meeting details:** Send confirmed first-gathering information separately by email to every member, and also post it in Planted's participant group chat (DEC-073).
 
 ### Email — Personal Welcome
 

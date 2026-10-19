@@ -28,7 +28,7 @@ CoJourner supports leader development across City Groups, Collectives, and Bible
 - **Duration:** approximately two months
 - **Format:** group-leader collective / training cohort
 - **Strategic target:** completion before the Spring 2027 group launch
-- **Possible setting:** Group Leader Collaborations (DEC-056)
+- **Possible setting:** Group Leader Collaborations (DEC-056; [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]])
 
 ## Details Still Needed
 

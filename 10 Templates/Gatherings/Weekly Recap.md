@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Canonical structure for an approved optional resource (DEC-055).** Check-in questions and discussion questions come from DEC-055. The order (check-in, then a summary for those who missed the message, then discussion), Sunday-evening delivery as a PDF, and the Markdown record come from Paul's October 7, 2026 direction (DEC-055 clarification). The standalone rule below comes from Russ's feedback on the first recap, relayed by Paul on October 7, 2026. Production steps live in [[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]].
+**Canonical structure for an approved optional resource (DEC-055).** Check-in questions and discussion questions come from DEC-055. The order (check-in, then a summary for those who missed the message, then discussion), Sunday-evening delivery as a PDF, and the Markdown record come from Paul's October 7, 2026 direction (DEC-055 clarification). The standalone rule below comes from Russ's feedback on the first recap, relayed by Paul on October 7, 2026. Production steps live in [[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]]. Since October 19, 2026 this shape and its question design are the model for other Groups resources, such as the Collectives' Galatians study ([[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071]]).
 
 ## Purpose and Use
 

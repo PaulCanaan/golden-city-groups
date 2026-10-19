@@ -156,7 +156,7 @@ CoJourner does not replace role-specific preparation, safeguarding, assessment, 
 
 ### Group Leader Collaborations
 
-Under DEC-056, Group Leader Collaborations are gatherings where current leaders share experiences, learn from one another, and align with the ministry's mission, vision, and values. The first is held about one month after Group Launch Sunday, to check in with every leader about how their group is going. CoJourner may be run during Collaborations. The date, location, format, and later cadence remain open.
+Under DEC-056, Group Leader Collaborations are gatherings where current leaders share experiences, learn from one another, and align with the ministry's mission, vision, and values. Collaborations are about supporting group leaders: leaders share their experiences and struggles, learn from one another, and are poured into and equipped. The first, approved by Russ on October 19, is a dinner on Friday, October 30, 2026, hosted by Paul at his home, to check in one month into the groups' launch. Content may include the Belonging, Beholding, Becoming framework, CoJourner, or other workshops. The rhythm after it (biweekly or monthly), dates, and location remain open. See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
 ## Existing and Possible Group Expressions
 

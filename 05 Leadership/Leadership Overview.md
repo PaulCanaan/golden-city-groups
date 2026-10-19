@@ -16,6 +16,7 @@ The July 28, August 11, and August 25 Team Nights were the confirmed initial env
 - [[05 Leadership/Hosts]]
 - [[05 Leadership/Class Instructors]]
 - [[07 Operations/Workflows/Planning Center Groups]]
+- [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]] — peer gatherings that support current group leaders (DEC-056)
 
 Group leaders are planned for launch. Host requirements remain unresolved. A formal coaching layer is not approved for initial launch; the former proposal is preserved in [[08 Archive/Legacy Group Scaffolds/Group Coaches|Archive]].
 
@@ -28,6 +29,10 @@ Group leaders are planned for launch. Host requirements remain unresolved. A for
 | Bible Clubs | Facilitator | Paul confirmed to lead Planted; other assignments pending |
 
 Future Class instructors remain subject to DEC-027 and offering-specific approval; Classes are not a current branch.
+
+## Group Leader Collaboration
+
+Current group leaders gather to share experiences and struggles, learn from one another, and be poured into and equipped (DEC-056). The first is a dinner at Paul's home on Friday, October 30, 2026; the rhythm after it is open. See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
 ## CoJourner Pathway
 

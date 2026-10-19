@@ -32,17 +32,19 @@ The table introduces the study and helps people submit the request; it does not 
 
 ## Participant Path
 
-**Discover → Request to Join → Review / Add → Personal Welcome → Group Chat → First-Gathering Details → Attend → Ongoing Participation**
+**Discover → Request to Join → Review / Add → Personal Welcome → Group Chat (optional) → First-Gathering Details → Attend → Ongoing Participation**
+
+Email is the main channel to participants (DEC-073, October 19, 2026). Planted's group chat is an addition for those who use the Church Center app, not the only path for updates.
 
 | Stage | Paul's action | Move forward when |
 |---|---|---|
 | **1. Discover / request** | Introduce Planted and direct every entrance to its Church Center listing. | A join request is received in the correct group. |
 | **2. Review / add** | Review the request through the authorized participant process; approve and add the person when appropriate. Clarify or arrange another next step if needed. | Membership is actually recorded. A request alone is not a confirmed place. |
 | **3. Personal welcome** | Send a warm email introducing GCC Groups & Classes and Planted's journey through Scripture. Use a short personal text or Church Center message as appropriate. | The welcome is sent, with wording that matches the person's actual status. |
-| **4. Connect to group chat** | Help the participant access Planted in Church Center and find its group chat. | Member access and the communication path are confirmed; adding someone to a roster alone does not prove chat access. |
-| **5. Prepare for October 12** | Post the confirmed first-gathering details in Planted's group chat. Direct each newly added participant to the information, including people who join after the post. | The participant has access to the current details and a way to ask questions. |
+| **4. Offer the group chat** | For participants who use the Church Center app, help them find Planted's group chat. | The participant's email is confirmed for updates; chat access is a bonus, not a requirement. |
+| **5. Prepare for October 12** | Email the confirmed first-gathering details to every member, and post them in Planted's group chat as well. Send them to each person who joins later. | The participant has access to the current details and a way to ask questions. |
 | **6. First gathering** | Welcome people personally, introduce the study, and record actual attendance through the existing [[07 Operations/Workflows/Attendance\|Attendance]] procedure. | The gathering has occurred. Membership or an RSVP is not attendance. |
-| **7. Ongoing participation** | Use Planted's group chat for ordinary reminders, logistics, resources, and community conversation; keep the roster and events current. | Normal Bible Club operation continues, with personal help where needed. |
+| **7. Ongoing participation** | Email reminders, logistics, and resources to all members; the group chat may carry them too, along with community conversation. Keep the roster and events current. | Normal Bible Club operation continues, with personal help where needed. |
 
 Planning Center remains the roster of record. Keep participant names, contact details, and individual follow-up records there within approved access boundaries, not in this note. No participant enters the Group Leader workflow through this process.
 
@@ -50,14 +52,14 @@ Planning Center remains the roster of record. Keep participant names, contact de
 
 **Personal welcome:** brief, relational, and informative. Introduce Groups & Classes as spaces to build relationships, grow in God's Word, and become more like Jesus together. Present Planted as a Bible Club exploring the big story of Scripture and becoming rooted in Christ. After membership is recorded, use the [[10 Templates/Communication/Planted Introduction Email#Email — Personal Welcome|personal welcome email]] and [[10 Templates/Communication/Planted Introduction Email#Short Message — Text or Church Center|short text / Church Center message]]. The same note retains request-received copy and a confirmed-details follow-up for their distinct stages; do not tell an added member that their place is still pending. The templates remain drafts subject to their stated sending conditions.
 
-**First-gathering announcement:** send in **Planted's participant group chat**, distinct from the ministry-wide leaders' chat under DEC-057. Include:
+**First-gathering announcement:** send by **email to every member**, and post it in Planted's participant group chat for those who use it (DEC-073). The participant chat is distinct from the ministry-wide leaders' chat under DEC-057. Include:
 
 - Monday, October 12, 2026, 6:30–8:00pm.
 - Confirmed meeting location and private arrival details.
 - What the first gathering will be like and any confirmed preparation or things to bring.
 - How to contact Paul with questions or access difficulties.
 
-Use only confirmed details. Keep full addresses and arrival instructions private to members; public listings and the QR card show only a rough location. If someone cannot access chat, provide the same details personally by email or text and help resolve access. Keep sensitive pastoral and safeguarding matters out of group chat.
+Use only confirmed details. Keep full addresses and arrival instructions private to members; public listings and the QR card show only a rough location. Email reaches everyone, whether or not they use the app. Keep sensitive pastoral and safeguarding matters out of group chat.
 
 ## Launch-Week Implementation Checks
 

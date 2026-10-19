@@ -605,6 +605,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** Leader support now has a peer setting alongside leader resources and CoJourner. CoJourner planning may use Collaborations as its setting (DEC-045). The first Collaboration falls in early November 2026.
 - **Boundary:** The exact date, location, format, cadence after the first gathering, and attendance expectations are open. CoJourner's facilitator, dates, and completion criteria remain open under DEC-045. A Collaboration is not the pastoral-care or safeguarding escalation path, and attendance is not appointment.
 - **Implementation update — September 30, 2026:** Russ affirmed the idea. Paul plans the first Collaboration as a dinner for all current leaders about one month after Group Launch Sunday, to hear how everyone's groups went. Details will be shared in the Planning Center group chat for all current leaders. Date, place, and cost remain open. Source: [[2026-09-30 Follow-Up Meeting Minutes#6 — Group Leader Collaborations|September 30, 2026 Follow-Up Meeting Minutes]].
+- **Implementation update — October 19, 2026:** Russ approved the Group Leader Collaboration and said he really likes the idea. The first gathering for all current group leaders is **Friday, October 30, 2026**, a dinner hosted by Paul at his home. Its purpose is to check in one month into the groups' launch: how are the leaders, and how are their groups doing? Collaborations are about supporting group leaders: leaders share their experiences and struggles, learn from one another, and are poured into and equipped. Content may include the Belonging, Beholding, Becoming framework, the CoJourner Program, or other workshops. The rhythm after October 30 (biweekly or monthly), dates, and location remain open. The home address stays out of this repository; DEC-028's home-gathering safeguards apply. Source: [[2026-10-19 Staff Meeting Minutes#3 — First Group Leader Collaboration|October 19, 2026 Staff Meeting Minutes, item 3]]. Working home: [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
 ### DEC-057 — Groups Ministry Communication Channels
 
@@ -669,6 +670,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [[2026-09-30 Follow-Up Meeting Minutes#2 — Group Dynamics|September 30, 2026 Follow-Up Meeting Minutes, item 2]].
 - **Implications:** Leader support, check-ins, and evaluation should not treat sign-up or attendance numbers as a verdict on a leader. Metrics remain descriptive, not a test of a leader's faithfulness.
 - **Boundary:** This does not set a minimum size for a group to continue, or decide when a group closes, merges, or reaches capacity. The numbers in the minutes are an illustration, not data.
+- **Subsequent direction:** [[#DEC-075 — City Groups Waiting for Members|DEC-075]] (October 19, 2026) sets how to care for City Groups no one has joined yet.
 
 ### DEC-062 — City Groups as a Signature Ministry of Golden City
 
@@ -803,6 +805,68 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** Paul's direction, October 19, 2026. It matches the live directory title "Planted. Bible Study" and the Session 0 deck title "Planted. 2026."
 - **Implications:** Resolves the *Planted.* title-styling question on [[04 Classes/Curriculum/Planted Bible Study|Planted Bible Study]]. The directory's **Open Classes · Fall 2026** heading and the Events and *You Said Yes* pages' "Bible class" wording no longer need correcting. Vault file names stay as they are.
 - **Boundary:** Classes remain a development path under Bible Clubs, not a fourth branch (DEC-034); this approves no other class. The vault still records the branch as Bible Clubs, and the public page calls it Bible Club.
+
+### DEC-071 — Groups Resource Design Standard
+
+- **Decision:** The Weekly Recap is the model for other Groups resources, such as the Collectives' Galatians study. They keep its visual style and its way of designing discussion questions. Study depth follows Paul's Complexity Gate: keep participants out of the comfort zone (too shallow) and the danger zone (too deep), in the adventure zone where growth is most challenged.
+- **Status:** Confirmed; the Galatians refactor is planned, not done
+- **Date and approver:** October 19, 2026. Russ and Paul affirmed the Weekly Recap standard. The Complexity Gate is Paul's design principle as resource developer (DEC-067), presented at the same meeting.
+- **Domain:** Curriculum
+- **Owner:** Paul
+- **Evidence:** [[2026-10-19 Staff Meeting Minutes#1 — The Weekly Recap as the Model for Groups Resources|October 19, 2026 Staff Meeting Minutes, items 1 and 4]]; [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]].
+- **Implications:** The question pattern in the [[10 Templates/Gatherings/Weekly Recap|Weekly Recap template]] carries over to other resources: check in first, make the resource usable with only the page and a Bible, and move from the passage to God in Christ, to ordinary life, to what gets in the way, inviting conversation rather than testing recall. The [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]] stays the shared look, and its branch length targets stand. Paul will refactor the Galatians study with the Complexity Gate.
+- **Boundary:** Consistency is in style and question design. Branch-appropriate length and depth stay (DEC-053), so a Collective handout need not become one page. The approved Session 1 Galatians handouts remain in use until Paul revises them. This does not change Weekly Recap ownership or delivery (DEC-055).
+
+### DEC-072 — Groups Resources Page
+
+- **Decision:** The ministry will build a resources page on the Groups website, planned at `goldencity.church/groups/resources`. Categories include City Groups Resources (City Group Guide, Weekly Recap), Collectives Resources (Collective Guide, Galatians Study), and the CoJourner Program, with others possible.
+- **Status:** Confirmed development direction; content and access open
+- **Date and approver:** October 19, 2026; Russ and Paul
+- **Domain:** Communication
+- **Owner:** Paul (website owner under DEC-037)
+- **Evidence:** [[2026-10-19 Staff Meeting Minutes#2 — Groups Resources Page|October 19, 2026 Staff Meeting Minutes, item 2]]; planning record at [[12 Ministry Website/Resources Page|Resources Page]].
+- **Implications:** Resource production now has a planned public home. The City Group Guide and the Collective Guide (BWR-033) are among its intended contents.
+- **Boundary:** No resource is published by this decision. The City Group Guide does not exist yet, and the Collective Leader Guide is a draft. Paul's October 1 direction keeps the Belonging, Beholding, Becoming language off the website for now, and the guides carry it along with policy content, so which resources are public and which are leader-only is open. CoJourner is The Garden Project Ministry's program; republishing its material needs attribution and permission. Each item is checked before publication (BWR-037).
+
+### DEC-073 — Email as the Primary Participant Channel
+
+- **Decision:** Email is the main way the ministry and group leaders reach participants. Do not expect everyone to use the Church Center app. The ministry promotes the app through a lobby table card (DEC-074).
+- **Status:** Confirmed
+- **Date and approver:** October 19, 2026; Russ and Paul
+- **Domain:** Communication
+- **Supersedes:** — (clarifies DEC-057 and its September 29 clarification)
+- **Owner:** Paul; group leaders for their own groups
+- **Evidence:** [[2026-10-19 Staff Meeting Minutes#5 — Email First; Promote the Church Center App|October 19, 2026 Staff Meeting Minutes, item 5]].
+- **Context:** Most of the Launch Team and all group leaders use the Church Center app, and its group chats are convenient. Most church-goers may not know about it. Some people who joined groups or classes received no updates unless their leaders emailed them.
+- **Implications:** Updates that every member needs, such as first-gathering details, schedule changes, and reminders, go by email. Group chats, including Church Center, are an addition for those who use them, not the only path. The leaders' Church Center chat stays, since all leaders use the app. Participant workflows and templates that relied on a group chat now use email.
+- **Boundary:** DEC-028 still governs every channel: sensitive care, safeguarding, or screening details stay out of email and chat. Full locations still go privately to members. This does not settle consent and routing for the Connection Card or Church Center (BWR-009).
+
+### DEC-074 — Standing Lobby Table Cards
+
+- **Decision:** The ministry will make two table cards for the lobby, alongside the group profile cards:
+  - **Church Center app card:** a QR code to download the app, instructions for connecting to Golden City Church, and a brief introduction to each section of the app.
+  - **Groups & Classes Ministry card:** a general card where people learn about the ministry, find a group to join, sign up to lead a group, and similar.
+
+  Group profile cards are used only for group launches. These two cards can be presented in the lobby all the time.
+- **Status:** Confirmed; production pending
+- **Date and approver:** October 19, 2026; Russ and Paul
+- **Domain:** Communication
+- **Owner:** Paul
+- **Evidence:** [[2026-10-19 Staff Meeting Minutes#6 — Groups & Classes Ministry Card|October 19, 2026 Staff Meeting Minutes, items 5 and 6]].
+- **Implications:** The cards follow the group profile cards' look and print format ([[07 Operations/Annual Rhythm/2026/Fall 2026 Group Profile Cards|Fall 2026 Group Profile Cards]]). The ministry card points to the Groups page and the leader application. Production is tracked in BWR-038.
+- **Boundary:** Each QR destination must be tested before printing (BWR-009). The ministry card uses public language only: branch names, not the Belonging, Beholding, Becoming framework (Paul, October 1). A card is a way in, not enrollment or leader approval.
+
+### DEC-075 — City Groups Waiting for Members
+
+- **Decision:** A City Group that no one has joined yet stays open and starts whenever people join. Meanwhile its leaders are encouraged to join another City Group, so they don't miss out on community and group life while they wait. Russ keeps promoting groups, especially those with more open spots, on social media and in stage announcements. Russ and Paul both encourage the waiting leaders to join other groups first.
+- **Status:** Confirmed
+- **Date and approver:** October 19, 2026; Russ and Paul (staff meeting item supplied by Paul later the same day)
+- **Domain:** Leadership
+- **Owner:** Paul (outreach to waiting leaders); Russ (promotion and encouragement)
+- **Evidence:** [[2026-10-19 Staff Meeting Minutes#7 — Groups No One Has Joined Yet|October 19, 2026 Staff Meeting Minutes, item 7]].
+- **Context:** As of October 19, two City Groups have no one signed up, probably because the people attending Sunday services and checking out groups don't live in those areas. Paul talked with those leaders; they understand the dynamic of a small church and are not discouraged. The minutes name no groups, and this record doesn't either. Similar situations are likely in future launches.
+- **Implications:** Builds on DEC-061: few or no sign-ups are not a verdict on a leader. [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] now says what to do when a group has no members yet. A waiting group's scheduled start date is not a launch; it counts as launched only once it actually meets (DEC-042).
+- **Boundary:** Joining another group is encouragement, not a requirement, and it doesn't change a leader's status or role. This does not set how long a group stays open, or when it closes, merges, or moves (DEC-061). Which groups are waiting stays out of this repository; record only counts.
 
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 

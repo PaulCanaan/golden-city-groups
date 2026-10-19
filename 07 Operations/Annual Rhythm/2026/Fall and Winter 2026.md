@@ -28,7 +28,7 @@ The July and August events are now historical. Their missing outcomes are tracke
 
 All start dates are official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] as updated by [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]; the full schedule table is in [[03 Groups/City Groups/City Groups Overview#Fall 2026 City Groups|City Groups Overview]].
 
-- **Early November:** First Group Leader Collaboration, a dinner for all current leaders about one month after Group Launch Sunday (DEC-056).
+- **Friday, October 30:** First Group Leader Collaboration, a dinner for all current group leaders hosted by Paul at his home, one month into the groups' launch (DEC-056, October 19 update). The rhythm after it is open. See [[05 Leadership/Group Leader Collaboration/2026-10-30 First Collaboration|First Collaboration]].
 
 **October 5 schedule updates:** Russ approved new schedules for both Collectives and *Planted.* ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]). Both Collectives meet every other Tuesday at 6:30pm in Broomfield (144th & Zuni), Men's from October 6 and Women's from October 13; *Planted.* meets Mondays 6:30–8:00pm from October 12 in Broomfield (120th & Interlocken).
 

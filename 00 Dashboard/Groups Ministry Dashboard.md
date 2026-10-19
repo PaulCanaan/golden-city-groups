@@ -32,13 +32,13 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 | Public church launch | **September 20, 2026 — completed**; the church is established in Broomfield, Colorado |
 | Current phase | Post-launch evidence reconciliation and first-month operation: establish what actually occurred at October 4/11 and the scheduled first gatherings, deliver near-term Collective resources, test participant paths, and record only evidence-backed appointments and final readiness |
 | Most recent evidenced milestone | **Men's Collective introductory gathering — October 6**, reported by Paul October 13. Later scheduled first gatherings remain unreported; approved resource production does not establish event execution |
-| Next dated operating points | **October 20:** Men's Galatians Session 1 and Westminster City Group scheduled start. **October 27:** Women's Galatians Session 1. **Early November:** first Group Leader Collaboration remains undated |
+| Next dated operating points | **October 20:** Men's Galatians Session 1 and Westminster City Group scheduled start. **October 27:** Women's Galatians Session 1. **October 30:** first Group Leader Collaboration, a dinner at Paul's home (approved by Russ October 19) |
 | Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
 | October Collectives readiness | **At Risk** — Men's began October 6; Women's October 13 outcome is unreported. Session 1 handouts are approved for Men's October 20 and Women's October 27, but teaching assignments, appointments, safeguards, participant testing, communication, and final approval remain open |
 | Planted readiness | **At Risk — scheduled start passed** — DEC-066 sets Mondays 6:30–8:00pm from October 12 in the Broomfield (120th & Interlocken) area. The October 12 outcome, specific venue, full calendar, testing, support, and final approval remain open |
 | Ministry architecture | City Groups — life together; Collectives — shared encouragement; Bible Clubs — rooted in Scripture |
 | Group Leader workflow | **Configured** — `Interest → Welcome / Contact → Group Leader Conversation → Training → Launch`; live use and candidate stages still require reconciliation |
-| Groups webpage | **Last repository-backed live inspection: October 5** — nine offerings and Church Center links were published with DEC-066 schedules. Current live state was not reverified in this repository pass; participant notification, stale cross-page references, and replacement profile cards remain unresolved (BWR-036) |
+| Groups webpage | **Last live inspection: October 19** — nine offerings and Church Center links, with DEC-066 schedules and DEC-068–069 leaders. A Groups resources page is planned (DEC-072); participant notification, stale cross-page references, and replacement profile cards remain unresolved (BWR-036) |
 | Paul's immediate focus | Supply past event and first-gathering outcomes; confirm Men's October 20 teaching/delivery and Women's October 27 readiness; provide Planted's venue and October 12 outcome; reconcile recap posting and profile-card follow-up; set the first Collaboration; complete participant-path and non-sensitive aggregate leader/connection evidence |
 | Final readiness authority | Russ or a pastor explicitly designated by Russ |
 
@@ -49,7 +49,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - **Scheduled occurrence:** October 19, 2026 at 7:00 AM America/Denver; actual start was 8:59:52.433808 AM
 - **Next review:** November 2, 2026 at 7:00 AM America/Denver
 - **Scheduler:** macOS job active; this occurrence began 1 hour, 59 minutes, and 52 seconds late. Repository evidence does not explain the delay.
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|23 active items]] carried to November 2
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|27 active items]] carried to November 2 (BWR-037–040 added from the October 19 staff meeting)
 - **Human input outstanding:** Paul — October 4/11 and first-gathering outcomes, aggregate pipeline and connection follow-up, Planted venue/readiness, Collective teaching/delivery, recap posting, participant schedule communication/profile cards, and Collaboration details; Russ — safeguarding contacts/policies, appointments and final readiness, participant-system governance, and the DEC-047/049 direct-email boundary
 - **Critical blockers:** Planted venue/outcome/calendar; tested participant paths; safeguarding contacts/policies; offering appointments/final readiness; Fall leader-preparation records; past event and first-gathering outcomes
 
@@ -62,7 +62,9 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - Russ and Paul: test every join path end to end and approve system ownership, response, access, consent, and backup boundaries (BWR-009).
 - Paul: process the 16 connection-card responses and reconcile the four earlier events and aggregate leader pipeline without storing identities here (BWR-001–005, BWR-021).
 - Paul: reconcile DEC-066 participant/public communication and replace stale profile cards before reuse (BWR-036).
-- Paul: reconcile Weekly Recap approval/posting and backup coverage; set the first Group Leader Collaboration details (BWR-030, BWR-031).
+- Paul: reconcile Weekly Recap approval/posting and backup coverage; invite leaders to the October 30 Group Leader Collaboration (BWR-030, BWR-031).
+- Paul: make sure current members get updates by email (DEC-073, BWR-039); produce the two standing lobby cards (DEC-074, BWR-038); plan the Groups resources page (DEC-072, BWR-037).
+- Paul: encourage the leaders of the two City Groups waiting for members to join another group meanwhile; Russ keeps promoting groups with open spots (DEC-075, BWR-040).
 
 Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboard/Launch Readiness Dashboard#Immediate Priorities|Launch Readiness Dashboard — Immediate Priorities]].
 

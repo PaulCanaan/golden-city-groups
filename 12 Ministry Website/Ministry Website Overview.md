@@ -34,6 +34,7 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 - [[12 Ministry Website/Design Principles and Maintenance|Design Principles and Maintenance]] — migrated design reasoning, implementation history, editing and recovery, and long-term maintenance.
 - [[12 Ministry Website/Groups Page|Groups Page]] — what is live, what is planned, and what needs correcting.
 - [[12 Ministry Website/Open Groups Listings|Open Groups Listings]] — the standard for each group profile on the page.
+- [[12 Ministry Website/Resources Page|Resources Page]] — plan for `goldencity.church/groups/resources` (DEC-072); nothing built yet.
 - [[12 Ministry Website/Development Journey|Development Journey]] — how the page developed, and the dated record of material changes and reviews.
 
 ## Open Website Work
@@ -43,6 +44,8 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 | Group Launch Sunday lobby tables and table cards (Russ's pre-launch review of the website is complete) | BWR-028 |
 | DEC-066 downstream communication and directory follow-up: the obsolete FAQ, participant notification, and replacement profile cards | [[00 Dashboard/Biweekly Review Queue\|BWR-036]]; [[12 Ministry Website/Groups Page#Remaining Follow-Up\|Groups Page]] |
 | Tested participant paths for every join link | BWR-009 |
+| Groups resources page: contents and which resources are public or leader-only (DEC-072) | BWR-037 |
+| Standing lobby cards: Church Center app and Groups & Classes Ministry (DEC-074) | BWR-038 |
 
 ## Connections
 

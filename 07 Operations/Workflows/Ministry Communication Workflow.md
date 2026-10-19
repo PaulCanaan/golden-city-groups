@@ -37,7 +37,7 @@ Use [[10 Templates/Communication/Communication Templates|Communication Templates
 
 ### Channels
 
-DEC-057 sets three Groups Ministry channels:
+DEC-057 sets three Groups Ministry channels. **Email is the main way to reach participants** ([[08 Archive/Decisions/Decision History#DEC-073 — Email as the Primary Participant Channel|DEC-073]], October 19, 2026): not everyone uses the Church Center app, and some people who joined groups or classes missed updates that went only to a chat. Send what every member needs, such as first-gathering details, schedule changes, and reminders, by email; a group chat is an addition for those who use it. The ministry promotes the app with a standing lobby card (DEC-074).
 
 - **Email — general information:** welcome emails, the Groups Ministry introduction, coffee conversation (Group Leader Conversation) invitations, newsletters, and similar.
 - **Text — internal coordination:** course content, coffee meeting details, quick questions, and urgent matters. Text is coordination, not the pastoral or safeguarding escalation path; escalation contacts remain open (BWR-007).

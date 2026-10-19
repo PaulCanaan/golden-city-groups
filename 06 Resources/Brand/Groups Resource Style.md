@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Working visual style for printable and shareable Groups resources, set October 7, 2026 at Paul's request; length/depth guidance clarified October 13.** It follows goldencity.church (Roboto, a grayscale base, restrained gold; see [[12 Ministry Website/Design Principles and Maintenance|Website Design Principles]]) and the Groups logo Paul supplied. The Weekly Recap PDF is the first resource built to it. Style gives no approval to any resource's content.
+**Working visual style for printable and shareable Groups resources, set October 7, 2026 at Paul's request; length/depth guidance clarified October 13.** It follows goldencity.church (Roboto, a grayscale base, restrained gold; see [[12 Ministry Website/Design Principles and Maintenance|Website Design Principles]]) and the Groups logo Paul supplied. The Weekly Recap PDF is the first resource built to it. On October 19, 2026 Russ and Paul made the Weekly Recap the model for other Groups resources, in both visual style and question design, with study depth set by the [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] ([[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071]]). Style gives no approval to any resource's content.
 
 ## Look in One Line
 
@@ -62,4 +62,4 @@ For longer notes, continue the header/footer style across pages, add page number
 - [[07 Operations/Workflows/Weekly Recap Production|Weekly Recap]] PDFs: `scripts/weekly_recap.py` holds the CSS.
 - Collective Galatians participant handouts: `scripts/collective_handout.py` reuses that CSS. The editable markdown in phase 03 remains the source.
 
-When another resource gets a printable form, reuse that CSS and the assets here rather than designing a new look.
+When another resource gets a printable form, reuse that CSS and the assets here rather than designing a new look. The standing lobby cards (DEC-074) follow the group profile cards' card layout in this palette.

@@ -114,6 +114,17 @@ Men's Collective, Women's Collective, and *Planted.* do not use the City Group P
 
 As the church begins, the aim is to help as many people as possible into groups. Capacity is set in follow-up, when it becomes an issue, rather than at launch. Watch the offerings likely to fill first; Women's Collective already has strong interest.
 
+## When No One Has Joined Yet
+
+In a small church, some groups fill and some wait, often because the people exploring groups don't live in that area. Few or no sign-ups are not a verdict on the leader (DEC-061). When a City Group has no members after launch ([[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075]]):
+
+- **Talk with the leaders.** Name the dynamic plainly and encourage them; they have done nothing wrong.
+- **Keep the group open.** Its Church Center listing and Open Groups profile stay up, and it starts whenever people join. Its scheduled start date is not a launch; move the leader to **Small Group Launched** only after the group actually meets.
+- **Encourage the leaders to join another City Group** meanwhile, so they don't miss out on community and group life while they wait. This is encouragement, not a requirement.
+- **Keep promoting.** Russ promotes groups, especially those with more open spots, on social media and in stage announcements.
+
+Record only counts in this repository, never which groups are waiting.
+
 ## Possible City Group Expressions
 
 Run Club (Jeremy & Glenys Parker) and a Young Adults City Group (the Westminster group, Bobby Pascale and Dominique Simon under DEC-068) are published as Fall 2026 City Groups ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). A Youth City Group remains deferred (DEC-022) and would first need the DEC-028 safeguards for minors.

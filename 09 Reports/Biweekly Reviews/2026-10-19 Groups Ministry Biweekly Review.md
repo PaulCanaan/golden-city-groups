@@ -244,6 +244,8 @@ After this pass, Paul had the live Open Groups directory checked against the vau
 
 The statements above that no post-DEC-067 decision was found, and that the live site was not re-inspected, describe the automated pass before this addendum. BWR-036 now carries only the obsolete overview FAQ, participant notification, and the profile cards, which also lag on both new co-leaders. Readiness statuses are unchanged; naming a co-leader is not appointment.
 
+The same morning, Russ and Paul held a staff meeting, filed as [[08 Archive/Decisions/2026-10-19 Staff Meeting Minutes|2026-10-19 Staff Meeting Minutes]]. It recorded DEC-071 (the Weekly Recap as the model for Groups resources, with Paul's Complexity Gate), DEC-072 (a planned Groups resources page), DEC-073 (email as the primary participant channel), DEC-074 (standing Church Center app and Groups & Classes Ministry lobby cards), DEC-075 (City Groups waiting for members stay open; their leaders are encouraged to join another group meanwhile), and an update to DEC-056: the first Group Leader Collaboration is Friday, October 30, a dinner at Paul's home. BWR-037–040 were added, and BWR-029 and BWR-031 updated.
+
 ## Connections
 
 - [[09 Reports/Biweekly Reviews/Biweekly Review Index|Biweekly Review Index]]

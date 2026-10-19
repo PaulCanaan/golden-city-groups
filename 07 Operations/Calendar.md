@@ -33,7 +33,7 @@
 | October 20, 2026 (Tuesday) | Men's Collective Galatians Session 1 | **Scheduled by Paul; participant handout approved** | The teaching assignment remains unconfirmed; resource progress does not establish operational readiness (BWR-029) |
 | October 20, 2026 (Tuesday) | Westminster City Group (Young Adults) begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Tuesdays 7:00–8:30pm, Westminster (100th & Simms) area (DEC-066, corrected by DEC-068); co-led by Bobby Pascale and Dominique Simon |
 | October 27, 2026 (Tuesday) | Women's Collective Galatians Session 1 | **Scheduled by Paul; participant handout approved** | The teaching assignment remains unconfirmed; resource progress does not establish operational readiness (BWR-029) |
-| Early November 2026, date TBD | First Group Leader Collaboration | **Confirmed; date open** | A dinner for all current leaders about one month after Group Launch Sunday, to hear how their groups went (DEC-056, BWR-031) |
+| October 30, 2026 (Friday) | First Group Leader Collaboration | **Confirmed (Russ, October 19)** | A dinner for all current group leaders hosted by Paul at his home: a one-month check-in on how leaders and their groups are doing. Later rhythm, dates, and location open ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations\|DEC-056]], BWR-031); plan: [[05 Leadership/Group Leader Collaboration/2026-10-30 First Collaboration\|First Collaboration]] |
 | November 7, 2026 (Saturday) | Run Club begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Saturdays 7:00–9:00am; co-ed, ages 18 and up |
 
 ## Pending Milestones
