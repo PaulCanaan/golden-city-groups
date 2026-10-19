@@ -50,7 +50,7 @@ Paul's working guidance of October 13, 2026 keeps one visual family while allowi
 | Resource | Working length | Depth and purpose |
 |---|---|---|
 | City Groups — Weekly Recap | 1 page | Brief weekend-message connection, check-in/discussion prompts, and room for life together |
-| Collectives — separate Men’s and Women’s Galatians participant handouts | 2–3 pages each | Shared biblical study with audience-specific formation goals, actual dates, and clearly marked Block 1/2 teaching and discussion space |
+| Collectives — separate Men’s and Women’s Galatians participant handouts | 2 pages each (Russ, DEC-076) | Weekly Recap format: Last Session Review, Scripture (Bibles open; text not printed), Part 1, Part 2, and Reflections and Close Prayer; audience-specific formation goals and actual dates |
 | Bible Clubs — e.g. Planted session notes | 4 pages or more when needed | Sustained biblical study, theological connections, learning movements, reflection, and practice |
 
 These are design targets, not fixed quotas. They serve the branches' different fellowship/discipleship emphases under DEC-053; the ratios stay internal and do not appear in participant-facing resources. Leader notes and slides take the length their function requires. Preserve readable type and writing space rather than shrinking them to hit a page count.

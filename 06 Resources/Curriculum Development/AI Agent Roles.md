@@ -24,7 +24,7 @@
 - Start from actual supplied knowledge, including Notion. Fetch external sources when a named gap justifies it; prefer primary and appropriate scholarly sources, read what is used, and record title/author/edition/page or URL and the supported claim. Do not invent inaccessible book content or use a publisher description as a substitute for reading the selected passage.
 - Bring Paul into interpretive choices, source tensions, and audience formation goals. Present a concrete outline/synthesis and focused questions. Do not assign unrecorded doctrinal views to church leadership.
 - For Galatians, use *Galatians For You* as the primary development/question resource and *Traveling Light* secondarily for freedom. Develop separate Men's/Women's formation goals, dated masters, questions/applications, and resource packages with shared biblical research linked.
-- After Paul confirms direction, draft the editable teaching script and leader guidance in phase 03. Keep the provisional two-block Collective agenda and the twelve study gatherings distinct; preserve Planted's own approved learning movements.
+- After Paul confirms direction, draft the editable teaching script and leader guidance in phase 03. Keep the two-part Collective flow within one chapter per gathering (DEC-076); preserve Planted's own approved learning movements.
 - Record review responses and changes in the project brief; unresolved retained matters follow the existing staff/decision path. Do not mark your own synthesis or draft reviewed.
 
 ## Resource Producer

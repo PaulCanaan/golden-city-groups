@@ -18,7 +18,7 @@
 - **Offering readiness:** [link to existing readiness record; never infer from this record]
 - **Needed deliverables / audience:** [only outputs needed now]
 - **Collective-specific packages:** [separate Men's and Women's masters, formation goals, actual dates, handouts, notes, and needed slides; shared biblical research may be linked]
-- **Length / depth target:** [Weekly Recap 1 page; Collectives handout 2–3 pages; Bible Club notes 4+ pages as needed; follow Groups Resource Style]
+- **Length / depth target:** [Weekly Recap 1 page; Collectives handout 2 pages; Bible Club notes 4+ pages as needed; follow Groups Resource Style]
 - **Operational requirements:** [time, room, supplies, accessibility, costs; confirmation gaps]
 - **Publishing destination:** [actual destination, or not recorded]
 - **Canvas:** [link to the project's actual board]

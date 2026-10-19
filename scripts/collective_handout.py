@@ -33,6 +33,8 @@ header img { height: 19pt; display: block; }
 .label span { display: block; font-size: 9pt; font-weight: 400; letter-spacing: 0; text-transform: none; color: #5C5C5C; }
 h1 { font-size: 26pt; font-weight: 700; letter-spacing: -0.02em; line-height: 1.05; margin: 12pt 0 2pt; }
 .kicker { color: #5C5C5C; margin: 0 0 2pt; }
+h3 { font-size: 13pt; font-weight: 700; letter-spacing: -0.01em; margin: 13pt 0 1pt; }
+h3 + .kicker, h3 + p.sub { font-size: 9.5pt; color: #5C5C5C; margin: 0 0 4pt; }
 h2 { font-size: 8pt; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; color: #857230; margin: 11pt 0 4pt; }
 p { margin: 0 0 .42em; }
 .read p { margin: 0 0 .32em; }
@@ -56,10 +58,13 @@ def inline(text):
 
 
 def session_label(study_id):
-    match = re.fullmatch(r"G(\d+)([AB])", study_id or "")
+    """G02 is Session 2 (one chapter per session); G01A/G01B keep the earlier two-per-chapter numbering."""
+    match = re.fullmatch(r"G(\d+)([AB])?", study_id or "")
     if not match:
         return ""
-    number = (int(match.group(1)) - 1) * 2 + (1 if match.group(2) == "A" else 2)
+    number = int(match.group(1))
+    if match.group(2):
+        number = (number - 1) * 2 + (1 if match.group(2) == "A" else 2)
     return f"Session {number}"
 
 
@@ -111,7 +116,10 @@ def blocks(page):
                 rows = "".join("<div></div>" for _ in range(int(found.group(1))))
                 parts.append(f'<div class="lines">{rows}</div>')
             continue
-        if lines[0].startswith("## "):
+        if lines[0].startswith("### "):
+            parts.append(f"<h3>{inline(lines[0][4:])}</h3>")
+            after_title = True
+        elif lines[0].startswith("## "):
             parts.append(f"<h2>{inline(lines[0][3:])}</h2>")
             after_title = False
         elif lines[0].startswith("# "):

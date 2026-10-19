@@ -16,6 +16,6 @@ Use separate Men's and Women's masters and files, linked to the common research 
 
 The working Collective flow remains **20 minutes community + 2 × (20 teaching + 10 discussion) + 10 closing**, within 6:30–8:00 PM. Planted retains its approved learning movements within the same working time envelope. See [[10 Templates/Gatherings/Collective Gathering|the gathering template]].
 
-Printable draft depth follows [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]]: Weekly Recap 1 page, each Collective handout 2–3 pages, and Bible Club notes such as Planted 4+ pages when needed. Preserve readability and room to respond.
+Printable draft depth follows [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]]: Weekly Recap 1 page, each Collective handout 2 pages (DEC-076), and Bible Club notes such as Planted 4+ pages when needed. Preserve readability and room to respond.
 
 Link actual files and version/review evidence in the project brief. No draft has been created by this folder scaffold. See [[06 Resources/Curriculum Development/04 Design & Publish/README|Design & Publish]] and [[06 Resources/Curriculum Development/AI Agent Roles|AI Agent Roles]].

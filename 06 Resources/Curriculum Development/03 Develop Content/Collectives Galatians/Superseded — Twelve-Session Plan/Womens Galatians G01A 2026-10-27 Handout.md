@@ -4,7 +4,7 @@ audience: "Women's Collective"
 gathering_date: 2026-10-27
 study_id: G01A
 version: 1.1
-status: Approved
+status: Superseded
 reviewed_by: Paul
 reviewed_date: 2026-10-13
 translation: CSB

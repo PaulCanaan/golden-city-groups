@@ -769,6 +769,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 
 - **Further clarification — October 13, 2026 (Paul):** *Galatians For You* is the primary course-development resource and the source from which discussion questions will be gathered; *Traveling Light* is secondary, especially for its teaching on freedom. Paul will produce separate Men's and Women's resources because their formation goals and male/female discipleship focuses differ and they meet on different dates. Shared Scripture research and the twelve-gathering chapter sequence remain connected; resource separation does not create a second curriculum or change the gathering count.
 - **Working gathering design — October 13, 2026 (Paul):** Paul identifies 6:30–8:00 PM for Planted and the Collectives, allocating approximately 20 minutes community/check-in, 60 minutes study/discussion, and 10 minutes closing prayer/worship/announcements. For each Collective study gathering, the current provisional study-hour structure is two blocks of 20 minutes exegesis/devotional plus 10 minutes table discussion. The blocks sit within a study gathering, not additional course meetings. Paul intends to adjust this design after actual execution and feedback. This is routine working design supplied by Paul, not an invented Russ-approved agenda or a report of actual timing. Planted retains its own approved learning movements within the time envelope. Specific audience formation goals, actual source questions, final dates, and resource outputs remain development work.
+- **Subsequent direction — October 19, 2026:** [[#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]] sets six sessions, one chapter per gathering, Russ's approved gathering flow following S.O.A.P., and two-page handouts. The twelve-gathering count and separate introductions no longer apply.
 
 ### DEC-068 — Westminster City Group Co-Leader and Meeting Area
 
@@ -867,6 +868,23 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Context:** As of October 19, two City Groups have no one signed up, probably because the people attending Sunday services and checking out groups don't live in those areas. Paul talked with those leaders; they understand the dynamic of a small church and are not discouraged. The minutes name no groups, and this record doesn't either. Similar situations are likely in future launches.
 - **Implications:** Builds on DEC-061: few or no sign-ups are not a verdict on a leader. [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] now says what to do when a group has no members yet. A waiting group's scheduled start date is not a launch; it counts as launched only once it actually meets (DEC-042).
 - **Boundary:** Joining another group is encouragement, not a requirement, and it doesn't change a leader's status or role. This does not set how long a group stays open, or when it closes, merges, or moves (DEC-061). Which groups are waiting stays out of this repository; record only counts.
+
+### DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts
+
+- **Decision:** Russ approved the following for the Collectives:
+  - **Gathering flow, 6:30–8:00 PM:** 20 minutes of check-in; two 30-minute teaching and discussion blocks, each 20 minutes of exegesis and 10 minutes of discussion (breakout tables are optional, depending on attendance); then regroup for 10 minutes of final thoughts and prayer requests, and pray out.
+  - **S.O.A.P.:** the flow generally follows the S.O.A.P. Bible study framework (Scripture, Observation, Application, Prayer), moving from objective biblical truth to subjective personal reflection and application ([[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P. Framework]]).
+  - **Pace:** Galatians in six sessions, one chapter per gathering, instead of twelve.
+  - **Handouts:** two pages, in a format like the Weekly Recap, covering Last Session Review, Scripture (participants open their Bibles, so the text is not printed), two teaching blocks named Part 1 and Part 2, and Reflections and Close Prayer.
+- **Status:** Confirmed; Session 1 and Session 2 handouts drafted, awaiting Paul's review
+- **Date and approver:** Reported by Paul on October 19, 2026; Russ approved. The date of Russ's approval is not separately recorded.
+- **Domain:** Curriculum
+- **Supersedes:** DEC-067 in part (twelve study gatherings with two per chapter, introductions as separate gatherings, and the provisional closing composition of the working agenda)
+- **Owner:** Paul (resources); Russ, Miranda, and Conner (gathering operation)
+- **Evidence:** Paul's direction in the Ministry Resources Development conversation, October 19, 2026, with his S.O.A.P. Framework document.
+- **Context:** Paul reports that Men's Collective (October 6) and Women's Collective (October 13) have already gone through Galatians 1, so both first gatherings occurred. The pace was a lot faster than planned.
+- **Implications:** Session 1 is Galatians 1 (Men's October 6, Women's October 13) and is redone as a record of what was covered. Session 2 is Galatians 2: Men's on Tuesday, October 20, and Women's on Tuesday, October 27, replacing the approved Galatians 1:1–9 handouts planned for those dates. Sessions 3–6 cover Galatians 3–6 on the following alternating Tuesdays. The earlier Session 1 handouts and the 1:10–24 drafts move to a Superseded folder and are kept. The [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] governs depth at one chapter per gathering. Separate Men's and Women's packages continue (DEC-067).
+- **Boundary:** Holiday skips, the dates of Sessions 3–6, and the end date are not set here. Teaching assignments remain unconfirmed. DEC-067's resource and operation roles and its Keller/Peterson source priorities stand. A drafted handout is not approved until Paul reviews it.
 
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 

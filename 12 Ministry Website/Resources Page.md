@@ -15,7 +15,7 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 | Category | Planned resources | Current state |
 |---|---|---|
 | City Groups Resources | City Group Guide; Weekly Recap | The City Group Guide is not yet written (BWR-033). Weekly Recaps are produced each week and posted in the leaders' chat (DEC-055); October 11 and 18 remain `Draft`. |
-| Collectives Resources | Collective Guide; Galatians Study | The [[06 Resources/Leader Development/Collective Leader Guide\|Collective Leader Guide]] is a draft (BWR-033). Galatians Session 1 handouts are approved; Paul plans a refactor under the [[06 Resources/Curriculum Development/Complexity Gate\|Complexity Gate]]. |
+| Collectives Resources | Collective Guide; Galatians Study | The [[06 Resources/Leader Development/Collective Leader Guide\|Collective Leader Guide]] is a draft (BWR-033). Galatians runs six sessions with two-page handouts (DEC-076); Sessions 1–2 are drafted under the [[06 Resources/Curriculum Development/Complexity Gate\|Complexity Gate]] and await Paul's review. |
 | CoJourner Program | Leader development program | [[06 Resources/Leader Development/CoJourner\|CoJourner]] source material and implementation details remain open (BWR-019). |
 | Others | Not yet named | For example, Bible Club resources; add when approved. |
 

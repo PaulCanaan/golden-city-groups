@@ -64,8 +64,8 @@ Participant handouts say **Part 1** and **Part 2**, following Paul’s Session 1
 
 ## 5. Draft Outputs
 
-- [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Mens Galatians Session 2 Course Draft|Men’s course draft]]
-- [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Womens Galatians Session 2 Course Draft|Women’s course draft]]
+- [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Mens Galatians Session 2 Course Draft|Men’s course draft]]
+- [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Womens Galatians Session 2 Course Draft|Women’s course draft]]
 - Editable handout sources in the same folder. PDF candidates are export checks for Paul’s review. They are not phase 04 resources until he confirms them.
 
 | Review item | Actual status |

@@ -13,7 +13,7 @@
 The July and August events are now historical. Their missing outcomes are tracked in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] rather than left as future plans.
 - **September 20:** Golden City Church public launch — completed; the church is established in Broomfield, Colorado
 - **October 4:** Group Launch Day (DEC-048) is past. Nine print-ready cards with verified QR destinations were prepared in [[07 Operations/Annual Rhythm/2026/Fall 2026 Group Profile Cards|Fall 2026 Group Profile Cards]], but the repository does not record printing, presentation, or aggregate outcomes. BWR-028 carries the event reconciliation and October 11 decision.
-- **Tuesday, October 6:** Men's Collective scheduled start, 6:30pm — introductory gathering occurred as reported by Paul October 13; readiness documentation remains incomplete.
+- **Tuesday, October 6:** Men's Collective scheduled start, 6:30pm — occurred and covered Galatians 1 (Session 1), as reported by Paul; readiness documentation remains incomplete.
 - **Wednesday, October 7:** Erie City Group scheduled start — first-gathering outcome not recorded.
 - **October 11:** Optional second lobby presentation for groups with many open spots (DEC-051) — outcome not recorded.
 - **Sunday, October 11:** Lafayette City Group scheduled start — first-gathering outcome not recorded.
@@ -21,9 +21,9 @@ The July and August events are now historical. Their missing outcomes are tracke
 - **Tuesday, October 13:** Women's Collective scheduled start, 6:30pm — first-gathering outcome not recorded.
 - **Wednesday, October 14:** Broomfield City Group scheduled start — first-gathering outcome not recorded.
 - **Friday, October 16:** Thornton City Group scheduled start — first-gathering outcome not recorded.
-- **Tuesday, October 20:** Men's Collective Galatians Session 1 — date supplied by Paul; participant handout approved, teaching assignment unconfirmed.
+- **Tuesday, October 20:** Men's Collective Galatians Session 2 (Galatians 2) — two-page handout drafted and awaiting Paul; teaching assignment unconfirmed (DEC-076).
 - **Tuesday, October 20:** Westminster City Group (Young Adults) begins.
-- **Tuesday, October 27:** Women's Collective Galatians Session 1 — date supplied by Paul; participant handout approved, teaching assignment unconfirmed.
+- **Tuesday, October 27:** Women's Collective Galatians Session 2 (Galatians 2) — two-page handout drafted and awaiting Paul; teaching assignment unconfirmed (DEC-076).
 - **Saturday, November 7:** Run Club begins.
 
 All start dates are official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] as updated by [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]; the full schedule table is in [[03 Groups/City Groups/City Groups Overview#Fall 2026 City Groups|City Groups Overview]].
@@ -65,7 +65,7 @@ Current Collective architecture:
 
 - **Men's Collective:** every other Tuesday at 6:30pm from October 6, Broomfield (144th & Zuni) area (DEC-066); intended co-leads Conner O'Brien and Russ Daly.
 - **Women's Collective:** every other Tuesday at 6:30pm from October 13, Broomfield (144th & Zuni) area (DEC-066); co-leads Miranda Daly and Niki Pike (DEC-069).
-- **Study:** Galatians across Fall 2026–Spring 2027; all six chapters, two study gatherings per chapter, twelve study gatherings per Collective plus separate introductions (DEC-067, clarifying DEC-055). Paul develops materials; Russ, Miranda, and Conner operate the gatherings. The study retains its connection to *The Fruit of the Spirit*. Paul supplied Men's Session 1 for October 20 and Women's Session 1 for October 27; both participant handouts are approved, while teaching assignments and the complete calendar remain open. Session 2 files carry working November 3 and 10 dates and remain drafts awaiting Paul. Holiday skips and the spring continuation calendar remain open. Paul reports Men's introductory gathering occurred October 6; the Women's October 13 outcome is not reported.
+- **Study:** Galatians in six sessions, one chapter per gathering, following Russ's approved S.O.A.P. flow (DEC-076). Paul develops materials; Russ, Miranda, and Conner operate the gatherings. The study retains its connection to *The Fruit of the Spirit*. Session 1 (Galatians 1) occurred October 6 (Men's) and October 13 (Women's); Session 2 (Galatians 2) is October 20 and October 27, with two-page handouts drafted and awaiting Paul. Sessions 3–6 follow on alternating Tuesdays; holiday skips are open.
 
 Participant paths, communications, leader-path completion, and final readiness remain open. Named co-leads are not thereby formally appointed. Russ intends the Collectives to move on-site in the future, and the search for a location continues.
 

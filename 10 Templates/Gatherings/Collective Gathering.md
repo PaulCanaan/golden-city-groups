@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Working gathering template; revised October 13, 2026 from Paul's direction.** The two-block study flow below is the current provisional design, to be adjusted after actual use and feedback. It does not establish appointments or complete the offering's remaining readiness records.
+**Gathering template; flow approved by Russ, reported October 19, 2026 ([[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]]).** The flow below follows the S.O.A.P. framework and may still be adjusted after use and feedback. It does not establish appointments or complete the offering's remaining readiness records.
 
 ## Purpose and Ownership
 
@@ -16,30 +16,30 @@ Provide a simple gathering shape for shared encouragement, Scripture, prayer, an
 4. **Prayer and response** — invite faithful response without pressure, promised outcomes, or absolute confidentiality.
 5. **Next steps** — communicate the next confirmed gathering and route care needs appropriately.
 
-DEC-053 records devotional teaching followed by discussion at breakout tables, with Collective leaders and table leaders equipping participants to take part. Paul's October 13 working design repeats that teaching/discussion movement twice within an hour of study. The Galatians study spans Fall 2026–Spring 2027, with twelve study gatherings per Collective, two per chapter, plus separate introductions (DEC-067, clarifying DEC-055). Paul develops separate Men's and Women's resources; the operators lead with those materials. Introductory gatherings focus on ministry introduction and getting to know one another rather than requiring this chapter-study agenda.
+DEC-053 records devotional teaching followed by discussion at breakout tables, with Collective leaders and table leaders equipping participants to take part. The approved flow repeats that teaching/discussion movement twice. The Galatians study runs six sessions, one chapter per gathering (DEC-076). Paul develops separate Men's and Women's resources; the operators lead with those materials.
 
-## Working 6:30–8:00 PM Flow
+## Gathering Flow (6:30–8:00 PM)
 
-Paul identifies a 90-minute gathering window for both Planted and the Collectives. The following is the **provisional Collective study-gathering agenda**, not a report that it has already been executed:
+Approved by Russ. It follows [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P.]] (Scripture, Observation, Application, Prayer), moving from objective biblical truth to personal reflection and application.
 
-| Time | Minutes | Movement | Resource cue |
+| Time | Minutes | Movement | S.O.A.P. |
 |---|---|---|---|
-| 6:30–6:50 PM | 20 | Hang out, catch up, check in, welcome newcomers | Make room for community and participation |
-| 6:50–7:10 PM | 20 | Block 1: exegesis / devotional teaching | First passage movement and central teaching point |
-| 7:10–7:20 PM | 10 | Block 1: breakout-table discussion | Small set of questions drawn from *Galatians For You*, with source references and audience-specific application |
-| 7:20–7:40 PM | 20 | Block 2: exegesis / devotional teaching | Second passage movement building on the first |
-| 7:40–7:50 PM | 10 | Block 2: breakout-table discussion | Next selected questions and faithful-response prompts |
-| 7:50–8:00 PM | 10 | Prayer, worship, announcements, and next steps as appropriate | Connect prayer/response to this gathering's formation goals |
+| 6:30–6:50 PM | 20 | Check in: catch up, welcome newcomers | — |
+| 6:50–7:10 PM | 20 | Part 1: exegesis | Scripture, Observation |
+| 7:10–7:20 PM | 10 | Part 1: discussion | Observation, Application |
+| 7:20–7:40 PM | 20 | Part 2: exegesis | Observation |
+| 7:40–7:50 PM | 10 | Part 2: discussion | Application |
+| 7:50–8:00 PM | 10 | Regroup: final thoughts and prayer requests, then pray out | Prayer |
 
-**20 minutes community + 2 × (20 minutes teaching + 10 minutes discussion) + 10 minutes closing = 90 minutes.** Include reading, transitions, and table instructions within the allocated time; do not add them as extra minutes. Prayer, worship, and announcements share the closing window as needed; their inclusion does not settle a particular worship practice, music license, food, or childcare arrangement.
+**Breakout tables are optional**, depending on the size of the attendance. Reading and transitions fit inside the blocks. The closing window does not settle a particular worship practice, music license, food, or childcare arrangement.
 
 ## Session and Resource Design
 
-- A **study gathering** is one of the twelve Galatians meetings per Collective. Its two **teaching/discussion blocks** are the two sessions Paul describes inside that gathering; they do not double the course to twenty-four gatherings.
-- Keep the six-chapter study and biblical research connected, but prepare separate dated Men's and Women's session masters, handouts, and table-leader notes. Produce separate slides when needed.
-- Name each Collective's concrete formation goals before selecting examples, applications, and discussion follow-ups. The specific male/female discipleship focuses remain to be developed from the text and the participants' pastoral context; do not substitute assumptions for those goals.
-- Use Keller's *Galatians For You* as the primary course-development resource and question source; use Peterson's *Traveling Light* secondarily for its treatment of freedom. Scripture remains the governing text.
-- Keep each handout at the working 2–3-page depth, with clearly marked Block 1 and Block 2 questions. Leader notes carry question intent, timing, follow-ups, and facilitation cues.
+- Each gathering covers one Galatians chapter; Part 1 and Part 2 are its two movements. Apply the [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] to decide how deep each goes.
+- Keep the biblical research shared, but prepare separate dated Men's and Women's handouts and teaching notes. Produce separate slides when needed.
+- Name each Collective's formation goals before selecting examples and applications; do not substitute assumptions for them.
+- Use Keller's *Galatians For You* as the primary development resource and question source; use Peterson's *Traveling Light* secondarily for freedom. Scripture remains the governing text.
+- **Handout:** two pages, in the Weekly Recap's format: Last Session Review, Scripture (participants open their Bibles; the text is not printed), Part 1, Part 2, and Reflections and Close Prayer (DEC-076). Design questions like the Weekly Recap's: begin in the text, move to God in Christ, then to life.
 
 ## Feedback and Adjustment
 

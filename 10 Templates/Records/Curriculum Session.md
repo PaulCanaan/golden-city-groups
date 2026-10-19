@@ -44,7 +44,7 @@ For a Collective, name the particular male or female discipleship focus this gat
 
 Teaching Flow cards are yellow; Discussion cards are red. Preserve the branch's gathering purpose and realistic time.
 
-For a Collective study gathering, use [[10 Templates/Gatherings/Collective Gathering#Working 6:30–8:00 PM Flow|the canonical working agenda]] and design **Block 1** and **Block 2**, each with 20 minutes teaching/exegesis and 10 minutes table discussion. These are movements within one of the twelve study gatherings, not extra course meetings. Account for reading and transitions within the hour. Planted can use its own learning movements within the shared 90-minute envelope.
+For a Collective study gathering, use [[10 Templates/Gatherings/Collective Gathering#Gathering Flow (6:30–8:00 PM)|the approved gathering flow]] and design **Part 1** and **Part 2**, each with 20 minutes exegesis and 10 minutes discussion, following S.O.A.P. Each gathering covers one chapter (DEC-076). Account for reading and transitions within the hour. Planted can use its own learning movements within the shared 90-minute envelope.
 
 | Movement | Text / selected content | Invitation or question | Timing and facilitation | Needed resource |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ For Collectives Galatians, gather the base questions from *Galatians For You* us
 
 ## 5. Resource Production
 
-Resource Output cards are gray. Apply [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]]: Weekly Recap 1 page, Collectives Galatians handout 2–3 pages for each Collective, Bible Club notes such as Planted 4+ pages where needed. Adapt length/depth without shrinking readability. Record the actual needed deliverables and check exported pages/slides. Every Collective file names its audience, actual gathering date, study ID, and Block 1/2 structure; check against its own master rather than reusing the other Collective's final file.
+Resource Output cards are gray. Apply [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]]: Weekly Recap 1 page, Collectives Galatians handout 2 pages for each Collective (DEC-076), Bible Club notes such as Planted 4+ pages where needed. Adapt length/depth without shrinking readability. Record the actual needed deliverables and check exported pages/slides. Every Collective file names its audience, actual gathering date, study ID, and Part 1/Part 2 structure; check against its own master rather than reusing the other Collective's final file.
 
 | Resource | Content from this master | Actual editable file / export | Owner review and version |
 |---|---|---|---|

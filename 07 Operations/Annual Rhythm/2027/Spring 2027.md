@@ -22,7 +22,7 @@ Provide the planning home for expanded intentional leader development and multip
 
 ## Continuing Galatians Study
 
-DEC-067 records Russ and Paul's plan for both Collectives to study all six Galatians chapters across Fall 2026–Spring 2027, with twelve study gatherings per Collective plus separate introductions. Paul develops resources; Russ, Miranda, and Conner operate the gatherings. The spring continuation follows that plan; exact dates, holiday breaks, restart/end dates, and session allocation across semesters remain open. See [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|Collectives Galatians Development]] rather than creating a separate spring course.
+Both Collectives study all six Galatians chapters in six sessions, one Galatians chapter per gathering (DEC-076); Sessions 1–2 are in October 2026, so the study may finish before spring depending on holiday breaks. Paul develops resources; Russ, Miranda, and Conner operate the gatherings. The spring continuation follows that plan; exact dates, holiday breaks, restart/end dates, and session allocation across semesters remain open. See [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|Collectives Galatians Development]] rather than creating a separate spring course.
 
 ## Planning Questions
 

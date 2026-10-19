@@ -67,8 +67,8 @@ Keller's supplied Part 2 question 3 mentions three modern false-gospel dangers, 
 
 ## 5. Actual Draft Outputs and Review
 
-- [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Mens Galatians Session 1 Course Draft|Men's course-content draft]] — script, formation proposals, adapted question selection, table-leader cues, practice, and closing prayer.
-- [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Womens Galatians Session 1 Course Draft|Women's course-content draft]] — separate script, examples, formation proposals, adapted question selection, table-leader cues, practice, and closing prayer.
+- [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Mens Galatians Session 1 Course Draft|Men's course-content draft]] — script, formation proposals, adapted question selection, table-leader cues, practice, and closing prayer.
+- [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Womens Galatians Session 1 Course Draft|Women's course-content draft]] — separate script, examples, formation proposals, adapted question selection, table-leader cues, practice, and closing prayer.
 
 | Review item | Actual status |
 |---|---|

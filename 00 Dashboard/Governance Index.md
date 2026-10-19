@@ -76,6 +76,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055 — Weekly Recap and Fall 2026 Collectives Study]]
 - [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067 — Collective Resource Development and Galatians Course Plan]]
 - [[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071 — Groups Resource Design Standard]]
+- [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]]
 
 ### Communication
 
@@ -121,7 +122,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–075 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–076 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
 
 ### Confirmed in Part
 
@@ -146,6 +147,7 @@ DEC-039 and DEC-063.
 ### Superseded or Superseded in Part
 
 - [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055]] — Collective resource responsibility and course window superseded/clarified by DEC-067.
+- [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067]] — twelve-gathering count, separate introductions, and working agenda superseded in part by DEC-076.
 - [[08 Archive/Decisions/Decision History#DEC-023 — First Planted Instructor and Course Window|DEC-023]] — superseded in part by DEC-030.
 - [[08 Archive/Decisions/Decision History#DEC-024 — Distinct Formation Emphases Across Ministry Environments|DEC-024]] — superseded by DEC-025.
 - [[08 Archive/Decisions/Decision History#DEC-025 — Golden City Groups Ministry Environments|DEC-025]] — superseded by DEC-034.
@@ -165,18 +167,18 @@ DEC-039 and DEC-063.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions begin with the October 19 staff meeting: resource design, the Groups resources page, email as the primary participant channel, the standing lobby cards, and City Groups waiting for members:
+The ten most recent numbered decisions begin with Russ's approval of the six-session Galatians course and Collective gathering flow:
 
-1. [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075 — City Groups Waiting for Members]]
-2. [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards|DEC-074 — Standing Lobby Table Cards]]
-3. [[08 Archive/Decisions/Decision History#DEC-073 — Email as the Primary Participant Channel|DEC-073 — Email as the Primary Participant Channel]]
-4. [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page|DEC-072 — Groups Resources Page]]
-5. [[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071 — Groups Resource Design Standard]]
-6. [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070 — Planted Naming]]
-7. [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069 — Women's Collective Co-Leader Change]]
-8. [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068 — Westminster City Group Co-Leader and Meeting Area]]
-9. [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067 — Collective Resource Development and Galatians Course Plan]]
-10. [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066 — Fall 2026 Open Groups Schedule Updates]]
+1. [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]]
+2. [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075 — City Groups Waiting for Members]]
+3. [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards|DEC-074 — Standing Lobby Table Cards]]
+4. [[08 Archive/Decisions/Decision History#DEC-073 — Email as the Primary Participant Channel|DEC-073 — Email as the Primary Participant Channel]]
+5. [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page|DEC-072 — Groups Resources Page]]
+6. [[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071 — Groups Resource Design Standard]]
+7. [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070 — Planted Naming]]
+8. [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069 — Women's Collective Co-Leader Change]]
+9. [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068 — Westminster City Group Co-Leader and Meeting Area]]
+10. [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067 — Collective Resource Development and Galatians Course Plan]]
 
 ## Supersession Map
 
@@ -184,6 +186,8 @@ The ten most recent numbered decisions begin with the October 19 staff meeting: 
 DEC-055 (Collective resource responsibility and course window)
    ↓ superseded / clarified in part by
 DEC-067
+   ↓ course count, introductions, and agenda superseded in part by
+DEC-076
 
 DEC-024
    ↓ superseded by

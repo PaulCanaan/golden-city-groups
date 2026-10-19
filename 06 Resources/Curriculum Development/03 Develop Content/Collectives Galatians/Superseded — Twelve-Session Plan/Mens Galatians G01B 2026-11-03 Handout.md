@@ -4,7 +4,7 @@ audience: "Men's Collective"
 gathering_date: 2026-11-03
 study_id: G01B
 version: 0.1
-status: Draft
+status: Superseded
 translation: CSB
 ---
 

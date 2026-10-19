@@ -12,7 +12,7 @@
 - **Primary development source:** The passage in CSB. Keller's published chapter 2, "God's Amazing Grace," covers 1:10–24 (2013 contents, p. 25). His reflection questions were not read, so the questions below are original drafts from the text, not quotations from *Galatians For You*.
 - **Peterson:** No *Traveling Light* passage for 1:10–24 was read. Freedom from people-pleasing is taught from verse 10.
 - **Source record:** [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Session 2 Synthesis|Session 2 Synthesis]] and its [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Galatians Study Session 2 Development.canvas|development Canvas]].
-- **Shared exegesis / other master:** [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Mens Galatians Session 2 Course Draft|Men's Session 2 draft]]. The exegesis is shared. This master does not reuse the men's examples, questions, or practice.
+- **Shared exegesis / other master:** [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Mens Galatians Session 2 Course Draft|Men's Session 2 draft]]. The exegesis is shared. This master does not reuse the men's examples, questions, or practice.
 
 ## Session Formation Emphasis
 

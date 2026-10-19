@@ -111,11 +111,11 @@ No unresolved curriculum approval is currently recorded for Planted: its curricu
 
 ### Galatians Calendar and Resource Details
 
-- **Question:** Which holiday weeks will be skipped, what dates will carry the twelve study gatherings, and when/where are Paul's next resources needed?
-- **Established direction:** DEC-067 records all six chapters, two study gatherings per chapter per Collective, plus separate introductions, across Fall 2026–Spring 2027. Paul develops resources; Collective operators lead with them.
-- **Current resource evidence:** Men's Session 1 (Galatians overview and 1:1–9) is dated October 20 and Women's Session 1 October 27; both participant handouts are approved. Session 2 (1:10–24) has working November 3/10 dates and remains draft, not a confirmed complete calendar.
-- **Remaining scope:** Later passage subdivisions, the full twelve-gathering calendar, breaks, restart/end dates, later resource deadlines, delivery and teaching assignments, Keller chapter 2 questions/source references, and Paul review of Session 2. The two-block agenda is a provisional design to evaluate after use, not an unresolved approval blocking routine drafting. Anticipated holiday skips are not dated cancellations.
-- **Owners / source:** Paul develops resources and supplies further calendar decisions with the Collective operators; [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067]] and [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|the development brief]].
+- **Question:** Which holiday weeks will be skipped, what dates will carry Sessions 3–6, and when are Paul's next resources needed?
+- **Established direction:** [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]] sets six sessions, one chapter per gathering, Russ's approved S.O.A.P. gathering flow, and two-page handouts. Session 1 (Galatians 1) occurred October 6 (Men's) and October 13 (Women's); Session 2 (Galatians 2) is October 20 and October 27. Paul develops resources; Collective operators lead with them (DEC-067).
+- **Current resource evidence:** Session 1 and Session 2 two-page handouts for both Collectives are drafted (v0.1) and await Paul's review.
+- **Remaining scope:** Sessions 3–6 dates, holiday breaks, end date, teaching assignments, teaching notes for the 20-minute blocks, and Keller's question references. Anticipated holiday skips are not dated cancellations.
+- **Owners / source:** Paul with the Collective operators; [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|the development brief]].
 
 ## Connections
 
