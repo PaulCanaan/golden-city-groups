@@ -33,7 +33,7 @@ Young adults groups, Run Club, and a potential future Youth City Group sit under
 
 ## Fall 2026 City Groups
 
-Official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] (October 3, 2026). Current details are kept on the [[12 Ministry Website/Groups Page|Groups Page]].
+Official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] (October 3, 2026); Dominique Simon joined Bobby Pascale as Westminster co-leader under [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068]]. Current details are kept on the [[12 Ministry Website/Groups Page|Groups Page]].
 
 | City Group | Leaders | Rhythm | Starts | Area |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ Official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Ope
 | Lafayette | Julianne McKay | Every other Sunday, 12:00–1:30pm | October 11 | Lafayette |
 | Broomfield | Aaron & Minette McGeehon | Weekly, Wednesdays 7:00–8:30pm | October 14 | Broomfield |
 | Thornton | Conner & Rachel O'Brien | Every other Friday, 6:00–8:00pm | October 16 | Thornton |
-| Westminster (Young Adults City Group) | Bobby Pascale | Weekly, Tuesdays 7:00–8:30pm | October 20 | Westminster |
+| Westminster (Young Adults City Group) | Bobby Pascale & Dominique Simon | Weekly, Tuesdays 7:00–8:30pm | October 20 | Westminster |
 | Run Club (co-ed, ages 18 and up) | Jeremy & Glenys Parker | Weekly, Saturdays 7:00–9:00am | November 7 | Broomfield |
 
 ## Group Launch Sunday

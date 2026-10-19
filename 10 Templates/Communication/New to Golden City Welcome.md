@@ -22,7 +22,7 @@ Thank someone for their first visit and help them take a next step into the life
 - Use only what the website publishes. Recheck it before sending; class days, teams, and links can change.
 - Offer, don't press. Point to Next Steps as the natural first step and let the rest be options. Leave giving out of a first welcome; generosity is introduced through the values and the Discover class.
 - Do not invite a newcomer to lead a group. The serve page lists Small Group Leader, but leading follows its own conversation and discernment path (DEC-027, DEC-042).
-- Do not name group schedules or the *Planted.* day and time. The website's Events page still lists Planted on Tuesdays, which no longer matches DEC-066; point to `goldencity.church/groups` instead.
+- Do not name group schedules or the *Planted.* day and time; point to `goldencity.church/groups` instead.
 - Do not ask for prayer requests or personal circumstances by email or text. Care conversations happen in person or through the church's care path (DEC-028).
 - If the card also shows interest in Groups, Paul's [[10 Templates/Communication/Participant Welcome and Groups Introduction|Groups welcome]] follows separately. Coordinate so the person does not receive two overlapping emails on the same day.
 - Record only aggregate, non-sensitive follow-up state. Names, contact details, and card contents stay in the church-approved restricted system.

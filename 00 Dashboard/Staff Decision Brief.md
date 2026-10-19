@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Reviewed August 10 and reconciled October 5, 2026 through DEC-066 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); Paul clarified Collective resource development and the Galatians course plan on October 13 (DEC-067); DEC-059–066 further clarified launch workflow, schedules, leadership support, and the official Fall 2026 offering directory. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
+**Reviewed August 10 and reconciled October 19, 2026 through DEC-067 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); Paul clarified Collective resource development and the Galatians course plan on October 13 (DEC-067); DEC-059–066 further clarified launch workflow, schedules, leadership support, and the official Fall 2026 offering directory. No later staff or pastoral decision is recorded. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
 
 ## Confirmed Ministry Language
 
@@ -159,7 +159,7 @@ These recommendations are not a substitute for church policy, legal guidance, or
 | ------------------ | ----------------- | ---------------- | ------------------- | ------------------------ |
 | City Group(s)      | Russ, Paul        |                  |                     | Launch / Develop / Defer |
 | Men's Collective   | Russ              | Intended co-leads: Conner O'Brien and Russ Daly; appointments pending |                     | Launch / Develop / Defer |
-| Women's Collective | Miranda           | Intended co-leads: Rachel O'Brien and Miranda Daly; appointments pending |                     | Launch / Develop / Defer |
+| Women's Collective | Miranda           | Co-leads: Miranda Daly and Niki Pike (DEC-069); appointments pending |                     | Launch / Develop / Defer |
 | Planted            | Paul              | Paul, Bible Club leader |                | Launch / Develop / Defer |
 
 Run Club and a Young Adults City Group were activated as official Fall 2026 City Groups under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] and are part of the City Group(s) row. Actual launch still requires a first gathering and the applicable readiness evidence. Youth City Group remains deferred under DEC-022.
@@ -188,7 +188,7 @@ DEC-066 governs both Collectives on alternating Tuesdays at 6:30pm in the Broomf
 ### Items to confirm
 
 - [x] Pastoral and theological curriculum review completed
-- [x] Twelve-week length and October 6 start date
+- [x] Twelve-week length and current Monday schedule from October 12 (DEC-066)
 - [ ] Location and facility owner
 - [ ] Capacity and enrollment method
 - [x] Required materials and cost, if any

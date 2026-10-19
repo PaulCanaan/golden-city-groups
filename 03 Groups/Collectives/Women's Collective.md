@@ -2,9 +2,9 @@
 
 ## Document Status
 
-**Planned Women's Collective; October readiness at risk.** Women's Collective starts Tuesday, October 13, 2026 and meets every other Tuesday at 6:30pm in the Broomfield (144th & Zuni) area ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]], approved by Russ). The intended co-lead structure is confirmed direction. Leader-path completion, participant path, communication, home-meeting safeguards, and final readiness remain unresolved.
+**Women's Collective was scheduled to begin October 13, 2026; its first-gathering outcome is not reported and readiness documentation remains open.** It meets every other Tuesday at 6:30pm in the Broomfield (144th & Zuni) area ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]], approved by Russ). The co-leads are Miranda Daly and Niki Pike ([[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069]]). Leader-path completion, participant path, communication, home-meeting safeguards, and final readiness remain unresolved.
 
-Paul confirms on October 13 that the first gathering is planned for that evening, with an introduction and connection focus (DEC-067). Completion is not yet reported. Later the same evening he set the first Galatians study gathering, Session 1, for October 27. October 13 remains the DEC-066 start. The study gathering is not the introductory gathering.
+Paul confirmed on October 13 that the first gathering was planned for that evening, with an introduction and connection focus (DEC-067). Completion is not reported. Later the same evening he set the first Galatians study gathering, Session 1, for October 27. Its participant handout is approved; the course draft still records the teaching assignment as unconfirmed. October 13 remains the DEC-066 start. The study gathering is not the introductory gathering.
 
 ## Ministry Emphasis
 
@@ -12,7 +12,7 @@ Women's Collective is a confirmed expression of the Collectives branch, whose pu
 
 The approved long-term direction is for Women's Collective to mature into a broader Women's Ministry. This does not activate additional programs or establish their leaders, rhythms, or readiness.
 
-The intended co-leads are Rachel O'Brien and Miranda Daly. Rachel expressed interest during a Group Leader Conversation; that interest is not formal approval or commissioning. Each named leader remains subject to the applicable qualification, conversation, safeguarding, preparation, appointment, and readiness requirements.
+The co-leads are Miranda Daly and Niki Pike. Niki stepped in on October 11, 2026, when Rachel O'Brien stepped out of co-leading ([[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069]], superseding DEC-044's intended Rachel–Miranda pairing). Each named leader remains subject to the applicable qualification, conversation, safeguarding, preparation, appointment, and readiness requirements.
 
 ## Gathering Shape
 
@@ -26,7 +26,7 @@ Both Collectives work through all six chapters of Galatians, with two study gath
 
 Paul develops separate dated Men’s and Women’s course resources, including audience-specific formation goals, 2–3-page participant handouts, table-leader notes, and slides when needed. The common biblical research and chapter sequence stay connected. Russ, Miranda, and Conner operate the Collectives using Paul's resources. This clarifies DEC-055's earlier resource-ownership wording. Its shared Galatians study and connection to *The Fruit of the Spirit* stand; freedom remains the larger theme named there. Both Collectives stay on one study while Women's Collective carries its own focus in female discipleship. Rachel's earlier involvement in content discussions is not withdrawn by this clarification.
 
-Paul uses Tim Keller’s *Galatians For You* as the primary course-development resource and source of discussion questions, and Eugene Peterson’s *Traveling Light* secondarily for its treatment of freedom, alongside the governing biblical text and his Notion knowledge sources. Resource production is urgent for the coming study gatherings, with exact deadlines and finished files not yet recorded (BWR-029). The introductory gatherings introduce the Collectives within GCC Groups & Classes Ministry and help people get to know one another; they are outside the twelve study gatherings.
+Paul uses Tim Keller’s *Galatians For You* as the primary course-development resource and source of discussion questions, and Eugene Peterson’s *Traveling Light* secondarily for its treatment of freedom, alongside the governing biblical text and his Notion knowledge sources. The October 27 Session 1 participant handout is approved; the November 10 Session 2 handout and course draft remain drafts awaiting Paul. These dated files are resource evidence, not a complete course calendar or gathering outcome (BWR-029). The introductory gatherings introduce the Collectives within GCC Groups & Classes Ministry and help people get to know one another; they are outside the twelve study gatherings.
 
 ## Schedule and Location
 

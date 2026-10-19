@@ -113,7 +113,8 @@ No unresolved curriculum approval is currently recorded for Planted: its curricu
 
 - **Question:** Which holiday weeks will be skipped, what dates will carry the twelve study gatherings, and when/where are Paul's next resources needed?
 - **Established direction:** DEC-067 records all six chapters, two study gatherings per chapter per Collective, plus separate introductions, across Fall 2026–Spring 2027. Paul develops resources; Collective operators lead with them.
-- **Remaining scope:** Exact passage subdivisions, study dates, breaks, restart/end dates, resource deadlines, delivery path, specific Men’s/Women’s formation goals, and source question references. The two-block agenda is a provisional design to evaluate after use, not an unresolved approval blocking routine drafting. Anticipated holiday skips are not dated cancellations.
+- **Current resource evidence:** Men's Session 1 (Galatians overview and 1:1–9) is dated October 20 and Women's Session 1 October 27; both participant handouts are approved. Session 2 (1:10–24) has working November 3/10 dates and remains draft, not a confirmed complete calendar.
+- **Remaining scope:** Later passage subdivisions, the full twelve-gathering calendar, breaks, restart/end dates, later resource deadlines, delivery and teaching assignments, Keller chapter 2 questions/source references, and Paul review of Session 2. The two-block agenda is a provisional design to evaluate after use, not an unresolved approval blocking routine drafting. Anticipated holiday skips are not dated cancellations.
 - **Owners / source:** Paul develops resources and supplies further calendar decisions with the Collective operators; [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067]] and [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|the development brief]].
 
 ## Connections

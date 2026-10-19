@@ -13,6 +13,7 @@ planning_center_url:
 ---
 
 # Group Name
+Leader-written group description, as published on the Open Groups directory.
 
 ## Document Status
 
@@ -22,12 +23,13 @@ planning_center_url:
 
 Use for the permitted non-sensitive ministry working record in the existing local database. **Owner:** authorized ministry operator. **Trigger:** a working record is needed for an actual person or group. **Inputs:** verified permitted fields and links to the approved operational system; empty fields are not permission to collect sensitive information.
 
+- Put the leaders' published description directly under the heading. Leave it out until the group is published.
+- Manage assigned leaders in the `leaders` property using links to their records in All Leaders, and list the same links under Leaders. Check `current_semester` for groups participating in the current semester, including planned groups with assigned leaders. Clear it when the group is no longer part of the current semester. Current Leaders derives its membership from these two properties; semester participation does not establish appointment or launch readiness. Reopen that Base after changing group properties to refresh its cross-note results.
 
 ## Group Snapshot
 
 ## Leaders
-
-Manage assigned leaders in the `leaders` property using links to their records in All Leaders. Check `current_semester` for groups participating in the current semester, including planned groups with assigned leaders. Clear it when the group is no longer part of the current semester. Current Leaders derives its membership from these two properties; semester participation does not establish appointment or launch readiness. Reopen that Base after changing group properties to refresh its cross-note results.
+[[Leader Name]]
 
 ## Meeting Rhythm
 
@@ -40,6 +42,7 @@ Manage assigned leaders in the `leaders` property using links to their records i
 - [ ] Follow the vault’s privacy and local-record boundaries; do not place participant contacts or confidential details in broadly accessible or tracked records.
 - [ ] Preserve the existing frontmatter schema and use verified values.
 - [ ] Keep appointment, assignment, readiness, and actual launch distinct.
+- [ ] Remove Document Status, Purpose and Use, Before Use, and Connections from the finished record; it keeps the heading, the description, and the record sections.
 
 ## Connections
 

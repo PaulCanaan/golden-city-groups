@@ -21,12 +21,12 @@ Each card mirrors the group's card on the website: the group's photo or cover, n
 
 **Matches the website:** rechecked against the live directory on the evening of October 3, after Paul fixed the "Women's" heading and the "Erie" area. All nine cards carry the same text as the page.
 
-**Out of date since October 5:** Russ approved schedule and area changes to the live directory ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]). Below, each card's details are recorded **as printed**, so these cards no longer match the page:
+**Out of date since October 5:** Russ approved schedule and area changes to the live directory ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]), and Westminster and Women's Collective later gained new co-leaders ([[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068]], [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069]]). Below, each card's details are recorded **as printed**, so these cards no longer match the page:
 
 - **Men's Collective** — now every other Tuesday, 6:30pm, from October 6, Broomfield (144th & Zuni).
-- **Women's Collective** — now every other Tuesday, 6:30pm, from October 13, Broomfield (144th & Zuni).
+- **Women's Collective** — now every other Tuesday, 6:30pm, from October 13, Broomfield (144th & Zuni); co-led by Miranda Daly & Niki Pike (DEC-069), not Rachel O'Brien.
 - **Planted. Bible Study** — now weekly on Mondays, 6:30–8:00pm, from October 12, Broomfield (120th & Interlocken).
-- **Westminster City Group** — area now Westminster (100th & Summit); the description now reads "fellowship" and "Christ-centered."
+- **Westminster City Group** — area now Westminster (100th & Simms); co-led by Bobby Pascale & Dominique Simon (DEC-068); the description now reads "fellowship" and "Christ-centered."
 - **Lafayette and Thornton City Groups** — schedules unchanged; leader-written typos are corrected on the page ("be able to recognize," "everyday," "The O'Briens," "As things progress, we will build into a group with a deep focus").
 
 Remake these six cards from the live page before the set is used again. Broomfield, Erie, and Run Club still match.

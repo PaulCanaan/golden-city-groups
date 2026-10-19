@@ -49,10 +49,8 @@ views:
     order:
       - file.name
       - workflow_stage
-      - status
       - leader_status
       - formula.assigned_groups
-      - group_interest
       - email
       - phone
       - next_action

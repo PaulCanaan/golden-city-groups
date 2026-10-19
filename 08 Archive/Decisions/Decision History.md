@@ -464,6 +464,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]].
 - **Implications:** Readiness work may proceed around these intended teams through the canonical conversation, qualification, safeguarding, preparation, approval, and commissioning pathway.
 - **Boundary:** Conner's and Rachel's expressed interest is not formal approval or commissioning. This record does not establish that any named person has completed the applicable leader pathway or that either Collective is launch-ready.
+- **Subsequent direction:** [[#DEC-069 — Women's Collective Co-Leader Change|DEC-069]] (October 11, 2026): Rachel stepped out and Niki Pike co-leads Women's Collective with Miranda Daly. The Men's structure stands.
 
 ### DEC-045 — CoJourner Group-Leader Training Architecture
 
@@ -726,7 +727,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [Open Groups · Fall 2026](https://www.goldencity.church/groups/fall2026), inspected October 3, 2026; recorded in [[12 Ministry Website/Groups Page|Groups Page]].
 - **Implications:** Six City Groups launch this fall, including Erie (a new group) and two expressions previously deferred: Run Club and a young adults group, which is the Westminster City Group. Calendar, branch pages, the Planted venue search, and the website correction queue use these details. Youth City Group remains deferred.
 - **Boundary:** Russ's pre-launch review is recorded as a review of the published groups and website. It is not separately recorded as leader appointment (DEC-027), the joint Paul–Russ ready-to-lead decision for each leader (DEC-059), or final readiness approval of each offering (DEC-021). Intake through the Church Center links has not been tested (BWR-009). Exact meeting locations stay out of this repository; the published areas include cross-streets, which are more specific than the rough-area example in the DEC-051 clarification.
-- **Subsequent direction:** DEC-066 replaces the Men's Collective, Women's Collective, Planted, and Westminster details in the table above.
+- **Subsequent direction:** DEC-066 replaces the Men's Collective, Women's Collective, Planted, and Westminster details in the table above. DEC-068 adds Dominique Simon as Westminster co-leader; DEC-069 replaces Rachel O'Brien with Niki Pike as Women's Collective co-leader.
 
 ### DEC-066 — Fall 2026 Open Groups Schedule Updates
 
@@ -748,6 +749,7 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [Open Groups · Fall 2026](https://www.goldencity.church/groups/fall2026), inspected October 5, 2026; recorded in [[12 Ministry Website/Groups Page|Groups Page]]. Resolves BWR-035.
 - **Implications:** Both Collectives now meet on alternating Tuesdays at the same Broomfield area, a week apart, so Men's gathers on October 6, 20, and so on and Women's on October 13, 27, and so on. Men's Collective's first gathering is the day after this decision. Planted moves from Tuesday, October 6 to Monday, October 12, so its twelve weeks run through December 28 unless breaks are set. Calendar, branch, Planted, readiness, and communication pages use these details. The printed Group Profile Cards for these four offerings no longer match the page.
 - **Boundary:** DEC-060's intent that the Collectives become on-site gatherings stands. The repository does not record whether either Broomfield area is a home, a church-related space, or a public venue, so the DEC-028 home safeguards and BWR-018's Planted venue question remain open. Like DEC-065, this is not leader appointment (DEC-027), a ready-to-lead decision (DEC-059), final readiness approval (DEC-021), or a tested intake path (BWR-009). Whether registered participants were told of the changes is not recorded.
+- **Correction — October 19, 2026 (Paul):** The Westminster area is **100th & Simms**, not "100th & Summit" as recorded in the table above ([[#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068]]). "Leaders are unchanged" was accurate on October 5 for these four offerings; DEC-068 and DEC-069 later changed the Westminster and Women's Collective leaders.
 
 ### DEC-067 — Collective Resource Development and Galatians Course Plan
 
@@ -765,6 +767,42 @@ Optimize for long-term maintainability over completeness. Most entries should us
 
 - **Further clarification — October 13, 2026 (Paul):** *Galatians For You* is the primary course-development resource and the source from which discussion questions will be gathered; *Traveling Light* is secondary, especially for its teaching on freedom. Paul will produce separate Men's and Women's resources because their formation goals and male/female discipleship focuses differ and they meet on different dates. Shared Scripture research and the twelve-gathering chapter sequence remain connected; resource separation does not create a second curriculum or change the gathering count.
 - **Working gathering design — October 13, 2026 (Paul):** Paul identifies 6:30–8:00 PM for Planted and the Collectives, allocating approximately 20 minutes community/check-in, 60 minutes study/discussion, and 10 minutes closing prayer/worship/announcements. For each Collective study gathering, the current provisional study-hour structure is two blocks of 20 minutes exegesis/devotional plus 10 minutes table discussion. The blocks sit within a study gathering, not additional course meetings. Paul intends to adjust this design after actual execution and feedback. This is routine working design supplied by Paul, not an invented Russ-approved agenda or a report of actual timing. Planted retains its own approved learning movements within the time envelope. Specific audience formation goals, actual source questions, final dates, and resource outputs remain development work.
+
+### DEC-068 — Westminster City Group Co-Leader and Meeting Area
+
+- **Decision:** Dominique Simon co-leads the Westminster City Group (Young Adults City Group) with Bobby Pascale. The group's published meeting area is Westminster (100th & Simms).
+- **Status:** Confirmed; leader-pathway completion not recorded
+- **Date and source of direction:** Decision made October 4, 2026; reported by Paul on October 19, 2026. The individual approver is not separately recorded.
+- **Domain:** Leadership
+- **Supersedes:** DEC-065 in part (Bobby Pascale as sole leader); DEC-066 in part (the area recorded as "100th & Summit," which Paul corrects to 100th & Simms)
+- **Owner:** Paul
+- **Evidence:** Paul's direction, October 19, 2026; [Open Groups · Fall 2026](https://www.goldencity.church/groups/fall2026), inspected October 19, 2026, lists "Bobby Pascale & Dominique Simon" and "Westminster (100th & Simms)."
+- **Implications:** Branch, calendar, website, and readiness pages name both leaders and use 100th & Simms. The printed Westminster profile card (October 3) shows Bobby alone and the earlier area, so it is replaced with the other out-of-date cards. The group's scheduled start is unchanged: Tuesday, October 20, 2026.
+- **Boundary:** Publication and co-leading are not appointment under DEC-027, a ready-to-lead decision under DEC-059, or final readiness under DEC-021. The repository does not record when the live page first showed these details.
+
+### DEC-069 — Women's Collective Co-Leader Change
+
+- **Decision:** Rachel O'Brien stepped out of co-leading Women's Collective, and Niki Pike stepped in. Women's Collective is co-led by Miranda Daly and Niki Pike.
+- **Status:** Confirmed; leader-pathway completion not recorded
+- **Date and source of direction:** Decision made October 11, 2026; reported by Paul on October 19, 2026. The individual approver is not separately recorded.
+- **Domain:** Leadership
+- **Supersedes:** DEC-044 in part (Rachel O'Brien as intended Women's Collective co-lead); DEC-065 in part (Women's Collective leaders)
+- **Owner:** Paul
+- **Evidence:** Paul's direction, October 19, 2026; [Open Groups · Fall 2026](https://www.goldencity.church/groups/fall2026), inspected October 19, 2026, lists "Miranda Daly & Niki Pike."
+- **Implications:** Collective, calendar, website, roadmap, and readiness pages name Miranda Daly and Niki Pike. The intended-co-lead readiness item now covers Niki. Rachel continues to co-lead the Thornton City Group with Conner O'Brien (DEC-065). The printed Women's Collective profile card is out of date.
+- **Boundary:** This does not record Niki's completion of the leader pathway, appointment (DEC-027), or final readiness (DEC-021). It does not record whether Niki joins the Collectives content discussions recorded under DEC-055, or whether Rachel still does. It does not change Paul's resource role or the Galatians plan (DEC-067).
+
+### DEC-070 — Planted Naming
+
+- **Decision:** The official name of Golden City's recurring fall Bible Club study is ***Planted.* Bible Study**, written with the closing period. Because it recurs each fall (DEC-054), the short form for a given run is *Planted.* plus the semester's year: ***Planted.* 2026** is the Fall 2026 run, led by Paul. Other public wordings, such as "Planted Class" or "Bible class," are acceptable and are not errors to correct. Bible Club is where the ministry's classes live.
+- **Status:** Confirmed
+- **Date and source of direction:** October 19, 2026; Paul's direction as Ministry Director and Planted's leader.
+- **Domain:** Communication
+- **Supersedes:** —
+- **Owner:** Paul
+- **Evidence:** Paul's direction, October 19, 2026. It matches the live directory title "Planted. Bible Study" and the Session 0 deck title "Planted. 2026."
+- **Implications:** Resolves the *Planted.* title-styling question on [[04 Classes/Curriculum/Planted Bible Study|Planted Bible Study]]. The directory's **Open Classes · Fall 2026** heading and the Events and *You Said Yes* pages' "Bible class" wording no longer need correcting. Vault file names stay as they are.
+- **Boundary:** Classes remain a development path under Bible Clubs, not a fourth branch (DEC-034); this approves no other class. The vault still records the branch as Bible Clubs, and the public page calls it Bible Club.
 
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 
@@ -817,8 +855,8 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 
 ### OQ-011 — Planted Operational Readiness
 
-- **Status:** Open
-- **Question:** Planted is confirmed as a twelve-week Bible Club beginning October 6 with Paul leading. Which location, capacity, support role, complete session calendar, and Church Center registration requirements will govern it?
+- **Status:** Open; October 12 scheduled start has passed without an outcome record
+- **Question:** Planted is confirmed as a twelve-week Bible Club scheduled Mondays from October 12 under DEC-066, with Paul leading. Did the first gathering occur, and which specific venue, capacity, support role, complete session calendar, Church Center registration requirements, and final-readiness evidence govern it?
 
 ### OQ-012 — Participant Data Governance
 
@@ -832,8 +870,8 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 
 ### OQ-016 — Public Groups Page Participant Paths
 
-- **Status:** Open
-- **Question:** What approved destination should the public “Find a Group” and “Lead a Group” calls to action use, what participant path should each launch offering provide, and how should the three deferred ideas in DEC-022 be removed or clearly represented as future?
+- **Status:** Open; Fall directory established by DEC-065 and schedules updated by DEC-066, but governance and end-to-end testing remain unresolved
+- **Question:** What approved destination should each public call to action use, what participant path should each active offering provide, and what owners, response, consent, capacity, redirection, and test evidence govern those paths? Run Club and the Young Adults City Group are active under DEC-065; Youth City Group remains deferred.
 
 ## Entry Templates
 

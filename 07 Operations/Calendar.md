@@ -21,28 +21,31 @@
 | August 25, 2026 | Team Night | **Past; outcome review required** | Planned as the final pre-launch Team Night opportunity; actual execution and follow-up are not recorded |
 | September 20, 2026 | Golden City Church public launch | **Completed** | Launch Sunday went smoothly; the church is established in Broomfield, Colorado. 16 connection-card responses expressed interest in participating in Groups Ministry |
 | October 4, 2026 | **Group Launch Day** | **Past; outcome review required** | Nine cards and QR destinations were prepared, but the repository does not record which groups presented, aggregate outcomes, or the October 11 second-presentation need (BWR-028) |
-| October 6, 2026 (Tuesday) | Men's Collective begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates\|DEC-066]]); readiness incomplete** | Every other Tuesday, 6:30pm, Broomfield (144th & Zuni) area; leader-path completion, participant-path testing, and final approval remain open |
-| October 7, 2026 (Wednesday) | Erie City Group begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Wednesdays 6:00–8:00pm |
-| October 11, 2026 | Optional second lobby presentation | **Confirmed option** | Groups that still have many open spots after October 4 may present again (DEC-051) |
-| October 11, 2026 (Sunday) | Lafayette City Group begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Every other Sunday, 12:00–1:30pm |
-| October 11, 2026 (Sunday evening) | First Weekly Recap posted for leaders | **Planned (Paul, October 7); depends on Russ's October 11 script** | From the October 11 message; posted as a PDF in the All Group Leaders chat. Recaps then come every Sunday evening, with 5:00 and 8:00 PM reminders ([[07 Operations/Workflows/Weekly Recap Production\|Weekly Recap Production]], BWR-030) |
-| October 12, 2026 (Monday) | Planted Bible Club begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates\|DEC-066]]); final readiness open** | Weekly, Mondays 6:30–8:00pm for twelve weeks, Broomfield (120th & Interlocken) area; venue confirmation (BWR-018), participant path, testing, and final approval remain incomplete |
-| October 13, 2026 (Tuesday) | Women's Collective begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates\|DEC-066]]); readiness incomplete** | Every other Tuesday, 6:30pm, Broomfield (144th & Zuni) area; leader-path completion, participant-path testing, and final approval remain open |
-| October 14, 2026 (Wednesday) | Broomfield City Group begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Wednesdays 7:00–8:30pm |
-| October 16, 2026 (Friday) | Thornton City Group begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Every other Friday, 6:00–8:00pm |
-| October 20, 2026 (Tuesday) | Westminster City Group (Young Adults) begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Tuesdays 7:00–8:30pm, Westminster (100th & Summit) area (DEC-066) |
+| October 6, 2026 (Tuesday) | Men's Collective scheduled start | **Occurred as an introductory gathering, reported by Paul October 13; readiness documentation incomplete** | Every other Tuesday, 6:30pm, Broomfield (144th & Zuni) area; leader-path completion, participant-path testing, safeguards, and final approval remain open |
+| October 7, 2026 (Wednesday) | Erie City Group scheduled start | **Past; first-gathering outcome not recorded** | Weekly, Wednesdays 6:00–8:00pm; BWR-010 carries appointment, readiness, and actual-launch reconciliation |
+| October 11, 2026 | Optional second lobby presentation | **Past; outcome not recorded** | BWR-028 carries whether the option was used and the aggregate result |
+| October 11, 2026 (Sunday) | Lafayette City Group scheduled start | **Past; first-gathering outcome not recorded** | Every other Sunday, 12:00–1:30pm; BWR-010 carries appointment, readiness, and actual-launch reconciliation |
+| October 11, 2026 (Sunday evening) | First Weekly Recap planned for leaders | **Draft exists; human approval and posting are not recorded** | The October 11 *Joy* recap remains `Draft`. Sunday production continues under [[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]] and BWR-030 |
+| October 12, 2026 (Monday) | Planted Bible Club scheduled start | **Past; first-gathering outcome and final readiness not recorded** | Weekly, Mondays 6:30–8:00pm for twelve weeks, Broomfield (120th & Interlocken) area; venue confirmation, participant path, testing, and final approval remain incomplete (BWR-011, BWR-018) |
+| October 13, 2026 (Tuesday) | Women's Collective scheduled start | **Past; first-gathering outcome not recorded** | Every other Tuesday, 6:30pm, Broomfield (144th & Zuni) area; leader-path completion, participant-path testing, safeguards, and final approval remain open |
+| October 14, 2026 (Wednesday) | Broomfield City Group scheduled start | **Past; first-gathering outcome not recorded** | Weekly, Wednesdays 7:00–8:30pm; BWR-010 carries appointment, readiness, and actual-launch reconciliation |
+| October 16, 2026 (Friday) | Thornton City Group scheduled start | **Past; first-gathering outcome not recorded** | Every other Friday, 6:00–8:00pm; BWR-010 carries appointment, readiness, and actual-launch reconciliation |
+| October 20, 2026 (Tuesday) | Men's Collective Galatians Session 1 | **Scheduled by Paul; participant handout approved** | The teaching assignment remains unconfirmed; resource progress does not establish operational readiness (BWR-029) |
+| October 20, 2026 (Tuesday) | Westminster City Group (Young Adults) begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Tuesdays 7:00–8:30pm, Westminster (100th & Simms) area (DEC-066, corrected by DEC-068); co-led by Bobby Pascale and Dominique Simon |
+| October 27, 2026 (Tuesday) | Women's Collective Galatians Session 1 | **Scheduled by Paul; participant handout approved** | The teaching assignment remains unconfirmed; resource progress does not establish operational readiness (BWR-029) |
 | Early November 2026, date TBD | First Group Leader Collaboration | **Confirmed; date open** | A dinner for all current leaders about one month after Group Launch Sunday, to hear how their groups went (DEC-056, BWR-031) |
 | November 7, 2026 (Saturday) | Run Club begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Saturdays 7:00–9:00am; co-ed, ages 18 and up |
 
 ## Pending Milestones
 
 - Group Launch Day outcome and October 11 second-presentation decision
+- Actual first-gathering outcomes for Erie, Lafayette, Broomfield, Thornton, Women's Collective, and Planted
 - Completion of City Group leader discernment and appointment evidence
 - Leader training
 - Group assignments and location confirmation
 - Leader commissioning
 - Final launch-readiness review
-- Planted venue confirmation; a future on-site Collective location
+- Planted venue confirmation and complete calendar; a future on-site Collective location
 
 Dates, owners, and approval status for these milestones remain unresolved.
 

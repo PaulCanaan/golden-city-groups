@@ -116,7 +116,7 @@ As the church begins, the aim is to help as many people as possible into groups.
 
 ## Possible City Group Expressions
 
-Run Club (Jeremy & Glenys Parker) and a Young Adults City Group (the Westminster group, Bobby Pascale) are published as Fall 2026 City Groups ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). A Youth City Group remains deferred (DEC-022) and would first need the DEC-028 safeguards for minors.
+Run Club (Jeremy & Glenys Parker) and a Young Adults City Group (the Westminster group, Bobby Pascale and Dominique Simon under DEC-068) are published as Fall 2026 City Groups ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]). A Youth City Group remains deferred (DEC-022) and would first need the DEC-028 safeguards for minors.
 
 ## Boundaries
 

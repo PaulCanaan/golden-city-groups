@@ -58,7 +58,7 @@ Bible Clubs contribute:
 - Prayer and faithful response to the biblical text
 - Growth in reading Scripture with the church
 
-Planted is the first confirmed Bible Club offering. Paul will lead the twelve-week study, meeting Monday evenings from October 12, 2026 (DEC-066). Pastoral and theological curriculum review and required-materials review are complete. Its location, capacity, participant path, support role, complete session calendar, and final readiness approval remain open.
+Planted is the first confirmed Bible Club offering. Paul leads the twelve-week study scheduled for Monday evenings from October 12, 2026 (DEC-066). Pastoral and theological curriculum review and required-materials review are complete. The October 12 first-gathering outcome, specific venue, capacity, participant path, support role, complete session calendar, and final readiness approval remain open.
 
 Under DEC-054, Planted is seeker- and new-believer-friendly and recurs every fall. In Spring 2027 the following curriculum may be *Covenant, Kingdom, and People of God*; that is planning direction, not an approved offering. People who complete Planted may be considered to lead it in the future, subject to DEC-027.
 

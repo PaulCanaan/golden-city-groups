@@ -2,9 +2,9 @@
 
 ## Document Status
 
-**Confirmed Bible Club with approved curriculum; Notion publishing and operating readiness are separate workstreams.** DEC-030, DEC-054, and DEC-065 govern a twelve-week Planted Bible Club led by Paul. Russ approved its current schedule on October 5 ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]): weekly on Mondays, 6:30–8:00pm, beginning October 12, 2026, with the published area Broomfield (120th & Interlocken). This replaces the Tuesday, October 6 start at Broomfield (144th & Zuni). The specific venue (BWR-018) and final readiness remain unresolved.
+**Confirmed Bible Club with approved curriculum; Notion publishing and operating readiness are separate workstreams.** DEC-030, DEC-054, and DEC-065 govern a twelve-week Planted Bible Club led by Paul. Russ approved its current schedule on October 5 ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]): weekly on Mondays, 6:30–8:00pm, beginning October 12, 2026, with the published area Broomfield (120th & Interlocken). This replaces the Tuesday, October 6 start at Broomfield (144th & Zuni). October 12 is past, but the repository does not record whether the first gathering occurred. The specific venue (BWR-018) and final readiness remain unresolved.
 
-Under DEC-054, Planted recurs every fall as the Bible Club's seeker- and new-believer-friendly curriculum, and people who complete it may be considered to lead it in the future (subject to DEC-027). Paul is preparing the study materials (DEC-055). Paul's September 25 minutes style the title *Planted.*, which bears on the naming question below.
+Under DEC-054, Planted recurs every fall as the Bible Club's seeker- and new-believer-friendly curriculum, and people who complete it may be considered to lead it in the future (subject to DEC-027). Paul is preparing the study materials (DEC-055). Its official name is *Planted.* Bible Study, and each fall's run is *Planted.* plus the year; Fall 2026 is *Planted.* 2026 ([[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070]]).
 
 Curriculum content was recorded here on September 22, 2026 from Paul's Session 0 introduction deck — see [[#Source|Source]]. Recording curriculum content does not change any readiness status. It did surface new operating requirements — venue floor space, supplies and allergens, a CCLI license check, and an alternative to the session's physical activity — which are now carried in [[#Remaining Readiness Needs|Remaining Readiness Needs]].
 
@@ -18,7 +18,7 @@ Supplied by Paul on September 22, 2026 as the approved description of the study.
 >
 > Like a seed planted in the ground, faith is meant to take root, rise into new life, grow over time, bear fruit, and plant again.
 
-**Naming:** Paul's description styles the title as *Planted.* with a closing period, and the Session 0 deck uses that styling throughout. Vault page titles and the public page currently use *Planted* without it. The stylization is not yet resolved; do not standardize either way without Paul's direction.
+**Naming:** The official name is ***Planted.* Bible Study**, with the closing period; the short form is *Planted.* plus the semester's year, such as *Planted.* 2026 ([[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070]], October 19, 2026). Public wordings such as "Planted Class" or "Bible class" are acceptable and need no correction, since Bible Club is where the ministry's classes live. Vault file names keep their current form.
 
 ## Source
 
@@ -186,7 +186,7 @@ Completion of Notion publishing does not establish operational readiness.
 
 ## Remaining Readiness Needs
 
-- Confirm the complete twelve-session calendar and holiday implications after the governing start is reconciled with the October 5 public change. This is also blocked on how the ten movements in [[#The Journey Ahead|The Journey Ahead]], the five chapters named in the curriculum overview, and twelve sessions relate to one another.
+- Reconcile the October 12 first-gathering outcome, then confirm the complete twelve-session calendar and holiday implications. This is also blocked on how the ten movements in [[#The Journey Ahead|The Journey Ahead]], the five chapters named in the curriculum overview, and twelve sessions relate to one another.
 - Record the four remaining [[#Recurring Frameworks|recurring frameworks]] so participant communication and the session calendar work from one source.
 - Russ is seeking an appropriate October classroom or venue; after confirmation, Paul completes room setup, capacity, and participant-path planning. **Give the venue search the room's real requirements:** open floor space for the four-quadrant Four Relationships activity, a circle that can hear itself, and a way to play music for worship. A room of rows will not run Session 0 as written.
 - Complete and verify the Notion publishing package and document any participant cost. Session 0 requires snacks and drinks as supplies, which carries both a cost and an allergen question.

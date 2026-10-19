@@ -38,6 +38,8 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056 — Group Leader Collaborations]]
 - [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal|DEC-061 — Uneven Group Dynamics Are Normal]]
 - [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063 — City Group and Collective Leader Guides]]
+- [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068 — Westminster City Group Co-Leader and Meeting Area]]
+- [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069 — Women's Collective Co-Leader Change]]
 - [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director|DEC-064 — Pastoral Availability of the Groups Ministry Director]]
 
 ### Operations
@@ -81,6 +83,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-049 — Belonging, Beholding, Becoming as Public-Facing Language|DEC-049 — Belonging, Beholding, Becoming as Public-Facing Language]]
 - [[08 Archive/Decisions/Decision History#DEC-050 — Rebuilt Public Groups Page (September 20, 2026)|DEC-050 — Rebuilt Public Groups Page (September 20, 2026)]]
 - [[08 Archive/Decisions/Decision History#DEC-057 — Groups Ministry Communication Channels|DEC-057 — Groups Ministry Communication Channels]]
+- [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070 — Planted Naming]]
 
 ### Technology & Systems
 
@@ -113,7 +116,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–067 (DEC-067 retains pending calendar details). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–070 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
 
 ### Confirmed in Part
 
@@ -151,22 +154,24 @@ DEC-039 and DEC-063.
 - [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location|DEC-058]] — superseded by DEC-060.
 - [[08 Archive/Decisions/Decision History#DEC-022 — Initial Launch Scope and Deferred Public Ideas|DEC-022]] — Run Club and Young Adults deferral superseded by DEC-065; Youth City Group remains deferred.
 - [[08 Archive/Decisions/Decision History#DEC-060 — Thursday Collective Schedules and On-Site Direction|DEC-060]] — Thursday schedules and locations superseded by DEC-066; on-site direction stands.
-- [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] — Collective, Planted, and Westminster details superseded by DEC-066.
+- [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] — Collective, Planted, and Westminster details superseded by DEC-066; Westminster and Women's leaders by DEC-068–069.
+- [[08 Archive/Decisions/Decision History#DEC-044 — Intended Collective Leadership Structure|DEC-044]] — Women's co-lead superseded by DEC-069.
+- [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]] — Westminster area corrected by DEC-068.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions begin with the October 13 Collective resource-development clarification and Galatians course plan:
+The ten most recent numbered decisions begin with the October 19 Planted naming direction and the Westminster and Women's Collective leadership changes:
 
-1. [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067 — Collective Resource Development and Galatians Course Plan]]
-2. [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066 — Fall 2026 Open Groups Schedule Updates]]
-3. [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065 — Fall 2026 Open Groups]]
-4. [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director|DEC-064 — Pastoral Availability of the Groups Ministry Director]]
-5. [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063 — City Group and Collective Leader Guides]]
-6. [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City|DEC-062 — City Groups as a Signature Ministry of Golden City]]
-7. [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal|DEC-061 — Uneven Group Dynamics Are Normal]]
-8. [[08 Archive/Decisions/Decision History#DEC-060 — Thursday Collective Schedules and On-Site Direction|DEC-060 — Thursday Collective Schedules and On-Site Direction]]
-9. [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059 — Group Launch Readiness Workflow]]
-10. [[08 Archive/Decisions/Decision History#DEC-058 — Women's Collective Start, Rhythm, and Location|DEC-058 — Women's Collective Start, Rhythm, and Location]]
+1. [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070 — Planted Naming]]
+2. [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069 — Women's Collective Co-Leader Change]]
+3. [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068 — Westminster City Group Co-Leader and Meeting Area]]
+4. [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067 — Collective Resource Development and Galatians Course Plan]]
+5. [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066 — Fall 2026 Open Groups Schedule Updates]]
+6. [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065 — Fall 2026 Open Groups]]
+7. [[08 Archive/Decisions/Decision History#DEC-064 — Pastoral Availability of the Groups Ministry Director|DEC-064 — Pastoral Availability of the Groups Ministry Director]]
+8. [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063 — City Group and Collective Leader Guides]]
+9. [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City|DEC-062 — City Groups as a Signature Ministry of Golden City]]
+10. [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal|DEC-061 — Uneven Group Dynamics Are Normal]]
 
 ## Supersession Map
 
@@ -217,6 +222,12 @@ DEC-022 (Run Club and Young Adults deferral)
 DEC-065
    ↓ Collective, Planted, and Westminster details superseded by
 DEC-066 (which also supersedes DEC-060's Thursday schedules and locations)
+   ↓ Westminster leader and area superseded / corrected by
+DEC-068
+
+DEC-044 (Women's intended co-lead) and DEC-065 (Women's leaders)
+   ↓ superseded by
+DEC-069
 ```
 
 Only the explicit supersession relationships recorded in the [[Decision Log#Chronological Decision Register|chronological register]] appear here.
