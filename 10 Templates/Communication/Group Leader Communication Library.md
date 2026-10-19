@@ -38,7 +38,7 @@ Use relational language with prospective leaders: **Group Leader Conversation**,
 
 Standard placeholders:
 
-`[First Name]` · `[Group Name]` · `[Date]` · `[Time]` · `[Location]` · `[Duration]` · `[Meeting Option 1]` · `[Meeting Option 2]` · `[Meeting Option 3]` · `[What to Bring / Preparation]` · `[Group Start Date]` · `[Planning Center / Public Listing]` · `[Leader Resources Link]` · `[Resource or Update]`
+`[First Name]` · `[Group Name]` · `[Date]` · `[Time]` · `[Location]` · `[Duration]` · `[Meeting Option 1]` · `[Meeting Option 2]` · `[Meeting Option 3]` · `[What to Bring / Preparation]` · `[Group Start Date]` · `[Planning Center / Public Listing]` · `[Leader Resources Link]` · `[Resource or Update]` · `[Area]` · `[Upcoming Leader Gathering]`
 
 ## Journey Map
 
@@ -49,7 +49,7 @@ Standard placeholders:
 | Step 2 — Interviewed | [[#Email — Ready to Move Forward\|Email next step]] · [[#Text — Ready to Move Forward\|Text next step]] · [[#Pending — Alternate Post-Conversation Outcomes\|Pending alternate outcomes]] |
 | Step 3 — Attended Training | [[#Email — Training Invitation\|Email invitation]] · [[#Text — Training Invitation / Reminder\|Text invitation/reminder]] · [[#Email — Leader Resources / What We Provide\|Leader resources]] |
 | Step 4 — Small Group Launched | [[#Email — Ready to Launch\|Email readiness confirmation]] · [[#Text — Launch Encouragement\|Launch encouragement]] · [[#Text — First Gathering Check-In\|First-gathering check-in]] |
-| Ongoing support | [[#Email — Leader Check-In\|Email check-in]] · [[#Text — Leader Check-In\|Text check-in]] · [[#Text — Leader Encouragement\|Encouragement]] |
+| Ongoing support | [[#Email — Leader Check-In\|Email check-in]] · [[#Text — Leader Check-In\|Text check-in]] · [[#Text — Leader Encouragement\|Encouragement]] · [[#Text — Group Waiting for Members\|Group waiting for members]] |
 
 ## Step 0 — Interest Submitted
 
@@ -420,6 +420,20 @@ Golden City Church
 - **Status:** Canonical
 
 > Hey [First Name], grateful for the way you're serving and caring for people. Here's [Resource or Update] for your next gathering. Let me know what questions come up or how I can help.
+
+### Text — Group Waiting for Members
+
+- **Stage:** Ongoing support
+- **Channel:** Text
+- **Purpose:** Encourage a leader whose group no one has joined yet, and invite them into another group while they wait.
+- **Trigger:** After a group launch, a City Group still has no one signed up ([[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075]]; [[07 Operations/Workflows/Group Launch Readiness#When No One Has Joined Yet|When No One Has Joined Yet]]).
+- **Owner:** Groups Director
+- **Variables:** `[First Name]`, `[Area]`; optional `[Upcoming Leader Gathering]`
+- **Status:** Canonical; first written for two City Groups in October 2026
+
+> Hi [First Name]! Just wanted to check in. I know no one has signed up for your group yet, and that's totally okay. A lot of people checking out groups right now don't live in [Area] yet. It's just part of being a small church. Your group will stay open, and you can start whenever people join. We'll keep promoting groups on social media and during announcements. In the meantime, we'd love for you to join another City Group so you can still belong and do life together while you wait. Let me know if you'd like help finding one! [Optional: Also, save the date for [Upcoming Leader Gathering]. More details coming soon.] Thank you so much for leading, and look forward to seeing you!
+
+Send it personally, one leader or couple at a time, never in the leaders' group chat. Joining another group is an invitation, not a requirement.
 
 ## Fall 2026 Recruitment Example
 
