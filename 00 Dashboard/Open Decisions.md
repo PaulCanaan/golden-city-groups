@@ -63,10 +63,10 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 ### Governing Policies and Escalation Contacts
 
 - **Question:** Where will church-wide pastoral-care, safeguarding, reporting, and participant-data policies be maintained, and who are the primary and backup escalation contacts?
-- **Why unresolved:** DEC-028 approves minimum boundaries but explicitly leaves policy locations and contacts open.
+- **Why unresolved:** DEC-028 approves minimum boundaries but explicitly leaves policy locations and contacts open. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]] (October 3, 2026) names Russ as primary and Paul as backup pastoral contact and approves the [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]]. Church-wide policy locations and the mandatory-reporting procedure remain open, with the agreement's other open questions (BWR-041).
 - **Blocking impact:** Launch-blocking where an approved minimum boundary requires an escalation path.
 - **Expected decision owner:** Russ or designated pastoral authority, with staff implementation support.
-- **Sources:** [[Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]], [[08 Archive/Decisions/Decision History#OQ-006 — Pastoral Care and Safeguarding|OQ-006]].
+- **Sources:** [[Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]], [[08 Archive/Decisions/Decision History#OQ-006 — Pastoral Care and Safeguarding|OQ-006]], [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]].
 - **Decision support:** [[01 Governance/Safeguarding and Escalation Decision Brief|Safeguarding and Escalation Decision Brief]]; evidence in [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]].
 
 ### Leader Resources and SOP Research

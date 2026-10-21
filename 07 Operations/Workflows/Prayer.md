@@ -50,6 +50,6 @@ The approved leader facilitates prayer within the church's boundaries. Practices
 ## Connections
 
 - [[Leader Training]] — Includes prayer and escalation preparation.
-- [[Policies]] — Approved minimum confidentiality and safeguarding boundaries with implementation still developing.
+- [[GCC Group Leader Agreement]] — Approved confidentiality and prayer-request policies (Policies 5 and 6, DEC-077).
 - [[07 Operations/Workflows/Conflict]] — Prayer must not be used to avoid necessary repair or escalation.
 - [[07 Operations/Workflows/Leader Support Check-In]] — Leaders also receive prayer and pastoral support.

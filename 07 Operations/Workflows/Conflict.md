@@ -63,7 +63,7 @@ Leaders may facilitate ordinary discussion and relational repair within their ap
 
 ## Connections
 
-- [[Policies]] — Proposed minimum boundaries.
+- [[GCC Group Leader Agreement]] — Approved policies, including Policies 9 and 10 (DEC-077).
 - [[07 Operations/Workflows/Prayer]] — Prayer accompanies but does not replace action.
 - [[07 Operations/Workflows/Leader Support Check-In]] — Leaders should surface conflict early.
 - [[Leader Training]] — Conflict and escalation preparation is launch-blocking.

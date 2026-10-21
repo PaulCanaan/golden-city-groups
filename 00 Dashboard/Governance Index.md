@@ -102,6 +102,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-028 — Minimum Care, Safeguarding, and Participant-Data Boundaries|DEC-028 — Minimum Care, Safeguarding, and Participant-Data Boundaries]]
 - [[08 Archive/Decisions/Decision History#DEC-033 — Minimum Pastoral Formation and Prayer Baseline|DEC-033 — Minimum Pastoral Formation and Prayer Baseline]]
 - [[08 Archive/Decisions/Decision History#DEC-039 — Leader Resources and SOP Research Direction|DEC-039 — Leader Resources and SOP Research Direction]]
+- [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
 
 ### Governance
 
@@ -122,7 +123,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–076 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–077 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
 
 ### Confirmed in Part
 
@@ -167,18 +168,18 @@ DEC-039 and DEC-063.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions begin with Russ's approval of the six-session Galatians course and Collective gathering flow:
+The ten most recent numbered decisions begin with Russ's approval of the GCC Group Leader Agreement:
 
-1. [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]]
-2. [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075 — City Groups Waiting for Members]]
-3. [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards|DEC-074 — Standing Lobby Table Cards]]
-4. [[08 Archive/Decisions/Decision History#DEC-073 — Email as the Primary Participant Channel|DEC-073 — Email as the Primary Participant Channel]]
-5. [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page|DEC-072 — Groups Resources Page]]
-6. [[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071 — Groups Resource Design Standard]]
-7. [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070 — Planted Naming]]
-8. [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069 — Women's Collective Co-Leader Change]]
-9. [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068 — Westminster City Group Co-Leader and Meeting Area]]
-10. [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067 — Collective Resource Development and Galatians Course Plan]]
+1. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
+2. [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]]
+3. [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075 — City Groups Waiting for Members]]
+4. [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards|DEC-074 — Standing Lobby Table Cards]]
+5. [[08 Archive/Decisions/Decision History#DEC-073 — Email as the Primary Participant Channel|DEC-073 — Email as the Primary Participant Channel]]
+6. [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page|DEC-072 — Groups Resources Page]]
+7. [[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071 — Groups Resource Design Standard]]
+8. [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070 — Planted Naming]]
+9. [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069 — Women's Collective Co-Leader Change]]
+10. [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068 — Westminster City Group Co-Leader and Meeting Area]]
 
 ## Supersession Map
 

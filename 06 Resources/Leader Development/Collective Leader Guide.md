@@ -4,7 +4,7 @@
 
 **Draft role companion under the approved minimum standard; individual leadership and appointment remain open.** This guide applies shared Golden City Church resources to Men's and Women's Collectives without creating separate leadership policy.
 
-Under DEC-063 (September 30, 2026), this draft becomes the starting point for the **Men's and Women's Collective Guide**: the Groups Ministry's mission, vision, and values; what to expect; troubleshooting; mandatory reporting in emergencies; leader agreements; and church policies. The reporting and policy sections wait on the church's approved policies and escalation contacts (BWR-007, BWR-033).
+Under DEC-063 (September 30, 2026), this draft becomes the starting point for the **Men's and Women's Collective Guide**: the Groups Ministry's mission, vision, and values; what to expect; troubleshooting; mandatory reporting in emergencies; leader agreements; and church policies. The policy and leader-agreement sections now come from the [[GCC Group Leader Agreement]] (DEC-077); the mandatory-reporting procedure still waits on Russ's direction (BWR-041).
 
 ## Leader Responsibility
 
@@ -14,7 +14,7 @@ An appointed leader would steward the approved Collective purpose, gathering pla
 
 - Complete the approved discernment and role-specific preparation.
 - Confirm the schedule, location, capacity, content, safeguarding plan, and participant path.
-- Understand confidentiality limits and primary and backup escalation contacts.
+- Read and affirm the [[GCC Group Leader Agreement]], including confidentiality limits and the primary (Russ) and backup (Paul) pastoral contacts.
 - Verify the Church Center page, notifications, and approved communication channel.
 - Use the [[07 Operations/Workflows/First Meetings Checklist]] before the first gathering.
 
@@ -35,7 +35,7 @@ An appointed leader would steward the approved Collective purpose, gathering pla
 
 ## Approval Still Required
 
-DEC-027–029 resolve the minimum appointment and care standards and assign operational ownership. PRO-027 and PRO-030 must still resolve individual leaders, escalation contacts, readiness, and participant-system details.
+DEC-027–029 resolve the minimum appointment and care standards and assign operational ownership. DEC-077 names the pastoral contacts and approves the GCC Group Leader Agreement. PRO-027 and PRO-030 must still resolve individual leaders, readiness, and participant-system details.
 
 ## Connections
 
@@ -43,4 +43,4 @@ DEC-027–029 resolve the minimum appointment and care standards and assign oper
 - [[03 Groups/Collectives/Women's Collective|Women's Collective]]
 - [[10 Templates/Gatherings/Collective Gathering|Collective Gathering]]
 - [[Leader Training]]
-- [[Policies]]
+- [[GCC Group Leader Agreement]]

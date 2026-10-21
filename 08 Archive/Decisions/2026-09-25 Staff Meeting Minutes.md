@@ -117,7 +117,7 @@ The restatement surfaced six questions, carried as BWR-027. Paul answered them o
 | 3 | May the fellowship/discipleship ratios appear in public language? | **No.** They remain internal language and a ministry-design principle. | DEC-053 |
 | 4 | Is a City Group labeled "young adults" still a City Group, or the deferred Young Adults Group? | Young adults groups, Run Club, and a potential future Youth City Group all sit under City Groups for now. No fourth category, such as "Other Featured Groups," is created; one may come in the future. | DEC-052 |
 | 5 | How is a private-home location presented publicly? | Addresses and location details are never shown publicly. The website and table cards show only a rough location, such as "North Thornton." The full details are emailed to people who join. City Group hosts are free to create group chats for their groups (group text, GroupMe, Church Center, or similar) and share gathering details there. | DEC-051, DEC-057, DEC-058 |
-| 6 | Do leader-chosen resources need review, given the approved-material boundary in Group Boundaries? | Reconcile the conflict in favor of DEC-052: leaders are free to choose the materials their groups go through. | DEC-052; [[06 Resources/Leader Development/Policies\|Group Boundaries]] |
+| 6 | Do leader-chosen resources need review, given the approved-material boundary in Group Boundaries? | Reconcile the conflict in favor of DEC-052: leaders are free to choose the materials their groups go through. | DEC-052; [[06 Resources/Leader Development/GCC Group Leader Agreement\|Group Boundaries]] |
 
 ## Unresolved Implementation Items
 

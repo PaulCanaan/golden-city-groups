@@ -4,6 +4,8 @@
 
 **Pastoral decision brief for review with Russ; proposals and questions only.** This page does not establish church policy, legal duties, procedures, contacts, or readiness approval. See the evidence in the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]].
 
+**Update 2026-10-21:** [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]] approves the [[GCC Group Leader Agreement]] and names Russ as primary and Paul as backup pastoral contact. The church-wide policy locations, mandatory-reporting procedure, conduct and removal process, home standard, and data lifecycle discussed below remain open (BWR-007, BWR-041).
+
 ## Why This Requires Attention
 
 DEC-027, DEC-028, and DEC-033 provide a minimum boundary: leaders are appointed and prepared, do not promise absolute confidentiality, do not act as sole crisis responders, escalate urgent and significant concerns, confirm applicable safeguards, use role-based access, and keep sensitive details out of general systems. The repository still lacks the governing policy locations, named contacts, approved reporting/incident path, role-specific conduct and removal process, home/location standard, and participant-data lifecycle needed to implement that boundary.

@@ -49,7 +49,7 @@ The following is a **proposed launch curriculum framework**, adapted after revie
 - recognizing needs beyond the leader's role
 - approved crisis, abuse, safeguarding, and pastoral escalation procedures
 
-This module is launch-blocking. DEC-028 approves the minimum boundaries, but training cannot be finalized until the governing policy locations and primary and backup escalation contacts are confirmed.
+This module is launch-blocking. Teach it from the [[GCC Group Leader Agreement]] (DEC-077), which sets the policies and names Russ as primary pastoral contact and Paul as backup; leaders affirm the agreement's Leader Acknowledgement here. Contact numbers are given to leaders privately. Add the mandatory-reporting procedure and the agreement's other open answers once Russ gives them (BWR-041).
 
 ### 5. Relational Discipleship
 
@@ -95,7 +95,7 @@ Use [[07 Operations/Workflows/Leader Training Delivery|Leader Training Delivery]
 - [[07 Operations/Workflows/Prayer]]
 - [[07 Operations/Workflows/Conflict]]
 - [[Discipleship]]
-- [[Policies]]
+- [[GCC Group Leader Agreement]]
 - [[07 Operations/Workflows/Planning Center Groups]]
 
 ## Completion Standard

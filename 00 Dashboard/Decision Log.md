@@ -123,6 +123,7 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-074 | [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards\|Standing Lobby Table Cards]] | Confirmed; production pending | 2026-10-19 | Communication | — | — | Paul |
 | DEC-075 | [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members\|City Groups Waiting for Members]] | Confirmed | 2026-10-19 | Leadership | — | — | Paul (outreach); Russ (promotion) |
 | DEC-076 | [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts\|Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]] | Confirmed; Session 1–2 handouts drafted | Reported 2026-10-19 | Curriculum | DEC-067 (in part) | — | Paul (resources); Russ, Miranda, and Conner (operation) |
+| DEC-077 | [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement\|GCC Group Leader Agreement]] | Confirmed; contacts confirmed; Option B alcohol; named pastoral questions open | 2026-10-03 (reported 2026-10-21) | Safety & Care | — | — | Paul |
 
 ## Open Decisions
 

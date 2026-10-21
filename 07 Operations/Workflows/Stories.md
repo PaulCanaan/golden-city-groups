@@ -37,7 +37,7 @@ Use [[10 Templates/Records/Ministry Story|Ministry Story]] for non-identifying p
 
 ## Source Note
 
-Developed from the confidentiality and participant-data boundaries in [[Policies]], [[07 Operations/Workflows/Planning Center Groups]], [[07 Operations/Metrics|Metrics]], and PRO-026.
+Developed from the confidentiality and participant-data boundaries in [[GCC Group Leader Agreement]], [[07 Operations/Workflows/Planning Center Groups]], [[07 Operations/Metrics|Metrics]], and PRO-026.
 
 ## Connections
 

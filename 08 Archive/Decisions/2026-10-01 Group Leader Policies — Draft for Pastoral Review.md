@@ -2,7 +2,9 @@
 
 ## Document Status
 
-**Draft — not approved. Nothing on this page governs until Russ approves it.** Sent to Russ on October 1, 2026 as a Word review document with an Approve / Revise / Remove checkbox for each policy. Composed October 1, 2026 at Paul's request, for Russ's review before any policy is added to the City Group Guide or the Men's and Women's Collective Guide ([[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063]]). It develops the research direction in [[08 Archive/Decisions/Decision History#DEC-039 — Leader Resources and SOP Research Direction|DEC-039]] and builds on the approved minimum boundaries in [[08 Archive/Decisions/Decision History#DEC-028 — Minimum Care, Safeguarding, and Participant-Data Boundaries|DEC-028]], [[08 Archive/Decisions/Decision History#DEC-033 — Minimum Pastoral Formation and Prayer Baseline|DEC-033]], and [[06 Resources/Leader Development/Policies|Group Boundaries]].
+**Archived 2026-10-21 — approved; superseded by the [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]].** Russ approved all nineteen policies on 2026-10-03 ([[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]]), choosing Option B for Policy 14 and confirming Russ as primary and Paul as backup pastoral contact. Paul reported the approval on 2026-10-21. This page is kept as the review record and does not govern; the agreement holds the approved text and the questions still open.
+
+*Original status:* Draft — not approved. Nothing on this page governed until Russ approved it. Sent to Russ on October 1, 2026 as a Word review document with an Approve / Revise / Remove checkbox for each policy. Composed October 1, 2026 at Paul's request, for Russ's review before any policy is added to the City Group Guide or the Men's and Women's Collective Guide ([[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063]]). It develops the research direction in [[08 Archive/Decisions/Decision History#DEC-039 — Leader Resources and SOP Research Direction|DEC-039]] and builds on the approved minimum boundaries in [[08 Archive/Decisions/Decision History#DEC-028 — Minimum Care, Safeguarding, and Participant-Data Boundaries|DEC-028]], [[08 Archive/Decisions/Decision History#DEC-033 — Minimum Pastoral Formation and Prayer Baseline|DEC-033]], and [[06 Resources/Leader Development/GCC Group Leader Agreement|Group Boundaries]].
 
 **Applies to:** City Groups, Men's and Women's Collectives, and Bible Clubs (*Planted.*), including hosts, co-leaders, table leaders, and facilitators.
 
@@ -290,13 +292,13 @@ See also [[07 Operations/Workflows/Conflict|Conflict]] and [[02 Group Philosophy
 ## After Russ Reviews
 
 1. Paul records Russ's approval, with the date, as a decision in the [[00 Dashboard/Decision Log|Decision Log]].
-2. Approved policies move into the City Group Guide and the Men's and Women's Collective Guide (BWR-033), and into [[06 Resources/Leader Development/Policies|Group Boundaries]].
+2. Approved policies move into the City Group Guide and the Men's and Women's Collective Guide (BWR-033), and into [[06 Resources/Leader Development/GCC Group Leader Agreement|Group Boundaries]].
 3. Contacts are confirmed, and hotline numbers are verified, before any leader receives the guides.
 4. Leaders acknowledge the guides as part of preparation.
 
 ## Connections
 
-- [[06 Resources/Leader Development/Policies|Group Boundaries]] — approved minimum boundaries these policies build on.
+- [[06 Resources/Leader Development/GCC Group Leader Agreement|Group Boundaries]] — approved minimum boundaries these policies build on.
 - [[01 Governance/Safeguarding and Escalation Decision Brief|Safeguarding and Escalation Decision Brief]] — the pastoral decisions these policies depend on.
 - [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] — evidence and gaps.
 - [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] — starting point for the Men's and Women's Collective Guide.

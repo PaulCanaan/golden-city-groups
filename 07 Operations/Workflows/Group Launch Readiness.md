@@ -134,7 +134,7 @@ Run Club (Jeremy & Glenys Parker) and a Young Adults City Group (the Westminster
 - Sending the form does not appoint anyone, and a Planning Center group does not prove readiness. The ready-to-lead decision belongs to Paul and Russ together.
 - Never publish an address or detailed location. Leaders share details privately with members.
 - Keep conversation notes, discernment details, and participant information in the restricted system, never here.
-- Safeguarding policy locations and escalation contacts remain open (BWR-007). The DEC-028 minimum boundaries apply in the meantime, including confirming the applicable safeguards before groups meet in private homes.
+- The [[GCC Group Leader Agreement]] (DEC-077) governs and names Russ as primary and Paul as backup pastoral contact. Church-wide safeguarding policy locations remain open (BWR-007), and so do the agreement's other questions, including child-safety requirements and home-gathering insurance (BWR-041). Applicable safeguards are still confirmed before groups meet in private homes (DEC-028; Policy 13).
 
 ## Connections
 

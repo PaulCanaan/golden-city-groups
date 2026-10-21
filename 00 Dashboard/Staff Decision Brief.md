@@ -65,13 +65,15 @@ Russ or his designated pastor appoints or removes primary leaders and instructor
 
 ## PRO-026 — Pastoral Care, Safeguarding, and Participant Data
 
-- **Approval status:** Partially confirmed August 5, 2026 under DEC-028; policies and escalation contacts remain open
+- **Approval status:** Partially confirmed August 5, 2026 under DEC-028. Primary and backup contacts and the group leader policies confirmed October 3, 2026 under DEC-077; church-wide policy locations remain open
 - **Launch priority:** Launch-blocking
 - **Decision needed:** Identify the governing church policies and approve minimum boundaries for care, reporting, home meetings, minors, vulnerable people, emergencies, confidentiality, and participant information.
 - **Why it matters:** People should receive compassionate care without leaders promising secrecy, acting beyond their role, or storing sensitive information in inappropriate systems.
 - **Formation relationship:** Faithful belonging requires safety, truth, accountability, and appropriate pastoral care.
 
 **Evidence update — August 10:** The [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|gap audit]] found an approved minimum boundary but no located church-wide policy set, named escalation contacts, approved incident/reporting path, role-specific misconduct process, home/location standard, or complete participant-data lifecycle. Absence from this repository does not prove that a church policy does not exist.
+
+**Evidence update — October 21:** Paul reported that Russ approved all nineteen group leader policies on October 3, with Russ as primary and Paul as backup pastoral contact ([[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]]; [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]]). Church-wide policy locations and the reporting procedure remain open (BWR-007, BWR-041). The recorded-direction checklist below is the August 5 record and is left as it was.
 
 ### Recommended minimum direction
 

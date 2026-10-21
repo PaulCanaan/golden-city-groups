@@ -69,7 +69,7 @@ Each practice was evaluated against:
 - [[07 Operations/Workflows/Prayer]] — prayer practice with pastoral boundaries
 - [[07 Operations/Workflows/Conflict]] — healthy discussion, repair, and escalation
 - [[Discipleship]] — relational next steps through Belonging, Beholding, and Becoming
-- [[Policies]] — approved minimum boundaries with church-wide policy implementation still open
+- [[GCC Group Leader Agreement]] — GCC's own approved leader agreement (DEC-077); church-wide policy sources remain open
 - [[10 Templates/Gatherings/Icebreakers]] — low-pressure conversation prompts
 - [[CoJourner]] — approved GCC leader-development pathway
 

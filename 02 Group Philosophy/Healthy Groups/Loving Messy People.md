@@ -75,7 +75,7 @@ Under DEC-028, leaders offer prayer, presence, practical care, and pastoral conn
 
 **Escalate immediately, without attempting ordinary conflict resolution**, when there is imminent danger, suspected abuse, threats of harm, stalking, coercion, harassment, illegal activity, a safeguarding concern, or any crisis beyond the leader's role. Use the church-approved reporting and pastoral escalation process. [[07 Operations/Workflows/Conflict|Conflict and Difficult Conversations]] holds the full boundary, including what leaders must never do.
 
-**Still unresolved and needed before this is usable in a real moment:** the governing policy locations and the primary and backup escalation contacts remain open under DEC-028 and are carried in the review queue. A leader facing a genuine crisis needs a name and a number, and the ministry does not yet have one to give.
+A leader facing a genuine crisis needs a name and a number. The [[GCC Group Leader Agreement]] (DEC-077) now gives one: call 911 first in an emergency, then Russ, with Paul as backup; the numbers reach leaders privately with their guide. **Still unresolved:** the church-wide policy locations and the mandatory-reporting procedure (BWR-007, BWR-041).
 
 ## Guardrails
 

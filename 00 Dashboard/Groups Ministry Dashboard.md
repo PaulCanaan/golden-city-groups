@@ -9,7 +9,7 @@ cssclasses:
 
 ## Dashboard Status
 
-**Executive control surface; not a governing decision record.** Last reconciled **October 19, 2026** through the current [[09 Reports/Biweekly Reviews/2026-10-19 Groups Ministry Biweekly Review|biweekly review]], using the October 5 repository pass as the comparison baseline while its human review remains in progress. DEC-067, first-gathering dates through October 16, the Weekly Recap drafts, and the Galatians resource package were inspected. Repository execution is complete; required Paul and Russ review remains in progress. The next review is November 2, 2026. Update governing sources before this dashboard when approved direction changes.
+**Executive control surface; not a governing decision record.** Last reconciled **October 19, 2026** through the current [[09 Reports/Biweekly Reviews/2026-10-19 Groups Ministry Biweekly Review|biweekly review]], using the October 5 repository pass as the comparison baseline while its human review remains in progress. DEC-067, first-gathering dates through October 16, the Weekly Recap drafts, and the Galatians resource package were inspected. Repository execution is complete; required Paul and Russ review remains in progress. The next review is November 2, 2026. Update governing sources before this dashboard when approved direction changes. Updated 2026-10-21 for DEC-077 (GCC Group Leader Agreement); not a review pass.
 
 **Primary users:** Paul, Ministry Director and ministry operator; Russ, Lead Pastor and final readiness approver.
 
@@ -57,11 +57,12 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - **Next review:** November 2, 2026 at 7:00 AM America/Denver
 - **Scheduler:** macOS job active; this occurrence began 1 hour, 59 minutes, and 52 seconds late. Repository evidence does not explain the delay.
 - **Queue:** [[00 Dashboard/Biweekly Review Queue|27 active items]] carried to November 2 (BWR-037–040 added from the October 19 staff meeting)
-- **Human input outstanding:** Paul — October 4/11 and first-gathering outcomes, aggregate pipeline and connection follow-up, Planted venue/readiness, Collective teaching/delivery, recap posting, participant schedule communication/profile cards, and Collaboration details; Russ — safeguarding contacts/policies, appointments and final readiness, participant-system governance, and the DEC-047/049 direct-email boundary
-- **Critical blockers:** Planted venue/outcome/calendar; tested participant paths; safeguarding contacts/policies; offering appointments/final readiness; Fall leader-preparation records; past event and first-gathering outcomes
+- **Human input outstanding:** Paul — October 4/11 and first-gathering outcomes, aggregate pipeline and connection follow-up, Planted venue/readiness, Collective teaching/delivery, recap posting, participant schedule communication/profile cards, and Collaboration details; Russ — church-wide safeguarding policy and the GCC Group Leader Agreement's open questions (BWR-041), appointments and final readiness, participant-system governance, and the DEC-047/049 direct-email boundary
+- **Critical blockers:** Planted venue/outcome/calendar; tested participant paths; church-wide safeguarding policy and reporting procedure; offering appointments/final readiness; Fall leader-preparation records; past event and first-gathering outcomes
 
 ## Next Actions
 
+- Paul: put the [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]] (DEC-077) into both leader guides and leader preparation, give leaders the contact numbers privately, and bring Russ the open questions (BWR-033, BWR-041).
 - Paul: record the non-sensitive October 4/11 and past first-gathering outcomes (BWR-008, BWR-010, BWR-011, BWR-028).
 - Paul and the Collective operators: confirm the Men's October 20 teaching assignment/delivery and keep Women's October 27 ready (BWR-029).
 - Paul and Russ: reconcile per-offering appointments, Fall preparation, safeguards, final-readiness decisions, and actual first gatherings; publication and passed dates are not enough (BWR-006–010).

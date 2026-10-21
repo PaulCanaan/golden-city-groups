@@ -59,4 +59,4 @@ The approved group leader is responsible for the participant experience; the hos
 - [[07 Operations/Workflows/First Meetings Checklist]] — Applies hospitality to launch preparation.
 - [[10 Templates/Gatherings/Icebreakers]] — Provides low-pressure conversation prompts.
 - [[05 Leadership/Hosts]] — Host requirements remain unconfirmed.
-- [[Policies]] — Proposed boundaries for safe and truthful group life.
+- [[GCC Group Leader Agreement]] — Approved policies for safe and truthful group life, including Policy 13 on homes (DEC-077).

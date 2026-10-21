@@ -36,8 +36,7 @@ Resources for discerning, preparing, and supporting approved leaders:
 - [[07 Operations/Workflows/Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
 - [[Collective Leader Guide]] — draft role companion for Men's and Women's Collective leaders; starting point for the Men's and Women's Collective Guide (DEC-063)
 - **City Group Guide** — to be developed under DEC-063 (BWR-033)
-- [[06 Resources/Leader Development/Group Leader Policies — Draft for Pastoral Review|Group Leader Policies — Draft for Pastoral Review]] — draft policies for common group situations, awaiting Russ's review before they enter the guides
-- [[Policies]] — approved minimum group boundaries with church-wide policy implementation still open
+- [[GCC Group Leader Agreement]] — the approved policies and minimum boundaries every group leader affirms (DEC-077); a few pastoral questions remain open. The pastoral review draft is archived at [[08 Archive/Decisions/2026-10-01 Group Leader Policies — Draft for Pastoral Review|2026-10-01 Group Leader Policies — Draft for Pastoral Review]]
 - [[Safeguarding and Escalation Resource Gap Audit]] — evidence, policy-location, escalation, data, and launch-blocker audit for pastoral review
 
 Role authority, appointment, and expectations are governed by [[Leadership Overview]] and [[05 Leadership/Group Leaders]], not by these resources alone.
@@ -53,7 +52,7 @@ DEC-039 directs the ministry to develop leader resources and standard operating 
 - volunteer care; and
 - incident response.
 
-For each topic, record the source, relevance to Golden City Church, proposed owner, required reviewer, approval status, and unresolved questions. Do not import another church's policy, state legal conclusions, or represent research notes as governing direction. Governing policies, escalation contacts, and final SOP approval remain open.
+For each topic, record the source, relevance to Golden City Church, proposed owner, required reviewer, approval status, and unresolved questions. Do not import another church's policy, state legal conclusions, or represent research notes as governing direction. The GCC Group Leader Agreement (DEC-077) now sets the group leader policies and names the escalation contacts; church-wide policy sources, the mandatory-reporting procedure, and final SOP approval remain open.
 
 ### Bible Clubs and Future Classes
 
@@ -111,7 +110,7 @@ Original external source files remain outside this repository. Golden City resou
 | lead sermon-based discussion | [[07 Operations/Workflows/Bible Study]] |
 | strengthen welcome and participation | [[07 Operations/Workflows/Hospitality]] |
 | guide prayer safely | [[07 Operations/Workflows/Prayer]] |
-| respond to conflict or a care concern | [[07 Operations/Workflows/Conflict]] and [[Policies]] |
+| respond to conflict or a care concern | [[07 Operations/Workflows/Conflict]] and [[GCC Group Leader Agreement]] |
 | support a leader after launch | [[07 Operations/Workflows/Leader Support Check-In]] |
 | administer a group in Church Center | [[07 Operations/Workflows/Planning Center Groups]] |
 | launch or close an offering | [[07 Operations/Workflows/Launch Checklist]] and [[Operation Overview]] |
@@ -121,7 +120,7 @@ Original external source files remain outside this repository. Golden City resou
 
 ## Resource Stewardship
 
-Paul currently owns resource development within confirmed church direction. DEC-027, DEC-028, and DEC-033 govern the approved minimum leadership, safeguarding, participant-data, and pastoral baselines. Russ or the appropriately delegated pastoral authority retains approval of their remaining policy implementation, disputed theological claims, and any resource explicitly marked as awaiting pastoral approval.
+Paul currently owns resource development within confirmed church direction. DEC-027, DEC-028, and DEC-033 govern the approved minimum leadership, safeguarding, participant-data, and pastoral baselines, and DEC-077 approves the GCC Group Leader Agreement built on them. Russ or the appropriately delegated pastoral authority retains approval of their remaining policy implementation, disputed theological claims, and any resource explicitly marked as awaiting pastoral approval.
 
 Before adding a new resource:
 

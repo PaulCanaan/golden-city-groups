@@ -51,7 +51,7 @@ The October 2 audit consolidated standalone operational procedures and extracted
 
 - [[07 Operations/Workflows/Group Launch MOC.canvas|Group Launch MOC]] remains the launch process map.
 - [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]] remains the sole recurring cadence.
-- [[06 Resources/Leader Development/Policies|Policies]] and the pastoral-review draft remain policy/guardrail resources, not newly approved SOPs.
+- The [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]] is approved policy (DEC-077) and a guardrail resource, not a workflow; the pastoral-review draft is archived.
 - [[06 Resources/Group Life/Prayer Requests|Prayer Requests]] has no approved record template; none is invented by this audit.
 - Historical reports and superseded procedures remain under 08 Archive and 09 Reports. Only their navigational links are reconciled; past outcomes are not rewritten.
 - The archived scaffold index still names Erie, Lafayette, and Northglenn files that are absent from this checkout. Preserve those historical references; this reorganization does not recreate inactive group pages.

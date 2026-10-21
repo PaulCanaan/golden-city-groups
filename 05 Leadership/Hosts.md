@@ -16,6 +16,7 @@ The DEC-027 minimum standard applies. No home or public meeting location should 
 
 ## Resources
 
+- [[GCC Group Leader Agreement#13. Meeting in Private Homes|GCC Group Leader Agreement, Policy 13]] — approved practices for hosts of home gatherings (DEC-077); the pending decisions above are not settled by it
 - [[Leader Training]]
 - [[City Groups Overview]]
 
