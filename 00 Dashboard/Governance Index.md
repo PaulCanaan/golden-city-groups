@@ -103,6 +103,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-033 — Minimum Pastoral Formation and Prayer Baseline|DEC-033 — Minimum Pastoral Formation and Prayer Baseline]]
 - [[08 Archive/Decisions/Decision History#DEC-039 — Leader Resources and SOP Research Direction|DEC-039 — Leader Resources and SOP Research Direction]]
 - [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
+- [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078 — Offerings and Support Raising in Groups]]
 
 ### Governance
 
@@ -123,7 +124,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–077 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–078 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
 
 ### Confirmed in Part
 
@@ -165,25 +166,30 @@ DEC-039 and DEC-063.
 - [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] — Collective, Planted, and Westminster details superseded by DEC-066; Westminster and Women's leaders by DEC-068–069.
 - [[08 Archive/Decisions/Decision History#DEC-044 — Intended Collective Leadership Structure|DEC-044]] — Women's co-lead superseded by DEC-069.
 - [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]] — Westminster area corrected by DEC-068.
+- [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]] — Policy 11 fundraising wording amended by DEC-078.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions begin with Russ's approval of the GCC Group Leader Agreement:
+The ten most recent numbered decisions begin with Russ's review of the GCC Group Leader Agreement:
 
-1. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
-2. [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]]
-3. [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075 — City Groups Waiting for Members]]
-4. [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards|DEC-074 — Standing Lobby Table Cards]]
-5. [[08 Archive/Decisions/Decision History#DEC-073 — Email as the Primary Participant Channel|DEC-073 — Email as the Primary Participant Channel]]
-6. [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page|DEC-072 — Groups Resources Page]]
-7. [[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071 — Groups Resource Design Standard]]
-8. [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070 — Planted Naming]]
-9. [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069 — Women's Collective Co-Leader Change]]
-10. [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068 — Westminster City Group Co-Leader and Meeting Area]]
+1. [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078 — Offerings and Support Raising in Groups]]
+2. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
+3. [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]]
+4. [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075 — City Groups Waiting for Members]]
+5. [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards|DEC-074 — Standing Lobby Table Cards]]
+6. [[08 Archive/Decisions/Decision History#DEC-073 — Email as the Primary Participant Channel|DEC-073 — Email as the Primary Participant Channel]]
+7. [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page|DEC-072 — Groups Resources Page]]
+8. [[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071 — Groups Resource Design Standard]]
+9. [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070 — Planted Naming]]
+10. [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069 — Women's Collective Co-Leader Change]]
 
 ## Supersession Map
 
 ```text
+DEC-077 (Policy 11 fundraising wording)
+   ↓ amended in part by
+DEC-078
+
 DEC-055 (Collective resource responsibility and course window)
    ↓ superseded / clarified in part by
 DEC-067

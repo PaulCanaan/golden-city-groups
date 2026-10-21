@@ -899,6 +899,19 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** The agreement governs leaders in all three branches, including hosts, co-leaders, table leaders, and facilitators. The former Group Boundaries page (`Policies.md`) is renamed and now holds both the boundaries and the policies. BWR-007's contacts are resolved. The City Group Guide and the Men's and Women's Collective Guide can carry the policy and leader-agreement sections (BWR-033), and Leader Training module 4 can be taught from it. The two hotline numbers were checked on October 21.
 - **Boundary:** This is not legal advice and does not decide who is a mandatory reporter. Where church-wide policies exist they govern and the agreement is conformed to them; none has been located yet (BWR-007). The review's other questions were not answered and stay open (BWR-041): incident record, reporting roles and procedure, vulnerable-adult resource, suicide-risk training, pastoral approach in abuse situations, referral list, benevolence and group collections, one-on-one strictness and who handles leader-conduct concerns, home-gathering insurance, child-safety requirements, known offense histories, and church-wide policies to conform to. Until each is answered, the approved policy text governs. The Leader Acknowledgement's wording was drafted on October 21 for Paul's review, and where completed acknowledgements are recorded is open. Phone numbers stay out of this repository. This decision appoints no one and establishes no offering's readiness.
 
+### DEC-078 — Offerings and Support Raising in Groups
+
+- **Decision:** Group leaders do not take up offerings for the group. Support raising through a group, such as for a mission trip, needs permission first. Russ gave both directions while reviewing the GCC Group Leader Agreement before Paul sends it to leaders, and otherwise replied "Looks good."
+- **Status:** Confirmed
+- **Date and approver:** October 21, 2026; Russ
+- **Domain:** Safety & Care
+- **Supersedes:** DEC-077 in part (Policy 11's flat "no fundraising" now admits support raising Russ has given permission for)
+- **Owner:** Paul
+- **Evidence:** Text exchange between Paul and Russ on October 21, 2026, supplied by Paul as a screenshot in the Groups OS session the same day. Paul asked Russ to review the agreement before sending it and said current and future leaders will be asked to sign the acknowledgement. Russ answered "Looks good" and added the offerings direction. Paul asked whether Policy 8 allows support raising for a mission trip; Russ answered, "The leader needs to ask permission for that."
+- **Context:** Russ named a case at another church where a group took up offerings as if it were a church. This record does not name that church or group.
+- **Implications:** Policy 8 adds both rules, and Policy 11 points to Policy 8 for approved support raising, in the [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]] and its leader PDF. Russ's review covers the agreement as written on October 21, including the Leader Acknowledgement wording Paul drafted. Paul builds the City Group Guide and the Men's and Women's Collective Guide next (BWR-033).
+- **Boundary:** Russ did not name who grants support-raising permission. The agreement routes the request to Russ, because Policy 8 already sends money matters to him. Collections for a member in need and the church's benevolence process remain open (BWR-041, question 7). The approved minimum boundary, which allows no offering or solicitation without church authorization, stands; for offerings, the leader rule is now stricter.
+
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 
 ## Open Questions

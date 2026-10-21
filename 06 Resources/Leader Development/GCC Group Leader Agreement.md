@@ -10,9 +10,11 @@ aliases:
 
 **Approved — governing, with named questions still open.** Russ approved all nineteen group leader policies on **2026-10-03** ([[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]]). Paul reported the approval on 2026-10-21, along with Russ's two choices: **Option B** for alcohol (Policy 14), and **Russ Daly as primary pastoral contact with Paul as backup**. Russ also agreed that leaders affirm this agreement as part of their preparation. At Paul's direction the ministry calls it the **GCC Group Leader Agreement** rather than "group policies." The review copy is preserved at [[08 Archive/Decisions/2026-10-01 Group Leader Policies — Draft for Pastoral Review|2026-10-01 Group Leader Policies — Draft for Pastoral Review]].
 
+**Reviewed by Russ 2026-10-21 ([[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078]]).** Before the agreement went to leaders, Paul sent it to Russ for review. Russ replied "Looks good" and added two directions: leaders do not take up offerings for the group, and support raising (for example, for a mission trip) needs permission first. Policies 8 and 11 now say so. Paul plans to ask current and future leaders to sign the Leader Acknowledgement.
+
 This page was formerly **Group Boundaries** (`Policies.md`). The approved minimum boundaries of [[08 Archive/Decisions/Decision History#DEC-027 — Minimum Leader, Host, and Instructor Standard|DEC-027]], [[08 Archive/Decisions/Decision History#DEC-028 — Minimum Care, Safeguarding, and Participant-Data Boundaries|DEC-028]], and [[08 Archive/Decisions/Decision History#DEC-033 — Minimum Pastoral Formation and Prayer Baseline|DEC-033]] stay here unchanged. The nineteen policies now sit beside them.
 
-**Confirmed:** the nineteen policies as written, Option B for alcohol, the primary and backup pastoral contacts, and leader affirmation of the agreement.
+**Confirmed:** the nineteen policies, Option B for alcohol, the primary and backup pastoral contacts, leader affirmation of the agreement (DEC-077), and the offerings and support-raising rules in Policies 8 and 11 (DEC-078).
 
 **Not yet decided:** the remaining questions Russ was asked in the review (see [[#Open Questions]], BWR-041). Until he answers one, the approved policy text governs. Nothing in that list loosens a policy.
 
@@ -171,11 +173,13 @@ See [[07 Operations/Workflows/Prayer|Prayer]].
 
 ### 8. Financial Needs and Requests for Money
 
-**Policy:** Leaders do not give or promise church funds. Requests for financial help go to the church's pastoral team.
+**Policy:** Leaders do not give or promise church funds, and they do not take up offerings for the group. Requests for financial help go to the church's pastoral team.
 
 **What leaders do:**
 
 - Listen with care and refer the person to **Russ (primary pastoral contact)**.
+- Do not take up offerings for the group. A group is part of the church's life, not a church of its own (DEC-078).
+- Support raising through the group, such as for a mission trip, needs permission first. Ask **Russ** before raising support (DEC-078).
 - A group may choose to bless someone together (a meal, groceries, a gift card), but leaders should not pressure members to give or collect money for anyone without church approval.
 - If someone asks multiple members for money, let the pastoral contact know.
 
@@ -215,7 +219,7 @@ See also [[07 Operations/Workflows/Conflict|Conflict]] and [[02 Group Philosophy
 - Choose material freely, and ask Paul if unsure whether something fits.
 - When a question comes up the leader cannot answer, say so and bring it to Paul or a pastor rather than guessing.
 - Do not invite outside speakers or teachers to lead the group without Paul's okay.
-- Do not use the group for political campaigning, fundraising, or selling products.
+- Do not use the group for political campaigning, fundraising, or selling products. Support raising that Russ has given permission for is the exception (Policy 8, DEC-078).
 
 ### 12. Leader Conduct and Appropriate Boundaries
 
@@ -304,7 +308,7 @@ See also [[07 Operations/Workflows/Conflict|Conflict]] and [[02 Group Philosophy
 
 ## Leader Acknowledgement
 
-Russ agreed that leaders affirm this agreement as part of their preparation (DEC-077). *The wording below was drafted on 2026-10-21 for Paul's review; it adds no requirement beyond the policies above.*
+Russ agreed that leaders affirm this agreement as part of their preparation (DEC-077). Paul drafted the wording below on 2026-10-21, and Russ reviewed the agreement with it the same day (DEC-078). Current and future leaders will be asked to sign it. It adds no requirement beyond the policies above.
 
 > I have read the GCC Group Leader Agreement. As I serve in a City Group, Collective, or Bible Club at Golden City Church, by God's grace I will:
 >
@@ -335,7 +339,7 @@ These came from the review document and were not answered when Russ approved the
 | 4 | Should leaders receive a short training segment on responding to suicide risk, before or soon after groups launch? | 3 | Policy 3 and the 988 Lifeline. |
 | 5 | Does the church have a pastoral approach to marriage counsel in abuse situations that leaders should know about? | 4 | Policy 4: safety first; never press a person to stay, reconcile, or stay silent. |
 | 6 | Does the church keep a list of trusted counselors or care resources? | 7 | Refer to a pastor or a qualified professional. |
-| 7 | Does the church have, or plan, a benevolence process? May groups take up their own collections for a member in need? | 8 | No collection without church approval; refer requests to Russ. |
+| 7 | Does the church have, or plan, a benevolence process? May groups take up their own collections for a member in need? | 8 | No collection without church approval; refer requests to Russ. Offerings and support raising are settled (DEC-078). |
 | 8 | Should the one-on-one guidance be stricter? Who handles concerns about a leader's conduct? | 12 | The written guidance; misconduct concerns go to Russ. |
 | 9 | Should the church confirm with its insurance provider whether off-site home gatherings are covered, and is there anything hosts need to know? | 13 | Policy 13 host practices. |
 | 10 | What child-safety requirements (screening, training, two-adult rule) apply to anyone supervising children at a gathering? | 15, 16 | No group-run childcare without approval; two-adult rule. |
@@ -360,6 +364,7 @@ When the Group Boundaries page was written, the ministry still needed a complete
 ## Connections
 
 - [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]] — the approval record.
+- [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078]] — Russ's review: offerings and support raising.
 - [[08 Archive/Decisions/2026-10-01 Group Leader Policies — Draft for Pastoral Review|Pastoral review draft (archived)]] — the document Russ reviewed.
 - [[Leader Training]] — leaders learn this agreement before they serve.
 - [[Collective Leader Guide]] — starting point for the Men's and Women's Collective Guide, which carries this agreement.
