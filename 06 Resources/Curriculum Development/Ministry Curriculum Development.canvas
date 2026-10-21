@@ -45,5 +45,9 @@
 		{"id":"phase-edge-structure","fromNode":"phase-research","fromSide":"right","toNode":"phase-structure","toSide":"left"},
 		{"id":"phase-edge-develop","fromNode":"phase-structure","fromSide":"right","toNode":"phase-develop","toSide":"left"},
 		{"id":"phase-edge-publish","fromNode":"phase-develop","fromSide":"right","toNode":"phase-publish","toSide":"left"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

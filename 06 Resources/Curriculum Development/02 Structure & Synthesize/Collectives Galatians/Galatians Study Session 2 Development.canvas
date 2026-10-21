@@ -18,11 +18,11 @@
 		{"id":"dates","type":"text","x":1820,"y":430,"width":500,"height":280,"color":"#D6B34B","text":"# Working dates\nMen’s Session 1: October 20, as Paul confirmed.\nWomen’s Session 1: October 27, moved by Paul.\nMen’s G01B: November 3.\nWomen’s G01B: November 10.\n\nG01B dates follow the next DEC-066 Tuesdays. They are not a full course calendar."},
 		{"id":"discussion","type":"text","x":1820,"y":750,"width":500,"height":300,"color":"#D96B6B","text":"# Discussion · original, pending Keller\nTwo questions each part, from the text, adapted by Collective.\n\nMen: competence, record, telling a brother the truth.\nWomen: approval, comparison, encouraging a sister by giving God glory.\n\nDo not attribute these sentences to Keller or Peterson."},
 		{"id":"production-status","type":"text","x":2420,"y":50,"width":500,"height":250,"color":"#9098A1","text":"# Export candidates · v0.1\nEditable masters and handouts in phase 03. PDFs are review candidates, not phase 04.\n\nCSB. Part 1/2. No timings or leader cues on the handout. Awaiting Paul’s review of synthesis, scripts, and pages."},
-		{"id":"mens-draft","type":"file","x":2420,"y":340,"width":500,"height":220,"color":"#9098A1","file":"06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Mens Galatians Session 2 Course Draft.md"},
-		{"id":"womens-draft","type":"file","x":2420,"y":600,"width":500,"height":220,"color":"#9098A1","file":"06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Womens Galatians Session 2 Course Draft.md"},
-		{"id":"synthesis-file","type":"file","x":2420,"y":860,"width":500,"height":200,"color":"#9098A1","file":"06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Session 2 Synthesis.md"},
-		{"id":"mens-pdf","type":"file","x":3020,"y":340,"width":480,"height":220,"color":"#9098A1","file":"06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Mens Galatians G01B 2026-11-03 Handout.pdf"},
-		{"id":"womens-pdf","type":"file","x":3020,"y":600,"width":480,"height":220,"color":"#9098A1","file":"06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Womens Galatians G01B 2026-11-10 Handout.pdf"}
+		{"id":"mens-draft","type":"file","x":2420,"y":340,"width":500,"height":220,"color":"#9098A1","file":"Groups Ministry/06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Mens Galatians Session 2 Course Draft.md"},
+		{"id":"womens-draft","type":"file","x":2420,"y":600,"width":500,"height":220,"color":"#9098A1","file":"Groups Ministry/06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Womens Galatians Session 2 Course Draft.md"},
+		{"id":"synthesis-file","type":"file","x":2420,"y":860,"width":500,"height":200,"color":"#9098A1","file":"Groups Ministry/06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Session 2 Synthesis.md"},
+		{"id":"mens-pdf","type":"file","x":3020,"y":340,"width":480,"height":220,"color":"#9098A1","file":"Groups Ministry/06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Mens Galatians G01B 2026-11-03 Handout.pdf"},
+		{"id":"womens-pdf","type":"file","x":3020,"y":600,"width":480,"height":220,"color":"#9098A1","file":"Groups Ministry/06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Superseded — Twelve-Session Plan/Womens Galatians G01B 2026-11-10 Handout.pdf"}
 	],
 	"edges":[
 		{"id":"exegesis-theology","fromNode":"passage","fromSide":"right","toNode":"gospel","toSide":"left"},
@@ -32,5 +32,9 @@
 		{"id":"women-design","fromNode":"womens-goals","fromSide":"right","toNode":"dates","toSide":"left"},
 		{"id":"flow-production","fromNode":"flow","fromSide":"right","toNode":"production-status","toSide":"left"},
 		{"id":"discussion-pdf","fromNode":"discussion","fromSide":"right","toNode":"mens-draft","toSide":"left"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

@@ -1,4 +1,11 @@
+---
+cssclasses:
+  - groups-os-dashboard
+---
 # Groups Ministry Dashboard
+
+> [!groups-dashboard-nav] Ministry workspace
+> [[Home|Home]] · [[00 Dashboard/Curriculum Board|Course board]] · [[00 Dashboard/Biweekly Review Queue|Review queue]] · [[00 Dashboard/Launch Readiness Dashboard|Readiness]] · [[00 Dashboard/Staff Decision Brief|Staff brief]]
 
 ## Dashboard Status
 

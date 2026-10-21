@@ -1,6 +1,49 @@
+---
+cssclasses:
+  - groups-os-home
+---
+![[06 Resources/Brand/groups-logo.png|145]]
+
 # Golden City Church Groups Ministry
 
 **Obsidian navigation hub.** For the repository overview and working agreements, see [[README]].
+
+> [!groups-hero] Belonging · Beholding · Becoming
+> [[00 Dashboard/Groups Ministry Dashboard|Ministry Dashboard]] · [[00 Dashboard/Curriculum Board|Curriculum Board]] · [[06 Resources/Curriculum Development/Ministry Curriculum Development.canvas|Workflow Canvas]]
+
+> [!groups-grid]
+>
+> > [!groups-operate] Ministry desk
+> > [[00 Dashboard/Groups Ministry Dashboard|Open the Dashboard]]
+> >
+> > [[00 Dashboard/Inbox|Inbox]] · [[00 Dashboard/Biweekly Review Queue|Review queue]] · [[07 Operations/Calendar|Calendar]]
+>
+> > [!groups-develop] Course studio
+> > [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|Collectives Galatians]] · [[06 Resources/Curriculum Development/02 Structure & Synthesize/Planted/Planted Development|Planted]]
+> >
+> > [[00 Dashboard/Curriculum Board|Open the course board]] · [[06 Resources/Curriculum Development/Ministry Curriculum Development|Development workflow]]
+>
+> > [!groups-think] Think & research
+> > [[06 Resources/Curriculum Development/01 Research & Brainstorm/README|Research inbox]] · [[06 Resources/Curriculum Development/Ministry Curriculum Development.canvas|Canvas workspace]]
+> >
+> > [[10 Templates/Records/Research Source|Source note template]] · [[10 Templates/Canvas/Curriculum Session Brainstorm.canvas|Brainstorm template]]
+>
+> > [!groups-people] People & groups
+> > [[03 Groups/City Groups/City Groups Overview|City Groups]] · [[03 Groups/Collectives/Men's Collective|Men's Collective]] · [[03 Groups/Collectives/Women's Collective|Women's Collective]]
+> >
+> > [[05 Leadership/Leadership Overview|Leader resources]] · [[04 Classes/Curriculum/Planted Bible Study|Planted Bible Club]]
+>
+> > [!groups-library] Resource library
+> > [[10 Templates/Templates Overview|Templates]] · [[06 Resources/Resources Overview|Resources]]
+> >
+> > [[06 Resources/Curriculum Development/04 Design & Publish/README|Reviewed resource library]] · [[07 Operations/Workflows/Groups OS Workbench|Workbench guide]]
+>
+> > [!groups-review] Decisions & review
+> > [[00 Dashboard/Decision Log|Decision register]] · [[00 Dashboard/Open Decisions|Open questions]]
+> >
+> > [[00 Dashboard/Staff Decision Brief|Staff brief]] · [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly review]]
+
+**New** creates a project, session, research note, or brainstorm Canvas. **Search** finds notes and indexed PDF text. **AI** opens the existing curriculum roles.
 
 ## Dashboard and Map
 

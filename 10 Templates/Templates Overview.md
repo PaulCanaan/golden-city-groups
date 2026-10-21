@@ -37,6 +37,9 @@ Find what to send, ask, or record under 10 Templates. Follow the associated [[07
 - [[10 Templates/Records/Curriculum Project|Curriculum Project]] — project brief, source/approval boundaries, session/resource links, and next action.
 - [[10 Templates/Records/Curriculum Session|Curriculum Session]] — one selected-content master from which session resources are derived; includes a bounded AI handoff.
 
+- [[10 Templates/Records/Research Source|Research Source]] — traceable Scripture/research inputs; QuickAdd creates local inbox notes.
+- [[10 Templates/Records/Zotero Research Import|Zotero Research Import]] — Zotero-only import template with a preserved personal-notes section; requires a working Zotero/Better BibTeX connection.
+
 ## Canvas
 
 - [[10 Templates/Canvas/Curriculum Session Brainstorm.canvas|Curriculum Session Brainstorm]] — copy into the curriculum Research & Brainstorm inbox for rough inputs; maintained project development maps live in Structure & Synthesize. Follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]].

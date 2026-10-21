@@ -127,5 +127,9 @@
 		{"id":"edge-archive-decisions","fromNode":"ad4ec70e94e0d010","fromSide":"bottom","toNode":"archive-decisions","toSide":"top"},
 		{"id":"edge-inbox-biweekly-review","fromNode":"operating-inbox","fromSide":"right","toNode":"operating-biweekly-review","toSide":"left","label":"process and file"},
 		{"id":"edge-biweekly-review-dashboard","fromNode":"operating-biweekly-review","fromSide":"right","toNode":"operating-dashboard","toSide":"left","label":"reconcile current status"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

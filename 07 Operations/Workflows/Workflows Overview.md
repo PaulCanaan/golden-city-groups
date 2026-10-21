@@ -37,6 +37,7 @@ Find how to carry out a ministry process in one place. Active workflow instructi
 | Support leaders | [[07 Operations/Workflows/Leader Support Check-In\|Leader Support Check-In]] | Proposed support rhythm; no new coaching layer |
 | Steward ministry stories | [[07 Operations/Workflows/Stories\|Stories]] | Draft process; consent/storage/publication rules remain open |
 | Administer approved groups end to end | [[07 Operations/Workflows/Planning Center Groups\|Planning Center Groups]] | Mixed confirmed/proposed platform procedure |
+| Use the Groups OS study workspace | [[07 Operations/Workflows/Groups OS Workbench\|Groups OS Workbench]] | Personal navigation, templates, local search, and existing AI-role handoffs; no new ministry cadence |
 
 ## Shared Workflow Structure
 
