@@ -1,5 +1,7 @@
 .DS_Store
 **/.DS_Store
+# Independent public website repository
+/06 Resources/Resources Page/
 /.review-runtime/
 /scripts/__pycache__/
 /11 Database/People Database/People/
