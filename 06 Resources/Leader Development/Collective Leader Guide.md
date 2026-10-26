@@ -6,14 +6,14 @@
 
 **Paul's review, 2026-10-26:**
 
-- **Teaching and discussion balance (Russ's direction, reported by Paul).** Russ wants a lighter teaching block, perhaps 15/15 or even 10/20 instead of 20/10, so leaders carry less of the teaching and more voices are heard. The split is not set, so the guide gives no timings. *Not yet recorded in the Decision Log. DEC-076 and the [[10 Templates/Gatherings/Collective Gathering|Collective Gathering template]] still show 20/10.*
+- **Teaching and discussion balance (Russ's direction, reported by Paul).** Russ wants a lighter teaching block, perhaps 15/15 or even 10/20 instead of 20/10, so leaders carry less of the teaching and more voices are heard. The split is not set, so the guide gives no timings. Recorded as [[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085]], amending DEC-076 in part; the [[10 Templates/Gatherings/Collective Gathering|Collective Gathering template]] now shows untimed blocks.
 - Context becomes **context and review**, so people who missed the last gathering or are new can pick up the study's focus quickly.
 - The three core elements and Russ's guiding question (DEC-083) stay in the City Group Guide and are left out here.
 - A meeting address may go on the Planning Center group profile, which only members see. Attendance wording speaks of disqualification, not failure. The seasonal rhythm (DEC-080) stays internal and is left out.
 
-**Confirmed:** Belonging, Beholding, Becoming and an adaptable gathering flow (DEC-082); S.O.A.P. and two teaching-and-discussion blocks (DEC-076); email as the main channel (DEC-073); Collaborations on first and third Saturday mornings (DEC-079); one-on-one support through Paul's sign-up calendar (DEC-064).
+**Confirmed:** Belonging, Beholding, Becoming and an adaptable gathering flow (DEC-082); S.O.A.P. and two teaching-and-discussion blocks (DEC-076), with lighter teaching (DEC-085); email as the main channel (DEC-073); Collaborations on first and third Saturday mornings (DEC-079); one-on-one support through Paul's sign-up calendar (DEC-064).
 
-**Not yet decided:** the exact teaching and discussion split; Collaboration times and locations (BWR-031); the agreement's open questions, including the mandatory-reporting procedure (BWR-041).
+**Not yet decided:** the exact teaching and discussion split (DEC-085); Collaboration times and locations (BWR-031); the agreement's open questions, including the mandatory-reporting procedure (BWR-041).
 
 **What this guide does not do:** it creates no policy, appoints no one, and makes no Collective ready. The agreement is the only policy source. The minimum standards (DEC-027–029) still apply, and appointment and readiness stay with Russ (DEC-021).
 

@@ -556,6 +556,7 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Boundary:** Design freedom does not waive the leader standard (DEC-027), care and safeguarding boundaries (DEC-028), or the prayer and formation baseline (DEC-033). Russ retains doctrinal authority under DEC-021, and new doctrinal claims or disputed teaching still move to pastoral review.
 - **Clarification — September 29, 2026 (Paul):** (1) Leaders are free to choose the materials their groups go through; no approval step applies to a leader's choice of resource. The approved-material wording in [[06 Resources/Leader Development/GCC Group Leader Agreement|Group Boundaries]] has been reconciled to this decision. (2) Young adults groups, Run Club, and a potential future Youth City Group all sit under City Groups for now. No fourth category, such as "Other Featured Groups," is created; one may be considered in the future. Source: [[2026-09-25 Staff Meeting Minutes#Clarifications|Paul's clarifications of September 29, 2026]].
 - **Classification boundary:** Placing these expressions under City Groups classifies them; it does not activate them. Run Club and Youth City Group remain deferred under DEC-022 until each has an accountable owner and completes readiness review. A Youth City Group would involve minors, so the DEC-028 safeguards for minors must be confirmed first. A possible future "Other Featured Groups" category is distinct from Freedom Groups (DEC-036) and is not approved.
+- **Amended in part — October 26, 2026:** [[#DEC-084 — Ministry Review of Chosen Group Material|DEC-084]] adds a ministry review of the leader's chosen material, through the City Group Profile, so the ministry directors are aware. The leader's choice and the absence of an approval step stand.
 
 ### DEC-053 — Branch Formation Emphases and Collective Gathering Shape
 
@@ -893,6 +894,7 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Context:** Paul reports that Men's Collective (October 6) and Women's Collective (October 13) have already gone through Galatians 1, so both first gatherings occurred. The pace was a lot faster than planned.
 - **Implications:** Session 1 is Galatians 1 (Men's October 6, Women's October 13) and is redone as a record of what was covered. Session 2 is Galatians 2: Men's on Tuesday, October 20, and Women's on Tuesday, October 27, replacing the approved Galatians 1:1–9 handouts planned for those dates. Sessions 3–6 cover Galatians 3–6 on the following alternating Tuesdays. The earlier Session 1 handouts and the 1:10–24 drafts move to a Superseded folder and are kept. The [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] governs depth at one chapter per gathering. Separate Men's and Women's packages continue (DEC-067).
 - **Boundary:** Holiday skips, the dates of Sessions 3–6, and the end date are not set here. Teaching assignments remain unconfirmed. DEC-067's resource and operation roles and its Keller/Peterson source priorities stand. A drafted handout is not approved until Paul reviews it.
+- **Amended in part — October 26, 2026:** [[#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085]] shortens teaching and lengthens discussion inside each 30-minute block (15/15 or 10/20; the split is not set). The rest of this decision stands.
 
 ### DEC-077 — GCC Group Leader Agreement
 
@@ -970,6 +972,30 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Theological rationale:** Community, Scripture, and prayer keep group life attentive to Christ and dependent on the Holy Spirit, with faithful response in everyday life (DEC-002, DEC-033).
 - **Implications:** Apply across group environments, including summer and activity-based gatherings. Leaders retain DEC-052's freedom over design and materials within this baseline; City Groups need not become in-depth Bible studies.
 - **Boundary:** This is not a timed formula, a requirement to complete every question, or a promise that leaders can produce transformation. The three branches retain their distinct purposes. No new legal, safeguarding, appointment, or reporting policy is created.
+
+### DEC-084 — Ministry Review of Chosen Group Material
+
+- **Decision:** Group leaders keep the freedom to choose what their groups go through (DEC-052), and the chosen material goes through ministry review before the group starts. Leaders report it on the City Group Profile form they already complete before starting a group. The review keeps the ministry directors aware of what each group is studying so they can support the leader. It is not an approval step. Leaders are encouraged to choose intentionally, for the purpose of helping people grow in Christ, rather than picking material at random.
+- **Status:** Confirmed
+- **Date and approver:** October 26, 2026; Russ, reported by Paul.
+- **Domain:** Ministry Architecture
+- **Supersedes:** DEC-052 in part (adds a ministry review for awareness; the leader's choice and the absence of an approval step stand)
+- **Owner:** Paul (review); group leaders (reporting their material)
+- **Evidence:** Paul's report in the Groups OS session on October 26, 2026, while reviewing the City Group Guide draft: Russ "mentioned a review process today over the material the leaders choose for their groups"; leaders "still have the freedom to choose, but the material need[s] to go through ministry review first"; the existing group profile form carries it; and "the review process is only for the ministry director(s) to be aware." Filed in the [[2026-10-26 Staff Meeting Minutes#Follow-Up Direction Reported the Same Day|October 26 minutes addendum]].
+- **Implications:** Paul notes each group's chosen resource for the ministry directors when he reviews the City Group Profile ([[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]], step 3). The [[06 Resources/Leader Development/City Group Guide|City Group Guide]] asks leaders to choose on purpose and list their choice on the form; [[03 Groups/City Groups/City Groups Overview|City Groups Overview]] and the [[07 Operations/Workflows/Bible Study|Bible Study]] workflow say the same. The agreement's wording that no approval step applies to a leader's choice remains accurate and is unchanged.
+- **Boundary:** The review does not approve or reject material. Disputed teaching still moves to pastoral review under Russ (DEC-021). The ministry directors are not named beyond Paul. The form allows "Still Deciding" and leaves Resource Details optional, and how a later or changed choice reaches the review is not set. Collectives and *Planted.* use ministry-prepared resources and do not use the form.
+
+### DEC-085 — Lighter Teaching in Collective Study Blocks
+
+- **Decision:** Within each of the Collective gathering's two 30-minute blocks, teaching gets less time and discussion more than DEC-076's 20 minutes of exegesis and 10 of discussion. Russ named 15/15 or even 10/20, so leaders are not required to carry so much of the teaching and more voices in the group are heard. The blocks are described as teaching or devotional, then discussion; leader-facing guides give no minute timings.
+- **Status:** Confirmed direction; exact split not set
+- **Date and approver:** October 26, 2026; Russ, reported by Paul.
+- **Domain:** Curriculum
+- **Supersedes:** DEC-076 in part (the 20/10 split inside each block)
+- **Owner:** Paul (resources); Collective leaders (gathering operation)
+- **Evidence:** Paul's report in the Groups OS session on October 26, 2026, while reviewing the Collective Guide draft: "Russ wanted to change the 20/10 teaching/discussion block to 15/15 or even 10/20, so that the leaders are not required too much for the teaching responsibility and more voices in the groups can be heard." Filed in the [[2026-10-26 Staff Meeting Minutes#Follow-Up Direction Reported the Same Day|October 26 minutes addendum]].
+- **Implications:** The [[10 Templates/Gatherings/Collective Gathering|Collective Gathering]] template, [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P. Framework]], Collectives Galatians Development, the Curriculum Session template, and the Men's and Women's Collective pages show two 30-minute blocks without the 20/10 split. Teaching notes for upcoming sessions plan for the shorter teaching. At Paul's direction the [[06 Resources/Leader Development/Collective Leader Guide|Collective Guide]] gives no timings and calls the second step "context and review," so people who missed the last gathering or are new can pick up the study's focus.
+- **Boundary:** Whether blocks run 15/15, 10/20, or vary by session is not set. The 6:30–8:00 PM window, 20-minute check-in, 10-minute regroup, S.O.A.P. pattern, six sessions, and two-page handouts stand under DEC-076. Session 1 and 2 handouts already drafted are not revised by this record.
 
 ## Open Questions
 

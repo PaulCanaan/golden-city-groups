@@ -30,9 +30,9 @@ This brief and its maintained Canvas live in phase 02. Put permitted original in
 - **Canonical ministry context:** [[03 Groups/Collectives/Men's Collective|Men's Collective]] and [[03 Groups/Collectives/Women's Collective|Women's Collective]].
 - **Purpose:** Shared encouragement, mentorship, community, prayer, and biblical formation that lead to faithful response together.
 - **Scope / governing evidence:** All six chapters in six sessions, one chapter per gathering, for each Collective ([[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]], superseding DEC-067's twelve-gathering count). Galatians remains the shared study selected under DEC-055. Freedom is its larger theme; connections to the weekend Fruit of the Spirit series serve the text rather than determine the course.
-- **Gathering shape (approved by Russ):** 6:30–8:00 PM: 20 minutes of check-in; two 30-minute blocks of 20 minutes exegesis + 10 minutes discussion (breakout tables optional, depending on attendance); regroup for 10 minutes of final thoughts and prayer requests; pray out. The flow follows [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P.]]: from objective biblical truth to personal reflection and application. See [[10 Templates/Gatherings/Collective Gathering#Gathering Flow (6:30–8:00 PM)|Collective Gathering]].
+- **Gathering shape (approved by Russ):** 6:30–8:00 PM: 20 minutes of check-in; two 30-minute blocks of teaching, then discussion, with teaching kept lighter (15/15 or 10/20; DEC-085; breakout tables optional, depending on attendance); regroup for 10 minutes of final thoughts and prayer requests; pray out. The flow follows [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P.]]: from objective biblical truth to personal reflection and application. See [[10 Templates/Gatherings/Collective Gathering#Gathering Flow (6:30–8:00 PM)|Collective Gathering]].
 - **Notion:** Information and knowledge source. Link the actual course/source pages and source versions when available; the development system produces editable teaching resources and exports from that knowledge.
-- **Needed outputs / depth:** Separate dated Men's and Women's **two-page** participant handouts in the Weekly Recap's format: Last Session Review, Scripture (participants open their Bibles; the text is not printed), Part 1, Part 2, and Reflections and Close Prayer. Teaching notes for the two 20-minute exegesis blocks, and slides when needed. Both packages share the Galatians research and course sequence. Follow [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]] and the Complexity Gate.
+- **Needed outputs / depth:** Separate dated Men's and Women's **two-page** participant handouts in the Weekly Recap's format: Last Session Review, Scripture (participants open their Bibles; the text is not printed), Part 1, Part 2, and Reflections and Close Prayer. Teaching notes for the two short teaching parts (10–15 minutes each until DEC-085's split is set), and slides when needed. Both packages share the Galatians research and course sequence. Follow [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]] and the Complexity Gate.
 - **Priority:** Men's Session 2 (Galatians 2) is **Tuesday, October 20**; Women's Session 2 is Tuesday, October 27. Sessions 3–6 follow on the alternating Tuesdays; their dates and holiday skips are not set.
 - **Operational requirements:** Confirm teaching preparation, whether to use breakout tables given attendance, room arrangements, and printing. Particular worship practices, food, childcare, and unreported logistics remain separate matters.
 - **Final resource delivery:** No six-session handout is approved yet. Drafts and PDF candidates sit in phase 03; Paul's approved editions move to phase 04. Local library placement does not record external distribution.
@@ -80,8 +80,8 @@ For each study ID, record two package rows when production begins. Link shared r
 | Time | Movement | S.O.A.P. | Handout |
 |---|---|---|---|
 | 6:30–6:50 | Check-in | — | — |
-| 6:50–7:20 | Part 1: 20 minutes exegesis + 10 minutes discussion | Scripture → Observation | Last Session Review, Scripture, Part 1 and its Discuss questions |
-| 7:20–7:50 | Part 2: 20 minutes exegesis + 10 minutes discussion | Observation → Application | Part 2 and its Discuss questions |
+| 6:50–7:20 | Part 1: context and review, teaching, then discussion (15/15 or 10/20; DEC-085) | Scripture → Observation | Last Session Review, Scripture, Part 1 and its Discuss questions |
+| 7:20–7:50 | Part 2: teaching, then discussion (15/15 or 10/20; DEC-085) | Observation → Application | Part 2 and its Discuss questions |
 | 7:50–8:00 | Regroup: final thoughts, prayer requests, pray out | Application → Prayer | Reflections and Close Prayer |
 
 Breakout tables are optional, depending on attendance. Reading and transitions fit inside the blocks.
@@ -96,7 +96,7 @@ Breakout tables are optional, depending on attendance. Reading and transitions f
 | G02 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Womens Galatians G02 2026-10-27 Handout\|Women's Galatians 2 handout]] | October 27, 2026; v0.1 | Draft; original questions. Awaiting Paul |
 | G03–G06 | Not yet drafted | — | Draft each from the chapter when Paul is ready |
 
-Each source has a PDF candidate beside it in phase 03, rendered with `scripts/collective_handout.py` and checked at two letter-size pages. Teaching notes for the 20-minute exegesis blocks are not yet written for the six-session plan.
+Each source has a PDF candidate beside it in phase 03, rendered with `scripts/collective_handout.py` and checked at two letter-size pages. Teaching notes for the shorter teaching parts (DEC-085) are not yet written for the six-session plan.
 
 **Formation emphases carried forward:** Men's: receiving grace, honest brotherhood, and courage over fear of others' opinion. Women's: Christ-given identity, encouragement without comparison, and welcome at the table. These continue the Session 1 angles Paul reviewed; they are working pastoral angles, not universal gender claims.
 

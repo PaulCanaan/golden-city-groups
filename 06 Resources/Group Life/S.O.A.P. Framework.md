@@ -43,8 +43,8 @@ The Collective gathering moves from objective biblical truth to subjective perso
 | S.O.A.P. | In the gathering | In the handout |
 |---|---|---|
 | **Scripture** | Open Bibles to the chapter; notice its literary style and structure | Scripture: the passage, its genre, its movements, and words to watch |
-| **Observation** | Two teaching blocks of 20 minutes of exegesis | Part 1 and Part 2 teaching summaries, with Discuss questions that begin in the text |
-| **Application** | 10 minutes of discussion in each block, at tables when attendance calls for it | The second Discuss question in each part, and Reflections |
+| **Observation** | A short teaching or devotional in each of the two blocks (DEC-085) | Part 1 and Part 2 teaching summaries, with Discuss questions that begin in the text |
+| **Application** | Discussion in each block, with the larger share of its time, at tables when attendance calls for it | The second Discuss question in each part, and Reflections |
 | **Prayer** | Regroup for final thoughts and prayer requests, then pray out | Close Prayer |
 
 The [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] sets how deep each movement goes.

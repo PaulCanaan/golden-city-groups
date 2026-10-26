@@ -48,7 +48,7 @@ The same gate applies everywhere, but each branch sets the starting point differ
 
 ## Application: Galatians Refactor
 
-Paul is refactoring the Collectives Galatians study with the Complexity Gate, keeping it consistent with the Weekly Recap's visual style and question design (DEC-071). The pace is now six sessions, one chapter per gathering (DEC-076), which is where the gate does its work: how deep to go while keeping the pace. Each part keeps one teaching movement, about 130–180 words on the handout, and two Discuss questions; the 20-minute exegesis carries more, and anything that doesn't pass the gate moves to teaching notes. Track the work in [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|Collectives Galatians Development]].
+Paul is refactoring the Collectives Galatians study with the Complexity Gate, keeping it consistent with the Weekly Recap's visual style and question design (DEC-071). The pace is now six sessions, one chapter per gathering (DEC-076), which is where the gate does its work: how deep to go while keeping the pace. Each part keeps one teaching movement, about 130–180 words on the handout, and two Discuss questions; the spoken teaching carries more, though it is now kept short (DEC-085), and anything that doesn't pass the gate moves to teaching notes. Track the work in [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|Collectives Galatians Development]].
 
 ## Connections
 

@@ -6,11 +6,11 @@
 
 **Paul's review, 2026-10-26:**
 
-- **Material review (Russ's direction, reported by Paul).** Leaders still choose their material, and it goes through ministry review on the group profile form before the group starts. The review keeps the ministry directors aware; it is not an approval step. *Not yet recorded in the Decision Log; DEC-052's clarification still reads "no approval step applies."*
+- **Material review (Russ's direction, reported by Paul).** Leaders still choose their material, and it goes through ministry review on the group profile form before the group starts. The review keeps the ministry directors aware; it is not an approval step. Recorded as [[08 Archive/Decisions/Decision History#DEC-084 — Ministry Review of Chosen Group Material|DEC-084]], amending DEC-052 in part.
 - Community, prayer, and Scripture are called the three **core elements**, not non-negotiables, and are not attributed to Russ. His guiding question stays in this guide.
 - Food is encouraged, not required. A meeting address may go on the Planning Center group profile, which only members see. Attendance wording speaks of disqualification, not failure. The seasonal rhythm (DEC-080) stays internal and is left out.
 
-**Confirmed:** the core elements and Russ's question (DEC-083); Belonging, Beholding, Becoming and "In the city, for the city" (DEC-082); leader freedom over rhythm, day, time, and material (DEC-052); email as the main channel (DEC-073); Collaborations on first and third Saturday mornings (DEC-079); one-on-one support through Paul's sign-up calendar (DEC-064).
+**Confirmed:** the core elements and Russ's question (DEC-083); Belonging, Beholding, Becoming and "In the city, for the city" (DEC-082); leader freedom over rhythm, day, time, and material (DEC-052), with ministry review of the chosen material for awareness (DEC-084); email as the main channel (DEC-073); Collaborations on first and third Saturday mornings (DEC-079); one-on-one support through Paul's sign-up calendar (DEC-064).
 
 **Not yet decided:** Collaboration times and locations (BWR-031); the agreement's open questions (BWR-041).
 

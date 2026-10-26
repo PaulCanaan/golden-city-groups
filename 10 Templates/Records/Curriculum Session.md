@@ -44,7 +44,7 @@ For a Collective, name the particular male or female discipleship focus this gat
 
 Teaching Flow cards are yellow; Discussion cards are red. Preserve the branch's gathering purpose and realistic time.
 
-For a Collective study gathering, use [[10 Templates/Gatherings/Collective Gathering#Gathering Flow (6:30–8:00 PM)|the approved gathering flow]] and design **Part 1** and **Part 2**, each with 20 minutes exegesis and 10 minutes discussion, following S.O.A.P. Each gathering covers one chapter (DEC-076). Account for reading and transitions within the hour. Planted can use its own learning movements within the shared 90-minute envelope.
+For a Collective study gathering, use [[10 Templates/Gatherings/Collective Gathering#Gathering Flow (6:30–8:00 PM)|the approved gathering flow]] and design **Part 1** and **Part 2**, each a 30-minute block of teaching, then discussion, with teaching kept lighter (15/15 or 10/20; DEC-085), following S.O.A.P. Each gathering covers one chapter (DEC-076). Account for reading and transitions within the hour. Planted can use its own learning movements within the shared 90-minute envelope.
 
 | Movement | Text / selected content | Invitation or question | Timing and facilitation | Needed resource |
 |---|---|---|---|---|

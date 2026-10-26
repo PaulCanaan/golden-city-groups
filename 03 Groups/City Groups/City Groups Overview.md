@@ -18,7 +18,7 @@ Under DEC-052, each City Group leader designs the group, including:
 
 - **Frequency:** weekly or biweekly.
 - **Day and time.**
-- **Materials:** the Weekly Recap, a book of the Bible, a Christian book, a devotional, or another resource the leader prefers. Leaders are free to choose; no approval step applies.
+- **Materials:** the Weekly Recap, a book of the Bible, a Christian book, a devotional, or another resource the leader prefers. Leaders are free to choose, and they choose with purpose. They list the choice on the City Group Profile, and the ministry reviews it so the ministry directors are aware; no approval step applies (DEC-084).
 - **Group features:** descriptive labels such as young adults, young couples, or single moms. Labels help people find a group that fits them; they do not restrict who may join.
 
 A City Group need not begin meeting right after Group Launch Sunday; the leader may start one or two weeks later. The first several gatherings should focus mainly on getting to know the people who have joined. Paul communicates these expectations to leaders.

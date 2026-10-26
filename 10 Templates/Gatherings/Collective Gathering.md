@@ -4,6 +4,8 @@
 
 **Gathering template; flow approved by Russ, reported October 19, 2026 ([[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]]).** The flow below follows the S.O.A.P. framework and may still be adjusted after use and feedback. It does not establish appointments or complete the offering's remaining readiness records.
 
+**Amended October 26, 2026 ([[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085]]).** Teaching is lighter inside each 30-minute block, and discussion gets more of the time. Russ named 15/15 or even 10/20; the exact split is not set.
+
 ## Purpose and Ownership
 
 Provide a simple gathering shape for shared encouragement, Scripture, prayer, and faithful response. **Owner:** approved Collective leader with the relevant ministry owner. **Trigger:** an approved gathering is being prepared. **Inputs:** confirmed date/time/location, approved content, leaders/table arrangements, participant next step, and applicable safeguards.
@@ -20,16 +22,16 @@ DEC-053 records devotional teaching followed by discussion at breakout tables, w
 
 ## Gathering Flow (6:30–8:00 PM)
 
-Approved by Russ. It follows [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P.]] (Scripture, Observation, Application, Prayer), moving from objective biblical truth to personal reflection and application.
+Approved by Russ (DEC-076), with lighter teaching under DEC-085. It follows [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P.]] (Scripture, Observation, Application, Prayer), moving from objective biblical truth to personal reflection and application.
 
 | Time | Minutes | Movement | S.O.A.P. |
 |---|---|---|---|
 | 6:30–6:50 PM | 20 | Check in: catch up, welcome newcomers | — |
-| 6:50–7:10 PM | 20 | Part 1: exegesis | Scripture, Observation |
-| 7:10–7:20 PM | 10 | Part 1: discussion | Observation, Application |
-| 7:20–7:40 PM | 20 | Part 2: exegesis | Observation |
-| 7:40–7:50 PM | 10 | Part 2: discussion | Application |
+| 6:50–7:20 PM | 30 | Part 1: brief context and review of the last gathering, teaching or devotional, then discussion | Scripture, Observation, Application |
+| 7:20–7:50 PM | 30 | Part 2: teaching or devotional, then discussion | Observation, Application |
 | 7:50–8:00 PM | 10 | Regroup: final thoughts and prayer requests, then pray out | Prayer |
+
+**Keep teaching light.** In each block, teaching takes less time than discussion did under the original 20/10 split, so leaders carry less of the teaching and more voices are heard. Russ named 15/15 or even 10/20 (DEC-085). Until a split is set, plan teaching notes for 10–15 minutes. Context and review opens Part 1 so people who missed the last gathering or are new can pick up the study's focus; it matches the handout's Last Session Review.
 
 **Breakout tables are optional**, depending on the size of the attendance. Reading and transitions fit inside the blocks. The closing window does not settle a particular worship practice, music license, food, or childcare arrangement.
 
@@ -43,7 +45,7 @@ Approved by Russ. It follows [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.
 
 ## Feedback and Adjustment
 
-After actual study gatherings, record non-identifying feedback on teaching clarity, time needed for conversation, participation, and how the material served the intended formation goals. Paul and the operators can adjust the working flow and resources based on execution. Record actual timing separately from planned timing; keep cross-project questions within the existing biweekly review rather than creating another cadence.
+After actual study gatherings, record non-identifying feedback on teaching clarity, time needed for conversation, which teaching/discussion split served the group (DEC-085), participation, and how the material served the intended formation goals. Paul and the operators can adjust the working flow and resources based on execution. Record actual timing separately from planned timing; keep cross-project questions within the existing biweekly review rather than creating another cadence.
 
 ## Adaptation Note
 
@@ -58,4 +60,4 @@ This minimum template applies Golden City Church's adapted practices of welcome,
 ## Connections
 
 - [[07 Operations/Workflows/First Meetings Checklist|First Meetings Checklist]] — preparation and follow-through.
-- [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] — role companion and outstanding approvals.
+- [[06 Resources/Leader Development/Collective Leader Guide|Collective Guide]] — the leader guide's adaptable flow, preparation, and debrief.

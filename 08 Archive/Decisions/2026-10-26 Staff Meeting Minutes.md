@@ -6,7 +6,7 @@
 - **Approval:** Paul explicitly reports that all six items were discussed with and approved by Russ. This is a filed summary of his report, not a verbatim transcript.
 - **Owner:** Paul, Ministry Director, for implementation.
 - **Status:** Approved direction; tentative dates and unfinished implementation are identified below.
-- **Decision connections:** DEC-079–083 in the [[00 Dashboard/Decision Log|Decision Log]] and [[08 Archive/Decisions/Decision History|Decision History]].
+- **Decision connections:** DEC-079–085 in the [[00 Dashboard/Decision Log|Decision Log]] and [[08 Archive/Decisions/Decision History|Decision History]].
 
 ## 1 — Group Leader Collaboration
 
@@ -73,3 +73,11 @@ The City Group Guide includes **“In the city, for the city.”** Both guides h
 - Set exact seasonal dates, summer offerings, holiday adjustments, and CoJourner preparation within the approved pattern (BWR-042).
 - Reflect Planted's clarified audience and purpose in welcome and development work (BWR-043).
 - Existing policy questions, appointments, participant-path testing, and final-readiness requirements remain open where previously recorded.
+
+## Follow-Up Direction Reported the Same Day
+
+- **Source:** Paul's report in the Groups OS session later on October 26, 2026, while reviewing the City Group Guide and Collective Guide drafts. Paul reports both as Russ's direction from that day.
+
+**Material review.** Leaders still choose their group's material, and it goes through ministry review before the group starts, using the group profile form leaders already complete. The review is for the ministry directors' awareness, not approval. Leaders are encouraged to choose intentionally, for the purpose of helping people grow. **Decision:** DEC-084, amending DEC-052 in part.
+
+**Teaching and discussion balance.** Russ wants each Collective block's 20/10 teaching/discussion split changed to 15/15 or even 10/20, so leaders carry less of the teaching and more voices are heard. The exact split is not set. **Decision:** DEC-085, amending DEC-076 in part.
