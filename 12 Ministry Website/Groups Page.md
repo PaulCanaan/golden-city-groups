@@ -42,7 +42,7 @@ Every **Join Group** button links to that group's own Church Center page: the fo
 
 ## Direction and Changes
 
-- Paul confirmed that Russ has confirmed the branch-purpose and Belonging, Beholding, Becoming language, **but it is for group leader training only for now and must not be on the website**. This supersedes the earlier plan for a public language pass. The public branch names are City Groups, Collectives, and Bible Club.
+- Paul confirmed that Russ has confirmed the branch-purpose and Belonging, Beholding, Becoming language, **but it is for group leader training only for now and must not be on the website**. This supersedes the earlier plan for a landing-page language pass. DEC-082 (October 26) separately authorizes the formation framework in the two guides planned for the public resources page; the landing-page instruction remains. The public branch names are City Groups, Collectives, and Bible Club.
 - Paul explicitly included Lafayette in the published group set.
 - Collective rhythms corrected to DEC-060; the superseded Women's address and unsupported 7pm times removed.
 - Run Club and Youth City Group removed (DEC-022).

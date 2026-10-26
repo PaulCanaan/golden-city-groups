@@ -154,6 +154,10 @@ This is the posture the participant-facing [[10 Templates/Communication/Planted 
 
 Planted is a discussion-based Bible Club that cultivates sustained attention to Scripture, shared observation and interpretation, prayer, and faithful response. It should hold intellectual and spiritual formation together while preserving the facilitator-led Bible Club model.
 
+**Purpose clarified October 26, 2026 (DEC-081):** Russ wants Planted to help new believers and new members take root in Christian faith and Golden City's church community. In Belonging, Beholding, Becoming terms, the course welcomes people into shared church life, helps them attend to Christ in Scripture and prayer, and encourages faithful everyday response. Others remain welcome under DEC-054's seeker- and new-believer-friendly posture.
+
+Paul referenced Lakepointe's ten-week Rooted course in reporting the discussion. This is a comparison of purpose; no Rooted material has been supplied or adopted here. Planted remains the approved twelve-week Bible Club with its existing curriculum and fall recurrence. This clarification introduces no membership prerequisite or new enrollment requirement. Future welcome and development work should reflect the purpose (BWR-043); operating readiness remains separate.
+
 ## Curriculum Development
 
 Pastoral and theological curriculum review is complete. The curriculum should not be described as incomplete.

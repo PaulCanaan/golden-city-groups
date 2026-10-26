@@ -41,6 +41,8 @@ For Spring 2027, the primary objective is to expand intentional leader developme
 
 ## Timeline
 
+Use the approved [[07 Operations/Annual Rhythm/Annual Calendar#Approved Seasonal Rhythm|Annual Calendar seasonal rhythm]] (DEC-080). Plan February and September launches while leaving their likely first-week dates tentative until confirmed. Prepare for lighter June–August group participation, specific church summer classes, and the January prayer and fasting season. Keep community, prayer, and Scripture in activity-based gatherings (DEC-083). Reconcile CoJourner's pre-spring preparation with actual launch and holiday dates through BWR-019 and BWR-042.
+
 Confirmed dates appear in [[07 Operations/Calendar]]. All other milestones remain pending until assigned and approved.
 
 ## Notes

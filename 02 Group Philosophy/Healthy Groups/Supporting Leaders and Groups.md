@@ -6,7 +6,7 @@
 
 - **Leader resources** exist now in [[06 Resources/Resources Overview|Resources]].
 - **CoJourner** is the confirmed group-leader training architecture under DEC-045, targeted for completion before the Spring 2027 launch.
-- **Group leader collaborations** were approved by Russ and Paul on September 25, 2026 under [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]. The first is a dinner at Paul's home on Friday, October 30, 2026. Everything about them now lives in [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
+- **Group leader collaborations** were approved by Russ and Paul on September 25, 2026 under [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]. The first is a dinner at Paul's home on Saturday evening, November 7, 2026. Everything about them now lives in [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
 No coaching layer is established. Whether one becomes necessary is an open model question.
 
@@ -49,7 +49,7 @@ CoJourner does not replace role-specific preparation, safeguarding, assessment, 
 
 ### Group leader collaborations
 
-**Approved under DEC-056; the first one is Friday, October 30, 2026, a dinner hosted by Paul.** A collaboration is a space where group leaders share experience and learn from one another — not training, and not a check-in with the Groups Director. Only a collaboration produces knowledge the ministry did not already have, and only there does a leader discover that their hardest month is not unique to them.
+**Approved under DEC-056; the first one is Saturday evening, November 7, 2026, a dinner hosted by Paul.** A collaboration is a space where group leaders share experience and learn from one another — not training, and not a check-in with the Groups Director. Only a collaboration produces knowledge the ministry did not already have, and only there does a leader discover that their hardest month is not unique to them.
 
 Its purpose, how it differs from training and check-ins, its rhythm, boundaries, and gathering records live in [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
@@ -78,7 +78,7 @@ That is the argument for the church and the ministry staying connected to the gr
 
 ## Not Yet Decided
 
-- Group leader collaborations: rhythm (biweekly or monthly), dates, and location after the October 30 gathering (DEC-056; see [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]]).
+- Group leader collaborations: November 7 evening arrangements and future morning times, locations, and holiday exceptions; first/third Saturday cadence is approved (DEC-079; see [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]]).
 - Whether CoJourner applies to any Fall 2026 leader, and its facilitator, dates, and completion criteria (DEC-045).
 - At what ministry scale a formal coaching layer becomes necessary — an open question in the [[01 Governance/Ministry Model#Open Model Questions|Ministry Model]].
 - The support cadence itself, which remains an operational decision rather than policy.

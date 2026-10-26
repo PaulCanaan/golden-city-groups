@@ -2,13 +2,26 @@
 
 ## Document Status
 
-**Working index.** Only dates supported by the active decision register or a dated readiness decision are confirmed. Future-season pages are planning scaffolds.
+**Approved seasonal direction with exact dates still open.** Russ approved the future rhythm on October 26, 2026 (DEC-080). This page is the canonical operating summary; specific offerings and dates still follow the decision and readiness processes.
+
+## Approved Seasonal Rhythm
+
+| Window | Rhythm | Planning boundary |
+|---|---|---|
+| Spring | February launch; February–May semester | First-week launch is likely, not a confirmed date. Complete leader preparation before the actual launch. |
+| Summer | June–August | Expect lower commitment during travel season and encourage more activity-based gatherings. Community, prayer, and Scripture remain the baseline (DEC-083). The church will still offer some summer classes; specific offerings and dates need confirmation. |
+| Fall | September launch; September–early December semester | First-week launch is likely, not a confirmed date. Plan around the holiday season; exact closing and cancellation dates remain open. |
+| January | Church-wide 21 days of prayer and fasting | Groups may meet during this season or wait until spring launch. Exact church dates and each group's choice need communication. |
+
+Fall 2026 is a shorter first semester because of the church launch schedule. Preserve its September 20 church launch and October 4 Group Launch Day as historical dates rather than applying the future September pattern retroactively.
+
+This rhythm supports sustainable community and Christ-centered formation across City Groups, Collectives, and Bible Clubs. It does not approve a particular class, leader, venue, budget, or meeting schedule. Classes remain within the Bible Clubs development path. Implementation is tracked through BWR-042 and the existing semester-planning workflow.
 
 ## Current Planning Horizon
 
-- [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall and Winter 2026]] — active pre-launch and launch-season planning
-- [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]] — leader-development and multiplication planning
-- [[07 Operations/Annual Rhythm/2027/Summer 2027|Summer 2027]] — blocked planning scaffold
+- [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall and Winter 2026]] — shorter launch semester and transition into January
+- [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]] — February–May; leader development and exact launch planning
+- [[07 Operations/Annual Rhythm/2027/Summer 2027|Summer 2027]] — June–August; lighter activity-based group life and church summer classes
 
 ## Annual Review Pattern
 

@@ -77,6 +77,12 @@ Becoming is not synonymous with receiving a ministry title. Mature disciples may
 
 Under DEC-049, Belonging, Beholding, Becoming is public-facing ministry language rather than an internal framework only. It is introduced whenever the ministry's vision, mission, and values are shared, using the simple introduction recorded in [[02 Group Philosophy/Formation Framework/Belonging, Beholding, Becoming#Introducing the Framework Publicly|the Formation Framework]]. DEC-049 approves language, not doctrine; the commitments and guardrails in this document are unchanged.
 
+## Purposeful Group Life
+
+On October 26, Russ confirmed **community, prayer, and Scripture** as the non-negotiables of a Golden City group (DEC-083). His question, “What happens in your group that causes spiritual transformation?” keeps shared life directed toward Christ and faithful response. The Spirit brings growth; leaders make room for Scripture, prayer, care, and obedience without promising a particular emotional or circumstantial outcome. Activities and summer flexibility serve this purpose rather than displacing it.
+
+DEC-082 authorizes Belonging, Beholding, Becoming in the City Group and Collective guides planned for the public resources page. This resolves the October 1 website restriction for these guides; it does not authorize unrelated changes to the public Groups landing page.
+
 ## Integrated Formation
 
 The dimensions operate together:

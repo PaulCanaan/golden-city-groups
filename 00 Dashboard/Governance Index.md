@@ -12,6 +12,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 
 ### Ministry Architecture
 
+- [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083 — Community, Prayer, Scripture, and Purposeful Formation]]
 - [[08 Archive/Decisions/Decision History#DEC-002 — Central Formation Framework|DEC-002 — Central Formation Framework]]
 - [[08 Archive/Decisions/Decision History#DEC-003 — Groups and Classes as One Ministry|DEC-003 — Groups and Classes as One Ministry]]
 - [[08 Archive/Decisions/Decision History#DEC-008 — City Groups Model|DEC-008 — City Groups Model]]
@@ -26,6 +27,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 
 ### Leadership
 
+- [[08 Archive/Decisions/Decision History#DEC-079 — Collaboration Schedule and Saturday Rhythm|DEC-079 — Collaboration Schedule and Saturday Rhythm]]
 - [[08 Archive/Decisions/Decision History#DEC-006 — Groups and Classes Ministry Leadership|DEC-006 — Groups and Classes Ministry Leadership]]
 - [[08 Archive/Decisions/Decision History#DEC-012 — Initial Leader, Host, and Service Recruitment Path|DEC-012 — Initial Leader, Host, and Service Recruitment Path]]
 - [[08 Archive/Decisions/Decision History#DEC-018 — Initial City Group Leadership Pipeline|DEC-018 — Initial City Group Leadership Pipeline]]
@@ -68,6 +70,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 
 ### Curriculum
 
+- [[08 Archive/Decisions/Decision History#DEC-081 — Planted as a Foundation for New Believers and New Members|DEC-081 — Planted as a Foundation for New Believers and New Members]]
 - [[08 Archive/Decisions/Decision History#DEC-010 — Planted as the Planned Bible Club Offering|DEC-010 — Planted as the Planned Bible Club Offering]]
 - [[08 Archive/Decisions/Decision History#DEC-023 — First Planted Instructor and Course Window|DEC-023 — First Planted Instructor and Course Window]]
 - [[08 Archive/Decisions/Decision History#DEC-030 — Planted as a Twelve-Week Bible Club|DEC-030 — Planted as a Twelve-Week Bible Club]]
@@ -80,6 +83,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 
 ### Communication
 
+- [[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082 — Supportive Leader Guides and Other Resources Placement]]
 - [[08 Archive/Decisions/Decision History#DEC-014 — Public Groups Page Offering Set|DEC-014 — Public Groups Page Offering Set]]
 - [[08 Archive/Decisions/Decision History#DEC-015 — Published Fall 2026 Rhythms and Locations|DEC-015 — Published Fall 2026 Rhythms and Locations]]
 - [[08 Archive/Decisions/Decision History#DEC-037 — Groups Ministry Website Ownership|DEC-037 — Groups Ministry Website Ownership]]
@@ -112,6 +116,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 
 ### Strategy
 
+- [[08 Archive/Decisions/Decision History#DEC-080 — Annual Groups Seasonal Rhythm|DEC-080 — Annual Groups Seasonal Rhythm]]
 - [[08 Archive/Decisions/Decision History#DEC-004 — Approved Ministry Purpose|DEC-004 — Approved Ministry Purpose]]
 - [[08 Archive/Decisions/Decision History#DEC-035 — Long-Term Ministry Development Pathways|DEC-035 — Long-Term Ministry Development Pathways]]
 - [[08 Archive/Decisions/Decision History#DEC-036 — Freedom Groups as Future Featured Ministry|DEC-036 — Freedom Groups as Future Featured Ministry]]
@@ -124,7 +129,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–078 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–083 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
 
 ### Confirmed in Part
 
@@ -148,6 +153,9 @@ DEC-039 and DEC-063.
 
 ### Superseded or Superseded in Part
 
+- [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]] — first date and ongoing cadence amended by DEC-079.
+- [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page|DEC-072]] — guide placement amended by DEC-082.
+
 - [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055]] — Collective resource responsibility and course window superseded/clarified by DEC-067.
 - [[08 Archive/Decisions/Decision History#DEC-067 — Collective Resource Development and Galatians Course Plan|DEC-067]] — twelve-gathering count, separate introductions, and working agenda superseded in part by DEC-076.
 - [[08 Archive/Decisions/Decision History#DEC-023 — First Planted Instructor and Course Window|DEC-023]] — superseded in part by DEC-030.
@@ -170,22 +178,30 @@ DEC-039 and DEC-063.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions begin with Russ's review of the GCC Group Leader Agreement:
+The ten most recent numbered decisions include the October 26 staff direction:
 
-1. [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078 — Offerings and Support Raising in Groups]]
-2. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
-3. [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]]
-4. [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075 — City Groups Waiting for Members]]
-5. [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards|DEC-074 — Standing Lobby Table Cards]]
-6. [[08 Archive/Decisions/Decision History#DEC-073 — Email as the Primary Participant Channel|DEC-073 — Email as the Primary Participant Channel]]
-7. [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page|DEC-072 — Groups Resources Page]]
-8. [[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071 — Groups Resource Design Standard]]
-9. [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070 — Planted Naming]]
-10. [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069 — Women's Collective Co-Leader Change]]
+1. [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083 — Community, Prayer, Scripture, and Purposeful Formation]]
+2. [[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082 — Supportive Leader Guides and Other Resources Placement]]
+3. [[08 Archive/Decisions/Decision History#DEC-081 — Planted as a Foundation for New Believers and New Members|DEC-081 — Planted as a Foundation for New Believers and New Members]]
+4. [[08 Archive/Decisions/Decision History#DEC-080 — Annual Groups Seasonal Rhythm|DEC-080 — Annual Groups Seasonal Rhythm]]
+5. [[08 Archive/Decisions/Decision History#DEC-079 — Collaboration Schedule and Saturday Rhythm|DEC-079 — Collaboration Schedule and Saturday Rhythm]]
+6. [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078 — Offerings and Support Raising in Groups]]
+7. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
+8. [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]]
+9. [[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075 — City Groups Waiting for Members]]
+10. [[08 Archive/Decisions/Decision History#DEC-074 — Standing Lobby Table Cards|DEC-074 — Standing Lobby Table Cards]]
 
 ## Supersession Map
 
 ```text
+DEC-056 (first date and ongoing cadence)
+   ↓ amended in part by
+DEC-079
+
+DEC-072 (guide placement)
+   ↓ amended in part by
+DEC-082
+
 DEC-077 (Policy 11 fundraising wording)
    ↓ amended in part by
 DEC-078

@@ -1,5 +1,9 @@
 # Launch Readiness Dashboard
 
+## October 26 Staff Update
+
+DEC-079–083 reschedule the first Collaboration to November 7 evening and set first/third Saturday mornings thereafter; establish the annual seasonal rhythm; clarify Planted's purpose for new believers and new members; authorize supportive guides and agreement placement under Other Resources; and name community, prayer, and Scripture as the shared baseline. Both guides are drafts awaiting Paul. These decisions resolve those direction questions, not existing appointments, policy implementation, participant-path tests, event outcomes, or final readiness. The last full repository review remains October 19.
+
 ## Document Status
 
 **Primary operational launch-control page; not a canonical governance record.** Last reconciled **October 19, 2026** through the [[09 Reports/Biweekly Reviews/2026-10-19 Groups Ministry Biweekly Review|October 19 biweekly review]], using the October 5 repository pass as the comparison baseline while its required human review remains in progress. DEC-067, first-gathering dates through October 16, the Weekly Recap drafts, and the Galatians resource package were inspected. No offering was upgraded to `Ready`: most event outcomes, appointments, safeguarding contacts, final-readiness approvals, aggregate leader stages, and end-to-end intake tests remain unevidenced. Approved direction remains governed by the [[Decision Log|Decision Log]] and [[08 Archive/Decisions/Decision History|Decision History]]. **Updated 2026-10-21 outside the review cycle** for DEC-077: safeguarding, escalation, and leader-preparation rows only.
@@ -32,7 +36,7 @@ Do not record applicant names, participant information, interview notes, screeni
 
 ### Major Progress
 
-- The October 19 staff meeting (Russ and Paul) recorded DEC-071–075 and approved the first Group Leader Collaboration for October 30 (DEC-056 update): the Weekly Recap is the model for other Groups resources, with Paul's [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] for study depth; a Groups resources page is planned; email is the main participant channel; and two standing lobby cards (Church Center app, Groups & Classes Ministry) will be made. City Groups no one has joined yet stay open, and their leaders are encouraged to join another group meanwhile (DEC-075).
+- The October 19 staff meeting (Russ and Paul) recorded DEC-071–075 and originally approved the first Group Leader Collaboration for October 30 (DEC-056 update; rescheduled to November 7 by DEC-079 on October 26): the Weekly Recap is the model for other Groups resources, with Paul's [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] for study depth; a Groups resources page is planned; email is the main participant channel; and two standing lobby cards (Church Center app, Groups & Classes Ministry) will be made. City Groups no one has joined yet stay open, and their leaders are encouraged to join another group meanwhile (DEC-075).
 - DEC-068 and DEC-069 (recorded October 19) name Dominique Simon as Westminster co-leader with Bobby Pascale at 100th & Simms, and Niki Pike as Women's Collective co-lead with Miranda Daly in place of Rachel O'Brien. DEC-070 sets Planted's naming (*Planted.* Bible Study; *Planted.* 2026). Neither leader change records appointment or leader-pathway completion.
 - DEC-067 clarifies Paul’s resource-development role and the twelve-study-gathering course across fall/spring. Introductions are additional; holiday dates remain pending.
 - Both Collectives' first gatherings occurred (Men's October 6, Women's October 13) and covered Galatians 1. Russ approved six sessions, the S.O.A.P. gathering flow, and two-page handouts (DEC-076); Session 1 and 2 handouts are drafted for Paul's review.
@@ -95,7 +99,7 @@ The current public-page record lives in [[12 Ministry Website/Groups Page|Groups
 | October 13, 2026 | Women's Collective scheduled start | Past; completion is not reported. | Reconcile outcome, participant path, safeguards, communication, appointment, and final approval (BWR-008). |
 | October 20, 2026 | Men's Galatians Session 2 (Galatians 2); Westminster City Group scheduled start | Two-page handout drafted, awaiting Paul; teaching assignment unconfirmed. Westminster outcome will require reconciliation. | Confirm resource delivery and record actual outcomes without inferring readiness (BWR-010, BWR-029). |
 | October 27, 2026 | Women's Galatians Session 2 (Galatians 2) | Two-page handout drafted, awaiting Paul; teaching assignment unconfirmed. | Confirm resource delivery and actual gathering outcome (BWR-029). |
-| October 30, 2026 | First Group Leader Collaboration | Confirmed by Russ October 19: dinner at Paul's home for all current group leaders. | Invite leaders; record that it occurred and set the later rhythm (BWR-031). |
+| November 7, 2026 (evening) | First Group Leader Collaboration | Rescheduled by Russ October 26 (DEC-079): evening dinner at Paul's home for all current group leaders. | Invite leaders; record that it occurred and arrange the next first/third-Saturday morning gathering (BWR-031). |
 | November 7, 2026 | Run Club scheduled start | Schedule is confirmed. | Reconcile Run Club after its first gathering (BWR-010). |
 
 ### Targets Without Approved Dates
@@ -106,7 +110,7 @@ The current public-page record lives in [[12 Ministry Website/Groups Page|Groups
 - Appointment and commissioning
 - Planning Center and Church Center testing
 - *Planted.* venue confirmation; a future on-site Collective location
-- Group Leader Collaboration rhythm after October 30 (DEC-056)
+- Group Leader Collaboration exact times, future locations, and holiday exceptions (rhythm approved under DEC-079)
 - Groups webpage implementation and material-change review
 - Final City Group readiness review and City Group start date
 - Planted final readiness review
@@ -121,7 +125,7 @@ The current public-page record lives in [[12 Ministry Website/Groups Page|Groups
 | 4 | Supply Planted's actual venue and October 12 outcome; finish or replan its operating-readiness package. | Paul with Russ | Immediate | [[00 Dashboard/Biweekly Review Queue\|BWR-011 and BWR-018]]. |
 | 5 | Test each participant path end to end and approve settings, ownership, access, consent, response, and backup coverage. | Russ; Paul backup | Before further promotion or enrollment reliance | [[00 Dashboard/Biweekly Review Queue\|BWR-009]]. |
 | 6 | Reconcile DEC-066 participant/public communication and replace stale profile cards before reuse. | Paul for Groups-owned materials; Unresolved for other public pages | Immediate | [[00 Dashboard/Biweekly Review Queue\|BWR-036]]. |
-| 7 | Invite all current leaders to the October 30 Group Leader Collaboration; set the leader-chat path. | Paul | Before October 30 | [[00 Dashboard/Biweekly Review Queue\|BWR-031]]. |
+| 7 | Invite all current leaders to the November 7 Group Leader Collaboration; set the leader-chat path. | Paul | Before November 7 | [[00 Dashboard/Biweekly Review Queue\|BWR-031]]. |
 | 8 | Reconcile Weekly Recap approval/posting and name backup coverage. | Paul with Russ supplying scripts | Weekly; before November 2 review | [[00 Dashboard/Biweekly Review Queue\|BWR-030]]. |
 
 ## A. Governance and Pastoral Approval
@@ -343,7 +347,7 @@ Current operating window: **October 19–November 1, 2026**.
 - [ ] Paul: supply Planted's venue and October 12 outcome; complete or replan its operating-readiness package (BWR-011, BWR-018).
 - [ ] Russ and Paul: complete end-to-end join testing and participant-system decisions for every public offering (BWR-009).
 - [ ] Paul: reconcile DEC-066 participant/public communication and replace stale profile cards before reuse (BWR-036).
-- [ ] Paul: invite leaders to the October 30 Group Leader Collaboration and set the leader-chat path (BWR-031).
+- [ ] Paul: invite leaders to the November 7 Group Leader Collaboration and set the leader-chat path (BWR-031).
 - [ ] Paul: tell group leaders that email is the main channel to members and confirm current members are receiving updates by email (BWR-039).
 - [ ] Paul: produce the Church Center app and Groups & Classes Ministry lobby cards (BWR-038).
 - [ ] Paul: encourage the leaders of the two City Groups waiting for members to join another group meanwhile; Russ keeps promoting groups with open spots (BWR-040).

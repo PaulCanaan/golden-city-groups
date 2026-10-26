@@ -60,7 +60,7 @@ Bible Clubs contribute:
 
 Planted is the first confirmed Bible Club offering. Paul leads the twelve-week study scheduled for Monday evenings from October 12, 2026 (DEC-066). Pastoral and theological curriculum review and required-materials review are complete. The October 12 first-gathering outcome, specific venue, capacity, participant path, support role, complete session calendar, and final readiness approval remain open.
 
-Under DEC-054, Planted is seeker- and new-believer-friendly and recurs every fall. In Spring 2027 the following curriculum may be *Covenant, Kingdom, and People of God*; that is planning direction, not an approved offering. People who complete Planted may be considered to lead it in the future, subject to DEC-027.
+Under DEC-054, Planted is seeker- and new-believer-friendly and recurs every fall. DEC-081 further names new believers and new members joining Golden City as a particular audience: Planted helps them take root in faith and church community. The Rooted comparison recorded October 26 clarifies purpose without changing the twelve-week curriculum or creating a membership requirement. In Spring 2027 the following curriculum may be *Covenant, Kingdom, and People of God*; that is planning direction, not an approved offering. People who complete Planted may be considered to lead it in the future, subject to DEC-027.
 
 #### Future Classes
 
@@ -89,6 +89,12 @@ The Collectives begin every other Tuesday in October 2026 in the Broomfield area
 
 Men's Collective and Women's Collective are intended to mature over time into broader Men's Ministry and Women's Ministry. This long-term direction does not by itself establish a leader, location, capacity, curriculum, schedule, safeguarding plan, or launch readiness for a particular offering.
 
+## Shared Group Baseline
+
+Russ confirmed **community, prayer, and Scripture** as non-negotiables on October 26 (DEC-083). Every branch gathers with a formative purpose, guided by his question: “What happens in your group that causes spiritual transformation?” This is a guardrail for faithful preparation and response, not a technique for producing the Spirit's work. City Group design freedom and distinct branch emphases remain within this shared baseline. Summer activity-based gatherings retain it.
+
+The [[06 Resources/Leader Development/City Group Guide|City Group Guide]] and [[06 Resources/Leader Development/Collective Leader Guide|Collective Guide]] apply this direction with supportive gathering examples and leader discernment; both are drafts awaiting Paul. DEC-082 authorizes their eventual placement with the agreement under Other Resources.
+
 ## Formation Emphases
 
 DEC-053 records each branch's approximate emphasis:
@@ -110,6 +116,10 @@ These are approximate emphases, not timed quotas or performance targets, and fel
 - All three branches lead toward prayer, service, mission, and helping form others.
 
 No environment is a bureaucratic prerequisite for another. People may participate in the environment that best serves their current need, and movement among them should remain relational rather than programmatic.
+
+## Seasonal Rhythm
+
+Use the approved [[07 Operations/Annual Rhythm/Annual Calendar#Approved Seasonal Rhythm|Annual Calendar seasonal rhythm]] (DEC-080): February–May, lighter June–August group life alongside church summer classes, September–early December, and January's 21 days of prayer and fasting with optional group meetings. February and September launches are likely in the first week; exact dates and offerings remain open.
 
 ## Participant Journey
 
@@ -156,7 +166,7 @@ CoJourner does not replace role-specific preparation, safeguarding, assessment, 
 
 ### Group Leader Collaborations
 
-Under DEC-056, Group Leader Collaborations are gatherings where current leaders share experiences, learn from one another, and align with the ministry's mission, vision, and values. Collaborations are about supporting group leaders: leaders share their experiences and struggles, learn from one another, and are poured into and equipped. The first, approved by Russ on October 19, is a dinner on Friday, October 30, 2026, hosted by Paul at his home, to check in one month into the groups' launch. Content may include the Belonging, Beholding, Becoming framework, CoJourner, or other workshops. The rhythm after it (biweekly or monthly), dates, and location remain open. See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
+Under DEC-056, Group Leader Collaborations are gatherings where current leaders share experiences, learn from one another, and align with the ministry's mission, vision, and values. Collaborations are about supporting group leaders: leaders share their experiences and struggles, learn from one another, and are poured into and equipped. The first, rescheduled by Russ on October 26, is a dinner on Saturday evening, November 7, 2026, hosted by Paul at his home, to check in one month into the groups' launch. Content may include the Belonging, Beholding, Becoming framework, CoJourner, or other workshops. Future gatherings meet first and third Saturday mornings (DEC-079); exact times, locations, and holiday exceptions remain open. See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
 ## Existing and Possible Group Expressions
 

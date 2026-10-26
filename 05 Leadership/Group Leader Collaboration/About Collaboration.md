@@ -4,7 +4,7 @@ From [[Leadership Overview|Leadership]]
 
 ## Document Status
 
-**Home for everything about Group Leader Collaboration; not a decision record.** Russ and Paul approved Collaborations on September 25, 2026 ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]). On October 19, 2026 Russ approved the first gathering: a dinner for all current group leaders at Paul's home on **Friday, October 30, 2026**. The rhythm after it (biweekly or monthly), dates, location, and cost are open. Attending a Collaboration is not appointment, and a Collaboration is not the pastoral-care or safeguarding escalation path.
+**Home for everything about Group Leader Collaboration; not a decision record.** Russ and Paul approved Collaborations on September 25, 2026 ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]). On October 26, 2026 Russ moved the first gathering to **Saturday evening, November 7, 2026**, still a dinner at Paul's home, and approved **first and third Saturday mornings** for future Collaborations (DEC-079). Exact times, future locations, cost, and holiday adjustments remain open. Attending a Collaboration is not appointment, and a Collaboration is not the pastoral-care or safeguarding escalation path.
 
 ## What It Is
 
@@ -15,7 +15,7 @@ Group Leader Collaboration is a gathering of current group leaders, and it is al
 - **are poured into and equipped** for the work they carry; and
 - **align** with the mission, vision, and values of Golden City Groups.
 
-Content may include the Belonging, Beholding, Becoming formation framework, the [[06 Resources/Leader Development/CoJourner|CoJourner]] Program, or other workshops. The framework is leader-training language and stays out of public materials for now.
+Content may include the Belonging, Beholding, Becoming formation framework, the [[06 Resources/Leader Development/CoJourner|CoJourner]] Program, or other workshops. DEC-082 also authorizes the framework in the two leader guides planned for the public resources page.
 
 ## Why It Exists
 
@@ -41,10 +41,10 @@ All current group leaders. The leaders' Church Center group chat (DEC-057) carri
 
 | Gathering | Date | Format | Status |
 |---|---|---|---|
-| [[05 Leadership/Group Leader Collaboration/2026-10-30 First Collaboration\|First Collaboration]] | Friday, October 30, 2026 | Dinner at Paul's home | Planned (Russ approved October 19) |
-| Later gatherings | Not set | Not set | Biweekly or monthly; dates and location open |
+| [[05 Leadership/Group Leader Collaboration/2026-11-07 First Collaboration\|First Collaboration]] | Saturday evening, November 7, 2026 | Dinner at Paul's home | Planned; rescheduled October 26 (DEC-079) |
+| Later gatherings | First and third Saturday mornings each month | Location and exact time to be arranged | Rhythm approved October 26 (DEC-079); holiday adjustments open |
 
-Add each gathering to this table and to the [[07 Operations/Calendar|Calendar]] once its date is set.
+The first gathering is an evening exception. Use the first/third calendar pattern rather than a strict fourteen-day interval. Confirm individual details and holiday exceptions before communicating each gathering. This leader-support rhythm does not change the first/third-Monday Biweekly Ministry Review.
 
 ## Boundaries
 
@@ -61,10 +61,11 @@ Add each gathering to this table and to the [[07 Operations/Calendar|Calendar]] 
 | 2026-09-25 | Collaborations approved; the first about one month after Group Launch Sunday, to check in with every leader; also where leaders align with mission, vision, and values; CoJourner may run during them | [[08 Archive/Decisions/2026-09-25 Staff Meeting Minutes#6 — Group Leader Collaborations\|Staff meeting, item 6]]; DEC-056 |
 | 2026-09-30 | Russ affirmed the idea; the first will be a dinner for all current leaders, with details in the leaders' group chat | [[08 Archive/Decisions/2026-09-30 Follow-Up Meeting Minutes#6 — Group Leader Collaborations\|Follow-up meeting, item 6]]; DEC-056 update |
 | 2026-10-19 | Russ approved the first gathering: Friday, October 30, dinner at Paul's home; all about supporting leaders; later rhythm open | [[08 Archive/Decisions/2026-10-19 Staff Meeting Minutes#3 — First Group Leader Collaboration\|Staff meeting, item 3]]; DEC-056 update |
+| 2026-10-26 | First gathering moved to November 7 evening at Paul's home; future gatherings first and third Saturday mornings | [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes#1 — Group Leader Collaboration\|Staff meeting, item 1]]; DEC-079 |
 
 ## Open Questions
 
-- Rhythm after October 30: biweekly or monthly, dates, and location.
+- Exact November 7 evening time; future morning time, locations, and holiday exceptions.
 - Cost, and whether the ministry covers it.
 - Whether CoJourner runs within Collaborations, and for which leaders (DEC-045, BWR-019).
 

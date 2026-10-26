@@ -29,6 +29,8 @@ Optimize for long-term maintainability over completeness. Most entries should us
 
 ### Open Questions
 
+The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
+
 - **Open** — a material decision is still required
 - **Awaiting Pastoral Approval** — the matter cannot become governing without pastoral direction
 
@@ -607,6 +609,8 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implementation update — September 30, 2026:** Russ affirmed the idea. Paul plans the first Collaboration as a dinner for all current leaders about one month after Group Launch Sunday, to hear how everyone's groups went. Details will be shared in the Planning Center group chat for all current leaders. Date, place, and cost remain open. Source: [[2026-09-30 Follow-Up Meeting Minutes#6 — Group Leader Collaborations|September 30, 2026 Follow-Up Meeting Minutes]].
 - **Implementation update — October 19, 2026:** Russ approved the Group Leader Collaboration and said he really likes the idea. The first gathering for all current group leaders is **Friday, October 30, 2026**, a dinner hosted by Paul at his home. Its purpose is to check in one month into the groups' launch: how are the leaders, and how are their groups doing? Collaborations are about supporting group leaders: leaders share their experiences and struggles, learn from one another, and are poured into and equipped. Content may include the Belonging, Beholding, Becoming framework, the CoJourner Program, or other workshops. The rhythm after October 30 (biweekly or monthly), dates, and location remain open. The home address stays out of this repository; DEC-028's home-gathering safeguards apply. Source: [[2026-10-19 Staff Meeting Minutes#3 — First Group Leader Collaboration|October 19, 2026 Staff Meeting Minutes, item 3]]. Working home: [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
+- **Subsequent direction — October 26, 2026:** DEC-079 replaces the October 30 first date with Saturday evening, November 7, at Paul's home and sets future Collaborations on first and third Saturday mornings. The earlier dates and open-cadence language above are historical.
+
 ### DEC-057 — Groups Ministry Communication Channels
 
 - **Decision:** Groups Ministry uses three channels:
@@ -692,6 +696,8 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Evidence:** [[2026-09-30 Follow-Up Meeting Minutes#5 — Leader Guides|September 30, 2026 Follow-Up Meeting Minutes, item 5]].
 - **Implications:** The draft [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] becomes the starting point for the Collective guide; a City Group Guide is new. The DEC-039 resource research feeds both.
 - **Boundary:** The guides may not invent policy. Mandatory reporting, leader agreements, and church policies depend on the policy locations and escalation contacts still open under BWR-007, and on Russ's approval of safeguarding policy under DEC-021. No content, format, or deadline is set.
+
+- **Development update — October 26, 2026:** DEC-082–083 refine the guides' supportive tone, identity/purpose, flexible flow, formation baseline, leader discernment, and agreement links. Both guide drafts now exist for Paul's review. DEC-082 also authorizes their public placement with the agreement under Other Resources.
 
 ### DEC-064 — Pastoral Availability of the Groups Ministry Director
 
@@ -829,6 +835,8 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** Resource production now has a planned public home. The City Group Guide and the Collective Guide (BWR-033) are among its intended contents.
 - **Boundary:** No resource is published by this decision. The City Group Guide does not exist yet, and the Collective Leader Guide is a draft. Paul's October 1 direction keeps the Belonging, Beholding, Becoming language off the website for now, and the guides carry it along with policy content, so which resources are public and which are leader-only is open. CoJourner is The Garden Project Ministry's program; republishing its material needs attribution and permission. Each item is checked before publication (BWR-037).
 
+- **Subsequent direction — October 26, 2026:** DEC-082 moves the City Group Guide and Collective Guide to Other Resources alongside the GCC Group Leader Agreement and authorizes their public placement, including the formation framework in the guides. Other resource access decisions remain separate.
+
 ### DEC-073 — Email as the Primary Participant Channel
 
 - **Decision:** Email is the main way the ministry and group leaders reach participants. Do not expect everyone to use the Church Center app. The ministry promotes the app through a lobby table card (DEC-074).
@@ -912,9 +920,60 @@ Optimize for long-term maintainability over completeness. Most entries should us
 - **Implications:** Policy 8 adds both rules, and Policy 11 points to Policy 8 for approved support raising, in the [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]] and its leader PDF. Russ's review covers the agreement as written on October 21, including the Leader Acknowledgement wording Paul drafted. Paul builds the City Group Guide and the Men's and Women's Collective Guide next (BWR-033).
 - **Boundary:** Russ did not name who grants support-raising permission. The agreement routes the request to Russ, because Policy 8 already sends money matters to him. Collections for a member in need and the church's benevolence process remain open (BWR-041, question 7). The approved minimum boundary, which allows no offering or solicitation without church authorization, stands; for offerings, the leader rule is now stricter.
 
-The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
+### DEC-079 — Collaboration Schedule and Saturday Rhythm
+
+- **Decision:** Move the first Group Leader Collaboration to Saturday evening, November 7, 2026, at Paul's home, retaining the existing dinner plan. Future Collaborations meet on the first and third Saturday mornings of each month.
+- **Status:** Confirmed; exact times and remaining gathering arrangements open.
+- **Date and approver:** October 26, 2026; Russ, reported by Paul.
+- **Owner:** Paul.
+- **Evidence:** [[2026-10-26 Staff Meeting Minutes#1 — Group Leader Collaboration|October 26 staff meeting, item 1]], supplied by Paul with explicit confirmation of Russ's approval.
+- **Implications:** Update the first-gathering record, calendar, leader-support pages, and BWR-031; communicate the changed date. The first gathering is an evening exception to the ongoing morning rhythm.
+- **Boundary:** First and third Saturdays is the calendar rule; it is not a strict fourteen-day interval. Future locations, exact morning time, holiday exceptions, cost, and invitation delivery are not established. CoJourner implementation remains separate under DEC-045. This amends DEC-056's October 19 date and resolves its open cadence; its purpose and pastoral boundaries stand.
+
+### DEC-080 — Annual Groups Seasonal Rhythm
+
+- **Decision:** Future spring launch is in February, likely the first week, with a February–May semester. Summer runs June–August with realistic expectations around travel and more activity-based gatherings; the church will still offer some summer classes. Future fall launch is in September, likely the first week, with the semester running September–early December. January includes the church's 21 days of prayer and fasting; groups may keep meeting or wait until spring launch. Fall 2026 is a shorter launch-season exception.
+- **Status:** Confirmed seasonal direction; first-week launch timing tentative and exact dates open.
+- **Date and approver:** October 26, 2026; Russ, reported by Paul.
+- **Owner:** Paul for Groups planning and coordination with the church calendar.
+- **Evidence:** [[2026-10-26 Staff Meeting Minutes#2 — Future Seasonal Rhythm|October 26 staff meeting, item 2]].
+- **Implications:** Use the Annual Calendar as the canonical seasonal summary. Align spring preparation, CoJourner, summer expectations, holiday planning, and participant communication through existing semester planning and BWR-042.
+- **Boundary:** This does not alter historical launch dates or approve particular future classes, leaders, venues, exact holiday breaks, or January dates. Summer still retains community, prayer, and Scripture (DEC-083). Classes remain under Bible Clubs; no fourth branch is created.
+
+### DEC-081 — Planted as a Foundation for New Believers and New Members
+
+- **Decision:** Planted Bible Club should help new believers and new members take root in Christian faith and Golden City's church community. Russ named a similar purpose to the Lakepointe Rooted course described by Paul during the discussion.
+- **Status:** Confirmed purpose and audience clarification.
+- **Date and approver:** October 26, 2026; Russ, reported by Paul.
+- **Owner:** Paul.
+- **Evidence:** [[2026-10-26 Staff Meeting Minutes#3 — Planted's Purpose for New Believers and New Members|October 26 staff meeting, item 3]]. Paul described the reference course as ten weeks; no external course materials were supplied or evaluated here.
+- **Implications:** Make this purpose visible in Planted's canonical page and future welcome and development work (BWR-043), integrating biblical understanding with belonging, prayer, and faithful response.
+- **Boundary:** This develops DEC-054 without changing Planted's approved twelve-week length, curriculum, fall recurrence, or facilitator-led Bible Club model. It does not adopt Rooted, add a membership prerequisite, or make Planted mandatory for joining the church. Operating readiness remains separate.
+
+### DEC-082 — Supportive Leader Guides and Other Resources Placement
+
+- **Decision:** Begin the City Group Guide and Collective Guide for leaders and co-leaders of Men's and Women's Collectives. Explain each environment's identity, purpose, what it is and is not, and a typical gathering. The guides should support and encourage leaders, with healthy boundaries serving sustainability and spiritual flourishing. Include Belonging, Beholding, Becoming; “In the city, for the city” in the City Group Guide; a flexible connection/context/Scripture/discussion/prayer flow in the Collective Guide; and discernment about redirecting conversation and seeking help. Link emergency responses and policies to the GCC Group Leader Agreement. Place both guides and the agreement under Other Resources on the public resources page.
+- **Status:** Confirmed development and publication direction; guide wording, exports, and release pending.
+- **Date and approver:** October 26, 2026; Russ, reported by Paul.
+- **Owner:** Paul.
+- **Evidence:** [[2026-10-26 Staff Meeting Minutes#4 — Begin the Two Leader Guides|October 26 staff meeting, item 4]] and [[2026-10-26 Staff Meeting Minutes#6 — Flow and Leader Discernment|item 6]].
+- **Implications:** Develop DEC-063 through the two canonical leader resources, BWR-033, and BWR-037. Amend DEC-072's planned category placement for these guides. Public inclusion of Belonging, Beholding, Becoming in these guides is authorized, resolving the October 1 website restriction for these resources; it does not authorize an unrelated rewrite of the Groups landing page.
+- **Boundary:** Approved direction is distinct from review of the new guide prose and actual publication. The agreement remains the single policy source; unresolved reporting and church-wide policy questions stay open. Public editions omit staff phone numbers, addresses, sensitive information, and completed acknowledgements. No private leader-edition PDF is uploaded. The adaptable Collective flow does not revoke DEC-076's current Galatians plan.
+
+### DEC-083 — Community, Prayer, Scripture, and Purposeful Formation
+
+- **Decision:** Community, prayer, and Scripture are the non-negotiables of a Golden City group. Russ's guardrail question is “What happens in your group that causes spiritual transformation?” Groups gather with purpose; the guides explain this through Belonging, Beholding, Becoming.
+- **Status:** Confirmed shared formation baseline.
+- **Date and approver:** October 26, 2026; Russ, reported by Paul.
+- **Owner:** Paul for guides and leader support; group leaders in their gatherings.
+- **Evidence:** [[2026-10-26 Staff Meeting Minutes#5 — The Shared Group Baseline|October 26 staff meeting, item 5]].
+- **Theological rationale:** Community, Scripture, and prayer keep group life attentive to Christ and dependent on the Holy Spirit, with faithful response in everyday life (DEC-002, DEC-033).
+- **Implications:** Apply across group environments, including summer and activity-based gatherings. Leaders retain DEC-052's freedom over design and materials within this baseline; City Groups need not become in-depth Bible studies.
+- **Boundary:** This is not a timed formula, a requirement to complete every question, or a promise that leaders can produce transformation. The three branches retain their distinct purposes. No new legal, safeguarding, appointment, or reporting policy is created.
 
 ## Open Questions
+
+The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].
 
 ### OQ-002 — Public Formation Language
 

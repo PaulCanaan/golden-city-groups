@@ -4,6 +4,10 @@
 
 This is a planning framework. The public church launch date and approved ministry purpose are **confirmed**. Unless a milestone is recorded as confirmed in the [[00 Dashboard/Decision Log|Decision Log]] and supported by [[08 Archive/Decisions/Decision History|Decision History]], launch components in this document are proposals or unresolved dependencies. Use [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] for current implementation status, [[00 Dashboard/Governance Index|Governance Index]] for thematic browsing, and [[00 Dashboard/Open Decisions|Open Decisions]] for unresolved governance questions; none is a canonical decision record.
 
+## Future Seasons
+
+DEC-080 establishes February–May spring, June–August summer, and September–early December fall seasons; February and September launches are likely in the first week, with exact dates tentative. January includes 21 days of prayer and fasting; groups may meet or wait until spring. The canonical operating summary is the [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]]. Fall 2026 remains the shorter launch-season exception. Align CoJourner preparation with the actual spring launch rather than treating tentative dates as approved.
+
 ## Confirmed Launch Context
 
 - Golden City Church launched publicly on September 20, 2026. Paul reported the launch went smoothly and that the church is now an established faith community in Broomfield, Colorado.

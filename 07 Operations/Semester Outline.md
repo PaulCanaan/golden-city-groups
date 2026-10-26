@@ -17,7 +17,7 @@ Connected to [[07 Operations/Calendar]]
 7. **Confirmed:** September 20 public church launch, completed. Group Launch Day is October 4, 2026 under DEC-048.
 8. **Planned:** Launch-ready offerings begin in the approved fall ministry window.
 
-Spring 2027 prioritizes intentional leader development and multiplication through CoJourner; cohort details remain open.
+Future seasons follow the approved [[07 Operations/Annual Rhythm/Annual Calendar#Approved Seasonal Rhythm|seasonal rhythm]] (DEC-080): February–May, June–August, and September–early December, with January prayer and fasting and optional continuing group meetings. February and September launches will likely be in the first week; exact dates remain tentative. Fall 2026 is the shorter launch-season exception. Spring 2027 still prioritizes intentional leader development and multiplication through CoJourner; cohort details remain open.
 
 ## Key dates
 

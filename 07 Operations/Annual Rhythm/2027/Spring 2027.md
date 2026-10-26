@@ -2,7 +2,13 @@
 
 ## Document Status
 
-**Primary objective confirmed; implementation planning open.** Spring 2027 prioritizes intentional leader development and multiplication. No offering, date, cohort, leader assignment, or public commitment is approved through this page.
+**Seasonal direction and primary objective confirmed; implementation open.** Spring runs February–May, with group launch in February, likely the first week (DEC-080, October 26). The exact date is tentative. Intentional leader development and multiplication remain priorities; no particular offering, cohort, or leadership assignment is approved through this page.
+
+## Launch Preparation
+
+Complete the four-session CoJourner preparation before the actual February launch, as required by DEC-045. Its approximately two-month preparation window needs to be reconciled with holidays and January's church-wide prayer and fasting season. First/third Saturday morning Collaborations may host training, but their approved rhythm does not itself schedule the cohort. Confirm source material, facilitator, dates, location, and completion expectations with Russ (BWR-019, BWR-042).
+
+Groups may keep meeting during January's 21 days of prayer and fasting or wait until spring launch. Coordinate the church's actual dates and communicate each group's plan.
 
 ## Intended Purpose
 
@@ -35,7 +41,7 @@ Both Collectives study all six Galatians chapters in six sessions, one Galatians
 
 ## Source Note
 
-Purpose inferred from the annual-rhythm structure and [[Launch Roadmap]]. Detailed programming is intentionally not invented.
+Seasonal direction comes from DEC-080 and the [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes#2 — Future Seasonal Rhythm|October 26 staff meeting]]. The [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]] holds the canonical seasonal summary; detailed programming remains open.
 
 ## Connections
 

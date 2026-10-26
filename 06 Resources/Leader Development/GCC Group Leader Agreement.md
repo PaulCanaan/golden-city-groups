@@ -28,7 +28,7 @@ This page was formerly **Group Boundaries** (`Policies.md`). The approved minimu
 
 **Applies to:** City Groups, Men's and Women's Collectives, and Bible Clubs (*Planted.*), including hosts, co-leaders, table leaders, and facilitators.
 
-**Where it goes next:** into the City Group Guide and the Men's and Women's Collective Guide ([[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063]], BWR-033), and into leader preparation ([[Leader Training#4. Prayer, Care, Conflict, and Escalation|Leader Training, module 4]]). Whether it appears on the public Groups resources page is open (BWR-037); treat it as leader-facing until that is decided.
+**Where it goes next:** into the City Group Guide and the Men's and Women's Collective Guide ([[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063]], BWR-033), and into leader preparation ([[Leader Training#4. Prayer, Care, Conflict, and Escalation|Leader Training, module 4]]). Russ approved placing the agreement alongside both guides under Other Resources on the public resources page on October 26 (DEC-082, BWR-037). Prepare a public edition without private staff numbers or completed acknowledgements; the existing local-only leader PDF is not the public edition. Actual publication is not recorded by this update.
 
 ## The Heart Behind This Agreement
 

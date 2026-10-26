@@ -1,5 +1,11 @@
 # Staff Decision Brief
 
+## October 26 Approved Direction
+
+Paul reports Russ approved all six items in the [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes|October 26 staff meeting]]. DEC-079–083 now govern the Collaboration date/rhythm, seasonal pattern, Planted's purpose for new believers and new members, guide scope/public placement, and community–prayer–Scripture baseline. These do not need to be re-proposed for approval.
+
+Remaining implementation: exact Collaboration times and arrangements; exact seasonal dates and summer offerings; CoJourner preparation; Paul's review of new guide prose; public editions and actual publication. The agreement's unresolved policy questions (BWR-041), appointments, participant-system decisions, and final readiness remain with their existing owners. Approved guide placement and formation-framework inclusion are settled for those resources; wider public-page language changes are outside this decision.
+
 ## Document Status
 
 **Reviewed August 10 and reconciled October 19, 2026 through DEC-067 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); Paul clarified Collective resource development and the Galatians course plan on October 13 (DEC-067); DEC-059–066 further clarified launch workflow, schedules, leadership support, and the official Fall 2026 offering directory. No later staff or pastoral decision is recorded. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].

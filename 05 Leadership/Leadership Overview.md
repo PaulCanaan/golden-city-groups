@@ -30,9 +30,17 @@ Group leaders are planned for launch. Host requirements remain unresolved. A for
 
 Future Class instructors remain subject to DEC-027 and offering-specific approval; Classes are not a current branch.
 
+## Practical Leader Guides
+
+- [[06 Resources/Leader Development/City Group Guide|City Group Guide]] — October 26 draft for Paul's review.
+- [[06 Resources/Leader Development/Collective Leader Guide|Collective Guide]] — October 26 draft for Men's and Women's leaders/co-leaders.
+- [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]] — approved boundaries and emergency responses.
+
+Both guides and the agreement are approved for Other Resources placement (DEC-082); reviewed public editions and actual release remain pending.
+
 ## Group Leader Collaboration
 
-Current group leaders gather to share experiences and struggles, learn from one another, and be poured into and equipped (DEC-056). The first is a dinner at Paul's home on Friday, October 30, 2026; the rhythm after it is open. See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
+Current group leaders gather to share experiences and struggles, learn from one another, and be poured into and equipped (DEC-056). The first is a dinner at Paul's home on Saturday evening, November 7, 2026; future gatherings meet first and third Saturday mornings (DEC-079). See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
 ## CoJourner Pathway
 
