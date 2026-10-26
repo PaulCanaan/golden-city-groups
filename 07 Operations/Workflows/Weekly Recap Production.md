@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Working procedure recorded October 7, 2026 from Paul's direction under DEC-055 (owners and content) and DEC-057 (leaders' Church Center chat); see the DEC-055 clarification of October 7.** Russ sends the Sunday sermon script on Sunday afternoon, an AI agent drafts the recap, and Paul reviews, approves, and posts it to the All Group Leaders chat on Sunday evening. Paul approves under his own pastoral authority; Russ can read any recap at any time and does not pre-approve them. Finished recaps are published resources kept in the repository.
+**Working procedure recorded October 7, 2026 from Paul's direction under DEC-055 (owners and content) and DEC-057 (leaders' Church Center chat); see the DEC-055 clarification of October 7.** Russ sends the Sunday sermon script on Sunday afternoon, an AI agent drafts the recap, and Paul reviews, approves, and posts it to the All Group Leaders chat on Sunday evening. Paul approves under his own pastoral authority; Russ can read any recap at any time and does not pre-approve them. Finished recaps are published resources kept in the repository. Since October 25, 2026 (Paul's direction), each approved recap is also added to the public [[12 Ministry Website/Resources Page|Groups resources page]] after Paul's review.
 
 **Open:** backup coverage when Paul is unavailable.
 
@@ -10,7 +10,7 @@
 
 Carry the weekend message into the week so City Groups that choose the recap can share life, attend to Christ in his Word, and respond faithfully together. The recap remains optional for leaders (DEC-052, DEC-055).
 
-**Owner:** Paul for production, approval, and delivery; Russ supplies the script and may review any recap after the fact. **Start:** Russ's sermon script arrives on Sunday afternoon. **Finish:** the recap PDF is posted in the All Group Leaders chat on Sunday evening, and the Markdown record is marked `Posted` and committed.
+**Owner:** Paul for production, approval, and delivery; Russ supplies the script and may review any recap after the fact. **Start:** Russ's sermon script arrives on Sunday afternoon. **Finish:** the recap PDF is posted in the All Group Leaders chat on Sunday evening, the Markdown record is marked `Posted` and committed, and the recap is live on the resources page.
 
 ## Process Map
 
@@ -22,6 +22,7 @@ Carry the weekend message into the week so City Groups that choose the recap can
 | Review | Sunday evening | Paul | Edit the Markdown, rebuild the PDF if anything changed, and check it against the list below. | Paul is satisfied it is ready. |
 | Post | Sunday evening | Paul | Attach the PDF in the All Group Leaders chat with the short message below. | Set `status: Posted` and `posted:` to the date. |
 | Record | After posting | Paul | Commit the Markdown record. | The recap is in the repository. |
+| Publish | After Paul's review | AI agent, at Paul's word | Add the reviewed recap to the resources page (step 5 below). | The recap is live at `resources.goldencity.church`. |
 
 ## Reminders
 
@@ -36,7 +37,7 @@ A launchd job (`scripts/church.goldencity.groups-weekly-recap-reminder.plist`) r
 
 `python3 scripts/weekly_recap.py check` prints the current state without notifying. The job only runs while the Mac is on; if it is asleep at the scheduled time, the reminder appears when it wakes.
 
-**Scheduled drafting (Claude, added 2026-10-11 at Paul's request):** a Claude scheduled task, *Weekly Recap Draft*, checks the Resource Inbox at **5:28 PM and 7:28 PM every Sunday**. When a script is waiting and no recap exists for that Sunday, it follows the `weekly-recap` skill: it writes the `Draft` record, builds the PDF with this repository's renderer, moves the script to `Processed/`, and sends Paul the PDF with its notes. If no script has arrived by 7:28 PM, it sends a one-line nudge. It never posts, commits, or marks a recap `Posted`, so the Review, Post, and Record stages are unchanged. It needs the Mac awake with the Claude desktop app open. Running `/weekly-recap` by hand still works, and the task skips any Sunday that already has a recap.
+**Scheduled drafting (Claude, added 2026-10-11 at Paul's request):** a Claude scheduled task, *Weekly Recap Draft*, checks the Resource Inbox at **5:28 PM and 7:28 PM every Sunday**. When a script is waiting and no recap exists for that Sunday, it follows the `weekly-recap` skill: it writes the `Draft` record, builds the PDF with this repository's renderer, moves the script to `Processed/`, and sends Paul the PDF with its notes. If no script has arrived by 7:28 PM, it sends a one-line nudge. It never posts, commits, or marks a recap `Posted`, so the Review, Post, and Record stages are unchanged. When Paul replies in that task's session that the recap is reviewed and ready, it carries out the Publish stage (step 5). The task's full current prompt is kept in the Golden City Groups Claude project as *Weekly Recap Task Prompt*; changing the task itself needs Paul's approval in the Claude desktop app. It needs the Mac awake with the Claude desktop app open. Running `/weekly-recap` by hand still works, and the task skips any Sunday that already has a recap.
 
 ## Detailed Steps
 
@@ -73,6 +74,27 @@ Attach the PDF in the All Group Leaders chat with a short note:
 
 The recap is for every current leader in that chat; it is shaped for City Groups, but any leader may use it. Then set `status: Posted` and `posted: YYYY-MM-DD` in the record and commit it, for example `docs(groups): add Weekly Recap for 2026-10-11`.
 
+### 5. Publish to the resources page
+
+Added October 25, 2026 at Paul's direction. Only a recap Paul has reviewed is published; a draft never goes on the page. Paul's word that it is ready (for example, replying "approved" or "publish it") is the trigger.
+
+1. **Check** the [[12 Ministry Website/Resources Page#Before Publishing|Before Publishing]] list: Paul reviewed it, it is public-safe, no names, prayer requests, or locations, and no third-party material without permission. The web text and PDF must match: rebuild the PDF if the record changed.
+2. **Add it in Sanity** (project `1consdwv`, dataset `production`), following the existing recap entries:
+   - `_id` `weekly-recap-YYYY-MM-DD`, title `Weekly Recap · {Message Title}`, slug `weekly-recap-YYYY-MM-DD-{title-lowercase}`;
+   - category `city-groups`, kind `Discussion guide`, audience `everyone`, series and scripture from the record's frontmatter, date the message date;
+   - summary `The {Month D, YYYY} message recap, with check-in questions, Scripture, discussion, and prayer.`;
+   - body: the record's Markdown from `## Check In` through the end of the Pray section, without frontmatter, the `#` title, or the closing italic line ("Use what serves your group…"). That line belongs to the record and the chat PDF only; the web page leaves it out (Paul, October 26, 2026);
+   - the PDF attached as `weekly-recap-YYYY-MM-DD-{title}.pdf`, `publicDistribution: true`; then publish.
+3. **Rebuild** the Vercel production deployment of `gcc-groups-resources` (team `paul-canaan`). CMS changes do not deploy on their own.
+4. **Verify** the live card, the reading page at `resources.goldencity.church/resources/<slug>/`, and the PDF preview.
+5. **Report** the live link to Paul. Set `public_publication_approved:` to the date in the record, as the earlier recaps have.
+
+6. **Record** the release in the website's ignored `.sanity/publication-YYYY-MM-DD.json` (entry, file URL, hash, deployment, what was verified).
+
+**Correcting or removing a published resource.** Edit the record and rebuild the PDF together, update the Sanity entry (and replace the PDF if it changed), publish, and rebuild. To take one down, unpublish or delete it in Sanity and rebuild; the card and pages disappear only after a successful rebuild. A PDF that was already public keeps its CDN link, so removing a card does not revoke it. A failed build leaves the previous version live; check it and follow up.
+
+The Sanity and Vercel connectors are the route; the Mac's agent shell cannot reach either service. If they are unavailable, leave the record and PDF ready and tell Paul what remains. The same steps apply to other reviewed Groups resources (for example Galatians handouts), with their own category, kind, and naming.
+
 ## Exceptions
 
 - **No script** (guest preacher, special service, script unavailable): Paul decides whether to draft from notes or the recording, or skip the week. If skipping, a one-line note in the chat lets leaders know.
@@ -84,6 +106,7 @@ The recap is for every current leader in that chat; it is shaped for City Groups
 | Item | Location | In version control? |
 |---|---|---|
 | Russ's scripts | `06 Resources/Resource Inbox/`, then `Processed/` | No; local-only |
+| Resources page entries | Sanity `1consdwv/production`; site code in `06 Resources/Resources Page/` (its own `gcc-groups-resources` repo) | Site code yes, in its own repository; entries live in Sanity |
 | Recap records (Markdown) | `06 Resources/Group Life/Weekly Recaps/` | Yes; published resources |
 | Recap PDFs | Same folder | No; regenerated from the record |
 | Agent instructions | `.agents/skills/weekly-recap/SKILL.md` (linked for Claude Code at `.claude/skills/`) | Yes |

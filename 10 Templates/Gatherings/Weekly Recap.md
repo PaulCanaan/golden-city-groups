@@ -78,6 +78,8 @@ posted:
 
 `status` moves from `Draft` to `Posted` when Paul shares it; `posted` takes that date.
 
+The closing italic line stays in the record and the chat PDF. When a recap is published to the [[12 Ministry Website/Resources Page|resources page]], its web text ends with the Pray section and leaves that line out (Paul, October 26, 2026).
+
 ## Before Use
 
 - [ ] Every summary claim and question is faithful to what was actually preached; no new doctrinal claims.

@@ -61,3 +61,5 @@ Remind Paul it is a draft awaiting his review, and that he should rebuild the PD
 - set `status` to anything other than `Draft`;
 - post, send, or share the recap anywhere;
 - `git add` or commit anything. Paul commits the record after posting; scripts and PDFs are gitignored and must never be force-added.
+
+After Paul has reviewed the recap and says it is ready, publish it to the resources page by following step 5 of `07 Operations/Workflows/Weekly Recap Production.md`. Never publish a draft he has not reviewed.
