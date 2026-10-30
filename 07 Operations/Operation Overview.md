@@ -21,6 +21,7 @@ Spring 2027 operations prioritize intentional leader development and multiplicat
 - [[07 Operations/Workflows/Launch Checklist]]
 - [[10 Templates/Communication/Group Leader Communication Library]]
 - [[07 Operations/Metrics]]
+- [[07 Operations/Standing Lobby Cards]]
 - [[07 Operations/Workflows/Biweekly Ministry Review]]
 
 ## Connections

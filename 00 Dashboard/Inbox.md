@@ -48,3 +48,15 @@ Use [[10 Templates/Records/Inbox Item|Inbox Item]] to capture a non-sensitive it
 <!-- Capture new items below using the Inbox Item Template. -->
 
 No active items as of the October 19, 2026 review. The September 22 question about DEC-049 and direct participant email was filed into [[00 Dashboard/Biweekly Review Queue|BWR-020]] on October 5, 2026; it remains unresolved there.
+
+## 2026-10-29 — Church Center group-type descriptions differ from current direction
+
+- **Source:** Claude, reading the public Church Center Groups page (goldencitychurchco.churchcenter.com/groups) on 2026-10-29 while drafting the Church Center app card ([[07 Operations/Standing Lobby Cards|Standing Lobby Cards]]).
+- **Type:** Operational Update
+- **Ministry Area:** Planning Center
+- **Authority Status:** Current Operational Fact (what the page says); the comparison is an unresolved question, not a decision.
+- **Summary:** Three group-type descriptions read differently from the vault's current direction. (1) Men's Collective says "Men ages 16+", while Women's Collective says 18+; minors in a Collective would bring in child-safety requirements that remain open (BWR-041; agreement Policies 15–16). (2) City Group - Co-Ed says City Groups "follow the weekend message texts", while leaders choose their own material with ministry review for awareness (DEC-052, DEC-084). (3) Planted sits under a "Classes" group type, while the public branch name is Bible Club (already an open website follow-up).
+- **Next Action:** Paul confirms the intended wording and age floor, with Russ for anything touching minors, then edits the group-type descriptions in Planning Center Groups.
+- **Owner:** Paul
+- **Target Destination:** Planning Center Groups; BWR-041 if the age floor stays below 18.
+- **Status:** Clarify
