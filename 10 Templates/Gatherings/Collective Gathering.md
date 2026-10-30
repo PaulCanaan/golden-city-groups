@@ -60,4 +60,4 @@ This minimum template applies Golden City Church's adapted practices of welcome,
 ## Connections
 
 - [[07 Operations/Workflows/First Meetings Checklist|First Meetings Checklist]] — preparation and follow-through.
-- [[06 Resources/Leader Development/Collective Leader Guide|Collective Guide]] — the leader guide's adaptable flow, preparation, and debrief.
+- [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] — the leader guide's adaptable flow, preparation, and debrief.

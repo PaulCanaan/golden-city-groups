@@ -17,7 +17,7 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 | City Groups Resources | Weekly Recap | Sunday production includes Paul's review, leader-chat delivery, and public publication. October 25 is approved for public publication; its chat-posting field remains blank. Earlier records retain their own statuses (BWR-030). |
 | Collectives Resources | Galatians Study | Six sessions with two-page handouts (DEC-076); Sessions 1–2 are drafted under the [[06 Resources/Curriculum Development/Complexity Gate\|Complexity Gate]] and await Paul's review. |
 | CoJourner Program | Leader development program | [[06 Resources/Leader Development/CoJourner\|CoJourner]] source material and implementation details remain open (BWR-019). |
-| Other Resources | [[06 Resources/Leader Development/City Group Guide\|City Group Guide]]; [[06 Resources/Leader Development/Collective Leader Guide\|Collective Guide]]; [[06 Resources/Leader Development/GCC Group Leader Agreement\|GCC Group Leader Agreement]] | Placement and public access approved by Russ October 26 (DEC-082). Guides are drafts awaiting Paul's review. Agreement policy is approved; prepare its public edition without staff numbers. Actual publication of these resources remains unrecorded. |
+| Other Resources | [[06 Resources/Leader Development/City Group Guide\|City Group Guide]]; [[06 Resources/Leader Development/Collective Leader Guide\|Collective Leader Guide]]; [[06 Resources/Leader Development/GCC Group Leader Agreement\|GCC Group Leader Agreement]] | Placement and public access approved by Russ October 26 (DEC-082). Paul gave review notes on both guides October 26 and his final review is still pending; public PDFs are prepared, and unpublished Sanity drafts (`city-group-guide`, `collective-leader-guide`) were staged October 29 with web text matching the PDFs. Not yet published. The agreement's public edition (`gcc-group-leader-agreement`) was seen live under Other Resources on October 29. |
 
 ## Before Publishing
 
@@ -31,7 +31,7 @@ Check each resource before it goes on the page:
 
 ## Guide Development
 
-Both drafts follow DEC-082–083: supportive and encouraging language; identity and purpose; community, prayer, and Scripture; Belonging, Beholding, Becoming; an adaptable gathering example; leader discernment; and links to the agreement for emergency responses. The City Group Guide includes “In the city, for the city.” The Collective Guide serves Men's and Women's leaders/co-leaders and helps a new leader pick up the shared rhythm. Keep policy in the agreement rather than reproducing it in competing versions.
+Both drafts follow DEC-082–083: supportive and encouraging language; identity and purpose; community, prayer, and Scripture; Belonging, Beholding, Becoming; an adaptable gathering example; leader discernment; and links to the agreement for emergency responses. The City Group Guide includes “In the city, for the city.” The Collective Leader Guide serves Men's and Women's leaders/co-leaders and helps a new leader pick up the shared rhythm. Keep policy in the agreement rather than reproducing it in competing versions.
 
 ## Connections
 

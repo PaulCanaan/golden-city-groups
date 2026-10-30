@@ -93,7 +93,7 @@ Men's Collective and Women's Collective are intended to mature over time into br
 
 Russ confirmed **community, prayer, and Scripture** as non-negotiables on October 26 (DEC-083). Every branch gathers with a formative purpose, guided by his question: “What happens in your group that causes spiritual transformation?” This is a guardrail for faithful preparation and response, not a technique for producing the Spirit's work. City Group design freedom and distinct branch emphases remain within this shared baseline. Summer activity-based gatherings retain it.
 
-The [[06 Resources/Leader Development/City Group Guide|City Group Guide]] and [[06 Resources/Leader Development/Collective Leader Guide|Collective Guide]] apply this direction with supportive gathering examples and leader discernment; both are drafts awaiting Paul. DEC-082 authorizes their eventual placement with the agreement under Other Resources.
+The [[06 Resources/Leader Development/City Group Guide|City Group Guide]] and [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] apply this direction with supportive gathering examples and leader discernment; both are drafts awaiting Paul. DEC-082 authorizes their eventual placement with the agreement under Other Resources.
 
 ## Formation Emphases
 

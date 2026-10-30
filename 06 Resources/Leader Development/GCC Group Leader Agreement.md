@@ -367,7 +367,7 @@ When the Group Boundaries page was written, the ministry still needed a complete
 - [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078]] — Russ's review: offerings and support raising.
 - [[08 Archive/Decisions/2026-10-01 Group Leader Policies — Draft for Pastoral Review|Pastoral review draft (archived)]] — the document Russ reviewed.
 - [[Leader Training]] — leaders learn this agreement before they serve.
-- [[Collective Leader Guide]] — starting point for the Men's and Women's Collective Guide, which carries this agreement.
+- [[Collective Leader Guide]] — the guide for Men's and Women's Collective leaders, which carries this agreement.
 - [[01 Governance/Safeguarding and Escalation Decision Brief|Safeguarding and Escalation Decision Brief]] — the wider safeguarding questions.
 - [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] — evidence and gaps as of August 10, 2026.
 - [[07 Operations/Workflows/Prayer]] — applies consent and confidentiality.

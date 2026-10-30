@@ -33,7 +33,7 @@ Future Class instructors remain subject to DEC-027 and offering-specific approva
 ## Practical Leader Guides
 
 - [[06 Resources/Leader Development/City Group Guide|City Group Guide]] — October 26 draft for Paul's review.
-- [[06 Resources/Leader Development/Collective Leader Guide|Collective Guide]] — October 26 draft for Men's and Women's leaders/co-leaders.
+- [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] — October 26 draft for Men's and Women's leaders/co-leaders.
 - [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]] — approved boundaries and emergency responses.
 
 Both guides and the agreement are approved for Other Resources placement (DEC-082); reviewed public editions and actual release remain pending.

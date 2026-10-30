@@ -1,10 +1,12 @@
-# Collective Guide
+# Collective Leader Guide
 
 ## Document Status
 
-**Reviewed by Paul and condensed — 2026-10-26; public PDF prepared, not yet published.** For leaders, co-leaders, and table leaders of the Men's and Women's Collectives. Russ approved its purpose, direction, and public placement at the 2026-10-26 staff meeting ([[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082]]). It follows the voice of the [[GCC Group Leader Agreement]]. At Paul's direction it was cut to fit three pages and edited with the humanizer writing guide. It grew out of the earlier Collective Leader Guide role companion named in [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063]]; that version's launch, gathering, and follow-up practices are carried into Before You Lead and Debrief, and its full text remains in git history.
+**Revised 2026-10-29; awaiting Paul's final review; public PDF rebuilt, not yet published.** For leaders, co-leaders, and table leaders of the Men's and Women's Collectives. Russ approved its purpose, direction, and public placement at the 2026-10-26 staff meeting ([[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082]]). It follows the voice of the [[GCC Group Leader Agreement]]. At Paul's direction it was cut to fit three pages on 2026-10-26, and on 2026-10-29 the prose was revised again with the humanizer skill (github.com/blader/humanizer): fewer staged contrasts and stock phrases, no dashes, sentence-case headings. No direction or policy reference changed in that pass. **Print look (Paul, 2026-10-29):** both guides use the GCC Group Leader Agreement's public layout: the GROUPS logo with a branch label and date at the right, a plain title and subtitle, the thank-you note in one warm panel, gold section labels and list markers, and a footer with the page count. Only the header label differs (City Groups or Collectives).
 
-**Paul's review, 2026-10-26:**
+**Name:** Paul set the title as **Collective Leader Guide** on 2026-10-29. The 2026-10-26 minutes and DEC-082 call it the "Collective Guide"; both names refer to this page, and the decision records keep their original wording.
+
+**Paul's review notes, 2026-10-26:**
 
 - **Teaching and discussion balance (Russ's direction, reported by Paul).** Russ wants a lighter teaching block, perhaps 15/15 or even 10/20 instead of 20/10, so leaders carry less of the teaching and more voices are heard. The split is not set, so the guide gives no timings. Recorded as [[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085]], amending DEC-076 in part; the [[10 Templates/Gatherings/Collective Gathering|Collective Gathering template]] now shows untimed blocks.
 - Context becomes **context and review**, so people who missed the last gathering or are new can pick up the study's focus quickly.
@@ -17,27 +19,27 @@
 
 **What this guide does not do:** it creates no policy, appoints no one, and makes no Collective ready. The agreement is the only policy source. The minimum standards (DEC-027–029) still apply, and appointment and readiness stay with Russ (DEC-021).
 
-**Public edition:** `Collective Guide.pdf` in this folder, for Other Resources on the resources page (DEC-082, BWR-037). It leaves out this block, decision numbers, vault links, and staff phone numbers, and links the agreement to its published page.
+**Public edition:** `Collective Leader Guide.pdf` in this folder, for Other Resources on the resources page (DEC-082, BWR-037). An unpublished Sanity draft, `collective-leader-guide`, holds the same text for the web; it is updated to match this page and publishes only after Paul's final review and go-ahead. The public edition leaves out this block, decision numbers, vault links, and staff phone numbers, and links the agreement to its published page.
 
-## Thank You for Leading
+## Thank you for leading
 
-Thank you for helping people find encouragement and grow in Christ. You don't carry a Collective alone. Co-leaders and table leaders share the work, Paul prepares the study resources and cares for leaders, and Russ and the pastoral team step in when a need goes beyond your role. Policies live in one place, the [[GCC Group Leader Agreement]]. This guide covers the rest.
+Thank you for helping people find encouragement and grow in Christ. You don't carry a Collective alone. Co-leaders and table leaders share the work, Paul prepares the study resources and cares for leaders, and Russ and the pastoral team step in when a need goes beyond your role. Policies live in one place, the [[GCC Group Leader Agreement]], and this guide covers the rest.
 
-## What a Collective Is and Isn't
+## What a Collective is and isn't
 
 Collectives are places of shared encouragement, where men walk alongside men and women alongside women as they study Scripture and pray together. We hope these friendships grow into mentoring, honesty, and mutual care.
 
-- It is teaching and conversation together. People take part instead of only listening.
+- The evening is teaching and conversation together, and people take part instead of only listening.
 - It has more shared study than a City Group's flexible gathering.
 - The Men's and Women's Collectives share a course direction, but each uses resources suited to its own people. Don't assume everyone has the same story or needs the same application.
-- It supports Sunday worship and the church's pastoral care. It doesn't replace them.
-- You help people take part. No one expects you to be a counselor or to have every answer.
+- It supports Sunday worship and the church's pastoral care and doesn't replace either one.
+- You help people join in. No one expects you to be a counselor or to have every answer.
 
 ## Belonging, Beholding, Becoming
 
-**Belonging** is being welcomed into relationship with God and his people. **Beholding** is attending to Jesus through Scripture, prayer, worship, and dependence on the Holy Spirit. **Becoming** is growing into his likeness in everyday love, obedience, service, and witness. Someone who is welcomed can begin to speak honestly, Scripture brings that honesty before Christ, and prayer carries it into the week. The Spirit gives the growth. Your part is to prepare faithfully and make room for people to respond to Christ.
+**Belonging** is being welcomed into relationship with God and his people. **Beholding** is attending to Jesus through Scripture, prayer, worship, and dependence on the Holy Spirit. **Becoming** is growing into his likeness in everyday love, obedience, service, and witness. Someone who is welcomed can begin to speak honestly; Scripture brings that honesty before Christ, and prayer carries it into the week. The Spirit gives the growth. Your part is to prepare faithfully and make room for people to respond to Christ.
 
-## The Gathering Flow
+## The gathering flow
 
 Most gatherings follow five steps. Adjust them to your group and your study plan.
 
@@ -49,43 +51,43 @@ Most gatherings follow five steps. Adjust them to your group and your study plan
 
 The flow follows S.O.A.P. (Scripture, Observation, Application, Prayer), moving from what the passage says to how it shapes our lives. Keep each teaching part short so discussion has real room. You don't need to carry the evening, and people engage more when more voices are heard. Use tables or one group conversation, depending on attendance.
 
-## Before You Lead
+## Before you lead
 
 - Read the passage and the current handout. Find the main point, what needs explaining, and a few questions that invite a response. Pray for the people who will come.
-- Agree with your co-leader who will welcome, teach, lead discussion, keep time, and close. Give table leaders enough background to serve the same purpose.
+- Agree with your co-leader on who will welcome, teach, lead discussion, keep time, and close. Give table leaders enough background to lead their tables toward the same purpose.
 - Before a new Collective or a new leader begins, sit down with Paul and the [[07 Operations/Workflows/First Meetings Checklist|First Meetings Checklist]] to go over the role, schedule, location, study plan, safeguards, and how people will join.
 - Read the [[GCC Group Leader Agreement]] and sign its Leader Acknowledgement. Interest, training, or a Planning Center role doesn't by itself make someone a leader.
 
-## Steering the Conversation
+## Steering the conversation
 
-Start with what people notice in the passage before asking how it touches their lives, and give them time to think. Invite quieter people without requiring an answer. To bring a tangent back, try "That's worth coming back to afterward. For now, how does it connect with what the passage says here?" "I don't know yet" is a fine answer. Bring disputed teaching to the teaching leader, Paul, or Russ, and stay with the agreed study (Policy 11).
+Start with what people notice in the passage before you ask how it touches their lives, and give them time to think. Invite quieter people in without requiring an answer. To bring a tangent back, try "That's worth coming back to afterward. For now, how does it connect with what the passage says here?" "I don't know yet" is a fine answer. Bring disputed teaching to the teaching leader, Paul, or Russ, and stay with the agreed study (Policy 11).
 
-When someone shares something painful, stop and care; the study can wait. Listen without pressing for details or making them explain to the room, offer to pray, and point them to pastoral support (Policy 7). Men care for men and women for women, so follow-up across genders goes through a co-leader of the same gender or a pastor (Policy 12).
+When someone shares something painful, stop and care for them; the study can wait. Listen without pressing for details or asking them to explain to the room, offer to pray, and point them to pastoral support (Policy 7). Men care for men and women for women, so follow-up across genders goes through a co-leader of the same gender or a pastor (Policy 12).
 
-## Debrief After the Gathering
+## Debrief after the gathering
 
-Take a few minutes with your co-leader before the week moves on. Talk through what helped people take part, what needs attention, and who needs follow-up. Take attendance the way Paul has asked, and tell him about any wrong details on the event page. Act on an urgent concern right away, and keep care details with the pastoral contact instead of in chats or shared notes.
+Take a few minutes with your co-leader before the week moves on. Talk through what helped people take part, what needs attention, and who needs follow-up. Take attendance the way Paul has asked, and tell him about any wrong details on the event page. Act on an urgent concern right away, and keep care details with the pastoral contact, out of chats and shared notes.
 
-## Boundaries and Pace
+## Boundaries and pace
 
 The agreement covers confidentiality, prayer requests, conflict, conduct, homes, children, alcohol, money, and urgent situations.
 
-- A meeting address can go on the Planning Center group profile, which only group members see. Send other personal details by email or the Church Center group chat, never publicly.
+- You can put the meeting address on the Planning Center group profile, which only group members see. Send other personal details by email or in the Church Center group chat, never publicly.
 - Ask before you share a prayer request, and keep stories and care details out of group chats (Policies 5, 6, and 17).
 - Use email as the main way to reach members so people without the Church Center app aren't missed.
 - Fundraising, exceptions to policy, and commitments beyond your role need the church's approval first (Policies 8 and 11).
 - Share the load with your co-leader and table leaders, and talk with Paul when preparation or capacity gets hard to sustain. You can step back for a season without shame. Small numbers or uneven attendance don't disqualify you as a leader or take anything from your faithful service.
 
-## Your Support System
+## Your support system
 
 - **Your co-leader and table leaders** prepare, lead, and debrief with you.
-- **Paul**, Ministry Director for Groups and Classes, prepares the study resources and is your first call for questions about your Collective or your own capacity. Book one-on-one time through his sign-up calendar.
-- **Group Leader Collaboration** brings current leaders together on the first and third Saturday mornings of each month. Leaders across the ministry serve in different rooms, often at the same hour, and rarely see one another at work. At Collaboration you share what's working and what's hard, learn from each other, and come away encouraged and better equipped. Paul posts times and places in the leaders' Church Center group chat.
+- **Paul**, Ministry Director for Groups and Classes, prepares the study resources and is your first call about your Collective or your own capacity. You can book one-on-one time with him through his sign-up calendar.
+- **Group Leader Collaboration** meets on the first and third Saturday mornings of each month. Leaders across the ministry serve in different rooms, often at the same hour, and rarely see one another at work. At Collaboration you talk through what's working and what's hard, learn from one another, and go home encouraged. Paul posts times and places in the leaders' Church Center group chat.
 - **Russ and the pastoral team** step in when care goes beyond what the group can give.
 
-## When You Need Help
+## When you need help
 
-In an emergency, call 911 first. Then tell Russ Daly, Lead Pastor and primary pastoral contact, the same day, or Paul as backup if you can't reach Russ. You'll receive their numbers privately. Don't investigate or carry a serious situation alone. The [[GCC Group Leader Agreement]] gives the full response for each case below.
+In an emergency, call 911 first. Then tell Russ Daly, Lead Pastor and primary pastoral contact, the same day, or Paul as backup if you can't reach Russ. You'll receive their numbers privately. Don't investigate a serious situation or carry it alone. The [[GCC Group Leader Agreement]] gives the full response for each case below.
 
 | If… | First step | Agreement |
 |---|---|---|
@@ -100,11 +102,11 @@ In an emergency, call 911 first. Then tell Russ Daly, Lead Pastor and primary pa
 
 Telling the church never replaces a report the law requires (Policy 2).
 
-## Keep These Close
+## Keep these close
 
-- [[GCC Group Leader Agreement]] — policies, emergency responses, and pastoral contacts.
-- [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P. Framework]] — the study pattern behind the flow.
-- [[05 Leadership/Group Leader Collaboration/About Collaboration|Group Leader Collaboration]] — encouragement and learning with fellow leaders.
-- [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]] — support from the Groups Director.
-- [[Leader Training]] — preparation before you serve.
-- [[03 Groups/Collectives/Men's Collective|Men's Collective]] and [[03 Groups/Collectives/Women's Collective|Women's Collective]] — current details for each.
+- [[GCC Group Leader Agreement]]: policies, emergency responses, and pastoral contacts.
+- [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P. Framework]]: the study pattern behind the flow.
+- [[05 Leadership/Group Leader Collaboration/About Collaboration|Group Leader Collaboration]]: encouragement and learning with fellow leaders.
+- [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]]: support from the Groups Director.
+- [[Leader Training]]: preparation before you serve.
+- [[03 Groups/Collectives/Men's Collective|Men's Collective]] and [[03 Groups/Collectives/Women's Collective|Women's Collective]]: current details for each.

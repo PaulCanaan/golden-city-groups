@@ -62,7 +62,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 
 ## Next Actions
 
-- Paul: review the [[06 Resources/Leader Development/City Group Guide|City Group Guide]] and [[06 Resources/Leader Development/Collective Leader Guide|Collective Guide]] drafts; retain the agreement as the policy source, give contacts privately, and bring Russ the open questions (BWR-033, BWR-041).
+- Paul: review the [[06 Resources/Leader Development/City Group Guide|City Group Guide]] and [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] drafts; retain the agreement as the policy source, give contacts privately, and bring Russ the open questions (BWR-033, BWR-041).
 - Paul: record the non-sensitive October 4/11 and past first-gathering outcomes (BWR-008, BWR-010, BWR-011, BWR-028).
 - Paul and the Collective operators: confirm the Men's October 20 teaching assignment/delivery and keep Women's October 27 ready (BWR-029).
 - Paul and Russ: reconcile per-offering appointments, Fall preparation, safeguards, final-readiness decisions, and actual first gatherings; publication and passed dates are not enough (BWR-006–010).

@@ -2,9 +2,9 @@
 
 ## Document Status
 
-**Reviewed by Paul and condensed — 2026-10-26; public PDF prepared, not yet published.** Russ approved this guide's purpose, direction, and public placement at the 2026-10-26 staff meeting ([[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082]], [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083]]). It follows the voice of the [[GCC Group Leader Agreement]]. At Paul's direction it was cut to fit three pages and edited with the humanizer writing guide.
+**Revised 2026-10-29; awaiting Paul's final review; public PDF rebuilt, not yet published.** Russ approved this guide's purpose, direction, and public placement at the 2026-10-26 staff meeting ([[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082]], [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083]]). It follows the voice of the [[GCC Group Leader Agreement]]. At Paul's direction it was cut to fit three pages on 2026-10-26, and on 2026-10-29 the prose was revised again with the humanizer skill (github.com/blader/humanizer): fewer staged contrasts and stock phrases, no dashes, sentence-case headings. No direction, policy reference, or approved wording changed in that pass; Russ's question and the framework definitions are unchanged. **Print look (Paul, 2026-10-29):** both guides use the GCC Group Leader Agreement's public layout: the GROUPS logo with a branch label and date at the right, a plain title and subtitle, the thank-you note in one warm panel, gold section labels and list markers, and a footer with the page count. Only the header label differs (City Groups or Collectives).
 
-**Paul's review, 2026-10-26:**
+**Paul's review notes, 2026-10-26:**
 
 - **Material review (Russ's direction, reported by Paul).** Leaders still choose their material, and it goes through ministry review on the group profile form before the group starts. The review keeps the ministry directors aware; it is not an approval step. Recorded as [[08 Archive/Decisions/Decision History#DEC-084 — Ministry Review of Chosen Group Material|DEC-084]], amending DEC-052 in part.
 - Community, prayer, and Scripture are called the three **core elements**, not non-negotiables, and are not attributed to Russ. His guiding question stays in this guide.
@@ -16,28 +16,28 @@
 
 **What this guide does not do:** it creates no policy, appoints no one, and makes no group ready. The agreement is the only policy source; appointment and readiness stay with Russ (DEC-021).
 
-**Public edition:** `City Group Guide.pdf` in this folder, for Other Resources on the resources page (DEC-082, BWR-037). It leaves out this block, decision numbers, vault links, and staff phone numbers, and links the agreement to its published page.
+**Public edition:** `City Group Guide.pdf` in this folder, for Other Resources on the resources page (DEC-082, BWR-037). An unpublished Sanity draft, `city-group-guide`, holds the same text for the web; it is updated to match this page and publishes only after Paul's final review and go-ahead. The public edition leaves out this block, decision numbers, vault links, and staff phone numbers, and links the agreement to its published page.
 
-## Thank You for Leading
+## Thank you for leading
 
-Thank you for opening your life to others. A City Group grows through small, faithful things: remembering a name, pulling up another chair, opening Scripture, praying honestly, checking in during the week. You don't need a perfect evening or an answer to every question, and you don't lead alone. Policies live in one place, the [[GCC Group Leader Agreement]]. This guide covers the rest.
+Thank you for opening your life to others. A City Group grows through small, faithful acts: remembering a name, pulling up another chair, opening Scripture, praying honestly, checking in during the week. You don't need a perfect evening or an answer to every question, and you don't lead alone. Policies live in one place, the [[GCC Group Leader Agreement]], and this guide covers the rest.
 
-## In the City, for the City
+## In the city, for the city
 
-Golden City Church's vision is to see the city fully following Jesus. City Groups carry that vision into our neighborhoods. We gather *in the city*, sharing life where people already live, and *for the city*, so that what takes root in the group shapes how we love and serve our neighbors.
+Golden City Church's vision is to see the city fully following Jesus, and City Groups carry that vision into our neighborhoods. We gather *in the city*, in the places where people already live, and *for the city*, so that what takes root in a group shapes how we love and serve our neighbors.
 
-## What a City Group Is and Isn't
+## What a City Group is and isn't
 
 A City Group is life together centered on Jesus. People make friends, pray, care for one another, open Scripture, and practice following Jesus together. Someone with questions, a hard week, or little church background should still find room to take part.
 
-- It doesn't have to be an in-depth Bible study. Scripture has a real place, but a group isn't a class.
-- It is more than friends spending time together. A Golden City group gathers with a purpose.
-- It supports Sunday worship and the church's pastoral care. It doesn't replace them.
-- You are a leader and companion in following Jesus. You are not anyone's counselor or only source of help.
+- Scripture has a real place in the group, but a group isn't a class, and you don't need to run an in-depth Bible study.
+- A Golden City group gathers with a purpose, so it is more than friends spending time together.
+- It supports Sunday worship and the church's pastoral care and doesn't replace either one.
+- You lead people and walk with them as they follow Jesus. You aren't anyone's counselor or their only source of help.
 
-Within that, you design your group: weekly or every other week, the day, the time, and the material. Spend the first few gatherings mostly getting to know the people who joined.
+Within that, you design your group: weekly or every other week, the day, the time, and the material. Spend most of the first few gatherings getting to know the people who joined.
 
-## Three Core Elements
+## Three core elements
 
 Every Golden City group keeps community, prayer, and Scripture together (DEC-083).
 
@@ -53,47 +53,47 @@ If your group meets on a walk or while serving, plan where Scripture and prayer 
 
 Russ asks every leader: **"What happens in your group that causes spiritual transformation?"** Take that question to prayer as you prepare. We can't make the Spirit move, but we can make room for people to meet Christ, respond to his Word, and care for one another.
 
-## Choosing Your Material
+## Choosing your material
 
-You choose what your group goes through: the [[06 Resources/Group Life/Weekly Recaps|Weekly Recap]], a book of the Bible, a Christian book, a devotional, or something else. Choose on purpose, for what will help these people grow in Christ this season. Before your group starts, list your choice on the group profile form. The ministry reviews it so the ministry directors know what each group is studying and can support you, and the choice stays yours. If you're unsure whether something fits, ask Paul.
+You choose what your group goes through: the [[06 Resources/Group Life/Weekly Recaps|Weekly Recap]], a book of the Bible, a Christian book, a devotional, or something else. Pick it for what will help these particular people grow in Christ this season. Before your group starts, list your choice on the group profile form. The ministry directors review it so they know what each group is studying and can support you, and the choice stays yours. If you're unsure whether something fits, ask Paul.
 
-## A Typical Gathering
+## A typical gathering
 
-Adapt these to your people, your place, and your time.
+Adapt these steps to your group and your setting.
 
 1. **Welcome and connect.** Catch up and introduce newcomers. Food helps when you can manage it, but it isn't required.
-2. **Open Scripture.** Read together. With the Weekly Recap, give enough background for someone who missed Sunday.
+2. **Open Scripture.** Read together. If you use the Weekly Recap, give enough background for someone who missed Sunday.
 3. **Discuss.** Ask a few open questions and help people see a faithful next step.
-4. **Pray.** Protect time for it instead of leaving it to the last few minutes.
+4. **Pray.** Set aside real time for prayer instead of leaving it to the last few minutes.
 5. **Follow up.** Confirm the next gathering and notice who needs a check-in.
 
-You don't have to finish every question. Afterward, ask yourself whether people had room to belong, whether you attended to Christ in Scripture and prayer, and who needs care this week.
+You don't have to finish every question. Afterward, ask yourself whether people had room to belong, whether the group attended to Christ in Scripture and prayer, and who needs care this week.
 
-## Steering the Conversation
+## Steering the conversation
 
-When a tangent crowds others out, try "Thanks for sharing that. Let's hear from someone else," or "Let's bring that back to the passage. What do you notice here?" Ask the room instead of one person, and let people pass. If one person keeps taking all the space, talk with them kindly afterward (Policy 9). When you don't know an answer, say so, and bring disputed teaching to Paul or Russ (Policy 11).
+When a tangent crowds others out, try "Thanks for sharing that. Let's hear from someone else," or "Let's bring that back to the passage. What do you notice here?" Put questions to the whole room rather than to one person, and let people pass. If one person keeps taking all the space, talk with them kindly afterward (Policy 9). When you don't know an answer, say so, and bring disputed teaching to Paul or Russ (Policy 11).
 
-When someone shares something painful, stop and care; the study can wait. Listen before you try to fix anything, offer to pray, and don't press for details or promise secrecy. Follow up privately and help them reach pastoral support (Policy 7).
+When someone shares something painful, stop and care for them; the study can wait. Listen before you try to fix anything, offer to pray, and don't press for details or promise secrecy. Follow up privately and help them reach pastoral support (Policy 7).
 
-## Boundaries and Pace
+## Boundaries and pace
 
 Read the [[GCC Group Leader Agreement]] and sign its Leader Acknowledgement. It covers confidentiality, prayer requests, children, homes, alcohol, money, conflict, and conduct.
 
-- Your meeting address can go on your Planning Center group profile, which only group members see. Send other personal details by email or your Church Center group chat, never publicly.
+- You can put your meeting address on your Planning Center group profile, which only group members see. Send other personal details by email or in your Church Center group chat, never publicly.
 - Ask before you share someone's story or prayer request (Policies 5 and 6).
-- Use email for updates so people without the Church Center app aren't missed, and give early notice when plans change.
+- Send updates by email so members without the Church Center app aren't missed, and give early notice when plans change.
 - Let members help with welcome, meals, and care. Tell Paul when your capacity changes; you can step back for a season without shame. Small numbers or uneven attendance don't disqualify you as a leader or take anything from your faithful service.
 
-## Your Support System
+## Your support system
 
-- **Paul**, Ministry Director for Groups and Classes, is your first call for questions about your group, your material, or your own capacity. Book one-on-one time through his sign-up calendar.
-- **Group Leader Collaboration** brings current leaders together on the first and third Saturday mornings of each month. Most leaders serve in their own homes on their own nights and rarely see another leader at work. At Collaboration you share what's working and what's hard, learn from each other, and come away encouraged and better equipped. Paul posts times and places in the leaders' Church Center group chat.
+- **Paul**, Ministry Director for Groups and Classes, is your first call about your group, your material, or your own capacity. You can book one-on-one time with him through his sign-up calendar.
+- **Group Leader Collaboration** meets on the first and third Saturday mornings of each month. Most leaders host in their own homes on their own nights and rarely see another leader at work. At Collaboration you talk through what's working and what's hard, learn from one another, and go home encouraged. Paul posts times and places in the leaders' Church Center group chat.
 - **Russ and the pastoral team** step in when care goes beyond what the group can give.
 - **The Groups resources page** has the Weekly Recaps and the agreement.
 
-## When You Need Help
+## When you need help
 
-In an emergency, call 911 first. Then tell Russ Daly, Lead Pastor and primary pastoral contact, the same day, or Paul as backup if you can't reach Russ. You'll receive their numbers privately. Don't investigate or carry a serious situation alone. The [[GCC Group Leader Agreement]] gives the full response for each case below.
+In an emergency, call 911 first. Then tell Russ Daly, Lead Pastor and primary pastoral contact, the same day, or Paul as backup if you can't reach Russ. You'll receive their numbers privately. Don't investigate a serious situation or carry it alone. The [[GCC Group Leader Agreement]] gives the full response for each case below.
 
 | If… | First step | Agreement |
 |---|---|---|
@@ -107,9 +107,9 @@ In an emergency, call 911 first. Then tell Russ Daly, Lead Pastor and primary pa
 
 Telling the church never replaces a report the law requires (Policy 2).
 
-## Keep These Close
+## Keep these close
 
-- [[GCC Group Leader Agreement]] — policies, emergency responses, and pastoral contacts.
-- [[06 Resources/Group Life/Weekly Recaps|Weekly Recaps]] — optional discussion help on the weekend message.
-- [[05 Leadership/Group Leader Collaboration/About Collaboration|Group Leader Collaboration]] — encouragement and learning with fellow leaders.
-- [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]] — support from the Groups Director.
+- [[GCC Group Leader Agreement]]: policies, emergency responses, and pastoral contacts.
+- [[06 Resources/Group Life/Weekly Recaps|Weekly Recaps]]: optional discussion help on the weekend message.
+- [[05 Leadership/Group Leader Collaboration/About Collaboration|Group Leader Collaboration]]: encouragement and learning with fellow leaders.
+- [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]]: support from the Groups Director.

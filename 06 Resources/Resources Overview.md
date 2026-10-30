@@ -34,7 +34,7 @@ Resources for discerning, preparing, and supporting approved leaders:
 - [[CoJourner]] — approved four-session pathway for ongoing leader development
 - [[07 Operations/Workflows/First Meetings Checklist]] — preparation before, during, and after a group's first gatherings
 - [[07 Operations/Workflows/Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
-- [[Collective Leader Guide|Collective Guide]] — supportive guide for Men's and Women's leaders/co-leaders, including an adaptable gathering flow and discernment; October 26 draft awaiting Paul (DEC-082–083)
+- [[Collective Leader Guide|Collective Leader Guide]] — supportive guide for Men's and Women's leaders/co-leaders, including an adaptable gathering flow and discernment; October 26 draft awaiting Paul (DEC-082–083)
 - [[City Group Guide]] — purpose, “In the city, for the city,” gathering practice, formation, and leader support; October 26 draft awaiting Paul (DEC-082–083)
 - [[GCC Group Leader Agreement]] — the approved policies and minimum boundaries every group leader affirms (DEC-077); a few pastoral questions remain open. The pastoral review draft is archived at [[08 Archive/Decisions/2026-10-01 Group Leader Policies — Draft for Pastoral Review|2026-10-01 Group Leader Policies — Draft for Pastoral Review]]
 - [[Safeguarding and Escalation Resource Gap Audit]] — evidence, policy-location, escalation, data, and launch-blocker audit for pastoral review
