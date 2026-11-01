@@ -42,6 +42,7 @@ Roboto only (files and license in `fonts/`):
 - **Header:** logo left; resource name (uppercase label) and date right; a 1.5pt emblem-gold rule beneath.
 - **Footer:** hairline, then "Golden City Church · Groups" left and "goldencity.church" right, small gray.
 - Numbered questions with deep-gold numerals; no boxes around questions.
+- **Collective handouts (Paul, November 1, 2026):** the two pages carry the same number of writing lines, so the pages balance; the Scripture credit sits at the bottom of the second page, directly above the footer, instead of following the Close Prayer.
 
 ## Length and Depth by Ministry Branch
 

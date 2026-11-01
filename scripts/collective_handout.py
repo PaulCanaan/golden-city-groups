@@ -2,7 +2,9 @@
 
 Reuses the Groups resource style from scripts/weekly_recap.py. The handout
 markdown is the editable source: page breaks, writing lines, and the Scripture
-credit are explicit comments in that file.
+credit are explicit comments in that file. Layout rule (Paul, November 1, 2026):
+both pages carry the same number of writing lines, and the Scripture credit
+prints at the bottom of the final page, directly above the footer.
 """
 
 import argparse
@@ -22,7 +24,7 @@ STYLE = """
 @font-face { font-family: Roboto; src: url("ITALIC"); font-weight: 100 900; font-style: italic; }
 @page { size: letter; margin: 0.48in 0.68in 0.42in; }
 body { margin: 0; font: 10.5pt/1.45 Roboto, "Helvetica Neue", sans-serif; letter-spacing: -0.01em; color: #1C1C1C; }
-.sheet { display: flex; flex-direction: column; min-height: 9.85in; break-after: page; }
+.sheet { display: flex; flex-direction: column; min-height: 9.85in; break-after: page; position: relative; }
 .sheet:last-child { break-after: auto; }
 .sheet .body { flex: 1 1 auto; }
 header { display: flex; justify-content: space-between; align-items: flex-end;
@@ -38,7 +40,7 @@ h3 + .kicker, h3 + p.sub { font-size: 9.5pt; color: #5C5C5C; margin: 0 0 4pt; }
 h2 { font-size: 8pt; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; color: #857230; margin: 11pt 0 4pt; }
 p { margin: 0 0 .42em; }
 .read p { margin: 0 0 .32em; }
-.credit { margin-top: 8pt; font-size: 8pt; line-height: 1.35; color: #6B6B6B; }
+.credit { position: absolute; bottom: 0.38in; left: 0; right: 0; font-size: 8pt; line-height: 1.35; color: #6B6B6B; }
 ol { margin: 2pt 0 0; padding-left: 1.35em; }
 li { margin: 0 0 .38em; padding-left: .2em; }
 li::marker { color: #857230; font-weight: 600; }
