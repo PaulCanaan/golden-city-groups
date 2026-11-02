@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Canonical structure for an approved optional resource (DEC-055).** Check-in questions and discussion questions come from DEC-055. The order (check-in, then a summary for those who missed the message, then discussion), Sunday-evening delivery as a PDF, and the Markdown record come from Paul's October 7, 2026 direction (DEC-055 clarification). The standalone rule below comes from Russ's feedback on the first recap, relayed by Paul on October 7, 2026. Production steps live in [[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]]. Since October 19, 2026 this shape and its question design are the model for other Groups resources, such as the Collectives' Galatians study ([[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071]]).
+**Canonical structure for an approved optional resource (DEC-055). Format revised November 2, 2026 at Paul's direction:** the subtitle is the series and week, Read Together is the week's key passage only, Discuss holds four questions, Pray is a numbered list of prompts, there is no closing line, and pronouns that refer to God are capitalized. Check-in questions and discussion questions come from DEC-055. The order (check-in, then a summary for those who missed the message, then discussion), Sunday-evening delivery as a PDF, and the Markdown record come from Paul's October 7, 2026 direction (DEC-055 clarification). The standalone rule below comes from Russ's feedback on the first recap, relayed by Paul on October 7, 2026. Production steps live in [[07 Operations/Workflows/Weekly Recap Production|Weekly Recap Production]]. Since October 19, 2026 this shape and its question design are the model for other Groups resources, such as the Collectives' Galatians study ([[08 Archive/Decisions/Decision History#DEC-071 — Groups Resource Design Standard|DEC-071]]).
 
 ## Purpose and Use
 
@@ -20,15 +20,15 @@ The recap follows the movement of a gathering: people arrive and are known, atte
 |---|---|---|
 | **Check In** | One or two questions about how people's week has actually gone. Lightly connected to the message at most; no preparation required. | Belonging |
 | **This Week's Message** | About 120–180 words: the central emphasis and main movement of the message, so everyone, including anyone who missed it, can join the conversation. Context, not a reproduction of the sermon. | Beholding |
-| **Read Together** | The primary passage reference, read aloud from the group's Bibles. | Beholding |
-| **Discuss** | Four or five open questions: what stands out in the passage → what the text shows us of God in Christ → how it meets ordinary life, relationships, service, or witness → what might get in the way of that response. | Beholding → Becoming |
-| **Pray** | One prompt drawn from the message. | Becoming |
+| **Read Together** | The week's key passage, read aloud from the group's Bibles. A series key passage (Galatians 5:22–23 for the Fruit of the Spirit series) frames the series; it is not re-read every week. | Beholding |
+| **Discuss** | Four open questions: what stands out in the passage → what the text shows us of God in Christ → how it meets ordinary life, relationships, service, or witness → what might get in the way of that response. | Beholding → Becoming |
+| **Pray** | A short numbered list of prayer prompts drawn from the message. | Becoming |
 
 **Usable without hearing the message.** A group must be able to use the recap with only this page and their Bibles. Every Discuss question draws on the Read Together passages or on something the summary itself explains; none asks what people remember or took away from Sunday.
 
-**Launch season (October 2026, until Paul says otherwise):** groups are still getting to know one another, so give a little more room to fellowship and a little less to study: two Check In questions that help people know each other, and three or four Discuss questions (Paul, October 7, 2026).
+**Launch season (October 2026):** groups were still getting to know one another, so Check In questions helped people know each other. The standing shape, set November 2, 2026, is two Check In questions and four Discuss questions.
 
-Keep the total to about six to eight questions. The guide should invite conversation rather than test recall, require prior study, or turn the leader into a lecturer. The preaching has already done most of the observation and interpretation; group time moves toward shared reflection and response.
+Keep the total to six questions. At four Discuss questions the set needs no "use what serves your group" note; that line was retired on November 2, 2026, because leaders know how to use the recap. The guide should invite conversation rather than test recall, require prior study, or turn the leader into a lecturer. The preaching has already done most of the observation and interpretation; group time moves toward shared reflection and response.
 
 ## Record Format
 
@@ -40,14 +40,15 @@ record_type: weekly-recap
 message_date: YYYY-MM-DD
 message_title: "{Message Title}"
 series: "{Series}"
-passage: "{Passage}"
+week: {Week number, when the series numbers its weeks}
+passage: "{The week's key passage}"
 status: Draft
 posted:
 ---
 
 # {Message Title}
 
-**Weekly Recap · {Month D, YYYY}** · *{Series}* · {Passage}
+**Weekly Recap · {Month D, YYYY}** · *{Series}* · Week {Week}
 
 ## Check In
 
@@ -66,25 +67,24 @@ posted:
 1. {What stands out in the passage}
 2. {The text and Christ}
 3. {The text and Christ, or life}
-4. {Ordinary life, relationships, service, or witness}
-5. {What might get in the way}
+4. {Ordinary life, relationships, service, or witness — and what might get in the way}
 
 ## Pray
 
-{One prompt}
-
-*Use what serves your group; you don't need to get through every question.*
+1. {A prayer prompt drawn from the message}
+2. {Another prompt}
 ```
 
 `status` moves from `Draft` to `Posted` when Paul shares it; `posted` takes that date.
 
-The closing italic line stays in the record and the chat PDF. When a recap is published to the [[12 Ministry Website/Resources Page|resources page]], its web text ends with the Pray section and leaves that line out (Paul, October 26, 2026).
+The subtitle names the series and, when the series numbers its weeks, the week — never the passages, which appear under Read Together. `passage` holds the week's key passage only. Pray is a numbered list of prompts, not a paragraph. The record ends with the Pray list; there is no closing line (Paul, November 2, 2026). When a recap is published to the [[12 Ministry Website/Resources Page|resources page]], its web text likewise ends with the Pray section.
 
 ## Before Use
 
 - [ ] Every summary claim and question is faithful to what was actually preached; no new doctrinal claims.
 - [ ] A group that did not hear the message can use every question with only this page and the passages.
 - [ ] No names, personal stories, or pastoral details from sermon illustrations that should not be repeated publicly; the record is published.
+- [ ] Pronouns that refer to God are capitalized (He, His, Him); pronouns for people stay lowercase.
 - [ ] Keep confidential participant, pastoral, screening, and safeguarding details out of the vault and the chat.
 - [ ] Record completion only when the action actually occurs; a template grants no approval.
 

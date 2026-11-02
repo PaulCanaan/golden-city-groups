@@ -60,7 +60,7 @@ It reports anything it was unsure of or left out in its reply rather than in the
 - [ ] The summary gives context to someone who missed Sunday without reproducing the sermon.
 - [ ] Every question works for a group that did not hear the message, using only the page and the passages (Russ, October 7).
 - [ ] No names, personal stories, or pastoral details from illustrations appear unless they are clearly fine to repeat publicly.
-- [ ] Questions are open, conversational, and about six to eight in total, including one about what might get in the way.
+- [ ] Questions are open, conversational, and six in total (two Check In, four Discuss), including one about what might get in the way.
 - [ ] Message title, series, and passage reference are correct.
 - [ ] It reads in a warm, pastoral voice rather than a curriculum voice.
 
@@ -81,9 +81,9 @@ Added October 25, 2026 at Paul's direction. Only a recap Paul has reviewed is pu
 1. **Check** the [[12 Ministry Website/Resources Page#Before Publishing|Before Publishing]] list: Paul reviewed it, it is public-safe, no names, prayer requests, or locations, and no third-party material without permission. The web text and PDF must match: rebuild the PDF if the record changed.
 2. **Add it in Sanity** (project `1consdwv`, dataset `production`), following the existing recap entries:
    - `_id` `weekly-recap-YYYY-MM-DD`, title `Weekly Recap · {Message Title}`, slug `weekly-recap-YYYY-MM-DD-{title-lowercase}`;
-   - category `city-groups`, kind `Discussion guide`, audience `everyone`, series and scripture from the record's frontmatter, date the message date;
+   - category `city-groups`, kind `Discussion guide`, audience `everyone`, series and scripture from the record's frontmatter (scripture is the week's key passage only, not the series passage), date the message date;
    - summary `The {Month D, YYYY} message recap, with check-in questions, Scripture, discussion, and prayer.`;
-   - body: the record's Markdown from `## Check In` through the end of the Pray section, without frontmatter, the `#` title, or the closing italic line ("Use what serves your group…"). That line belongs to the record and the chat PDF only; the web page leaves it out (Paul, October 26, 2026);
+   - body: the record's Markdown from `## Check In` through the end of the Pray section, without frontmatter or the `#` title. The record ends with the Pray list; there is no closing line (Paul, November 2, 2026);
    - the PDF attached as `weekly-recap-YYYY-MM-DD-{title}.pdf`, `publicDistribution: true`; then publish.
 3. **Rebuild** the Vercel production deployment of `gcc-groups-resources` (team `paul-canaan`). CMS changes do not deploy on their own.
 4. **Verify** the live card, the reading page at `resources.goldencity.church/resources/<slug>/`, and the PDF preview.

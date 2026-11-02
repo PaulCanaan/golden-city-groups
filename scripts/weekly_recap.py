@@ -76,7 +76,7 @@ def to_html(markdown):
         elif lines[0].startswith("# "):
             parts.append(f"<h1>{inline(lines[0][2:])}</h1>")
             details = [f"<em>{html.escape(meta['series'])}</em>"] * bool(meta.get("series"))
-            details += [html.escape(meta["passage"])] * bool(meta.get("passage"))
+            details += [f"Week {html.escape(meta['week'])}"] * bool(meta.get("week"))
             parts.append(f'<p class="meta">{" · ".join(details)}</p>')
         elif text.startswith("**Weekly Recap"):
             continue  # shown in the header instead
@@ -146,10 +146,10 @@ def self_test():
         assert "not posted" in reminder(sunday, inbox, recaps)
         recap.write_text("---\nstatus: Posted\n---\n")
         assert reminder(sunday, inbox, recaps) is None
-    page = to_html('---\nmessage_date: 2026-10-04\nseries: "S"\npassage: "P 1:1"\nstatus: Draft\n---\n\n'
+    page = to_html('---\nmessage_date: 2026-10-04\nseries: "S"\nweek: "3"\npassage: "P 1:1"\nstatus: Draft\n---\n\n'
                    "# Title\n\n**Weekly Recap · x**\n\n## This Week's Message\n\nSome **bold** and *it*.\n\n"
                    "## Discuss\n\n1. One?\n2. <Two>?\n\n*Closing.*\n")
-    assert "<h1>Title</h1>" in page and "<span>October 4, 2026</span>" in page and "<em>S</em> · P 1:1" in page
+    assert "<h1>Title</h1>" in page and "<span>October 4, 2026</span>" in page and "<em>S</em> · Week 3" in page
     assert '<p class="summary">Some <strong>bold</strong> and <em>it</em>.</p>' in page
     assert "<ol><li>One?</li><li>&lt;Two&gt;?</li></ol>" in page and '<p class="closing">' in page
     assert "Weekly Recap · x" not in page and "status" not in page

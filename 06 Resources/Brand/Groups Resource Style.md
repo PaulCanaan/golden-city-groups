@@ -35,6 +35,7 @@ Roboto only (files and license in `fonts/`):
 - **Section labels:** 8pt semibold, uppercase, wide tracking (0.16em), deep gold.
 - **Body:** 10.5pt regular, 1.45 line height.
 - **Secondary lines:** regular or italic in gray.
+- **Pronouns for God:** capitalized (He, His, Him) in resource prose; pronouns for people stay lowercase (Paul, November 2, 2026).
 
 ## Layout
 
