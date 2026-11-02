@@ -4,14 +4,11 @@ From [[10 Templates/Communication/Communication Templates|Communication Template
 
 ## Document Status
 
-**Draft template, rewritten October 5, 2026; not yet cleared to send.** A welcome for people who are new to Golden City Church, sent after they fill out the Connection Card following their first visit (Paul, October 5, 2026). It introduces who Golden City is and how to get involved: Next Steps, Groups, Serve Teams, City Kids, baptism, and the daily Bible reading plan. It comes in two forms: an email and a shorter text message. The earlier version, a pre-visit "what to expect" message, is replaced; it remains in version history.
+**Template rewritten October 5, 2026; cleared and first sent November 2, 2026.** A welcome for people who are new to Golden City Church, sent after they fill out the Connection Card following their first visit (Paul, October 5, 2026). It introduces who Golden City is and how to get involved: Next Steps, Groups, Serve Teams, City Kids, baptism, and the daily Bible reading plan. It comes in two forms: an email and a shorter text message. The earlier version, a pre-visit "what to expect" message, is replaced; it remains in version history.
 
 Content comes from the church website, read October 5, 2026: the [home page](https://www.goldencity.church/), [About Us](https://www.goldencity.church/about), [Next Steps](https://www.goldencity.church/nextsteps), [Serve Team](https://www.goldencity.church/serveteam), [City Kids](https://www.goldencity.church/kids), [Baptism](https://www.goldencity.church/baptism), [Daily Bible](https://www.goldencity.church/bible), [You Said Yes](https://www.goldencity.church/yes), and [Give](https://www.goldencity.church/give).
 
-This is **church-wide** communication, not a Groups Ministry procedure. The Connection Card is a church-wide form under Russ's participant-system ownership (DEC-032, DEC-057), and the repository records no owner or sender for newcomer follow-up. Paul drafted this template for the church; before it is used, Russ confirms:
-
-1. **Who sends it.** The sender's name and role are variables. Do not send it in Russ's name unless he has reviewed and personalized it.
-2. **The Connection Card's consent and routing.** In particular, whether the person agreed to be contacted by email and by text (BWR-009).
+This is **church-wide** communication, not a Groups Ministry procedure. The Connection Card is a church-wide form under Russ's participant-system ownership (DEC-032, DEC-057). Paul drafted this template for the church. **Sender confirmed (November 2, 2026):** Russ agreed that Paul sends this welcome, and Paul sent it first that day, signing as Paul Zhang, Ministry Director, Groups & Classes; the sender variables resolve to Paul unless a future sender is confirmed. Do not send it in Russ's name. The Connection Card's consent and routing documentation (whether each person agreed to email and text contact) remains tracked in BWR-009.
 
 ## Purpose and Ownership
 
@@ -35,7 +32,7 @@ Thank someone for their first visit and help them take a next step into the life
 - **Trigger:** A first-time guest fills out the Connection Card after their first visit.
 - **Owner:** To be confirmed
 - **Variables:** `[First Name]`, `[Sender Name]`, `[Sender Role]`
-- **Status:** Draft; blocked pending the Document Status confirmations
+- **Status:** Cleared November 2, 2026; Paul is the sender
 
 **Subject:** Welcome to Golden City — here's how to get connected
 
@@ -79,13 +76,13 @@ Golden City Church
 - **Trigger:** Same as the email, when the person agreed to be contacted by text.
 - **Owner:** To be confirmed
 - **Variables:** `[First Name]`, `[Sender Name]`
-- **Status:** Draft; same conditions as the email
+- **Status:** Cleared on the same terms as the email (November 2, 2026); not yet used
 
 > Hi [First Name], this is [Sender Name] from Golden City Church. Thanks so much for joining us and filling out a Connection Card. We're so glad you're here! A great first step is our Discover class, right after service on first Sundays: goldencity.church/nextsteps. You can also find a group or a serve team at goldencity.church. Any questions, just text me back!
 
 ## Before Sending
 
-- [ ] Russ has confirmed the owner and sender for newcomer follow-up.
+- [x] Russ has confirmed the owner and sender for newcomer follow-up (November 2, 2026: Paul sends).
 - [ ] The Connection Card's consent covers email, and text if the text form is used.
 - [ ] Next Steps days, serve teams, City Kids ages, and every link still match the website.
 - [ ] The kids paragraph is kept or deleted to fit the person's card.
