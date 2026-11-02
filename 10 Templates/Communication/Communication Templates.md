@@ -32,11 +32,11 @@ Participant communication is a separate library. A person expressing interest in
 | Added to Planted — personal welcome email | [[10 Templates/Communication/Planted Introduction Email#Email — Personal Welcome\|Planted welcome email]] |
 | Added to Planted — short text / Church Center welcome | [[10 Templates/Communication/Planted Introduction Email#Short Message — Text or Church Center\|Planted short welcome message]] |
 
-All participant templates are drafts. Each carries its own blocking conditions and a pre-send checklist; none is cleared to send until those are satisfied.
+Each participant template carries its own status and pre-send checklist. The Groups welcome was cleared and first sent on November 2, 2026 (see its Document Status); the Planted templates remain drafts.
 
 ## Church-Wide Welcome
 
-Drafted by Groups Ministry for the church. Russ confirms its owner and sender before use (DEC-032).
+Drafted by Groups Ministry for the church. Russ confirmed Paul as its sender on November 2, 2026 (DEC-032); first sent that day.
 
 | Trigger | Draft template |
 |---|---|
