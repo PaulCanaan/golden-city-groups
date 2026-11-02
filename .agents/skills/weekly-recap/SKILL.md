@@ -26,7 +26,7 @@ Read it as text:
 
 ## 3. Understand the message
 
-From the script, identify: the Sunday date (from the filename unless the script says otherwise), message title, series, primary passage, the central emphasis in one sentence using Russ's own terms, and the main movements of the message. If any of these is unclear, write your best reading and flag it.
+From the script, identify: the Sunday date (from the filename unless the script says otherwise), message title, series, the week's key passage, the central emphasis in one sentence using Russ's own terms, and the main movements of the message. If any of these is unclear, write your best reading and flag it.
 
 ## 4. Draft
 
@@ -37,7 +37,12 @@ Write the sections in order: Check In, This Week's Message, Read Together, Discu
 - **Christ at the center.** Where the message points to Christ, keep that thread visible in the summary and at least one question. Do not reduce it to moral advice.
 - **Context, not reproduction.** The summary is 120–180 words and gives everyone, including anyone who missed Sunday, enough context to join in.
 - **Usable without hearing the message.** Every Discuss question must work for a group with only this page and their Bibles. Anchor questions in the Read Together passages or in what the summary explains. Never ask what people remember or took away from Sunday, and don't reference a story or passage the page doesn't supply.
-- **Questions invite conversation.** Open, answerable by anyone present, no recall tests, no prior study. Check In is about people's actual week. Include one question about what might get in the way of responding. About six to eight questions in total. During launch season (see the template) use two getting-to-know-you Check In questions and three or four Discuss questions.
+- **Questions invite conversation.** Open, answerable by anyone present, no recall tests, no prior study. Check In is about people's actual week. Include one question about what might get in the way of responding. Six questions in total: two Check In questions and four Discuss questions (Paul, November 2, 2026). Write each question the way a person would actually say it out loud: short, one idea each, contractions and plain words over written, curriculum phrasing.
+- **The week's passage only.** Read Together and the record's `passage` field carry the week's key passage(s). A series key passage (for example Galatians 5:22–23 for the Fruit of the Spirit series) frames the series and is not repeated every week.
+- **Subtitle.** The record's subtitle line names the series and, when the series numbers its weeks, the week (`week:` in the front matter) — never the passages.
+- **Pray is a list.** The Pray section is a short numbered list of prompts drawn from the message, not a paragraph.
+- **Pronouns for God.** Capitalize pronouns that refer to God (He, His, Him) throughout the recap; pronouns for people stay lowercase.
+- **No closing line.** The record ends with the Pray list. Do not add a "use what serves your group" line or a note about skipping questions; leaders know how to use the recap.
 - **Leave out people.** The record is public. No names, personal stories, or pastoral details from illustrations. No participant or sensitive information of any kind.
 - **Keep the record format.** Follow the template's Record Format exactly; the PDF builder only understands `#`, `##`, numbered lines, paragraphs, `**bold**`, and `*italic*`.
 - **Paul's voice.** Warm, pastoral, simple. Avoid curriculum or corporate language.
