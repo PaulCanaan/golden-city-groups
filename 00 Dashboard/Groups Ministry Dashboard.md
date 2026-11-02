@@ -86,7 +86,7 @@ Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboa
 
 ## Approved Group Leader Workflow
 
-DEC-042 governs both intake triggers and the four Planning Center stages through actual launch. Paul reported the workflow and documented email automations configured on August 28; the existing conversation-question resource is linked from [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]]. Configuration does not prove that any person has completed a stage or that an offering is ready.
+DEC-042 governs both intake triggers and the four Planning Center stages through actual launch. Paul reported the workflow and documented email automations configured on August 28, but live verification on November 2, 2026 found the workflow manual and no automations configured in his account; the existing conversation-question resource is linked from [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]]. Configuration does not prove that any person has completed a stage or that an offering is ready.
 
 ## Decisions for Russ and Staff
 

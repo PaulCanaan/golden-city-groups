@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Mixed confirmed and proposed procedure.** DEC-042 confirms the two Group Leader intake triggers, the shared Planning Center workflow, and the Groups Director's operational ownership through launch. Paul reported on August 28 that the workflow and documented email automations are configured. DEC-032 assigns the public participant system to Russ with Paul as backup. The church-wide Connection Card (DEC-057) is a third intake path that feeds Groups interest. Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted; response timing, placement, offering paths, fields, consent, and retention remain open under PRO-026, PRO-027, and PRO-030.
+**Mixed confirmed and proposed procedure.** DEC-042 confirms the two Group Leader intake triggers, the shared Planning Center workflow, and the Groups Director's operational ownership through launch. Live verification on November 2, 2026 found the shared workflow manual end to end, with no automations configured on it or on any form in Paul's account; the August 28 report that they were configured is not borne out in the live account. DEC-032 assigns the public participant system to Russ with Paul as backup. The church-wide Connection Card (DEC-057) is a third intake path that feeds Groups interest. Church Center is the current public enrollment path for Men's Collective, Women's Collective, and Planted; response timing, placement, offering paths, fields, consent, and retention remain open under PRO-026, PRO-027, and PRO-030.
 
 ## Purpose
 
@@ -30,21 +30,21 @@ Either intake path triggers the same Group Leader workflow:
 1. The person submits the `Lead a Group` form; or
 2. the person submits the `Serve Team Interest Form` and selects the group-leading option.
 
-Submission is **Step 0 — Intake Trigger**, not an official workflow stage. The Groups Director receives the notification and/or Workflow Card and moves the person into **Welcome Email / Call**. The canonical stage definitions, actions, and completion conditions are in [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]].
+Submission is **Step 0 — Intake Trigger**, not an official workflow stage. The Groups Director receives the notification and/or Workflow Card and moves the person into **Welcome Email / Call**. On the `Lead a Group` form the routing is a workflow field, verified November 2, 2026: the form's group-type dropdown (“What kind of Group are you interested in leading?”) adds the submitter to the Small Group Leader Application workflow, assigned to the Groups Director. No form automation performs this routing. The canonical stage definitions, actions, and completion conditions are in [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]].
 
 For Fall 2026, the initial City Group pipeline remains limited to the Launch Team under DEC-018. The July 28, August 11, and August 25 Team Nights were the confirmed recruitment setting, with Paul serving as on-site point person under DEC-026. The existence of either form does not create a general-public appointment path or imply appointment.
 
 Keep pastoral discernment notes, background-check information, and confidential references out of Planning Center group membership and this repository. Add a candidate as a Planning Center group leader only after approved assessment and appointment.
 
-**Still unresolved:** approved form fields and consent, live routing/delivery test evidence, leader-interest backup coverage, response-time standard, interview format and records, role-specific assessment details, training completion requirements, role assignment, appointment records, and commissioning. The workflow and email automations no longer need to be designed. Paul owns interviews, assessment, training facilitation, and operational movement through the workflow; Russ retains primary appointment authority.
+**Still unresolved:** approved form fields and consent, live routing/delivery test evidence, leader-interest backup coverage, response-time standard, interview format and records, role-specific assessment details, training completion requirements, role assignment, appointment records, and commissioning. No email automations are configured in the live account (verified November 2, 2026); every workflow step is worked manually. Paul owns interviews, assessment, training facilitation, and operational movement through the workflow; Russ retains primary appointment authority.
 
 ### Connection Card (church-wide)
 
 The Connection Card is a church-wide general form through which attenders get connected with Golden City Church's ministries. It is usually presented in the lobby and during announcements, and people complete it by scanning a QR code. Groups is one of several connection paths it offers (DEC-057).
 
-When a person expresses interest in Groups on the card, whether in leading or participating, the Groups Director sends the [[10 Templates/Communication/Participant Welcome and Groups Introduction|welcome and Groups introduction]] through the Planning Center automation. A Connection Card alone does not enter anyone into the Group Leader workflow; leader interest proceeds through one of the two triggers above.
+When a person expresses interest in Groups on the card, whether in leading or participating, the Groups Director sends the [[10 Templates/Communication/Participant Welcome and Groups Introduction|welcome and Groups introduction]] manually; no Planning Center automation sends it. Leader interest is meant to proceed through one of the two triggers above, but in practice Connection Card submissions landed in the Group Leader workflow: 23 such cards were cleared on November 2, 2026 after their senders received the participant welcome. The card's routing configuration is not visible in the Groups Director's Planning Center account (the form belongs to Russ's participant system, DEC-032), so correcting the routing belongs to Russ or an organization administrator.
 
-**Still undocumented:** the card's owner, field set, consent language, and routing to the Groups Director. As a church-wide instrument it falls under Russ's participant-system ownership (DEC-032) and is tracked in BWR-009.
+**Still undocumented:** the card's owner, field set, consent language, and routing to the Groups Director. A November 2, 2026 account check confirmed the form does not appear in the Groups Director's Planning Center account at all. As a church-wide instrument it falls under Russ's participant-system ownership (DEC-032) and is tracked in BWR-009.
 
 ### City Group Profile (ready leaders)
 
