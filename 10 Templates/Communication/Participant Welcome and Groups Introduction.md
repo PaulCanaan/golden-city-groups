@@ -4,7 +4,7 @@ From [[Operation Overview]] · Participant-facing companion to the [[10 Template
 
 ## Document Status
 
-**Draft template, updated October 5, 2026 for the season after Group Launch Day; not yet cleared to send.** Group Launch Day (October 4) has passed and the Fall 2026 groups are published at `goldencity.church/groups/fall2026` (DEC-065, DEC-066). The earlier version told people to wait for October 4 and for group details; this version points them to the live directory instead. The earlier wording remains in version history.
+**Template updated October 5, 2026 for the season after Group Launch Day; cleared in practice and first sent November 2, 2026.** Group Launch Day (October 4) has passed and the Fall 2026 groups are published at `goldencity.church/groups/fall2026` (DEC-065, DEC-066). The earlier version told people to wait for October 4 and for group details; this version points them to the live directory instead. The earlier wording remains in version history.
 
 This note holds the participant-facing welcome sent when someone expresses interest in Groups Ministry on a Connection Card, in two forms: an email and a shorter text message. It is participant communication, not leader communication. [[10 Templates/Communication/Group Leader Communication Library|Communication]] remains canonical for everything in the Group Leader workflow; nothing here advances a person toward leadership.
 
@@ -14,7 +14,9 @@ Three things must be confirmed before this template is sent:
 2. **The join path.** The directory and its links load, but no join request has been tested end to end (BWR-009). Until it is, a reply to Paul is the dependable route, and the email offers it.
 3. **Belonging, Beholding, Becoming.** The default email does **not** use the DEC-049 introduction or the DEC-047 branch taglines. Paul's October 1 direction keeps that language in leader training for now, and whether a direct email counts as publication is still open (BWR-020). The branch descriptions below follow the wording already public on `goldencity.church/groups`. An optional framework paragraph is kept below for use only if Russ confirms it for direct email.
 
-Serves [[00 Dashboard/Biweekly Review Queue|BWR-021]], which carries the 16 Launch Sunday connection-card responses and the unsent welcome emails.
+**November 2, 2026:** Paul sent the email (the DEC-057 route) to the BWR-021 backlog and later respondents, with the late follow-up paragraph for the Launch Sunday batch and the season wording updated below. Items 1–3 remain open as system documentation; they did not block these sends.
+
+Served [[00 Dashboard/Biweekly Review Queue|BWR-021]]: on November 2, 2026, Paul sent this welcome to the Launch Sunday connection-card responses who had an email address (15 of the 16; one had no email on file) and to two further Connection Card respondents, and the misfilings were cleared from the leader workflow. That follow-up backlog is complete; the Planning Center automation piece of BWR-021 remains open.
 
 ## Purpose and Ownership
 
@@ -35,7 +37,7 @@ Welcome someone who expressed interest on the church-wide Connection Card, intro
 - **Trigger:** A person indicates on a Connection Card that they are interested in Groups, whether in participating or leading (DEC-057).
 - **Owner:** Groups Director
 - **Variables:** `[First Name]`
-- **Status:** Draft; blocked pending the Document Status confirmations
+- **Status:** Sent November 2, 2026 (Paul); season wording updated the same day
 
 **Subject:** Welcome to Golden City Groups
 
@@ -45,7 +47,7 @@ Thank you for filling out a Connection Card and letting us know you're intereste
 
 Groups exist because following Jesus was never meant to be a solitary thing. Sunday morning is where we gather as a church; groups are the smaller rooms where we actually get known — where we open Scripture together, pray for one another, and carry each other's real lives through the week. Our hope is simple: that you would find a place to belong, that together we would keep our eyes on Jesus, and that over time the Spirit would form us into people who look like him.
 
-Our fall groups have launched and are beginning to meet this month, and you're warmly invited to join one. There are three ways to connect:
+Our fall groups are meeting now, and you're warmly invited to join one. There are three ways to connect:
 
 - **City Groups** gather in homes and local spaces across our area to share meals, pray, and care for one another. Each has its own rhythm, and this fall they include a group for young adults and a Run Club.
 - **Collectives** are for walking alongside other men or women. Our Men's Collective and Women's Collective each open with a short devotional that leads into small-group discussion, prayer, and encouragement.
@@ -71,7 +73,7 @@ Golden City Church
 - **Trigger:** Same as the email, when the person gave a mobile number and agreed to be contacted by text.
 - **Owner:** Groups Director
 - **Variables:** `[First Name]`
-- **Status:** Draft; same conditions as the email
+- **Status:** Same clearance as the email (November 2, 2026); not yet used
 
 > Hi [First Name], this is Paul from Golden City Church. Thanks for letting us know you're interested in Groups! Our fall groups are starting to meet now, and you're welcome to join one. You can see them all and request to join here: goldencity.church/groups/fall2026. If you'd like help finding the right fit, just text me back.
 
@@ -79,7 +81,7 @@ Golden City Church
 
 ### Late Follow-Up
 
-Add after the first paragraph of the email when the person filled out their card some time ago, such as the Launch Sunday responses in BWR-021. In the text, add *"Sorry for the slow follow-up!"* after the first sentence.
+Add after the first paragraph of the email when the person filled out their card some time ago, such as the Launch Sunday responses in BWR-021. In the text, add *"Sorry for the slow follow-up!"* after the first sentence. (First used November 2, 2026, for the Launch Sunday responses.)
 
 > I'm sorry this note is reaching you later than I'd hoped, and thank you for your patience.
 
