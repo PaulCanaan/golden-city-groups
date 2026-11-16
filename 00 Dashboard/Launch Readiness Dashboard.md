@@ -40,7 +40,7 @@ Do not record applicant names, participant information, interview notes, screeni
 - DEC-068 and DEC-069 (recorded October 19) name Dominique Simon as Westminster co-leader with Bobby Pascale at 100th & Simms, and Niki Pike as Women's Collective co-lead with Miranda Daly in place of Rachel O'Brien. DEC-070 sets Planted's naming (*Planted.* Bible Study; *Planted.* 2026). Neither leader change records appointment or leader-pathway completion.
 - DEC-067 clarifies Paul’s resource-development role and the twelve-study-gathering course across fall/spring. Introductions are additional; holiday dates remain pending.
 - Both Collectives' first gatherings occurred (Men's October 6, Women's October 13) and covered Galatians 1. Russ approved six sessions, the S.O.A.P. gathering flow, and two-page handouts (DEC-076); Session 1 and 2 handouts are drafted for Paul's review.
-- Weekly Recap production infrastructure is in place. October 4, 11, and 18 recap records exist, but all remain marked `Draft`, so approval and posting are not inferred.
+- Weekly Recap production infrastructure is in place. Recap records exist for October 4 through November 15 (Weeks 1–7). Weeks 1–6 are live on the resources page; Week 7 is a `Draft` awaiting Paul's review. Leader-chat posting is recorded only for November 1 and is not inferred for the others (updated November 16, 2026, outside the review cycle).
 
 - The September 20 public church launch is complete. Paul reported it went smoothly and that Golden City Church is established as a faith community in Broomfield, Colorado.
 - DEC-048 set Sunday, October 4, 2026 as Group Launch Day. Nine table cards were prepared and their QR destinations opened; actual presentation and connection outcomes remain unrecorded.
