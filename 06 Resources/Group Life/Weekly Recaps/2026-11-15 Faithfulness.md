@@ -5,7 +5,8 @@ message_title: "Faithfulness"
 series: "The Fruit of the Spirit"
 week: 7
 passage: "Revelation 19:11; Hebrews 11:11"
-status: Draft
+status: Approved
+public_publication_approved: 2026-11-16
 posted:
 ---
 
@@ -15,16 +16,16 @@ posted:
 
 ## Check In
 
-1. Who's someone in your life you could always count on? What made them that way?
-2. Where did you have to follow through on something this week, big or small?
+1. Who's someone you could always count on? What made them that way?
+2. What's one thing from Sunday's message that has stuck with you?
 
 ## This Week's Message
 
-Sunday's message, from a guest preacher, turned to faithfulness, the seventh fruit of the Spirit, in three movements. First, God. Faithfulness starts with who He is. In Revelation 19:11, Jesus is called "Faithful and True," so faithfulness is part of His name, not just something He does. When God's promise to Sarah looked impossible, she "considered that the one who had promised was faithful" (Hebrews 11:11). Second, purpose. "As a deer longs for flowing streams, so I long for you, God" (Psalm 42:1). Wanting God more than anything shapes what we live for, and it calls us to be faithful right where He has placed us, at home, at work and in our calling. Third, the church. Faithfulness is a fruit of the Spirit, grown in us rather than produced on our own, and it shows up as people others in the church can count on. So this week, follow through on a promise or commitment you've let slide, to God or to someone else.
+Sunday's message continued *The Fruit of the Spirit* with faithfulness. It started with God. Jesus is called Faithful and True (Revelation 19:11), so faithfulness is part of who He is, not just something He does. Sarah considered Him faithful who had promised, even when the promise looked impossible (Hebrews 11:11). Next came purpose. Our souls long for God the way a deer pants for streams of water (Psalm 42:1), and wanting God shapes what we live for. He asks us to be faithful right where we are, at home, at work or in a calling. Lastly, faithfulness is the calling for the church. It is a fruit the Spirit grows in us, and we can't produce it on our own (Galatians 5:22–23). As the Spirit grows it, we become people others in our church can count on.
 
 ## Read Together
 
-Revelation 19:11 and Hebrews 11:11
+Revelation 19:11; Hebrews 11:11
 
 ## Discuss
 
