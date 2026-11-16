@@ -611,6 +611,7 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Implementation update — October 19, 2026:** Russ approved the Group Leader Collaboration and said he really likes the idea. The first gathering for all current group leaders is **Friday, October 30, 2026**, a dinner hosted by Paul at his home. Its purpose is to check in one month into the groups' launch: how are the leaders, and how are their groups doing? Collaborations are about supporting group leaders: leaders share their experiences and struggles, learn from one another, and are poured into and equipped. Content may include the Belonging, Beholding, Becoming framework, the CoJourner Program, or other workshops. The rhythm after October 30 (biweekly or monthly), dates, and location remain open. The home address stays out of this repository; DEC-028's home-gathering safeguards apply. Source: [[2026-10-19 Staff Meeting Minutes#3 — First Group Leader Collaboration|October 19, 2026 Staff Meeting Minutes, item 3]]. Working home: [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
 - **Subsequent direction — October 26, 2026:** DEC-079 replaces the October 30 first date with Saturday evening, November 7, at Paul's home and sets future Collaborations on first and third Saturday mornings. The earlier dates and open-cadence language above are historical.
+- **Subsequent direction — November 16, 2026:** [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year|DEC-086]] replaces the first and third Saturday morning rhythm: Collaborations now meet three times a year, before the spring and fall launches and before summer activities.
 
 ### DEC-057 — Groups Ministry Communication Channels
 
@@ -932,6 +933,8 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Implications:** Update the first-gathering record, calendar, leader-support pages, and BWR-031; communicate the changed date. The first gathering is an evening exception to the ongoing morning rhythm.
 - **Boundary:** First and third Saturdays is the calendar rule; it is not a strict fourteen-day interval. Future locations, exact morning time, holiday exceptions, cost, and invitation delivery are not established. CoJourner implementation remains separate under DEC-045. This amends DEC-056's October 19 date and resolves its open cadence; its purpose and pastoral boundaries stand.
 
+- **Subsequent direction — November 16, 2026:** [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year|DEC-086]] replaces the first and third Saturday morning rhythm with three Collaborations a year, before the spring and fall launches and before summer activities. The November 7, 2026 first gathering above stays as history.
+
 ### DEC-080 — Annual Groups Seasonal Rhythm
 
 - **Decision:** Future spring launch is in February, likely the first week, with a February–May semester. Summer runs June–August with realistic expectations around travel and more activity-based gatherings; the church will still offer some summer classes. Future fall launch is in September, likely the first week, with the semester running September–early December. January includes the church's 21 days of prayer and fasting; groups may keep meeting or wait until spring launch. Fall 2026 is a shorter launch-season exception.
@@ -996,6 +999,18 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Evidence:** Paul's report in the Groups OS session on October 26, 2026, while reviewing the Collective Guide draft: "Russ wanted to change the 20/10 teaching/discussion block to 15/15 or even 10/20, so that the leaders are not required too much for the teaching responsibility and more voices in the groups can be heard." Filed in the [[2026-10-26 Staff Meeting Minutes#Follow-Up Direction Reported the Same Day|October 26 minutes addendum]].
 - **Implications:** The [[10 Templates/Gatherings/Collective Gathering|Collective Gathering]] template, [[06 Resources/Group Life/S.O.A.P. Framework|S.O.A.P. Framework]], Collectives Galatians Development, the Curriculum Session template, and the Men's and Women's Collective pages show two 30-minute blocks without the 20/10 split. Teaching notes for upcoming sessions plan for the shorter teaching. At Paul's direction the [[06 Resources/Leader Development/Collective Leader Guide|Collective Guide]] gives no timings and calls the second step "context and review," so people who missed the last gathering or are new can pick up the study's focus.
 - **Boundary:** Whether blocks run 15/15, 10/20, or vary by session is not set. The 6:30–8:00 PM window, 20-minute check-in, 10-minute regroup, S.O.A.P. pattern, six sessions, and two-page handouts stand under DEC-076. Session 1 and 2 handouts already drafted are not revised by this record.
+
+### DEC-086 — Collaborations Three Times a Year
+
+- **Decision:** Group Leader Collaborations meet three times a year: before the spring group launch, before summer activities, and before the fall group launch.
+- **Status:** Confirmed direction as reported by Paul; who decided it and when are not recorded; gathering dates open.
+- **Date and approver:** Reported by Paul on November 16, 2026. The decision date and who made the decision are not recorded.
+- **Domain:** Leadership
+- **Supersedes:** DEC-079 in part (the first and third Saturday morning rhythm)
+- **Owner:** Paul.
+- **Evidence:** Paul's message in the Groups ministry channel on November 16, 2026: "The Group Leader Collaboration is decided to be three times a year before the spring and fall launches and before summer activities. So don't worry about the next leader gathering for now." Asked whether to record it as a decision, he answered, "Record it."
+- **Implications:** Each Collaboration prepares leaders for the next season of the [[07 Operations/Annual Rhythm/Annual Calendar|annual rhythm]] (DEC-080): the February spring launch, summer from June to August, and the September fall launch. No further Collaboration is planned for Fall 2026; the next one comes before the Spring 2027 launch. The leader guides, calendar, dashboards, leader-support pages, and BWR-031 drop the first and third Saturday morning rhythm. Paul shares each gathering's details in the leaders' Church Center group chat (DEC-057).
+- **Boundary:** This sets how often Collaborations meet and where they fall in the year. It does not set dates, day, time, locations, cost, or format for any gathering. DEC-079's November 7, 2026 first gathering stays as history, and DEC-056's purpose and pastoral boundaries stand. CoJourner remains under DEC-045: one Collaboration before the spring launch cannot hold its four sessions on its own (BWR-019). Whether Russ reviewed this change is not recorded.
 
 ## Open Questions
 

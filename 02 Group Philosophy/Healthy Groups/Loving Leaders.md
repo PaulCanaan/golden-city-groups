@@ -73,7 +73,7 @@ Three of these — the first, second, and fifth — are [[Emotional Bypass vs. S
 
 - The support cadence itself, which remains an operational decision.
 - Whether a formal coaching layer becomes necessary, and at what ministry scale — an open question in the [[01 Governance/Ministry Model#Open Model Questions|Ministry Model]].
-- Group leader collaborations, approved under DEC-056; the first is November 7, 2026 in the evening, followed by first and third Saturday mornings (DEC-079). See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
+- Group leader collaborations, approved under DEC-056; the first was set for the evening of November 7, 2026 (DEC-079), and they now meet three times a year, before the spring and fall launches and before summer activities (DEC-086). See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 - Governing church-wide safeguarding policy locations and the mandatory-reporting procedure, which remain open (BWR-007, BWR-041). The pastoral contacts are now named in the [[GCC Group Leader Agreement]] (DEC-077).
 
 ## External Research

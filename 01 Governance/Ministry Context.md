@@ -100,7 +100,7 @@ The presence of a file or city name does not prove that the ministry expression 
 
 ## October 26 Direction
 
-Russ approved the seasonal pattern summarized in the [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]] (DEC-080), Planted's foundational purpose for new believers and new members (DEC-081), and supportive City Group and Collective guides for the resources page (DEC-082). Community, prayer, and Scripture are the shared group baseline, with purposeful formation expressed through Belonging, Beholding, Becoming (DEC-083). The first Collaboration is November 7 evening at Paul's home, then first/third Saturday mornings (DEC-079). Exact times, seasonal dates, guide review/publication, and the existing readiness questions remain separate implementation work.
+Russ approved the seasonal pattern summarized in the [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]] (DEC-080), Planted's foundational purpose for new believers and new members (DEC-081), and supportive City Group and Collective guides for the resources page (DEC-082). Community, prayer, and Scripture are the shared group baseline, with purposeful formation expressed through Belonging, Beholding, Becoming (DEC-083). The first Collaboration was set for November 7 evening at Paul's home (DEC-079); Collaborations now meet three times a year, before the spring and fall launches and before summer activities (DEC-086). Exact times, seasonal dates, guide review/publication, and the existing readiness questions remain separate implementation work.
 
 ## Open Context Questions
 

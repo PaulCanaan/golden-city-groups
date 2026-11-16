@@ -2,7 +2,7 @@
 
 ## October 26 Staff Update
 
-DEC-079–083 reschedule the first Collaboration to November 7 evening and set first/third Saturday mornings thereafter; establish the annual seasonal rhythm; clarify Planted's purpose for new believers and new members; authorize supportive guides and agreement placement under Other Resources; and name community, prayer, and Scripture as the shared baseline. Both guides are drafts awaiting Paul. These decisions resolve those direction questions, not existing appointments, policy implementation, participant-path tests, event outcomes, or final readiness. The last full repository review remains October 19.
+DEC-079–083 reschedule the first Collaboration to November 7 evening and set first/third Saturday mornings thereafter (that rhythm replaced on November 16 by DEC-086: three Collaborations a year); establish the annual seasonal rhythm; clarify Planted's purpose for new believers and new members; authorize supportive guides and agreement placement under Other Resources; and name community, prayer, and Scripture as the shared baseline. Both guides are drafts awaiting Paul. These decisions resolve those direction questions, not existing appointments, policy implementation, participant-path tests, event outcomes, or final readiness. The last full repository review remains October 19.
 
 ## Document Status
 
@@ -99,7 +99,7 @@ The current public-page record lives in [[12 Ministry Website/Groups Page|Groups
 | October 13, 2026 | Women's Collective scheduled start | Past; completion is not reported. | Reconcile outcome, participant path, safeguards, communication, appointment, and final approval (BWR-008). |
 | October 20, 2026 | Men's Galatians Session 2 (Galatians 2); Westminster City Group scheduled start | Two-page handout drafted, awaiting Paul; teaching assignment unconfirmed. Westminster outcome will require reconciliation. | Confirm resource delivery and record actual outcomes without inferring readiness (BWR-010, BWR-029). |
 | October 27, 2026 | Women's Galatians Session 2 (Galatians 2) | Two-page handout drafted, awaiting Paul; teaching assignment unconfirmed. | Confirm resource delivery and actual gathering outcome (BWR-029). |
-| November 7, 2026 (evening) | First Group Leader Collaboration | Rescheduled by Russ October 26 (DEC-079): evening dinner at Paul's home for all current group leaders. | Invite leaders; record that it occurred and arrange the next first/third-Saturday morning gathering (BWR-031). |
+| November 7, 2026 (evening) | First Group Leader Collaboration | Rescheduled by Russ October 26 (DEC-079): evening dinner at Paul's home for all current group leaders. | Invite leaders; record that it occurred. The next Collaboration comes before the Spring 2027 launch (DEC-086, BWR-031). |
 | November 7, 2026 | Run Club scheduled start | Schedule is confirmed. | Reconcile Run Club after its first gathering (BWR-010). |
 
 ### Targets Without Approved Dates
@@ -110,7 +110,7 @@ The current public-page record lives in [[12 Ministry Website/Groups Page|Groups
 - Appointment and commissioning
 - Planning Center and Church Center testing
 - *Planted.* venue confirmation; a future on-site Collective location
-- Group Leader Collaboration exact times, future locations, and holiday exceptions (rhythm approved under DEC-079)
+- Group Leader Collaboration dates, times, and locations for each gathering (three a year under DEC-086)
 - Groups webpage implementation and material-change review
 - Final City Group readiness review and City Group start date
 - Planted final readiness review

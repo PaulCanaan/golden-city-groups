@@ -28,6 +28,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 
 ### Leadership
 
+- [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year|DEC-086 — Collaborations Three Times a Year]]
 - [[08 Archive/Decisions/Decision History#DEC-079 — Collaboration Schedule and Saturday Rhythm|DEC-079 — Collaboration Schedule and Saturday Rhythm]]
 - [[08 Archive/Decisions/Decision History#DEC-006 — Groups and Classes Ministry Leadership|DEC-006 — Groups and Classes Ministry Leadership]]
 - [[08 Archive/Decisions/Decision History#DEC-012 — Initial Leader, Host, and Service Recruitment Path|DEC-012 — Initial Leader, Host, and Service Recruitment Path]]
@@ -158,6 +159,7 @@ DEC-039 and DEC-063.
 - [[08 Archive/Decisions/Decision History#DEC-052 — City Group Leader Design Freedom and Start Timing|DEC-052]] — ministry review of chosen material added by DEC-084.
 - [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]] — teaching/discussion split amended by DEC-085.
 - [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]] — first date and ongoing cadence amended by DEC-079.
+- [[08 Archive/Decisions/Decision History#DEC-079 — Collaboration Schedule and Saturday Rhythm|DEC-079]] — first and third Saturday morning rhythm superseded by DEC-086.
 - [[08 Archive/Decisions/Decision History#DEC-072 — Groups Resources Page|DEC-072]] — guide placement amended by DEC-082.
 
 - [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055]] — Collective resource responsibility and course window superseded/clarified by DEC-067.
@@ -182,18 +184,18 @@ DEC-039 and DEC-063.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions include the October 26 staff direction:
+The ten most recent numbered decisions include the October 26 staff direction and Paul's November 16 report on the Collaboration rhythm:
 
-1. [[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085 — Lighter Teaching in Collective Study Blocks]]
-2. [[08 Archive/Decisions/Decision History#DEC-084 — Ministry Review of Chosen Group Material|DEC-084 — Ministry Review of Chosen Group Material]]
-3. [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083 — Community, Prayer, Scripture, and Purposeful Formation]]
-4. [[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082 — Supportive Leader Guides and Other Resources Placement]]
-5. [[08 Archive/Decisions/Decision History#DEC-081 — Planted as a Foundation for New Believers and New Members|DEC-081 — Planted as a Foundation for New Believers and New Members]]
-6. [[08 Archive/Decisions/Decision History#DEC-080 — Annual Groups Seasonal Rhythm|DEC-080 — Annual Groups Seasonal Rhythm]]
-7. [[08 Archive/Decisions/Decision History#DEC-079 — Collaboration Schedule and Saturday Rhythm|DEC-079 — Collaboration Schedule and Saturday Rhythm]]
-8. [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078 — Offerings and Support Raising in Groups]]
-9. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
-10. [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts]]
+1. [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year|DEC-086 — Collaborations Three Times a Year]]
+2. [[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085 — Lighter Teaching in Collective Study Blocks]]
+3. [[08 Archive/Decisions/Decision History#DEC-084 — Ministry Review of Chosen Group Material|DEC-084 — Ministry Review of Chosen Group Material]]
+4. [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083 — Community, Prayer, Scripture, and Purposeful Formation]]
+5. [[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082 — Supportive Leader Guides and Other Resources Placement]]
+6. [[08 Archive/Decisions/Decision History#DEC-081 — Planted as a Foundation for New Believers and New Members|DEC-081 — Planted as a Foundation for New Believers and New Members]]
+7. [[08 Archive/Decisions/Decision History#DEC-080 — Annual Groups Seasonal Rhythm|DEC-080 — Annual Groups Seasonal Rhythm]]
+8. [[08 Archive/Decisions/Decision History#DEC-079 — Collaboration Schedule and Saturday Rhythm|DEC-079 — Collaboration Schedule and Saturday Rhythm]]
+9. [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078 — Offerings and Support Raising in Groups]]
+10. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
 
 ## Supersession Map
 
@@ -209,6 +211,8 @@ DEC-085
 DEC-056 (first date and ongoing cadence)
    ↓ amended in part by
 DEC-079
+   ↓ Saturday rhythm superseded by
+DEC-086 (three a year)
 
 DEC-072 (guide placement)
    ↓ amended in part by

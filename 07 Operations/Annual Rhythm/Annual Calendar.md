@@ -13,6 +13,8 @@
 | Fall | September launch; September–early December semester | First-week launch is likely, not a confirmed date. Plan around the holiday season; exact closing and cancellation dates remain open. |
 | January | Church-wide 21 days of prayer and fasting | Groups may meet during this season or wait until spring launch. Exact church dates and each group's choice need communication. |
 
+Group Leader Collaborations follow this rhythm: one before the spring launch, one before summer activities, and one before the fall launch (DEC-086). Each gathering's date is set within its season.
+
 Fall 2026 is a shorter first semester because of the church launch schedule. Preserve its September 20 church launch and October 4 Group Launch Day as historical dates rather than applying the future September pattern retroactively.
 
 This rhythm supports sustainable community and Christ-centered formation across City Groups, Collectives, and Bible Clubs. It does not approve a particular class, leader, venue, budget, or meeting schedule. Classes remain within the Bible Clubs development path. Implementation is tracked through BWR-042 and the existing semester-planning workflow.

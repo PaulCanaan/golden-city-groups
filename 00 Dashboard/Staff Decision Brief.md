@@ -2,7 +2,7 @@
 
 ## October 26 Approved Direction
 
-Paul reports Russ approved all six items in the [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes|October 26 staff meeting]]. DEC-079–083 now govern the Collaboration date/rhythm, seasonal pattern, Planted's purpose for new believers and new members, guide scope/public placement, and community–prayer–Scripture baseline. These do not need to be re-proposed for approval.
+Paul reports Russ approved all six items in the [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes|October 26 staff meeting]]. DEC-079–083 now govern the Collaboration date/rhythm (the rhythm since replaced by DEC-086), seasonal pattern, Planted's purpose for new believers and new members, guide scope/public placement, and community–prayer–Scripture baseline. These do not need to be re-proposed for approval.
 
 Remaining implementation: exact Collaboration times and arrangements; exact seasonal dates and summer offerings; CoJourner preparation; Paul's review of new guide prose; public editions and actual publication. The agreement's unresolved policy questions (BWR-041), appointments, participant-system decisions, and final readiness remain with their existing owners. Approved guide placement and formation-framework inclusion are settled for those resources; wider public-page language changes are outside this decision.
 
