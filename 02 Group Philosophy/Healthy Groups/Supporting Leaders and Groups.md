@@ -78,7 +78,7 @@ That is the argument for the church and the ministry staying connected to the gr
 
 ## Not Yet Decided
 
-- Group leader collaborations: November 7 evening arrangements and future morning times, locations, and holiday exceptions; first/third Saturday cadence is approved (DEC-079; see [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]]).
+- Group leader collaborations: dates, times, and locations for each gathering; they meet three times a year, before the spring and fall launches and before summer activities (DEC-086; see [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]]).
 - Whether CoJourner applies to any Fall 2026 leader, and its facilitator, dates, and completion criteria (DEC-045).
 - At what ministry scale a formal coaching layer becomes necessary — an open question in the [[01 Governance/Ministry Model#Open Model Questions|Ministry Model]].
 - The support cadence itself, which remains an operational decision rather than policy.
