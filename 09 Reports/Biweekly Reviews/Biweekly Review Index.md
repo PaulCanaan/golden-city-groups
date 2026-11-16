@@ -4,6 +4,8 @@ The [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]
 
 ## 2026
 
+- [[2026-11-16 Groups Ministry Biweekly Review|November 16, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress
+- [[2026-11-02 Groups Ministry Biweekly Review|November 2, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress
 - [[2026-10-19 Groups Ministry Biweekly Review|October 19, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress
 - [[2026-10-05 Groups Ministry Biweekly Review|October 5, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress
 - [[2026-09-21 Groups Ministry Biweekly Review|September 21, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress

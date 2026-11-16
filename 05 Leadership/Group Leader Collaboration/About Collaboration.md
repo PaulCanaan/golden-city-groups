@@ -41,7 +41,7 @@ All current group leaders. The leaders' Church Center group chat (DEC-057) carri
 
 | Gathering | Date | Format | Status |
 |---|---|---|---|
-| [[05 Leadership/Group Leader Collaboration/2026-10-30 First Collaboration\|First Collaboration]] | Friday, October 30, 2026 | Dinner at Paul's home | Planned (Russ approved October 19) |
+| [[05 Leadership/Group Leader Collaboration/2026-10-30 First Collaboration\|First Collaboration]] | Friday, October 30, 2026 | Dinner at Paul's home | Past planned gathering; occurrence and non-sensitive outcome unreported |
 | Later gatherings | Not set | Not set | Biweekly or monthly; dates and location open |
 
 Add each gathering to this table and to the [[07 Operations/Calendar|Calendar]] once its date is set.

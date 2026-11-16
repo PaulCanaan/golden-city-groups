@@ -23,7 +23,7 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 
 - **Publish only what is true.** A listing is not readiness, and a deferred idea is shown as future or not at all (DEC-022, DEC-050).
 - **Rough locations only.** Never publish an address or detailed location; show an area such as "North Thornton." Leaders share details privately with people who join (DEC-051, DEC-059).
-- **Branch language.** The page keeps City Groups, Collectives, and **Bible Club**. Paul clarified on October 1 that Russ has confirmed the branch-purpose and Belonging, Beholding, Becoming language, but it is for **group leader training only for now; do not publish it on the website**. This direct instruction supersedes this folder’s earlier public-language plan; the historical DEC-047/049 records are not rewritten here.
+- **Branch and formation language.** The Groups overview keeps City Groups, Collectives, and **Bible Club**. The October 1 implementation deferred the revised branch-purpose and Belonging, Beholding, Becoming introduction on that page. **Paul clarified October 22 that the formation-language restriction means not putting that line on the Groups overview prematurely, not a blanket prohibition on public use. Leadership training belongs among ministry resources and may appear on the resources page, including Belonging, Beholding, Becoming.** This does not change the overview copy or approve every resource; individual content, privacy, and copyright checks still apply. The clarification is recorded with DEC-049 and DEC-072.
 - **Internal language stays internal.** The fellowship/discipleship ratios never appear publicly (DEC-053).
 - **Working links only.** Every join button, QR destination, and Planning Center link goes to a tested destination (BWR-009, [[07 Operations/Workflows/Forms#Pre-Publication Test|Pre-Publication Test]]).
 - **Groups come through Group Launch Readiness.** City Groups appear in Open Groups only after their leader is ready to lead and the profile is built (DEC-059).
@@ -34,7 +34,7 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 - [[12 Ministry Website/Design Principles and Maintenance|Design Principles and Maintenance]] — migrated design reasoning, implementation history, editing and recovery, and long-term maintenance.
 - [[12 Ministry Website/Groups Page|Groups Page]] — what is live, what is planned, and what needs correcting.
 - [[12 Ministry Website/Open Groups Listings|Open Groups Listings]] — the standard for each group profile on the page.
-- [[12 Ministry Website/Resources Page|Resources Page]] — plan for `goldencity.church/groups/resources` (DEC-072); nothing built yet.
+- [[12 Ministry Website/Resources Page|Resources Page]] — architecture and live library at `resources.goldencity.church` (DEC-072); the `/groups/resources` redirect and Groups overview entrance were verified October 24.
 - [[12 Ministry Website/Development Journey|Development Journey]] — how the page developed, and the dated record of material changes and reviews.
 
 ## Open Website Work
@@ -44,7 +44,6 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 | Group Launch Sunday lobby tables and table cards (Russ's pre-launch review of the website is complete) | BWR-028 |
 | DEC-066 downstream communication and directory follow-up: the obsolete FAQ, participant notification, and replacement profile cards | [[00 Dashboard/Biweekly Review Queue\|BWR-036]]; [[12 Ministry Website/Groups Page#Remaining Follow-Up\|Groups Page]] |
 | Tested participant paths for every join link | BWR-009 |
-| Groups resources page: contents and which resources are public or leader-only (DEC-072) | BWR-037 |
 | Standing lobby cards: Church Center app and Groups & Classes Ministry (DEC-074) | BWR-038 |
 
 ## Connections

@@ -39,7 +39,7 @@ A wrong schedule, an exposed address, or a broken join link should be corrected 
 ## Rules That Apply Everywhere in This Folder
 
 - **Rough locations only.** Never publish or record an address or detailed location. Show an area, such as "North Thornton."
-- **Internal language stays internal.** The fellowship and discipleship ratios never appear on the public page. Paul clarified October 1 that branch-purpose language and Belonging/Beholding/Becoming are also for leader training only for now and must stay off the website.
+- **Use language in its intended setting.** Fellowship and discipleship ratios remain internal. The October 1 Groups overview omitted the revised branch-purpose and Belonging/Beholding/Becoming introduction. Paul clarified October 22 that the formation line should not be put on that overview prematurely; leadership training, including this framework, can appear among ministry resources on the resources page. Review each resource for actual confidentiality, content status, and copyright rather than treating its leader audience as a public-access restriction.
 - **A listing is not readiness.** A group on the page has not been approved because it is on the page. Final readiness stays with Russ or a pastor he designates.
 - **Record what was verified, not what was intended.** A pending row is a plan until the live page is checked.
 - **Privacy follows the vault.** No participant lists, phone numbers, addresses, or pastoral details.

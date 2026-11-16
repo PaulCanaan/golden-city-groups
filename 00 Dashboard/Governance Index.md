@@ -124,7 +124,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–078 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, and DEC-065–078 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is implemented development direction and later resources retain item-specific review; DEC-074 production is pending; DEC-077 leaves named pastoral questions open). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
 
 ### Confirmed in Part
 

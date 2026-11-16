@@ -55,5 +55,9 @@
 		{"id":"men-questions-output","fromNode":"men-questions","fromSide":"right","toNode":"men-output","toSide":"left"},
 		{"id":"women-goal-questions","fromNode":"women-goals","fromSide":"right","toNode":"women-questions","toSide":"left"},
 		{"id":"women-questions-output","fromNode":"women-questions","fromSide":"right","toNode":"women-output","toSide":"left"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

@@ -4,7 +4,9 @@
 
 ## Current Resources
 
-No six-session Galatians handout is approved yet; the drafts are in phase 03 (DEC-076). The earlier Galatians 1:1–9 handouts, approved October 13 under the twelve-session plan, are kept as superseded editions:
+Paul approved the existing six-session-plan G01 and G02 PDFs for both Collectives for public publication on October 22, 2026. The accepted two-page editions are in `Collectives Galatians/Session 1/` and `Session 2/`; editable sources remain in phase 03. The exact approval and web release are recorded in the project brief and [[12 Ministry Website/Development Journey|Development Journey]].
+
+The earlier Galatians 1:1–9 handouts, approved October 13 under the twelve-session plan, remain superseded:
 
 - [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Superseded — Twelve-Session Plan/Womens Galatians G01A 2026-10-27 Handout.pdf|Women's Collective — October 27, current]]
 - [[06 Resources/Curriculum Development/04 Design & Publish/Collectives Galatians/Superseded — Twelve-Session Plan/Womens Galatians G01A 2026-10-13 Handout.pdf|Women's Collective — October 13, earlier dated edition]]

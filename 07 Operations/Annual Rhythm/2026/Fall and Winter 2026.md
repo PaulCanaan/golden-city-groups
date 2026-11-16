@@ -18,17 +18,17 @@ The July and August events are now historical. Their missing outcomes are tracke
 - **October 11:** Optional second lobby presentation for groups with many open spots (DEC-051) — outcome not recorded.
 - **Sunday, October 11:** Lafayette City Group scheduled start — first-gathering outcome not recorded.
 - **Monday, October 12:** *Planted.* scheduled start, 6:30–8:00pm — first-gathering outcome not recorded.
-- **Tuesday, October 13:** Women's Collective scheduled start, 6:30pm — first-gathering outcome not recorded.
+- **Tuesday, October 13:** Women's Collective scheduled start, 6:30pm — occurred and covered Galatians 1 (Session 1), as reported by Paul; readiness documentation remains incomplete.
 - **Wednesday, October 14:** Broomfield City Group scheduled start — first-gathering outcome not recorded.
 - **Friday, October 16:** Thornton City Group scheduled start — first-gathering outcome not recorded.
-- **Tuesday, October 20:** Men's Collective Galatians Session 2 (Galatians 2) — two-page handout drafted and awaiting Paul; teaching assignment unconfirmed (DEC-076).
-- **Tuesday, October 20:** Westminster City Group (Young Adults) begins.
-- **Tuesday, October 27:** Women's Collective Galatians Session 2 (Galatians 2) — two-page handout drafted and awaiting Paul; teaching assignment unconfirmed (DEC-076).
-- **Saturday, November 7:** Run Club begins.
+- **Tuesday, October 20:** Men's Collective Galatians Session 2 date passed — Paul approved the handout for public publication October 22; teaching assignment and gathering outcome unreported (DEC-076, BWR-029).
+- **Tuesday, October 20:** Westminster City Group (Young Adults) scheduled start passed; first-gathering outcome unreported (BWR-010).
+- **Tuesday, October 27:** Women's Collective Galatians Session 2 date passed — Paul approved the handout for public publication October 22; teaching assignment and gathering outcome unreported (DEC-076, BWR-029).
+- **Saturday, November 7:** Run Club scheduled start passed; first-gathering outcome unreported (BWR-010).
 
 All start dates are official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]] as updated by [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]; the full schedule table is in [[03 Groups/City Groups/City Groups Overview#Fall 2026 City Groups|City Groups Overview]].
 
-- **Friday, October 30:** First Group Leader Collaboration, a dinner for all current group leaders hosted by Paul at his home, one month into the groups' launch (DEC-056, October 19 update). The rhythm after it is open. See [[05 Leadership/Group Leader Collaboration/2026-10-30 First Collaboration|First Collaboration]].
+- **Friday, October 30:** The first Group Leader Collaboration was planned as a dinner for all current group leaders hosted by Paul at his home, one month into the groups' launch (DEC-056, October 19 update). The date is past; occurrence, non-sensitive outcomes, and the later rhythm are unreported (BWR-031). See [[05 Leadership/Group Leader Collaboration/2026-10-30 First Collaboration|First Collaboration]].
 
 **October 5 schedule updates:** Russ approved new schedules for both Collectives and *Planted.* ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]). Both Collectives meet every other Tuesday at 6:30pm in Broomfield (144th & Zuni), Men's from October 6 and Women's from October 13; *Planted.* meets Mondays 6:30–8:00pm from October 12 in Broomfield (120th & Interlocken).
 
@@ -48,7 +48,7 @@ The primary Fall 2026 objective is to recruit Launch Team members to host City G
 4. Confirm group assignments, hosts or locations, and participant capacity.
 5. Commission approved leaders through a practice still requiring confirmation.
 6. Open or continue participant sign-up only for launch-ready offerings.
-7. Reconcile the October first-gathering outcomes for Collectives and Planted. Men's occurred October 6 as reported by Paul; Women's October 13 and Planted October 12 remain unreported. Every offering remains subject to the applicable readiness evidence and recorded approval.
+7. Reconcile the remaining first-gathering evidence. Men's occurred October 6 and Women's occurred October 13, as reported by Paul; all six City Group start outcomes and Planted's October 12 outcome remain unreported. Every offering remains subject to the applicable readiness evidence and recorded approval.
 
 Fall 2026 group leaders, schedules, and start dates are recorded in [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]]. Training dates and commissioning details remain pending.
 
@@ -65,7 +65,7 @@ Current Collective architecture:
 
 - **Men's Collective:** every other Tuesday at 6:30pm from October 6, Broomfield (144th & Zuni) area (DEC-066); intended co-leads Conner O'Brien and Russ Daly.
 - **Women's Collective:** every other Tuesday at 6:30pm from October 13, Broomfield (144th & Zuni) area (DEC-066); co-leads Miranda Daly and Niki Pike (DEC-069).
-- **Study:** Galatians in six sessions, one chapter per gathering, following Russ's approved S.O.A.P. flow (DEC-076). Paul develops materials; Russ, Miranda, and Conner operate the gatherings. The study retains its connection to *The Fruit of the Spirit*. Session 1 (Galatians 1) occurred October 6 (Men's) and October 13 (Women's); Session 2 (Galatians 2) is October 20 and October 27, with two-page handouts drafted and awaiting Paul. Sessions 3–6 follow on alternating Tuesdays; holiday skips are open.
+- **Study:** Galatians in six sessions, one chapter per gathering, following Russ's approved S.O.A.P. flow (DEC-076). Paul develops materials; Russ, Miranda, and Conner operate the gatherings. The study retains its connection to *The Fruit of the Spirit*. Session 1 (Galatians 1) occurred October 6 (Men's) and October 13 (Women's). Paul approved the Session 2 PDFs for public publication October 22, but the October 20/27 gathering outcomes and teaching assignments are unreported. Sessions 3–6 follow on alternating Tuesdays; exact dates and holiday skips are open.
 
 Participant paths, communications, leader-path completion, and final readiness remain open. Named co-leads are not thereby formally appointed. Russ intends the Collectives to move on-site in the future, and the search for a location continues.
 

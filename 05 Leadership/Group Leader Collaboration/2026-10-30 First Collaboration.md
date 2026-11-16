@@ -4,7 +4,7 @@ From [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group 
 
 ## Document Status
 
-**Planned gathering; approved by Russ on October 19, 2026 ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]).** The date, host, format, and purpose below are confirmed. The time, cost, and order of the evening are not yet set. After the gathering, record its non-sensitive outcome under [[#After the Gathering|After the Gathering]].
+**Past planned gathering; outcome awaiting Paul.** Russ approved the October 30, 2026 date, host, format, and purpose on October 19 ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]). The plan still has no recorded time, cost, invitation evidence, occurrence, aggregate attendance, topics, follow-up, or later rhythm. Record only non-sensitive outcomes under [[#After the Gathering|After the Gathering]] (BWR-031).
 
 ## Details
 

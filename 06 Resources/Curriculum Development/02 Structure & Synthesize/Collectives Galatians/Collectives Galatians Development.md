@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Working resource-development brief, refactored October 19, 2026 for six sessions.** Russ approved the Collective gathering flow, the S.O.A.P. pattern, a six-session pace (one chapter per gathering), and two-page handouts ([[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]]). Both Collectives have already gone through Galatians 1 (Men's October 6, Women's October 13). Session 2 covers Galatians 2: Men's on October 20 and Women's on October 27. Session 1 and Session 2 handouts for both Collectives are drafted (v0.1) and **awaiting Paul's review**. The earlier twelve-session handouts and drafts are kept in Superseded folders. Paul is applying the [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] (DEC-071). Open [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development.canvas|the Galatians Canvas]] and follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|the development workflow]].
+**Working resource-development brief, refactored October 19, 2026 for six sessions.** Russ approved the Collective gathering flow, the S.O.A.P. pattern, a six-session pace (one chapter per gathering), and two-page handouts ([[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]]). Both Collectives have already gone through Galatians 1 (Men's October 6, Women's October 13). Session 2 covers Galatians 2: Men's on October 20 and Women's on October 27. Paul explicitly approved the four existing Session 1 and Session 2 PDF handouts (v0.1) for public website publication on October 22, 2026. The accepted editions are in phase 04; the editable masters remain in phase 03. The earlier twelve-session handouts and drafts are kept in Superseded folders. Paul is applying the [[06 Resources/Curriculum Development/Complexity Gate|Complexity Gate]] (DEC-071). Open [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development.canvas|the Galatians Canvas]] and follow [[06 Resources/Curriculum Development/Ministry Curriculum Development|the development workflow]].
 
 ## Workspace Handoff
 
@@ -35,14 +35,14 @@ This brief and its maintained Canvas live in phase 02. Put permitted original in
 - **Needed outputs / depth:** Separate dated Men's and Women's **two-page** participant handouts in the Weekly Recap's format: Last Session Review, Scripture (participants open their Bibles; the text is not printed), Part 1, Part 2, and Reflections and Close Prayer. Teaching notes for the two 20-minute exegesis blocks, and slides when needed. Both packages share the Galatians research and course sequence. Follow [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]] and the Complexity Gate.
 - **Priority:** Men's Session 2 (Galatians 2) is **Tuesday, October 20**; Women's Session 2 is Tuesday, October 27. Sessions 3–6 follow on the alternating Tuesdays; their dates and holiday skips are not set.
 - **Operational requirements:** Confirm teaching preparation, whether to use breakout tables given attendance, room arrangements, and printing. Particular worship practices, food, childcare, and unreported logistics remain separate matters.
-- **Final resource delivery:** No six-session handout is approved yet. Drafts and PDF candidates sit in phase 03; Paul's approved editions move to phase 04. Local library placement does not record external distribution.
+- **Final resource delivery:** Paul approved the existing G01/G02 PDFs for both Collectives for public publication on October 22. Accepted PDFs are in phase 04; the editable sources remain in phase 03. The public release is recorded below.
 
 ## Calendar
 
 | Session | Chapter | Men's Collective | Women's Collective | Handouts |
 |---|---|---|---|---|
 | 1 | Galatians 1 | Tuesday, October 6 (occurred) | Tuesday, October 13 (occurred) | Redone as a record of what was covered; v0.1 drafts |
-| 2 | Galatians 2 | Tuesday, October 20 | Tuesday, October 27 | v0.1 drafts awaiting Paul |
+| 2 | Galatians 2 | Tuesday, October 20 | Tuesday, October 27 | v0.1 PDFs approved by Paul for public publication October 22; gathering outcomes unreported |
 | 3–6 | Galatians 3–6 | Following alternating Tuesdays | Following alternating Tuesdays | Not yet drafted |
 
 Each Collective meets every other week on alternating Tuesdays (DEC-066). Thanksgiving, Christmas, New Year, and other holiday weeks will likely be skipped; those are anticipated, not approved cancellation dates. No end date or Session 3–6 dates are calculated here.
@@ -90,13 +90,13 @@ Breakout tables are optional, depending on attendance. Reading and transitions f
 
 | Session / audience | Editable handout source | Date / version | Review state |
 |---|---|---|---|
-| G01 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Mens Galatians G01 2026-10-06 Handout\|Men's Galatians 1 handout]] | October 6, 2026; v0.1 | Draft; rebuilt from the approved 1:1–9 handout and the 1:10–24 drafts. Awaiting Paul |
-| G01 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Womens Galatians G01 2026-10-13 Handout\|Women's Galatians 1 handout]] | October 13, 2026; v0.1 | Draft; rebuilt the same way. Awaiting Paul |
-| G02 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Mens Galatians G02 2026-10-20 Handout\|Men's Galatians 2 handout]] | October 20, 2026; v0.1 | Draft; original questions (Keller's chapter 2 questions not supplied). **Needed tomorrow; awaiting Paul** |
-| G02 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Womens Galatians G02 2026-10-27 Handout\|Women's Galatians 2 handout]] | October 27, 2026; v0.1 | Draft; original questions. Awaiting Paul |
+| G01 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Mens Galatians G01 2026-10-06 Handout\|Men's Galatians 1 handout]] | October 6, 2026; v0.1 | Approved for public publication by Paul, October 22; accepted PDF in phase 04 |
+| G01 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Womens Galatians G01 2026-10-13 Handout\|Women's Galatians 1 handout]] | October 13, 2026; v0.1 | Approved for public publication by Paul, October 22; accepted PDF in phase 04 |
+| G02 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Mens Galatians G02 2026-10-20 Handout\|Men's Galatians 2 handout]] | October 20, 2026; v0.1 | Approved for public publication by Paul, October 22; original questions; accepted PDF in phase 04 |
+| G02 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Womens Galatians G02 2026-10-27 Handout\|Women's Galatians 2 handout]] | October 27, 2026; v0.1 | Approved for public publication by Paul, October 22; original questions; accepted PDF in phase 04 |
 | G03–G06 | Not yet drafted | — | Draft each from the chapter when Paul is ready |
 
-Each source has a PDF candidate beside it in phase 03, rendered with `scripts/collective_handout.py` and checked at two letter-size pages. Teaching notes for the 20-minute exegesis blocks are not yet written for the six-session plan.
+Each editable source retains its PDF export beside it in phase 03. The accepted PDF copies are in phase 04, using the same filenames under `Collectives Galatians/Session 1/` and `Session 2/`. They were rendered with `scripts/collective_handout.py` and checked at two letter-size pages. Teaching notes for the 20-minute exegesis blocks are not yet written for the six-session plan.
 
 **Formation emphases carried forward:** Men's: receiving grace, honest brotherhood, and courage over fear of others' opinion. Women's: Christ-given identity, encouragement without comparison, and welcome at the table. These continue the Session 1 angles Paul reviewed; they are working pastoral angles, not universal gender claims.
 
@@ -118,7 +118,7 @@ Publisher references: [Peterson — Traveling Light](https://www.ivpress.com/tra
 ## Open Details and Next Action
 
 - Record Session 3–6 dates and holiday adjustments when decisions arrive.
-- **Paul:** review the four v0.1 handouts, the men's Galatians 2 handout first (October 20). Write or request teaching notes for the 20-minute blocks. CSB is selected.
+- **Paul:** write or request teaching notes for the 20-minute blocks when needed; the four v0.1 participant PDFs are now approved for public publication. CSB is selected.
 - Develop later sessions' formation goals and Keller question adaptations from actual source material.
 - Link the relevant Notion pages and Peterson/Keller notes with edition/page references.
 - Record actual external delivery when it occurs; the Session 1 dates and final library files are linked above.
@@ -140,3 +140,7 @@ Paul asked to run the full path for Galatians 1:10–24: phase 01 brainstorm Can
 | Exports | PDF candidates sit with the phase 03 sources. They are not in phase 04 and are not approved |
 
 **Next action — Paul:** review the G01B synthesis, the two teaching drafts, and the PDF candidates. Session 1 handouts can be used on October 20 and October 27. Keller's chapter 2 questions, when supplied, replace the original discussion questions. No external distribution is recorded.
+
+## Public PDF Release — October 22, 2026
+
+**Resource Producer.** Paul requested the resources-page release and explicitly answered **“Approve all 8 PDF editions”** after the exact editions were listed. For this project, that confirms G01 and G02 for both Men’s and Women’s Collectives, including the Women’s October 27 edition. The four PDF files were visually inspected and published as assets and resource entries in Sanity project `1consdwv`, dataset `production`; the website release is recorded in [[12 Ministry Website/Development Journey|Development Journey]]. No handout text was rewritten. Teaching notes and Sessions 3–6 retain their existing development status. No Church Center delivery or gathering outcome is inferred from this web release.

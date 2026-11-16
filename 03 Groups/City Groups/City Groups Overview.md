@@ -44,7 +44,7 @@ Official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Ope
 | Westminster (Young Adults City Group) | Bobby Pascale & Dominique Simon | Weekly, Tuesdays 7:00–8:30pm | October 20 | Westminster |
 | Run Club (co-ed, ages 18 and up) | Jeremy & Glenys Parker | Weekly, Saturdays 7:00–9:00am | November 7 | Broomfield |
 
-As of October 19, two of these City Groups have no one signed up yet. They stay open and start whenever people join; meanwhile their leaders are encouraged to join another City Group ([[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075]]; see [[07 Operations/Workflows/Group Launch Readiness#When No One Has Joined Yet|When No One Has Joined Yet]]).
+As of October 19, two of these City Groups had no one signed up yet. No later aggregate count is recorded. They stay open and start whenever people join; meanwhile their leaders are encouraged to join another City Group ([[08 Archive/Decisions/Decision History#DEC-075 — City Groups Waiting for Members|DEC-075]]; BWR-040; see [[07 Operations/Workflows/Group Launch Readiness#When No One Has Joined Yet|When No One Has Joined Yet]]). All six scheduled start dates, including Run Club on November 7, have passed without first-gathering outcome evidence (BWR-010).
 
 ## Group Launch Sunday
 

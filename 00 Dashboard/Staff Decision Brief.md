@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Reviewed August 10 and reconciled October 19, 2026 through DEC-067 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); Paul clarified Collective resource development and the Galatians course plan on October 13 (DEC-067); DEC-059–066 further clarified launch workflow, schedules, leadership support, and the official Fall 2026 offering directory. No later staff or pastoral decision is recorded. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
+**Reviewed August 10 and reconciled November 16, 2026 through DEC-078 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); October direction now governs Collective resources and gathering shape (DEC-067, DEC-076), the Groups resource library and communication work (DEC-071–075), and the GCC Group Leader Agreement with its offerings/support-raising amendment (DEC-077–078). No decision after DEC-078 is recorded. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
 
 ## Confirmed Ministry Language
 

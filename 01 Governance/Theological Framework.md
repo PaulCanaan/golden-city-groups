@@ -75,7 +75,7 @@ Becoming is not synonymous with receiving a ministry title. Mature disciples may
 
 ### Public-Facing Use
 
-Under DEC-049, Belonging, Beholding, Becoming is public-facing ministry language rather than an internal framework only. It is introduced whenever the ministry's vision, mission, and values are shared, using the simple introduction recorded in [[02 Group Philosophy/Formation Framework/Belonging, Beholding, Becoming#Introducing the Framework Publicly|the Formation Framework]]. DEC-049 approves language, not doctrine; the commitments and guardrails in this document are unchanged.
+Under DEC-049, Belonging, Beholding, Becoming is public-facing ministry language rather than an internal framework only. It is introduced whenever the ministry's vision, mission, and values are shared, using the simple introduction recorded in [[02 Group Philosophy/Formation Framework/Belonging, Beholding, Becoming#Introducing the Framework Publicly|the Formation Framework]]. DEC-049 approves language, not doctrine; the commitments and guardrails in this document are unchanged. Paul clarified on October 22, 2026 that the earlier website limitation concerns placing the formation line on the Groups overview prematurely, not a blanket prohibition on public use. Leadership training belongs among ministry resources and may appear on the resources page with this framework included; individual resource review still applies (DEC-049/072 clarification).
 
 ## Integrated Formation
 
