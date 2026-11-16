@@ -47,7 +47,7 @@ Record only non-sensitive facts here. What leaders share stays with them.
 - **Occurred:**
 - **Leaders attending (count):**
 - **Topics covered:**
-- **Next Collaboration details (first/third Saturday morning rhythm approved):**
+- **Next Collaboration details (three a year; the next is before the Spring 2027 launch, DEC-086):**
 - **Follow-up for the ministry:**
 
 Then update the [[07 Operations/Calendar|Calendar]], BWR-031, and the rhythm table in [[05 Leadership/Group Leader Collaboration/About Collaboration#Rhythm|About Collaboration]].

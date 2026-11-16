@@ -13,13 +13,13 @@
 - The three core elements and Russ's guiding question (DEC-083) stay in the City Group Guide and are left out here.
 - A meeting address may go on the Planning Center group profile, which only members see. Attendance wording speaks of disqualification, not failure. The seasonal rhythm (DEC-080) stays internal and is left out.
 
-**Confirmed:** Belonging, Beholding, Becoming and an adaptable gathering flow (DEC-082); S.O.A.P. and two teaching-and-discussion blocks (DEC-076), with lighter teaching (DEC-085); email as the main channel (DEC-073); Collaborations on first and third Saturday mornings (DEC-079); one-on-one support through Paul's sign-up calendar (DEC-064).
+**Confirmed:** Belonging, Beholding, Becoming and an adaptable gathering flow (DEC-082); S.O.A.P. and two teaching-and-discussion blocks (DEC-076), with lighter teaching (DEC-085); email as the main channel (DEC-073); Collaborations three times a year (DEC-086); one-on-one support through Paul's sign-up calendar (DEC-064).
 
 **Not yet decided:** the exact teaching and discussion split (DEC-085); Collaboration times and locations (BWR-031); the agreement's open questions, including the mandatory-reporting procedure (BWR-041).
 
 **What this guide does not do:** it creates no policy, appoints no one, and makes no Collective ready. The agreement is the only policy source. The minimum standards (DEC-027–029) still apply, and appointment and readiness stay with Russ (DEC-021).
 
-**Public edition:** `Collective Leader Guide.pdf` in this folder, for Other Resources on the resources page (DEC-082, BWR-037). An unpublished Sanity draft, `collective-leader-guide`, holds the same text for the web; it is updated to match this page and publishes only after Paul's final review and go-ahead. The public edition leaves out this block, decision numbers, vault links, and staff phone numbers, and links the agreement to its published page.
+**Public edition:** `Collective Leader Guide.pdf` in this folder, for Other Resources on the resources page (DEC-082, BWR-037). An unpublished Sanity draft, `collective-leader-guide`, holds the same text for the web; it is updated to match this page and publishes only after Paul's final review and go-ahead. The public edition leaves out this block, decision numbers, vault links, and staff phone numbers, and links the agreement to its published page. **Rebuild needed (November 16, 2026):** `Collective Leader Guide.pdf` and the Sanity draft still say Collaboration meets on the first and third Saturday mornings; rebuild both from this page before publishing (DEC-086).
 
 ## Thank you for leading
 
@@ -82,7 +82,7 @@ The agreement covers confidentiality, prayer requests, conflict, conduct, homes,
 
 - **Your co-leader and table leaders** prepare, lead, and debrief with you.
 - **Paul**, Ministry Director for Groups and Classes, prepares the study resources and is your first call about your Collective or your own capacity. You can book one-on-one time with him through his sign-up calendar.
-- **Group Leader Collaboration** meets on the first and third Saturday mornings of each month. Leaders across the ministry serve in different rooms, often at the same hour, and rarely see one another at work. At Collaboration you talk through what's working and what's hard, learn from one another, and go home encouraged. Paul posts times and places in the leaders' Church Center group chat.
+- **Group Leader Collaboration** meets three times a year: before the spring launch, before summer activities, and before the fall launch. Leaders across the ministry serve in different rooms, often at the same hour, and rarely see one another at work. At Collaboration you talk through what's working and what's hard, learn from one another, and go home encouraged. Paul posts each date, time, and place in the leaders' Church Center group chat.
 - **Russ and the pastoral team** step in when care goes beyond what the group can give.
 
 ## When you need help

@@ -40,7 +40,7 @@ Both guides and the agreement are approved for Other Resources placement (DEC-08
 
 ## Group Leader Collaboration
 
-Current group leaders gather to share experiences and struggles, learn from one another, and be poured into and equipped (DEC-056). The first is a dinner at Paul's home on Saturday evening, November 7, 2026; future gatherings meet first and third Saturday mornings (DEC-079). See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
+Current group leaders gather to share experiences and struggles, learn from one another, and be poured into and equipped (DEC-056). The first was set as a dinner at Paul's home on Saturday evening, November 7, 2026 (DEC-079); Collaborations now meet three times a year, before the spring and fall launches and before summer activities (DEC-086). See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
 ## CoJourner Pathway
 

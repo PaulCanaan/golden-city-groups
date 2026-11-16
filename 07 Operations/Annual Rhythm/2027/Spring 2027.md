@@ -6,7 +6,7 @@
 
 ## Launch Preparation
 
-Complete the four-session CoJourner preparation before the actual February launch, as required by DEC-045. Its approximately two-month preparation window needs to be reconciled with holidays and January's church-wide prayer and fasting season. First/third Saturday morning Collaborations may host training, but their approved rhythm does not itself schedule the cohort. Confirm source material, facilitator, dates, location, and completion expectations with Russ (BWR-019, BWR-042).
+Complete the four-session CoJourner preparation before the actual February launch, as required by DEC-045. Its approximately two-month preparation window needs to be reconciled with holidays and January's church-wide prayer and fasting season. The Group Leader Collaboration before the spring launch (DEC-086) may host training, but one gathering cannot hold all four sessions, so the cohort still needs its own schedule. That Collaboration's date is not set. Confirm source material, facilitator, dates, location, and completion expectations with Russ (BWR-019, BWR-042).
 
 Groups may keep meeting during January's 21 days of prayer and fasting or wait until spring launch. Coordinate the church's actual dates and communicate each group's plan.
 

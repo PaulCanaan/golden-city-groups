@@ -10,7 +10,7 @@
 ## Annual rhythm
 
 - [[07 Operations/Annual Rhythm/Annual Calendar|Approved seasonal pattern]] — February–May, June–August, September–early December; January prayer and fasting with optional meetings (DEC-080). February/September first-week launches are tentative.
-- Group Leader Collaborations: first and third Saturday mornings (DEC-079); the November 7 first gathering is an evening exception. Exact times, future locations, and holiday adjustments remain open.
+- Group Leader Collaborations: three times a year, before the spring and fall launches and before summer activities (DEC-086, replacing DEC-079's first and third Saturday mornings). The next is before the Spring 2027 launch; its date, time, and location are not set.
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]]
 
 ## Key dates
@@ -36,7 +36,7 @@
 | October 20, 2026 (Tuesday) | Westminster City Group (Young Adults) begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Tuesdays 7:00–8:30pm, Westminster (100th & Simms) area (DEC-066, corrected by DEC-068); co-led by Bobby Pascale and Dominique Simon |
 | October 27, 2026 (Tuesday) | Women's Collective Galatians Session 2 (Galatians 2) | **Past; handout approved and public October 22 ([[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts\|DEC-076]])** | The teaching assignment remains unconfirmed; resource progress does not establish operational readiness (BWR-029) |
 | November 7, 2026 (Saturday) | Run Club begins | **Confirmed start ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups\|DEC-065]])** | Weekly, Saturdays 7:00–9:00am; co-ed, ages 18 and up |
-| November 7, 2026 (Saturday evening) | First Group Leader Collaboration | **Confirmed; rescheduled by Russ October 26 (DEC-079)** | A dinner for all current group leaders hosted by Paul at his home: a one-month check-in on how leaders and their groups are doing. Future gatherings meet first and third Saturday mornings; times, future locations, and holiday exceptions open ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations\|DEC-056]], BWR-031); plan: [[05 Leadership/Group Leader Collaboration/2026-11-07 First Collaboration\|First Collaboration]] |
+| November 7, 2026 (Saturday evening) | First Group Leader Collaboration | **Confirmed; rescheduled by Russ October 26 (DEC-079)** | A dinner for all current group leaders hosted by Paul at his home: a one-month check-in on how leaders and their groups are doing. Later gatherings meet three times a year, before the spring and fall launches and before summer activities (DEC-086); their dates are open ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations\|DEC-056]], BWR-031); plan: [[05 Leadership/Group Leader Collaboration/2026-11-07 First Collaboration\|First Collaboration]] |
 
 ## Pending Milestones
 

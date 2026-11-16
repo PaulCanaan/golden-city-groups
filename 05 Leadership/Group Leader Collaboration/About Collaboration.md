@@ -4,7 +4,7 @@ From [[Leadership Overview|Leadership]]
 
 ## Document Status
 
-**Home for everything about Group Leader Collaboration; not a decision record.** Russ and Paul approved Collaborations on September 25, 2026 ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]). On October 26, 2026 Russ moved the first gathering to **Saturday evening, November 7, 2026**, still a dinner at Paul's home, and approved **first and third Saturday mornings** for future Collaborations (DEC-079). Exact times, future locations, cost, and holiday adjustments remain open. Attending a Collaboration is not appointment, and a Collaboration is not the pastoral-care or safeguarding escalation path.
+**Home for everything about Group Leader Collaboration; not a decision record.** Russ and Paul approved Collaborations on September 25, 2026 ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]). On October 26, 2026 Russ moved the first gathering to **Saturday evening, November 7, 2026**, still a dinner at Paul's home, and approved first and third Saturday mornings for later gatherings (DEC-079). On November 16, 2026 Paul reported the current rhythm: Collaborations meet **three times a year, before the spring and fall launches and before summer activities** (DEC-086). Dates, times, locations, and cost for each gathering remain open. Attending a Collaboration is not appointment, and a Collaboration is not the pastoral-care or safeguarding escalation path.
 
 ## What It Is
 
@@ -42,9 +42,9 @@ All current group leaders. The leaders' Church Center group chat (DEC-057) carri
 | Gathering | Date | Format | Status |
 |---|---|---|---|
 | [[05 Leadership/Group Leader Collaboration/2026-11-07 First Collaboration\|First Collaboration]] | Saturday evening, November 7, 2026 | Dinner at Paul's home | Planned; rescheduled October 26 (DEC-079) |
-| Later gatherings | First and third Saturday mornings each month | Location and exact time to be arranged | Rhythm approved October 26 (DEC-079); holiday adjustments open |
+| Later gatherings | Three times a year: before the spring launch, before summer activities, and before the fall launch | Date, time, and location set for each gathering | Rhythm reported by Paul November 16 (DEC-086); replaces the first and third Saturday mornings (DEC-079) |
 
-The first gathering is an evening exception. Use the first/third calendar pattern rather than a strict fourteen-day interval. Confirm individual details and holiday exceptions before communicating each gathering. This leader-support rhythm does not change the first/third-Monday Biweekly Ministry Review.
+Each Collaboration prepares leaders for the season ahead in the [[07 Operations/Annual Rhythm/Annual Calendar|annual rhythm]] (DEC-080). The next one comes before the Spring 2027 launch; no further gathering is planned for Fall 2026. Confirm each gathering's date, time, and place before sharing it in the leaders' group chat. This leader-support rhythm does not change the first/third-Monday Biweekly Ministry Review.
 
 ## Boundaries
 
@@ -62,10 +62,12 @@ The first gathering is an evening exception. Use the first/third calendar patter
 | 2026-09-30 | Russ affirmed the idea; the first will be a dinner for all current leaders, with details in the leaders' group chat | [[08 Archive/Decisions/2026-09-30 Follow-Up Meeting Minutes#6 — Group Leader Collaborations\|Follow-up meeting, item 6]]; DEC-056 update |
 | 2026-10-19 | Russ approved the first gathering: Friday, October 30, dinner at Paul's home; all about supporting leaders; later rhythm open | [[08 Archive/Decisions/2026-10-19 Staff Meeting Minutes#3 — First Group Leader Collaboration\|Staff meeting, item 3]]; DEC-056 update |
 | 2026-10-26 | First gathering moved to November 7 evening at Paul's home; future gatherings first and third Saturday mornings | [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes#1 — Group Leader Collaboration\|Staff meeting, item 1]]; DEC-079 |
+| 2026-11-16 | Collaborations meet three times a year, before the spring and fall launches and before summer activities; replaces the first and third Saturday mornings | Paul's report; DEC-086 |
 
 ## Open Questions
 
-- Exact November 7 evening time; future morning time, locations, and holiday exceptions.
+- Who decided the three-times-a-year rhythm, and when (DEC-086).
+- Date, time, and location of each gathering, starting with the one before the Spring 2027 launch.
 - Cost, and whether the ministry covers it.
 - Whether CoJourner runs within Collaborations, and for which leaders (DEC-045, BWR-019).
 

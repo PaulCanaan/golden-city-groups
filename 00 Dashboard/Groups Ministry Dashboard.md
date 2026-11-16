@@ -78,7 +78,7 @@ Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboa
 
 ## October 26 Staff Direction
 
-- **Leader support:** first Collaboration November 7 evening at Paul's home; ongoing gatherings first and third Saturday mornings (DEC-079). Exact times and arrangements remain open.
+- **Leader support:** first Collaboration November 7 evening at Paul's home; Collaborations now meet three times a year, before the spring and fall launches and before summer activities (DEC-086); the next is before the Spring 2027 launch, date not set.
 - **Seasons:** February–May, June–August, September–early December; January prayer and fasting with optional meetings. First-week February/September launches remain tentative (DEC-080; BWR-042).
 - **Planted:** a foundation for new believers and new members joining church community; twelve-week curriculum unchanged (DEC-081; BWR-043).
 - **Guides:** supportive City Group and Collective drafts now exist for Paul's review. Public placement under Other Resources with the agreement is approved, including the formation framework (DEC-082).
