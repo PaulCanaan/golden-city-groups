@@ -5,7 +5,8 @@ gathering_date: 2026-10-20
 study_id: G02
 chapter: Galatians 2
 version: 0.1
-status: Draft
+status: Approved
+public_publication_approved: 2026-10-22
 translation: CSB
 ---
 

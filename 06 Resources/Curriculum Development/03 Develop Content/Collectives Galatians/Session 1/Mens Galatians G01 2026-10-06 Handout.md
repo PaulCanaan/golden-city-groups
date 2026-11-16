@@ -5,7 +5,8 @@ gathering_date: 2026-10-06
 study_id: G01
 chapter: Galatians 1
 version: 0.1
-status: Draft
+status: Approved
+public_publication_approved: 2026-10-22
 translation: CSB
 ---
 
