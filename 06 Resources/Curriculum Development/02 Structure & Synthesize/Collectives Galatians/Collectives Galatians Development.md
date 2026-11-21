@@ -97,7 +97,9 @@ Breakout tables are optional, depending on attendance. Reading and transitions f
 | G02 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Womens Galatians G02 2026-10-27 Handout\|Women's Galatians 2 handout]] | October 27, 2026; v0.1 | Approved for public publication by Paul, October 22; accepted PDF in phase 04; original questions |
 | G03 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 3/Mens Galatians G03 2026-11-03 Handout\|Men's Galatians 3 handout]] | November 3, 2026; v1.0 | **Final.** Content approved by Paul November 1, 2026; layout rule applied (equal writing lines on both pages; Scripture credit above the footer). Published to the resources page November 1, 2026 |
 | G03 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 3/Womens Galatians G03 2026-11-10 Handout\|Women's Galatians 3 handout]] | November 10, 2026; v1.0 | **Final.** Approved and released with the Men's edition, November 1, 2026 |
-| G04–G06 | Not yet drafted | — | Draft each from the chapter when Paul is ready |
+| G04 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 4/Mens Galatians G04 2026-11-17 Handout\|Men's Galatians 4 handout]] | November 17, 2026; v1.0 | **Final.** Approved by Paul November 14, 2026; print PDF alongside |
+| G04 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 4/Womens Galatians G04 2026-11-24 Handout\|Women's Galatians 4 handout]] | Dated November 24, 2026; v1.0 | **Final.** Approved by Paul November 14, 2026; print PDF alongside. The Women's Collective skips the week of November 23 (Paul, November 20), so this session's new date is not yet set |
+| G05–G06 | Not yet drafted | — | Draft each from the chapter when Paul is ready; dates not yet set |
 
 Each source has a PDF candidate beside it in phase 03, rendered with `scripts/collective_handout.py` and checked at two letter-size pages. Teaching notes for the shorter teaching parts (DEC-085) are not yet written for the six-session plan.
 
