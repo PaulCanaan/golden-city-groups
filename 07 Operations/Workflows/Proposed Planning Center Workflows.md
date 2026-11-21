@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Proposed — nothing in this document is implemented or approved.** Prepared November 20, 2026 from a live, read-only audit of Paul's Planning Center account the same day and from the operating knowledge in the ministry's Planning Center records. Paul reviews; any change to a live workflow, form, or card happens only on his explicit approval of that specific change. Appointment and readiness authority remain with Russ as elsewhere in this vault.
+**Proposed — nothing in this document is implemented or approved.** *Implementation record (November 20, 2026): Paul approved and Baby Fish executed Part 1 items 1, 1b, 2, 4, 6, 7, 8, 9, and 10 the same evening (item 5 is a standing decision, not an action); the overdue-marking items 3 and 11 were left unapproved and remain proposed. Part 2 workflow A (Leader Development & Multiplication) was built November 20, 2026; workflows B and C remain proposed.* Prepared November 20, 2026 from a live, read-only audit of Paul's Planning Center account the same day and from the operating knowledge in the ministry's Planning Center records. Paul reviews; any change to a live workflow, form, or card happens only on his explicit approval of that specific change. Appointment and readiness authority remain with Russ as elsewhere in this vault.
 
 ## Purpose
 
