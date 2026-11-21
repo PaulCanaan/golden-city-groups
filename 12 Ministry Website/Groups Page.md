@@ -6,7 +6,7 @@ From [[12 Ministry Website/Ministry Website Overview|Ministry Website]]
 
 **Working page record; not a decision record.** Updated October 19, 2026 from a live inspection. Paul declared the October 3 directory official under [[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]], and Russ completed his quick pre-launch review on or before October 3. Russ approved the October 5 schedule and area changes, recorded as [[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]]; the live page holds the latest group information (Paul, October 5 and October 19). The Westminster and Women's Collective leader changes are recorded as [[08 Archive/Decisions/Decision History#DEC-068 — Westminster City Group Co-Leader and Meeting Area|DEC-068]] and [[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069]], and Planted's naming as [[08 Archive/Decisions/Decision History#DEC-070 — Planted Naming|DEC-070]]. Publication does not establish appointment, final readiness, completed intake, or follow-up testing.
 
-## Live Now (inspected October 19, 2026)
+## Live Now (group details inspected October 19; resource entrance verified October 24, 2026)
 
 Since the evening of October 1, the Groups page is two native Squarespace pages instead of one code-block page. Both keep the church's shared header and footer.
 
@@ -17,7 +17,7 @@ Linked under **Connect → Groups**. Page title: *Groups | Find Community*.
 | Section | Content |
 |---|---|
 | Welcome | "Find your people. Grow in faith." with **Find a Group** (to `/groups/fall2026`) and **Lead a Group** (to the Church Center leader application) |
-| Semester invitation | "Open Groups · Fall 2026 — Meet the leaders and explore this semester's groups," linking to the directory |
+| Semester invitation | "Open Groups · Fall 2026 — Meet the leaders and explore this semester's groups," linking to the directory; **Group Resources** with **Browse Group Resources ↗** to `/groups/resources`, redirecting to `resources.goldencity.church` |
 | Three ways to connect | City Groups, Collectives, and Bible Club cards, each linking to its category on the directory |
 | Leading | "Your next step could be leading," with **Explore Leading** to the leader application |
 | Questions | Three FAQs: how to join, where groups meet (general areas only; exact locations shared privately), and how to express interest in leading |
@@ -42,7 +42,7 @@ Every **Join Group** button links to that group's own Church Center page: the fo
 
 ## Direction and Changes
 
-- Paul confirmed that Russ has confirmed the branch-purpose and Belonging, Beholding, Becoming language, **but it is for group leader training only for now and must not be on the website**. This supersedes the earlier plan for a landing-page language pass. DEC-082 (October 26) separately authorizes the formation framework in the two guides planned for the public resources page; the landing-page instruction remains. The public branch names are City Groups, Collectives, and Bible Club.
+- **October 1 implementation, scope clarified October 22:** Paul reported Russ’s confirmation of the branch-purpose and Belonging, Beholding, Becoming language, while deferring that introduction on the Groups overview. Paul clarified October 22 that the formation line should not be put on that page prematurely; this was not a blanket ban on public use. Leadership training is ministry resources and may appear on the resources page with the framework included. The public branch names remain City Groups, Collectives, and Bible Club. No live-page change is recorded by this clarification. DEC-082 (October 26) separately authorizes the formation framework in the two guides on the public resources page; neither the clarification nor DEC-082 authorizes a landing-page rewrite.
 - Paul explicitly included Lafayette in the published group set.
 - Collective rhythms corrected to DEC-060; the superseded Women's address and unsupported 7pm times removed.
 - Run Club and Youth City Group removed (DEC-022).
@@ -71,6 +71,8 @@ A morning inspection on October 5 found Collective and Planted changes made afte
 - **Intake testing:** no requests were submitted through the new links; consent, routing, and follow-up are untested (BWR-009).
 
 ## Verification
+
+**October 24, 2026:** published the native resource entrance in the overview’s semester invitation section. Verified the saved public heading, description, and link at desktop and 375px phone width, no horizontal overflow, and keyboard activation through `/groups/resources` to the HTTPS resource subdomain. All eight resource reading pages/PDFs and the in-page Peace PDF preview work on the new origin. This targeted check did not revalidate group details, Church Center intake, or gathering readiness. Setup and recovery are recorded in [[12 Ministry Website/Resources Page#Church Domain and Groups Entrance — October 24, 2026|Resources Page]].
 
 **October 19, 2026:** both pages returned successfully. The directory lists the same nine offerings and nine Church Center join links as on October 5, with two leader changes and one area correction: Westminster is led by Bobby Pascale & Dominique Simon at Westminster (100th & Simms) (DEC-068), and Women's Collective by Miranda Daly & Niki Pike (DEC-069). Every other schedule, start date, area, and join link matches the October 5 record. The category links (City Groups, Collectives, Bible Club) jump to the three sections. The **Open Classes · Fall 2026** heading remains and needs no change (DEC-070). The overview still carries the "coming soon" FAQ line. The Events page no longer gives Planted a day and time: its "Planted Bible Class" listing links to the Planted Church Center group. *You Said Yes* still says "Bible class," which DEC-070 accepts. The Church Center pages were not re-checked, and no join request was submitted.
 

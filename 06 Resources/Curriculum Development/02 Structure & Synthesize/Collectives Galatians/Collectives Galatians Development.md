@@ -41,8 +41,8 @@ This brief and its maintained Canvas live in phase 02. Put permitted original in
 
 | Session | Chapter | Men's Collective | Women's Collective | Handouts |
 |---|---|---|---|---|
-| 1 | Galatians 1 | Tuesday, October 6 (occurred) | Tuesday, October 13 (occurred) | Redone as a record of what was covered; v0.1 drafts |
-| 2 | Galatians 2 | Tuesday, October 20 | Tuesday, October 27 | v0.1 drafts awaiting Paul |
+| 1 | Galatians 1 | Tuesday, October 6 (occurred) | Tuesday, October 13 (occurred) | Redone as a record of what was covered; PDFs approved by Paul for public publication October 22 |
+| 2 | Galatians 2 | Tuesday, October 20 | Tuesday, October 27 | PDFs approved by Paul for public publication October 22 |
 | 3 | Galatians 3 | Tuesday, November 3 | Tuesday, November 10 | v1.0 final; approved by Paul November 1, 2026 |
 | 4–6 | Galatians 4–6 | Following alternating Tuesdays | Following alternating Tuesdays | Not yet drafted |
 
@@ -91,13 +91,15 @@ Breakout tables are optional, depending on attendance. Reading and transitions f
 
 | Session / audience | Editable handout source | Date / version | Review state |
 |---|---|---|---|
-| G01 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Mens Galatians G01 2026-10-06 Handout\|Men's Galatians 1 handout]] | October 6, 2026; v0.1 | Draft; rebuilt from the approved 1:1–9 handout and the 1:10–24 drafts. Awaiting Paul |
-| G01 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Womens Galatians G01 2026-10-13 Handout\|Women's Galatians 1 handout]] | October 13, 2026; v0.1 | Draft; rebuilt the same way. Awaiting Paul |
-| G02 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Mens Galatians G02 2026-10-20 Handout\|Men's Galatians 2 handout]] | October 20, 2026; v0.1 | Draft; original questions (Keller's chapter 2 questions not supplied). **Needed tomorrow; awaiting Paul** |
-| G02 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Womens Galatians G02 2026-10-27 Handout\|Women's Galatians 2 handout]] | October 27, 2026; v0.1 | Draft; original questions. Awaiting Paul |
+| G01 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Mens Galatians G01 2026-10-06 Handout\|Men's Galatians 1 handout]] | October 6, 2026; v0.1 | Approved for public publication by Paul, October 22; accepted PDF in phase 04 |
+| G01 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 1/Womens Galatians G01 2026-10-13 Handout\|Women's Galatians 1 handout]] | October 13, 2026; v0.1 | Approved for public publication by Paul, October 22; accepted PDF in phase 04 |
+| G02 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Mens Galatians G02 2026-10-20 Handout\|Men's Galatians 2 handout]] | October 20, 2026; v0.1 | Approved for public publication by Paul, October 22; accepted PDF in phase 04; original questions (Keller's chapter 2 questions not supplied) |
+| G02 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 2/Womens Galatians G02 2026-10-27 Handout\|Women's Galatians 2 handout]] | October 27, 2026; v0.1 | Approved for public publication by Paul, October 22; accepted PDF in phase 04; original questions |
 | G03 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 3/Mens Galatians G03 2026-11-03 Handout\|Men's Galatians 3 handout]] | November 3, 2026; v1.0 | **Final.** Content approved by Paul November 1, 2026; layout rule applied (equal writing lines on both pages; Scripture credit above the footer). Published to the resources page November 1, 2026 |
 | G03 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 3/Womens Galatians G03 2026-11-10 Handout\|Women's Galatians 3 handout]] | November 10, 2026; v1.0 | **Final.** Approved and released with the Men's edition, November 1, 2026 |
-| G04–G06 | Not yet drafted | — | Draft each from the chapter when Paul is ready |
+| G04 / Men | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 4/Mens Galatians G04 2026-11-17 Handout\|Men's Galatians 4 handout]] | November 17, 2026; v1.0 | **Final.** Approved by Paul November 14, 2026; print PDF alongside |
+| G04 / Women | [[06 Resources/Curriculum Development/03 Develop Content/Collectives Galatians/Session 4/Womens Galatians G04 2026-11-24 Handout\|Women's Galatians 4 handout]] | Dated November 24, 2026; v1.0 | **Final.** Approved by Paul November 14, 2026; print PDF alongside. The Women's Collective skips the week of November 23 (Paul, November 20), so this session's new date is not yet set |
+| G05–G06 | Not yet drafted | — | Draft each from the chapter when Paul is ready; dates not yet set |
 
 Each source has a PDF candidate beside it in phase 03, rendered with `scripts/collective_handout.py` and checked at two letter-size pages. Teaching notes for the shorter teaching parts (DEC-085) are not yet written for the six-session plan.
 
