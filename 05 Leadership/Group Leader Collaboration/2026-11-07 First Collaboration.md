@@ -4,19 +4,19 @@ From [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group 
 
 ## Document Status
 
-**Planned gathering; rescheduled by Russ on October 26, 2026 (DEC-079).** The October 19 plan was October 30; the current date is Saturday evening, November 7, still a dinner at Paul's home. The exact time, cost, and order are not yet set. Future Collaborations meet first and third Saturday mornings; this first gathering is an evening exception. After the gathering, record its non-sensitive outcome under [[#After the Gathering|After the Gathering]].
+**Held Saturday evening, November 7, 2026 (reported by Paul November 20).** Russ moved it from October 30 to November 7 on October 26 (DEC-079), still a dinner at Paul's home. Its non-sensitive outcome is under [[#After the Gathering|After the Gathering]]. Later Collaborations meet three times a year, before the spring and fall launches and before summer activities (DEC-086).
 
 ## Details
 
 | | |
 |---|---|
 | **Date** | Saturday, November 7, 2026 |
-| **Time** | Evening; exact time not yet set |
+| **Time** | Evening |
 | **Format** | Dinner |
 | **Host** | Paul, at his home; the address goes privately to invited leaders |
 | **Who** | All current group leaders |
 | **Invitation** | The leaders' Church Center group chat (DEC-057) |
-| **Cost** | Not yet set |
+| **Cost** | Not recorded |
 
 ## Purpose
 
@@ -34,6 +34,8 @@ Russ and Paul named these as possibilities; Paul chooses what fits the evening:
 
 ## Before the Gathering
 
+These preparation steps were not individually recorded; the gathering took place.
+
 - [ ] Set the time and communicate the change from October 30 to November 7 in the leaders' chat.
 - [ ] Share the address privately with those who are coming.
 - [ ] Gather RSVPs and any dietary needs, kept outside this repository.
@@ -44,10 +46,11 @@ Russ and Paul named these as possibilities; Paul chooses what fits the evening:
 
 Record only non-sensitive facts here. What leaders share stays with them.
 
-- **Occurred:**
-- **Leaders attending (count):**
-- **Topics covered:**
-- **Next Collaboration details (three a year; the next is before the Spring 2027 launch, DEC-086):**
-- **Follow-up for the ministry:**
+- **Occurred:** Yes, Saturday evening, November 7, 2026, as a dinner at Paul's home (Paul, November 20).
+- **Overall:** Paul reports the first Collaboration went great.
+- **Leaders attending (count):** not reported
+- **Topics covered:** not reported
+- **Next Collaboration details (three a year; the next is before the Spring 2027 launch, DEC-086):** date, time, and location not set
+- **Follow-up for the ministry:** none reported
 
 Then update the [[07 Operations/Calendar|Calendar]], BWR-031, and the rhythm table in [[05 Leadership/Group Leader Collaboration/About Collaboration#Rhythm|About Collaboration]].
