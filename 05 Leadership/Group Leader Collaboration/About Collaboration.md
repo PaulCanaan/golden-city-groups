@@ -41,7 +41,7 @@ All current group leaders. The leaders' Church Center group chat (DEC-057) carri
 
 | Gathering | Date | Format | Status |
 |---|---|---|---|
-| [[05 Leadership/Group Leader Collaboration/2026-11-07 First Collaboration\|First Collaboration]] | Saturday evening, November 7, 2026 | Dinner at Paul's home | Planned; rescheduled October 26 (DEC-079) |
+| [[05 Leadership/Group Leader Collaboration/2026-11-07 First Collaboration\|First Collaboration]] | Saturday evening, November 7, 2026 | Dinner at Paul's home | Held; Paul reports it went great (November 20) |
 | Later gatherings | Three times a year: before the spring launch, before summer activities, and before the fall launch | Date, time, and location set for each gathering | Rhythm reported by Paul November 16 (DEC-086); replaces the first and third Saturday mornings (DEC-079) |
 
 Each Collaboration prepares leaders for the season ahead in the [[07 Operations/Annual Rhythm/Annual Calendar|annual rhythm]] (DEC-080). The next one comes before the Spring 2027 launch; no further gathering is planned for Fall 2026. Confirm each gathering's date, time, and place before sharing it in the leaders' group chat. This leader-support rhythm does not change the first/third-Monday Biweekly Ministry Review.
