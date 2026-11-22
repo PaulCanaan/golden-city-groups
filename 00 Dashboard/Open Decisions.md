@@ -62,7 +62,7 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 
 ### Governing Policies and Escalation Contacts
 
-- **Question:** Where will church-wide pastoral-care, safeguarding, reporting, and participant-data policies be maintained, and who are the primary and backup escalation contacts?
+- **Question:** Where will church-wide pastoral-care, safeguarding, reporting, and participant-data policies be maintained, and what mandatory-reporting and escalation implementation governs Groups Ministry?
 - **Why unresolved:** DEC-028 approves minimum boundaries but explicitly leaves policy locations and contacts open. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]] (October 3, 2026) names Russ as primary and Paul as backup pastoral contact and approves the [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]]. Church-wide policy locations and the mandatory-reporting procedure remain open, with the agreement's other open questions (BWR-041).
 - **Blocking impact:** Launch-blocking where an approved minimum boundary requires an escalation path.
 - **Expected decision owner:** Russ or designated pastoral authority, with staff implementation support.
@@ -112,9 +112,9 @@ No unresolved curriculum approval is currently recorded for Planted: its curricu
 ### Galatians Calendar and Resource Details
 
 - **Question:** Which holiday weeks will be skipped, what dates will carry Sessions 3–6, and when are Paul's next resources needed?
-- **Established direction:** [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]] sets six sessions, one chapter per gathering, Russ's approved S.O.A.P. gathering flow, and two-page handouts. Session 1 (Galatians 1) occurred October 6 (Men's) and October 13 (Women's); Session 2 (Galatians 2) is October 20 and October 27. Paul develops resources; Collective operators lead with them (DEC-067).
-- **Current resource evidence:** Session 1 and Session 2 two-page handouts for both Collectives are drafted (v0.1) and await Paul's review.
-- **Remaining scope:** Sessions 3–6 dates, holiday breaks, end date, teaching assignments, teaching notes for the 20-minute blocks, and Keller's question references. Anticipated holiday skips are not dated cancellations.
+- **Established direction:** [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]] sets six sessions, one chapter per gathering, Russ's approved S.O.A.P. gathering flow, and two-page handouts. Session 1 (Galatians 1) occurred October 6 (Men's) and October 13 (Women's); Session 2 was dated October 20 and October 27, but those gathering outcomes are unreported. Paul develops resources; Collective operators lead with them (DEC-067).
+- **Current resource evidence:** Paul approved the Session 1 and Session 2 PDFs for both Collectives for public publication on October 22; accepted editions are in phase 04 and public on the Groups resources site. Publication does not establish teaching assignment or gathering execution.
+- **Remaining scope:** October 20/27 outcomes, Sessions 3–6 dates, holiday breaks, end date, teaching assignments, teaching notes for the 20-minute blocks, and Keller's question references. Anticipated holiday skips are not dated cancellations.
 - **Owners / source:** Paul with the Collective operators; [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|the development brief]].
 
 ## Connections

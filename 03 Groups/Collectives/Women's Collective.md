@@ -4,7 +4,7 @@
 
 **Women's Collective began October 13, 2026, covering Galatians 1 (reported by Paul October 19); readiness documentation remains open.** It meets every other Tuesday at 6:30pm in the Broomfield (144th & Zuni) area ([[08 Archive/Decisions/Decision History#DEC-066 — Fall 2026 Open Groups Schedule Updates|DEC-066]], approved by Russ). The co-leads are Miranda Daly and Niki Pike ([[08 Archive/Decisions/Decision History#DEC-069 — Women's Collective Co-Leader Change|DEC-069]]). Leader-path completion, participant path, communication, home-meeting safeguards, and final readiness remain unresolved.
 
-Paul reports the October 13 gathering went through Galatians 1, which is now Session 1 of the six-session course (DEC-076). Session 2 (Galatians 2) is October 27; its two-page handout is drafted and awaiting Paul, and the teaching assignment is unconfirmed.
+Paul reports the October 13 gathering went through Galatians 1, which is now Session 1 of the six-session course (DEC-076). Paul approved the October 27 Session 2 handout for public publication on October 22; the teaching assignment and gathering outcome are unconfirmed.
 
 ## Ministry Emphasis
 
@@ -22,11 +22,11 @@ DEC-053 records devotional teaching followed by breakout-table discussion. Russ 
 
 ## Galatians Study — Fall 2026–Spring 2027
 
-Both Collectives work through all six chapters of Galatians in six sessions, one chapter per gathering ([[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]], superseding DEC-067's twelve-gathering plan). Session 1 (Galatians 1) occurred October 6 for the men and October 13 for the women; Session 2 (Galatians 2) is October 20 and October 27. Thanksgiving, Christmas, New Year, and other holiday weeks will likely be skipped; exact breaks and later dates remain undecided.
+Both Collectives work through all six chapters of Galatians in six sessions, one chapter per gathering ([[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]], superseding DEC-067's twelve-gathering plan). Session 1 (Galatians 1) occurred October 6 for the men and October 13 for the women. Session 2 was dated October 20 and October 27, but neither gathering outcome is recorded. Thanksgiving, Christmas, New Year, and other holiday weeks will likely be skipped; exact breaks and later dates remain undecided. On November 20 Paul reported that the Women's Collective will not meet the week of November 23, so Session 4 (Galatians 4) is no longer November 24 and its new date is not yet set. Men's will then be two weeks ahead of Women's in the course, which Paul reports Russ says is okay (BWR-029).
 
 Paul develops separate dated Men’s and Women’s course resources, including audience-specific formation goals, two-page participant handouts, teaching notes, and slides when needed. The common biblical research and chapter sequence stay connected. Russ, Miranda, and Conner operate the Collectives using Paul's resources. This clarifies DEC-055's earlier resource-ownership wording. Its shared Galatians study and connection to *The Fruit of the Spirit* stand; freedom remains the larger theme named there. Both Collectives stay on one study while Women's Collective carries its own focus in female discipleship. Rachel's earlier involvement in content discussions is not withdrawn by this clarification.
 
-Paul uses Tim Keller’s *Galatians For You* as the primary course-development resource and source of discussion questions, and Eugene Peterson’s *Traveling Light* secondarily for its treatment of freedom, alongside the governing biblical text and his Notion knowledge sources. The two-page Session 2 (Galatians 2) handout for October 27 and the Session 1 (Galatians 1) redo are drafts awaiting Paul. These dated files are resource evidence, not a complete course calendar or gathering outcome (BWR-029).
+Paul uses Tim Keller’s *Galatians For You* as the primary course-development resource and source of discussion questions, and Eugene Peterson’s *Traveling Light* secondarily for its treatment of freedom, alongside the governing biblical text and his Notion knowledge sources. Paul approved the current Session 1 and Session 2 PDFs for public publication on October 22; accepted editions are in phase 04 and public on the Groups resources site. These dated resources do not establish the October 27 gathering outcome or a complete course calendar (BWR-029).
 
 ## Schedule and Location
 
