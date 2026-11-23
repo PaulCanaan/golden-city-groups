@@ -6,16 +6,13 @@
 
 ## Current Launch Focus
 
-Fall 2026 operations prioritize moving Launch Team interest through the DEC-042 Group Leader Conversation workflow, Paul-owned assessment and training, group assignments, appointment and commissioning, and launch readiness. DEC-026, DEC-027, DEC-031, and DEC-042 govern the approved portions; unresolved details remain marked in the linked workflows.
-
-Spring 2027 operations prioritize intentional leader development and multiplication through the approved [[CoJourner]] pathway. Leader-resource and SOP development follows the research roadmap in [[Resources Overview#Leader Resources and SOP Research Roadmap|Resources Overview]].
+Use the [[07 Operations/Annual Rhythm/2027/Spring 2027|spring plan]] and [[00 Dashboard/Launch Readiness Dashboard|launch checklist]] to review returning offerings, equip leaders through CoJourner, and consider additional opportunities for interested congregants. The [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Semester Outline|fall outline]] preserves the inaugural Launch Team recruitment sequence.
 
 - [[00 Dashboard/Calendar]]
 - [[07 Operations/Workflows/Planning Center Groups]]
 - [[07 Operations/Workflows/Forms]]
 - [[07 Operations/Workflows/Attendance]]
 - [[07 Operations/Workflows/Semester Planning]]
-- [[07 Operations/Semester Outline]]
 - [[07 Operations/Workflows/Group Launch Overview]]
 - [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]]
 - [[10 Templates/Communication/Group Leader Communication Library]]
@@ -34,7 +31,6 @@ Spring 2027 operations prioritize intentional leader development and multiplicat
 - [[07 Operations/Workflows/Forms]] — Intake and placement procedures for Team Night interest and public Church Center requests.
 - [[07 Operations/Workflows/Attendance]] — Weekly Planning Center attendance procedure and pastoral boundaries.
 - [[07 Operations/Workflows/Semester Planning]] — Process for planning each semester's groups, classes, and launches.
-- [[07 Operations/Semester Outline]] — High-level outline of the semester tied to the calendar.
 - [[07 Operations/Workflows/Group Launch Overview]] — Checklist and timeline for launching groups each semester.
 - [[07 Operations/Workflows/Semester Planning|Semester Planning]] — Closeout and planning for the next season.
 - [[07 Operations/Workflows/Ministry Communication Workflow]] — channels, sending procedure, and public accuracy.

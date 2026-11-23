@@ -139,9 +139,9 @@ Movement through this journey is relational and formative, not automatic or stri
 
 ## Leader Development Pathway
 
-### Confirmed Initial City Group Pipeline
+### Inaugural City Group Pipeline
 
-For the fall 2026 launch season, the first City Group leaders will be identified and developed from within Golden City Church's Launch Team. The Launch Team has been formed through the church's pre-launch gatherings since March 2026 and currently includes more than 50 committed volunteers preparing to become the church's initial ministry teams.
+For the fall 2026 launch season, recruitment focused on identifying and developing City Group leaders from within Golden City Church's Launch Team. The Launch Team has been formed through the church's pre-launch gatherings since March 2026 and currently includes more than 50 committed volunteers preparing to become the church's initial ministry teams.
 
 The confirmed launch sequence is:
 
@@ -156,7 +156,9 @@ The confirmed launch sequence is:
 
 Leader sign-up is an expression of interest rather than appointment. Paul owns routine coordination and leader-interest follow-up; Russ or his designated pastor gives final readiness approval. Exact leaders, groups, assignments, training content, and commissioning details remain unresolved until recorded in `00 Dashboard/Decision Log.md`.
 
-This initial internal pipeline does not establish the permanent leadership-development model. Broader public leadership pathways may be developed after launch as pastoral oversight, ministry maturity, and real participant relationships allow.
+### Future Leader Interest
+
+Paul can open additional opportunities for interested people in the congregation to explore group leadership as each season warrants ([[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091]]). Use DEC-042 for personal follow-up, conversation, discernment, and training. Returning leaders confirm their capacity and assignment in [[07 Operations/Workflows/Semester Planning|Semester Planning]]. [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] records the preparation requirements under [[08 Archive/Decisions/Decision History#DEC-092 — Leader Acknowledgements for Group Readiness|DEC-092]].
 
 ### Approved CoJourner Training Architecture
 

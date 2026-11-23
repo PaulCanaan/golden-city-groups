@@ -44,6 +44,8 @@ Record only non-sensitive details. The [[07 Operations/Workflows/Biweekly Minist
 
 ## Pending Milestones
 
+The next launch depends on an approved offering slate and tested signup paths before promotion. The January 30 CoJourner plan and any congregational interest window are tracked in [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]]. The fall items below are carry-forward evidence and scheduling questions.
+
 - Group Launch Day outcome and October 11 second-presentation decision
 - Actual first-gathering outcomes for Erie, Lafayette, Broomfield, Thornton, Westminster, Run Club, and Planted
 - Completion of City Group leader discernment and appointment evidence
@@ -59,8 +61,9 @@ Track open outcomes and decisions through the [[00 Dashboard/Biweekly Review Que
 ## Connections
 
 - [[Operation Overview]] — Calendar is a core operations tool for scheduling the ministry year.
-- [[07 Operations/Semester Outline]] — Outline provides the structure that key dates on the calendar follow.
+- [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]] — governing seasonal rhythm.
 - [[07 Operations/Workflows/Group Launch Overview]] — Governs the ordered sequence and readiness requirements behind these dates.
-- [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Current semester rhythm with fall launch items.
+- [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]] — current launch preparation.
+- [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall 2026 record]] — inaugural launch and January transition.
 - [[Groups Overview]] — Planned group rhythms should be added only after confirmation.
 - [[Classes Overview]] — Future Class rhythms should be added only after offering-specific approval.

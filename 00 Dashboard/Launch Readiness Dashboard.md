@@ -9,7 +9,7 @@ Use this checklist for the current semester launch. Paul coordinates preparation
 | Milestone | Confirmed or planned timing | Owner and next action |
 |---|---|---|
 | Seasonal handoff | December 7 biweekly review | Paul and Russ confirm which offerings continue, change, pause, or close. Carry open items in BWR-042 and BWR-045. |
-| Launch promotion | About two weeks before February 7, at church or on social media (DEC-087) | Russ confirms date and channel. Paul confirms what can be announced and checks intake links before promotion. |
+| Launch promotion | About two weeks before February 7 (around January 24, planning estimate) at church or on social media (DEC-087) | Russ confirms date and channel. Paul confirms which offerings and signup routes are cleared before promotion. This milestone is expected before the Collaboration. |
 | [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration\|Group Leader Collaboration]] | Saturday, January 30, 2027 | Paul prepares spring vision and CoJourner equipping (DEC-090). Confirm the facilitator, agenda, time, venue, and timing of the four-session cohort with Russ (BWR-019, BWR-045). |
 | [[07 Operations/Calendar Events/Spring 2027 Launch Day\|Spring Group Launch]] | Sunday, February 7, 2027 | Paul coordinates the launch. Confirm each offering's approved launch and first gathering plans. |
 
@@ -20,7 +20,8 @@ Use [[07 Operations/Workflows/Semester Planning|Semester Planning]] for the seas
 ### Scope and Leader Preparation
 
 - [ ] Confirm the launch dates, each offering's seasonal disposition, its accountable owner, and what can be announced.
-- [ ] Confirm leader and host assignments, appointment records, applicable training and agreement acknowledgment, and any support or backup roles.
+- [ ] Confirm leader and host assignments, appointment records, applicable training, and any backup roles. Check the signed Group Leader Acknowledgement and applicable guide acknowledgement through [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] (DEC-092).
+- [ ] Decide whether an additional congregational leader-interest window fits the season. If so, confirm dates, scope, intake route, and follow-up owner (DEC-091).
 - [ ] Prepare the pre-launch Leader Collaboration and any additional leader training. Record arrangements and what leaders actually completed.
 
 ### Offering and Participant Readiness
@@ -42,11 +43,19 @@ Use [[07 Operations/Workflows/Semester Planning|Semester Planning]] for the seas
 
 ## Offering Readiness
 
-Add one row per offering as the spring slate is confirmed. Record evidence before marking an item Ready. Keep names of applicants or participants, home addresses, screening records, and pastoral or safeguarding details in the approved restricted system.
+Use one row per offering from first consideration through final disposition. The rows below are fall offerings awaiting a spring disposition. Confirm each accountable owner and next milestone. Link evidence, including the final pastoral decision when required, before marking a row Ready. Keep names of applicants or participants, home addresses, screening records, and pastoral or safeguarding details in the approved restricted system.
 
 | Offering | Owner | Status | Open gate and next action | Evidence or approval |
 |---|---|---|---|---|
-| Spring offerings pending confirmation | Paul | In Progress | Confirm per-offering dispositions at the seasonal handoff (BWR-042, BWR-045). | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Spring handoff]] |
+| Broomfield City Group | Paul for handoff | Pending disposition | Confirm continuation, leader capacity, and first-gathering plan at handoff. | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Fall-to-spring handoff]] |
+| Lafayette City Group | Paul for handoff | Pending disposition | Confirm continuation, leader capacity, and first-gathering plan at handoff. | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Fall-to-spring handoff]] |
+| Erie City Group | Paul for handoff | Pending disposition | Confirm continuation, leader capacity, and first-gathering plan at handoff. | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Fall-to-spring handoff]] |
+| Thornton City Group | Paul for handoff | Pending disposition | Confirm continuation, leader capacity, and first-gathering plan at handoff. | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Fall-to-spring handoff]] |
+| Westminster Young Adults City Group | Paul for handoff | Pending disposition | Confirm continuation, leader capacity, and first-gathering plan at handoff. | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Fall-to-spring handoff]] |
+| Run Club | Paul for handoff | Pending disposition | Confirm continuation, leader capacity, and first-gathering plan at handoff. | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Fall-to-spring handoff]] |
+| Men’s Collective | Paul for handoff | Pending disposition | Confirm continuation, leadership, and remaining Galatians dates at handoff. | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Fall-to-spring handoff]] |
+| Women’s Collective | Paul for handoff | Pending disposition | Confirm continuation, leadership, and remaining Galatians dates at handoff. | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Fall-to-spring handoff]] |
+| Planted. Bible Study | Paul for handoff | Pending disposition | Confirm the fall outcome and spring disposition. Planted recurs in fall. | [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff\|Fall-to-spring handoff]] |
 
 | Status | Use when |
 |---|---|
@@ -55,6 +64,7 @@ Add one row per offering as the spring slate is confirmed. Record evidence befor
 | In Progress | Work has begun and evidence or decisions are still due. |
 | Blocked | A missing decision or dependency prevents the next step. |
 | At Risk | Work can proceed and timing or missing evidence could jeopardize launch. |
+| Pending disposition | Seasonal continuation or inclusion is awaiting evidence or a decision. |
 | Not Started | The requirement applies and work has yet to begin. |
 | Not Applicable | The check is outside the approved scope or explicitly deferred. |
 

@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Intake-to-launch workflow confirmed; individual leaders not yet recorded.** DEC-042 governs the Planning Center stage lifecycle. Initial Fall 2026 City Group leaders will be prayerfully identified, invited, discerned, and trained from among the Launch Team. Form submission expresses interest and availability but does not constitute appointment.
+DEC-042 governs the lead-from-interest workflow. Fall 2026 recruitment began within the Launch Team. Future seasonal openings can receive interest from the congregation ([[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091]]). Paul follows up personally before any appointment or assignment.
 
 ## Current Selection Sequence
 

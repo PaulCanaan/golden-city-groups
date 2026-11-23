@@ -43,7 +43,7 @@ Use [[10 Templates/Communication/Group Leader Communication Library#Step 3 — A
 
 ### After the session
 
-- [ ] Record attendance and completion only in the approved system.
+- [ ] Record attendance and completion only in the approved system. Verify the signed agreement and applicable guide acknowledgement through [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]].
 - [ ] Follow up with each candidate according to the approved discernment process.
 - [ ] Route pastoral, safeguarding, or unresolved theological questions to the responsible leader.
 - [ ] Confirm additional training, assignment, deferral, or next conversation without implying appointment prematurely.

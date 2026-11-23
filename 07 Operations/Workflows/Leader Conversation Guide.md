@@ -24,7 +24,7 @@ Listen prayerfully for a person's story, faith, character, availability, alignme
 
 ## Participants
 
-- a prospective leader in the approved intake scope for the season. For the initial Fall 2026 pathway, this was a Launch Team member (DEC-018)
+- a prospective leader in the intake scope for the season, including interested congregants in a seasonal opening (DEC-091)
 - Paul or another person specifically authorized to participate in discernment
 - a pastor or additional reviewer when the approved process requires one
 

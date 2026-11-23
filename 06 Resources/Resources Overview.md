@@ -34,14 +34,16 @@ Resources for discerning, preparing, and supporting approved leaders:
 - [[CoJourner]] — approved four-session pathway for ongoing leader development
 - [[07 Operations/Workflows/First Meetings Checklist]] — preparation before, during, and after a group's first gatherings
 - [[07 Operations/Workflows/Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
-- [[Collective Leader Guide|Collective Leader Guide]] — supportive guide for Men's and Women's leaders/co-leaders, including an adaptable gathering flow and discernment; October 26 draft awaiting Paul (DEC-082–083)
-- [[City Group Guide]] — purpose, “In the city, for the city,” gathering practice, formation, and leader support; October 26 draft awaiting Paul (DEC-082–083)
+- [[Collective Leader Guide|Collective Leader Guide]] — supportive guidance for Men's and Women's Collective leaders. Use the published edition for the role acknowledgement (DEC-092).
+- [[City Group Guide]] — the City Group leader's guide to purpose, gathering practice, formation, and support. Use the published edition for the role acknowledgement (DEC-092).
 - [[GCC Group Leader Agreement]] — the approved policies and minimum boundaries every group leader affirms (DEC-077); a few pastoral questions remain open. The pastoral review draft is archived at [[08 Archive/Decisions/2026-10-01 Group Leader Policies — Draft for Pastoral Review|2026-10-01 Group Leader Policies — Draft for Pastoral Review]]
 - [[Safeguarding and Escalation Resource Gap Audit]] — evidence, policy-location, escalation, data, and launch-blocker audit for pastoral review
 
 Role authority, appointment, and expectations are governed by [[Leadership Overview]] and [[05 Leadership/Group Leaders]], not by these resources alone.
 
-### Leader Resources and SOP Research Roadmap
+#Use [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] for the agreement, branch-specific guide links, and preparation requirements.
+
+## Leader Resources and SOP Research Roadmap
 
 DEC-039 directs the ministry to develop leader resources and standard operating procedures from research into healthy church practices. Research and placeholders may be developed for:
 

@@ -10,7 +10,7 @@ aliases:
 
 **Approved — governing, with named questions still open.** Russ approved all nineteen group leader policies on **2026-10-03** ([[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]]). Paul reported the approval on 2026-10-21, along with Russ's two choices: **Option B** for alcohol (Policy 14), and **Russ Daly as primary pastoral contact with Paul as backup**. Russ also agreed that leaders affirm this agreement as part of their preparation. At Paul's direction the ministry calls it the **GCC Group Leader Agreement** rather than "group policies." The review copy is preserved at [[08 Archive/Decisions/2026-10-01 Group Leader Policies — Draft for Pastoral Review|2026-10-01 Group Leader Policies — Draft for Pastoral Review]].
 
-**Reviewed by Russ 2026-10-21 ([[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078]]).** Before the agreement went to leaders, Paul sent it to Russ for review. Russ replied "Looks good" and added two directions: leaders do not take up offerings for the group, and support raising (for example, for a mission trip) needs permission first. Policies 8 and 11 now say so. Paul plans to ask current and future leaders to sign the Leader Acknowledgement.
+**Reviewed by Russ 2026-10-21 ([[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078]]).** Before the agreement went to leaders, Paul sent it to Russ for review. Russ replied "Looks good" and added two directions: leaders do not take up offerings for the group, and support raising (for example, for a mission trip) needs permission first. Policies 8 and 11 now say so. Paul confirmed that current and future leaders sign the Group Leader Acknowledgement (DEC-092). See [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] for the related guide requirements.
 
 This page was formerly **Group Boundaries** (`Policies.md`). The approved minimum boundaries of [[08 Archive/Decisions/Decision History#DEC-027 — Minimum Leader, Host, and Instructor Standard|DEC-027]], [[08 Archive/Decisions/Decision History#DEC-028 — Minimum Care, Safeguarding, and Participant-Data Boundaries|DEC-028]], and [[08 Archive/Decisions/Decision History#DEC-033 — Minimum Pastoral Formation and Prayer Baseline|DEC-033]] stay here unchanged. The nineteen policies now sit beside them.
 
@@ -308,7 +308,7 @@ See also [[07 Operations/Workflows/Conflict|Conflict]] and [[02 Group Philosophy
 
 ## Leader Acknowledgement
 
-Russ agreed that leaders affirm this agreement as part of their preparation (DEC-077). Paul drafted the wording below on 2026-10-21, and Russ reviewed the agreement with it the same day (DEC-078). Current and future leaders will be asked to sign it. It adds no requirement beyond the policies above.
+Russ agreed that leaders affirm this agreement as part of their preparation (DEC-077). Paul drafted the wording below on 2026-10-21, and Russ reviewed the agreement with it the same day (DEC-078). Current and future leaders sign it as part of preparation (DEC-092).
 
 > I have read the GCC Group Leader Agreement. As I serve in a City Group, Collective, or Bible Club at Golden City Church, by God's grace I will:
 >
@@ -345,7 +345,7 @@ These came from the review document and were not answered when Russ approved the
 | 10 | What child-safety requirements (screening, training, two-adult rule) apply to anyone supervising children at a gathering? | 15, 16 | No group-run childcare without approval; two-adult rule. |
 | 11 | Does the church have, or want, a policy for welcoming people with known offense histories, such as an attendance agreement? | 19 | The church decides case by case through Russ. |
 | 12 | Which existing church-wide policies should this agreement conform to? | All | This agreement, conformed when church-wide policies are located (BWR-007). |
-| 13 | Where and how are completed leader acknowledgements recorded, and does affirming the agreement form part of the training completion standard? | Acknowledgement | Keep completed forms out of this repository. *(Operational; Paul with Russ.)* |
+| 13 | Where and how are completed signed agreements and guide acknowledgements recorded in the approved private system? | Acknowledgement | Keep completed forms out of this repository. *(Operational; Paul with Russ.)* |
 
 ## Remaining Policy Work
 

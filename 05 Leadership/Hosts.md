@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Fall 2026 recruitment priority; requirements and appointments pending.** DEC-040 directs the ministry to recruit Launch Team members to host City Groups. Interest does not constitute approval, appointment, or location readiness.
+Fall 2026 host recruitment began with the Launch Team (DEC-040). Future openings can receive interest from the congregation ([[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091]]). Confirm the host role and home readiness under DEC-027 and the agreement.
 
 ## Pending Decisions
 

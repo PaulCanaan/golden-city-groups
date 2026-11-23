@@ -13,7 +13,7 @@ Keep approved ministry direction traceable and consistent throughout the vault. 
 ## Decision Workflow
 
 1. Paul develops a recommendation in the Staff Decision Brief.
-2. Staff discusses the proposal and records direction, revisions, date, and approver.
+2. Record the direction, date, and actual source. Paul can confirm routine operational direction under DEC-021. Record Russ or the designated pastoral approval for retained matters.
 3. An approved proposal receives the next DEC number and is summarized in this register.
 4. The full decision record is added to Decision History.
 5. Related ministry and operational documents are updated.

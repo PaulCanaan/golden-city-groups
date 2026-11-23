@@ -199,6 +199,7 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Implications:** Initial leader communication, sign-ups, discernment, training, and placement should be directed through the Launch Team and Team Nights. Public communication should not imply that any person may immediately become a City Group leader.
 - **Context:** The Launch Team provides an existing relational setting in which commitment, character, service, alignment, and capacity can begin to be discerned before responsibility is entrusted.
 - **Boundary:** This is the initial launch-season pipeline. It does not establish a permanent closed leadership system, identify any leader, replace pastoral approval, or define the full future leadership-development pathway.
+- **Subsequent direction:** [[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091]] allows future intake windows for interested congregants under DEC-042.
 
 ### DEC-019 — Team Night City Group Leadership Preparation
 
@@ -1063,6 +1064,25 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Evidence:** Paul's staff-meeting report identifies [The Garden Project](https://the-garden-project.org/) as the home of early development materials.
 - **Implications:** Paul prepares the [[06 Resources/Leader Development/CoJourner|CoJourner]] session and brings the cohort schedule and resource development next steps into BWR-019 and BWR-045.
 - **Boundary:** DEC-045 supplies the four-session biweekly architecture. The exact January 30 content, facilitator, remaining cohort dates and completion expectations, and library release remain open. Confirm source access and any applicable permissions and resource review.
+
+### DEC-091 — Congregational Leader Interest after the First Launch
+
+- **Decision:** After the inaugural Launch Team recruitment, future group launches may offer additional opportunities for interested Golden City Church congregants to explore group leadership. Use the existing DEC-042 leader-interest paths and discernment process.
+- **Status:** Confirmed operational direction from Paul. Specific openings, timing, and audiences are set in seasonal planning.
+- **Date and source:** November 23, 2026. Paul supplied this direction while asking for implementation of the Groups OS audit.
+- **Domain:** Leadership
+- **Owner:** Paul coordinates intake and follow-up.
+- **Boundary:** DEC-018 governs the inaugural season as history. Seasonal interest and discernment are separate from assignment, appointment, and final readiness. DEC-021 and DEC-027 retain existing pastoral authority.
+
+### DEC-092 — Leader Acknowledgements for Group Readiness
+
+- **Decision:** Current and future group leaders sign the Group Leader Acknowledgement in the GCC Group Leader Agreement. City Group leaders also acknowledge the City Group Guide. Collective leaders also acknowledge the Collective Leader Guide. Use the current editions in the [Groups Resources Library](https://resources.goldencity.church/).
+- **Status:** Confirmed operational implementation from Paul under the existing agreement and approved leader-guide direction (DEC-077–078 and DEC-082).
+- **Date and source:** November 23, 2026. Paul supplied this direction while asking for implementation of the Groups OS audit.
+- **Domain:** Safety & Care
+- **Owner:** Paul coordinates leader preparation and verifies completion for readiness.
+- **Implications:** Use [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] to confirm completion before serving for the applicable offering. Keep signed records private. BWR-041 carries the restricted recording method and other unresolved safeguards.
+- **Boundary:** The approved agreement text and pastoral authority govern. Acknowledgment provides preparation evidence. Appointment and final approval require their own records.
 
 ## Open Questions
 

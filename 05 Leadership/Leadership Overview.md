@@ -2,13 +2,11 @@
 
 ## Document Status
 
-**Confirmed initial pipeline and minimum appointment standard; individual roles and appointments still developing.** Initial City Group leaders will be identified and trained from among the Launch Team. No person becomes a leader through public interest, Launch Team participation, or Team Night sign-up alone. Paul is confirmed to lead the first Planted Bible Club under DEC-030.
+Paul coordinates leader interest and discernment. Russ retains primary appointments under DEC-027. The [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|fall record]] preserves the inaugural Launch Team recruitment.
 
-## Initial City Group Pathway
+## Leader Interest for Future Seasons
 
-Church plant gatherings → Launch Team → Team Night Planning Center form → Paul reviews and follows up → interview and assessment → leader training → group assignments → appointment and commissioning → final readiness approval → approved City Group start
-
-The July 28, August 11, and August 25 Team Nights were the confirmed initial environment for vision, sign-ups, discernment, placement conversations, and launch preparation; their outcomes remain under review. Under DEC-026 and DEC-031, Paul owns the August intake, initial follow-up, interviews, assessment, and training facilitation. DEC-027 establishes the minimum standard. Detailed interview and training requirements, appointments, assignments, and commissioning remain subject to the appropriate approval and readiness review. September 20 was the church's public launch, not an automatic City Group start date; Group Launch Day is October 4, 2026 under DEC-048.
+When people in the congregation are interested in leading, Paul may open additional opportunities to explore leadership ([[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091]]). Use the existing [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|leader-interest pathway]] and record the scope of each opening in [[07 Operations/Workflows/Semester Planning|Semester Planning]]. Continue caring for returning leaders through the seasonal handoff. Interest starts a conversation. The ministry entrusts leadership through discernment, preparation, and appointment.
 
 ## Role Documents
 
@@ -24,19 +22,15 @@ Group leaders are planned for launch. Host requirements remain unresolved. A for
 
 | Branch | Primary ministry role | Current status |
 |---|---|---|
-| City Groups | Host and group leader | Fall 2026 prioritizes Launch Team host recruitment; appointments pending |
+| City Groups | Host and group leader | Seasonal discernment, preparation, and appointment under DEC-027 |
 | Collectives | Collective co-leaders | Intended teams identified; expressed interest and appointments remain distinct |
 | Bible Clubs | Facilitator | Paul confirmed to lead Planted; other assignments pending |
 
 Future Class instructors remain subject to DEC-027 and offering-specific approval; Classes are not a current branch.
 
-## Practical Leader Guides
+## Leader Preparation
 
-- [[06 Resources/Leader Development/City Group Guide|City Group Guide]] — October 26 draft for Paul's review.
-- [[06 Resources/Leader Development/Collective Leader Guide|Collective Leader Guide]] — October 26 draft for Men's and Women's leaders/co-leaders.
-- [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]] — approved boundaries and emergency responses.
-
-Both guides and the agreement are approved for Other Resources placement (DEC-082); reviewed public editions and actual release remain pending.
+Current and future group leaders sign the Group Leader Acknowledgement. City Group and Collective leaders also acknowledge the guide for their role. See [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] for the current resource links and private completion record ([[08 Archive/Decisions/Decision History#DEC-092 — Leader Acknowledgements for Group Readiness|DEC-092]]).
 
 ## Group Leader Collaboration
 
@@ -56,7 +50,7 @@ DEC-027 governs the shared minimum standard. Role-specific preparation and expli
 - [[Groups Overview]] — Describes the planned group environments leadership may eventually serve.
 - [[Leader Training]] — Planned preparation for discerned and invited candidates.
 - [[CoJourner]] — Approved four-session leader-development pathway.
-- [[05 Leadership/Group Leaders]] — Initial City Group leader pathway and pending standards.
+- [[05 Leadership/Group Leaders]] — Seasonal leader pathway and preparation standards.
 - [[05 Leadership/Hosts]] — Proposed host role with requirements still awaiting confirmation.
 - [[07 Operations/Workflows/Leader Support Check-In]] — Current support guidance without an unapproved coaching layer.
 - [[05 Leadership/Class Instructors]] — Records the Class-role standard and notes Planted's reclassification as a Bible Club.

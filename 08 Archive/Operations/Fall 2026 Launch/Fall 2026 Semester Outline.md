@@ -1,10 +1,10 @@
-# Semester Outline
+# Fall 2026 Semester Outline
 
 Connected to [[00 Dashboard/Calendar]]
 
 ## Document Status
 
-**Working fall 2026 outline.** Confirmed dates are distinguished from planned milestones; no pending milestone should be communicated as final.
+**Historical working outline for the inaugural semester.** Confirmed dates are distinguished from planned milestones; no pending milestone should be communicated as final.
 
 ## Outline
 

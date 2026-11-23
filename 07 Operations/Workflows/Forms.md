@@ -32,7 +32,7 @@ Either intake path triggers the same Group Leader workflow:
 
 Submission is **Step 0 — Intake Trigger**, not an official workflow stage. The Groups Director receives the notification and/or Workflow Card and moves the person into **Welcome Email / Call**. On the `Lead a Group` form the routing is a workflow field, verified November 2, 2026: the form's group-type dropdown (“What kind of Group are you interested in leading?”) adds the submitter to the Small Group Leader Application workflow, assigned to the Groups Director. No form automation performs this routing. A November 20, 2026 audit added three field-level findings: the dropdown is **not a required field** (a submission that skips it creates no card at all), the "skip people who have already started or completed this workflow" option is **unchecked** for every answer (repeat submissions create duplicate cards), and assignment resolves through the workflow's **default assignee** rather than a pinned person. Fixes are proposed in [[08 Archive/Operations/2026-11-20 Planning Center Workflow Audit|Proposed Planning Center Workflows]]. The canonical stage definitions, actions, and completion conditions are in [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]].
 
-For Fall 2026, the initial City Group pipeline remains limited to the Launch Team under DEC-018. The July 28, August 11, and August 25 Team Nights were the confirmed recruitment setting, with Paul serving as on-site point person under DEC-026. The existence of either form does not create a general-public appointment path or imply appointment.
+Fall 2026 began with Launch Team recruitment (DEC-018). Future seasonal openings can invite interested congregants through the same DEC-042 leader-interest forms (DEC-091). Paul confirms the opening and follows up personally. A form submission starts discernment.
 
 Keep pastoral discernment notes, background-check information, and confidential references out of Planning Center group membership and this repository. Add a candidate as a Planning Center group leader only after approved assessment and appointment.
 
@@ -87,4 +87,4 @@ Before promoting a join or leader-interest route, run this test in an authorized
 - [[07 Operations/Workflows/Planning Center Groups]] — Governs the platform workflow and approval boundaries.
 - [[10 Templates/Communication/Group Leader Communication Library]] — Governs public calls to action and follow-up language.
 - [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]] — Evidence and approval before enrollment opens.
-- [[05 Leadership/Group Leaders]] — Separates Team Night interest from appointment.
+- [[05 Leadership/Group Leaders]] — Connects seasonal leader interest to discernment and appointment.

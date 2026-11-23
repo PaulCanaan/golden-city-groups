@@ -8,7 +8,7 @@
 
 | Date | Milestone | Plan |
 |---|---|---|
-| Roughly two weeks before launch | Launch promotion | Russ will promote the launch roughly two weeks beforehand at church or on social media. The exact date and channel are open. |
+| Roughly two weeks before launch | Launch promotion | Russ will promote the launch roughly two weeks beforehand at church or on social media. Around January 24 is a planning estimate. Russ confirms the exact date and channel. |
 | Saturday, January 30, 2027 | [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration\|Group Leader Collaboration]] | Share vision and equip leaders using CoJourner (DEC-090). Time, venue, and facilitator are open. |
 | Sunday, February 7, 2027 | [[07 Operations/Calendar Events/Spring 2027 Launch Day\|Spring Group Launch]] | Confirmed launch date. Offering readiness follows DEC-021. |
 
@@ -20,7 +20,9 @@ Russ approved a 16-week planning window for Spring 2027 ([[08 Archive/Decisions/
 
 ## Launch Preparation
 
-Use [[06 Resources/Leader Development/CoJourner|CoJourner]] at the January 30 Collaboration to equip group leaders for spring ([[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090]]). DEC-045 provides a four-session biweekly plan with a pre-launch completion target. With one Collaboration before launch, Paul and Russ will use the December 7 review to settle the January 30 content, source access, facilitator, and additional cohort dates or a revised completion target (BWR-019, BWR-045).
+Use [[06 Resources/Leader Development/CoJourner|CoJourner]] at the January 30 Collaboration to equip group leaders for spring ([[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090]]). DEC-045 provides a four-session biweekly plan with a pre-launch completion target. Use the December 7 review to settle the January 30 content, source access, facilitator, and cohort dates or a revised completion target (BWR-019 and BWR-045). If four sessions are exactly two weeks apart and January 30 counts, the pre-launch schedule would run December 19 to January 30. These are planning calculations.
+
+Use the December 7 handoff to decide whether to open an additional leader-interest window for the congregation (DEC-091). Review [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] with new and returning leaders before they serve (DEC-092).
 
 Groups may keep meeting during January's 21 days of prayer and fasting or wait until spring launch. Coordinate the church's actual dates and communicate each group's plan.
 
@@ -34,7 +36,7 @@ Use the [[07 Operations/Workflows/Semester Planning#Close the outgoing season|se
 | Collectives | Both began and covered Galatians 1. Later delivery, teaching assignments, and remaining dates still need reconciliation. | Paul and the Collective operators settle the remaining calendar and what continues into spring (BWR-008, BWR-029). |
 | Bible Clubs | Planted's curriculum and leader are established. Its actual fall gathering outcome and venue evidence remain open. | Paul supplies the non-sensitive outcome and venue status. Confirm any spring Bible Club separately with Russ under the applicable approval path (BWR-011, BWR-018, BWR-043). |
 
-Before Russ promotes the launch, confirm what can be announced and test each distinct join and leader-interest route through receipt and follow-up. BWR-045 carries launch coordination, BWR-009 carries participant-system evidence, and BWR-007 and BWR-041 carry the safeguarding decisions. At the January 30 Collaboration share spring vision and equip leaders through CoJourner, drawing on non-sensitive fall observations and the approved agreement. Record time, venue, and agenda when confirmed. Track launch gates on the [[00 Dashboard/Launch Readiness Dashboard|launch readiness checklist]].
+Before Russ promotes the launch, which is expected ahead of the January 30 Collaboration, confirm what can be announced and test each distinct join and leader-interest route through receipt and follow-up. BWR-045 carries launch coordination, BWR-009 carries participant-system evidence, and BWR-007 and BWR-041 carry the safeguarding decisions. At the January 30 Collaboration share spring vision and equip leaders through CoJourner, drawing on non-sensitive fall observations and the approved agreement. Record time, venue, and agenda when confirmed. Track launch gates on the [[00 Dashboard/Launch Readiness Dashboard|launch readiness checklist]].
 
 ## Intended Purpose
 

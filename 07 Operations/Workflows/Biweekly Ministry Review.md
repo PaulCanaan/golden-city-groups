@@ -72,6 +72,8 @@ Process the [[00 Dashboard/Inbox|Inbox]] during each review. Between reviews, fi
 8. Update canonical source documents, then the Launch Readiness Dashboard, then the primary dashboard. File or archive resolved Inbox and event material without deleting ministry evidence.
 9. Create `09 Reports/Biweekly Reviews/YYYY-MM-DD Groups Ministry Biweekly Review.md`, carry every unresolved item forward, record focused questions for Paul and Russ, and name the next first- or third-Monday review date.
 
+At a seasonal handoff, use the [[07 Operations/Workflows/Semester Planning#Seasonal Operations Reviewer|Seasonal Operations Reviewer]] to reconcile outgoing dispositions, incoming offering rows, and decisions needed for the next milestone within this review.
+
 ## Dated Report Execution Layer
 
 Use [[10 Templates/Reports/Biweekly Ministry Review Report|Biweekly Ministry Review Report]] for metadata, the execution checklist, ministry-area matrix, risks, actions, and completion record. A checked box means inspected and reconciled; it never proves task completion, readiness, appointment, or approval. An automated pass remains **In Progress** until required human review is complete.
@@ -82,7 +84,7 @@ Use these statuses: `Ready`, `In Progress`, `Waiting — Paul`, `Waiting — Rus
 
 Every item must end in one of four places:
 
-- it remains active with a next review date;
+- it remains active with an evidenced owner or an explicit owner to confirm, a concrete next action, the affected milestone or ongoing responsibility, and a next review date;
 - it is completed and names the canonical destination or evidence;
 - it is archived or cancelled with a reason; or
 - it becomes a dated future action with an owner only when the repository establishes one.

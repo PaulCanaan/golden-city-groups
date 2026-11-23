@@ -39,6 +39,8 @@ Use for the permitted non-sensitive ministry working record in the existing loca
 
 ## Training
 
+Use [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] for the role-specific requirements. Keep signed forms and individual completion evidence in the approved restricted church system.
+
 ## Launch
 
 ## Next Steps

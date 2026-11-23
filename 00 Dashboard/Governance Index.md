@@ -40,6 +40,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-044 — Intended Collective Leadership Structure|DEC-044 — Intended Collective Leadership Structure]]
 - [[08 Archive/Decisions/Decision History#DEC-045 — CoJourner Group-Leader Training Architecture|DEC-045 — CoJourner Group-Leader Training Architecture]]
 - [[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090 — Spring Leader Equipping and CoJourner Resource Development]]
+- [[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091 — Congregational Leader Interest after the First Launch]]
 - [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056 — Group Leader Collaborations]]
 - [[08 Archive/Decisions/Decision History#DEC-061 — Uneven Group Dynamics Are Normal|DEC-061 — Uneven Group Dynamics Are Normal]]
 - [[08 Archive/Decisions/Decision History#DEC-063 — City Group and Collective Leader Guides|DEC-063 — City Group and Collective Leader Guides]]
@@ -113,6 +114,7 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-039 — Leader Resources and SOP Research Direction|DEC-039 — Leader Resources and SOP Research Direction]]
 - [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077 — GCC Group Leader Agreement]]
 - [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078 — Offerings and Support Raising in Groups]]
+- [[08 Archive/Decisions/Decision History#DEC-092 — Leader Acknowledgements for Group Readiness|DEC-092 — Leader Acknowledgements for Group Readiness]]
 
 ### Governance
 
@@ -136,7 +138,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, DEC-065–085, and DEC-087–090 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open; DEC-085 leaves the exact teaching/discussion split open). DEC-054 confirms *Planted.* each fall. DEC-089 places the Covenant study among fall and winter options.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, DEC-065–085, and DEC-087–092 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open; DEC-085 leaves the exact teaching/discussion split open). DEC-054 confirms *Planted.* each fall. DEC-089 places the Covenant study among fall and winter options.
 
 ### Confirmed in Part
 
@@ -188,18 +190,16 @@ DEC-039 and DEC-063.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions include the November 23 staff approvals.
-
-1. [[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090 — Spring Leader Equipping and CoJourner Resource Development]]
-2. [[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089 — Seasonal Formation and Spring 2027 Flexibility]]
-3. [[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot|DEC-088 — Fall 2027 Freedom Class Leader Pilot]]
-4. [[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087 — Spring 2027 Group Launch and Leader Collaboration]]
-5. [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year|DEC-086 — Collaborations Three Times a Year]]
-6. [[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085 — Lighter Teaching in Collective Study Blocks]]
-7. [[08 Archive/Decisions/Decision History#DEC-084 — Ministry Review of Chosen Group Material|DEC-084 — Ministry Review of Chosen Group Material]]
-8. [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083 — Community, Prayer, Scripture, and Purposeful Formation]]
-9. [[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082 — Supportive Leader Guides and Other Resources Placement]]
-10. [[08 Archive/Decisions/Decision History#DEC-081 — Planted as a Foundation for New Believers and New Members|DEC-081 — Planted as a Foundation for New Believers and New Members]]
+1. [[08 Archive/Decisions/Decision History#DEC-092 — Leader Acknowledgements for Group Readiness|DEC-092 — Leader Acknowledgements for Group Readiness]]
+2. [[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091 — Congregational Leader Interest after the First Launch]]
+3. [[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090 — Spring Leader Equipping and CoJourner Resource Development]]
+4. [[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089 — Seasonal Formation and Spring 2027 Flexibility]]
+5. [[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot|DEC-088 — Fall 2027 Freedom Class Leader Pilot]]
+6. [[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087 — Spring 2027 Group Launch and Leader Collaboration]]
+7. [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year|DEC-086 — Collaborations Three Times a Year]]
+8. [[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085 — Lighter Teaching in Collective Study Blocks]]
+9. [[08 Archive/Decisions/Decision History#DEC-084 — Ministry Review of Chosen Group Material|DEC-084 — Ministry Review of Chosen Group Material]]
+10. [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083 — Community, Prayer, Scripture, and Purposeful Formation]]
 
 ## Supersession Map
 

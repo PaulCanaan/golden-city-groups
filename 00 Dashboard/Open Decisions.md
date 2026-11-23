@@ -10,8 +10,8 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 
 ### Leader Workflow Implementation Details
 
-- **Question:** What interview format and records, role-specific assessment criteria, training dates and completion requirements, assignments, appointment record, correction and removal process, and commissioning practice will complete the workflow governed by DEC-042?
-- **Why unresolved:** DEC-042 resolves the intake triggers, four Planning Center stages, ownership, and completion point. DEC-027 and DEC-031 establish the minimum standard and ownership, but these implementation details remain open. DEC-059 records the Fall 2026 ready-to-lead standard: the Group Leader Conversation (spiritual maturity and season of life), a brief group leader training, and a joint Paul–Russ decision. The training's content and completion record, the appointment record, correction and removal, and commissioning remain open.
+- **Question:** What interview record, remaining training completion requirements, assignments, appointment record, correction and removal process, and commissioning practice will complete the workflow governed by DEC-042?
+- **Why unresolved:** DEC-042 resolves the intake triggers, four Planning Center stages, ownership, and completion point. DEC-027 and DEC-031 establish the minimum standard and ownership, but these implementation details remain open. DEC-059 records the Fall 2026 ready-to-lead standard: the Group Leader Conversation (spiritual maturity and season of life), a brief group leader training, and a joint Paul–Russ decision. DEC-091 allows additional opportunities for congregational interest. [[08 Archive/Decisions/Decision History#DEC-092 — Leader Acknowledgements for Group Readiness|DEC-092]] confirms the signed agreement and role-specific guide acknowledgement. The private recording method, remaining training standards, correction and removal, and commissioning remain open.
 - **Blocking impact:** Launch-blocking for City Groups.
 - **Expected decision owner:** Paul develops and facilitates the process; Russ retains primary-leader appointment authority.
 - **Sources:** [[Staff Decision Brief#PRO-029 — Leader Training, Assignment, and Commissioning Plan|PRO-029]], [[08 Archive/Decisions/Decision History#OQ-005 — Leadership Standards and Discernment|OQ-005]], [[08 Archive/Decisions/Decision History#DEC-059 — Group Launch Readiness Workflow|DEC-059]].
@@ -50,20 +50,18 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 - **Expected decision owner:** Paul and Russ.
 - **Sources:** [[Staff Decision Brief#PRO-028 — Planted Final Readiness|PRO-028]], [[08 Archive/Decisions/Decision History#OQ-011 — Planted Operational Readiness|OQ-011]].
 
-### Remaining Fall Launch Operations
+### Fall Evidence Affecting Current Offerings
 
-- **Question:** Which published details are final, and what assignments, capacities, budget, childcare, supplies, safeguarding requirements, backups, and contingencies will govern the active offerings?
-- **Why unresolved:** DEC-015 preserves the July 23 public baseline, while OQ-010 records that later readiness details have not been completed.
-- **Blocking impact:** Individual readiness gates remain blocking where the required leader, location, safeguarding, participant path, or approval is missing.
-- **Expected decision owner:** No single owner is recorded; responsibilities follow DEC-021 and DEC-029.
-- **Sources:** [[08 Archive/Decisions/Decision History#OQ-010 — Fall Launch Operations|OQ-010]], [[01 Governance/Launch Roadmap#Launch Readiness Gates|Launch Readiness Gates]].
+- **Question.** Which fall outcomes or unfinished tasks still affect a participant, a leader, or an offering that may continue?
+- **Next action.** Paul reviews the evidence at the December 7 handoff. Carry any confirmed consequence to the spring offering or support record. Preserve the older dates, venue, and event-outcome gaps in the [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|fall record]].
+- **Source.** [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff|Spring handoff]] and BWR-001–004, BWR-008–011, BWR-018, and BWR-028.
 
 ## Policies
 
 ### Governing Policies and Escalation Contacts
 
 - **Question:** Where will church-wide pastoral-care, safeguarding, reporting, and participant-data policies be maintained, and what mandatory-reporting and escalation implementation governs Groups Ministry?
-- **Why unresolved:** DEC-028 approves minimum boundaries but explicitly leaves policy locations and contacts open. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]] (October 3, 2026) names Russ as primary and Paul as backup pastoral contact and approves the [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]]. Church-wide policy locations and the mandatory-reporting procedure remain open, with the agreement's other open questions (BWR-041).
+- **Why unresolved:** DEC-028 approves minimum boundaries but explicitly leaves policy locations and contacts open. [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]] (October 3, 2026) names Russ as primary and Paul as backup pastoral contact and approves the [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]]. Church-wide policy locations and the mandatory-reporting procedure remain open. [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] are required under DEC-092. Their approved private recording method remains open with the agreement's other questions (BWR-041).
 - **Blocking impact:** Launch-blocking where an approved minimum boundary requires an escalation path.
 - **Expected decision owner:** Russ or designated pastoral authority, with staff implementation support.
 - **Sources:** [[Staff Decision Brief#PRO-026 — Pastoral Care, Safeguarding, and Participant Data|PRO-026]], [[08 Archive/Decisions/Decision History#OQ-006 — Pastoral Care and Safeguarding|OQ-006]], [[08 Archive/Decisions/Decision History#DEC-077 — GCC Group Leader Agreement|DEC-077]].
@@ -111,10 +109,10 @@ No unresolved curriculum approval is currently recorded for Planted: its curricu
 
 ### Galatians Calendar and Resource Details
 
-- **Question:** Which holiday weeks will be skipped, what dates will carry Sessions 3–6, and when are Paul's next resources needed?
+- **Question:** What was delivered for Sessions 2–4, what is the new Women's Session 4 date, and when do Sessions 5–6 meet?
 - **Established direction:** [[08 Archive/Decisions/Decision History#DEC-076 — Collective Gathering Flow, Six-Session Galatians, and Two-Page Handouts|DEC-076]] sets six sessions, one chapter per gathering, Russ's approved S.O.A.P. gathering flow, and two-page handouts. Session 1 (Galatians 1) occurred October 6 (Men's) and October 13 (Women's); Session 2 was dated October 20 and October 27, but those gathering outcomes are unreported. Paul develops resources; Collective operators lead with them (DEC-067).
 - **Current resource evidence:** Paul approved the Session 1 and Session 2 PDFs for both Collectives for public publication on October 22; accepted editions are in phase 04 and public on the Groups resources site. Publication does not establish teaching assignment or gathering execution.
-- **Remaining scope:** October 20/27 outcomes, Sessions 3–6 dates, holiday breaks, end date, teaching assignments, teaching notes for the 20-minute blocks, and Keller's question references. Anticipated holiday skips are not dated cancellations.
+- **Remaining scope.** Record actual delivery and teaching for Sessions 2–4 where evidence is available. The Women's Collective skips the week of November 23. Confirm its new Session 4 date, both Collectives' Sessions 5–6 dates, and the next resource needs (BWR-029).
 - **Owners / source:** Paul with the Collective operators; [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|the development brief]].
 
 ## Connections

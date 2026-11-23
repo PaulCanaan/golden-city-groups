@@ -74,7 +74,7 @@ For Bible Clubs:
 - **Collective materials:** Russ and Conner O'Brien are responsible for the Collective course materials.
 - **Planted:** Paul is preparing the *Planted.* Bible study materials.
 
-**Decision connection:** [[Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055]]; resolves [[00 Dashboard/Staff Decision Brief#PRO-033 — Collectives Study Content and a Possible Galatians Study|PRO-033]]
+**Decision connection:** [[Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055]]; resolves [[08 Archive/Decisions/PRO-033 Fall 2026 Collectives Study#PRO-033 — Collectives Study Content and a Possible Galatians Study|PRO-033]]
 
 ### 6 — Group Leader Collaborations
 

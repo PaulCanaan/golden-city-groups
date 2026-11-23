@@ -45,6 +45,10 @@ Claudian is configured to locate the installed Claude Code and Codex executables
 
 For IDE work, open the **Groups Ministry** folder as the workspace so its root AGENTS.md and Git repository apply. Keep Obsidian open for Canvas and backlinks. In Codex, select that same existing folder and name the actual brief/Canvas. The downloadable Groups OS IDE workspace accompanying this setup opens that folder without modifying IDE account or trust settings.
 
+## Seasonal Handoff
+
+Use the [[07 Operations/Workflows/Semester Planning#Seasonal Operations Reviewer|Seasonal Operations Reviewer]] for fall closeout and spring launch preparation. Ask the agent to review non-sensitive evidence and return offering dispositions, readiness rows, and a short list of decisions for Paul and Russ.
+
 ## Planning Center Operations Skill
 
 Use [Planning Center Operations](../../.agents/skills/planning-center-operations/SKILL.md) for leader intake, participant placement, group readiness, and seasonal handoff. Ask for a read-only reconciliation or specify the particular approved change. Use the [[07 Operations/Workflows/Planning Center Groups|operating procedure]] for stage evidence and [[07 Operations/Workflows/Forms#Pre-Publication Test|Forms]] for join-path tests.

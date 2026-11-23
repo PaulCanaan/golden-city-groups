@@ -14,6 +14,9 @@
 
 ## Fall 2026 Launch
 
+- [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Semester Outline|Fall semester outline]] — inaugural Launch Team recruitment (DEC-017–019), dated presentation plan (DEC-048 and DEC-051), and start sequence.
+- [[08 Archive/Decisions/PRO-033 Fall 2026 Collectives Study|PRO-033 Collectives study proposal]] — resolved proposal and follow-up direction.
+
 - [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Fall 2026 Readiness Dashboard]] — fall launch decisions, readiness evidence, and unresolved items as of November 23, 2026.
 
 - [[08 Archive/Operations/Fall 2026 Launch/Church Plant Launch Roadmap|Church-plant launch roadmap]] — original scope, dependencies, and launch preparation.

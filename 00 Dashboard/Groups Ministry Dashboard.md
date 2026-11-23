@@ -59,13 +59,13 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - **Carry-forward baseline:** November 19 follow-up with the November 20 addendum and November 23 Groups OS write-back. Earlier unanswered questions remain in the queue.
 - **Next review:** December 7, 2026 at 7:00 AM America/Denver
 - **Scheduler:** the November 2 and 16 reports were delivered locally. The runner can recover delivery state from a completed scheduled report when its local receipt is missing.
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|31 active items]] carried to December 7 (BWR-031 and BWR-005 closed; BWR-045 for spring launch prep and BWR-046 for the Freedom Class pilot)
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|30 active items]] carried to December 7 (BWR-031 and BWR-005 closed; BWR-045 for spring launch prep and BWR-046 for the Freedom Class pilot)
 - **Human input outstanding:** Paul's non-sensitive launch and gathering outcomes, Collective dates and delivery, Planted venue/readiness, and remaining follow-up evidence in the queue. Russ's decisions include safeguarding and incident reporting, appointments and final readiness, and participant-system governance.
 - **Critical blockers:** Planted venue/outcome/calendar; tested participant paths; church-wide safeguarding policy and reporting procedure; offering appointments/final readiness; Fall leader-preparation records; past event and first-gathering outcomes
 
 ## Next Actions
 
-- Paul and Russ: use the December 7 biweekly review for the [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff|fall-to-spring handoff]]. Confirm offering dispositions, the January 30 CoJourner session and cohort timing, and what can be promoted (BWR-019, BWR-042, BWR-045).
+- Paul and Russ use the December 7 [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff|fall-to-spring handoff]] to decide offering dispositions, the need for a congregational leader-interest window, the CoJourner cohort plan, and what can be promoted (BWR-019, BWR-042, BWR-045).
 
 - Paul: give leaders the approved pastoral contacts privately, record delivery, and bring Russ the agreement's open questions (BWR-007, BWR-041).
 - Paul: record the non-sensitive October 4/11 and past first-gathering outcomes (BWR-008, BWR-010, BWR-011, BWR-028).
@@ -95,6 +95,8 @@ Track spring launch gates and owners on the [[00 Dashboard/Launch Readiness Dash
 
 - **Season rhythm:** Spring 2027 has a flexible 16-week window. Summer is low-commitment and activity-based, with optional local outreach. Fall and winter make room for deeper studies (DEC-089). See the [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]].
 - **Leader equipping:** Russ approved the Fall 2027 [[04 Classes/Curriculum/Freedom Class|Freedom Class]] pilot for group leaders and a conference conclusion for future runs (DEC-088, BWR-046).
+
+Paul confirmed that future launches can open leader-interest opportunities to the congregation ([[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091]]). Check signed Group Leader Acknowledgements and the guide for each applicable role through [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] ([[08 Archive/Decisions/Decision History#DEC-092 — Leader Acknowledgements for Group Readiness|DEC-092]]).
 
 ## Approved Group Leader Workflow
 

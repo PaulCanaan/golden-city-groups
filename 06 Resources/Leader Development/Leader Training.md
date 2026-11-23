@@ -2,11 +2,11 @@
 
 ## Document Status
 
-**Planned launch requirement with Paul confirmed as facilitator; curriculum and schedule pending.** Initial City Group leader candidates will come from the Launch Team. Paul owns intake, immediate follow-up, interviews, assessment, and training facilitation under DEC-026 and DEC-031. Candidates enter training only through the approved minimum standard in DEC-027. Sign-up, follow-up, interview, or training alone does not authorize service as an appointed leader.
+**Leader preparation.** Paul facilitates training for discerned candidates. The applicable training, safeguarding, acknowledgements, and pastoral approvals govern preparation for each role.
 
 ## Initial Audience
 
-- Launch Team members prayerfully identified and invited as potential City Group leaders
+- Prospective leaders invited after a Group Leader Conversation, including people who express interest through a seasonal opening
 - Hosts only if a host pathway and requirements are approved
 - Coaches only if a formal coaching layer is approved
 
@@ -49,7 +49,7 @@ The following is a **proposed launch curriculum framework**, adapted after revie
 - recognizing needs beyond the leader's role
 - approved crisis, abuse, safeguarding, and pastoral escalation procedures
 
-This module is launch-blocking. Teach it from the [[GCC Group Leader Agreement]] (DEC-077), which sets the policies and names Russ as primary pastoral contact and Paul as backup; leaders affirm the agreement's Leader Acknowledgement here. Contact numbers are given to leaders privately. Add the mandatory-reporting procedure and the agreement's other open answers once Russ gives them (BWR-041).
+This module is launch-blocking. Teach it from the [[GCC Group Leader Agreement]] (DEC-077), which sets the policies and names Russ as primary pastoral contact and Paul as backup; review the agreement and confirm the [[#Leader Acknowledgements|Leader Acknowledgements]] required for the leader's role. Contact numbers are given to leaders privately. Add the mandatory-reporting procedure and the agreement's other open answers once Russ gives them (BWR-041).
 
 ### 5. Relational Discipleship
 
@@ -98,13 +98,25 @@ Use [[07 Operations/Workflows/Leader Training Delivery|Leader Training Delivery]
 - [[GCC Group Leader Agreement]]
 - [[07 Operations/Workflows/Planning Center Groups]]
 
+## Leader Acknowledgements
+
+Use the current public editions in the [Groups Resources Library](https://resources.goldencity.church/) ([[08 Archive/Decisions/Decision History#DEC-092 — Leader Acknowledgements for Group Readiness|DEC-092]]).
+
+| Leader role | Required preparation |
+|---|---|
+| All group leaders | Read the [GCC Group Leader Agreement](https://resources.goldencity.church/resources/gcc-group-leader-agreement/) and sign its Group Leader Acknowledgement. |
+| City Group leaders | Also acknowledge the [City Group Guide](https://resources.goldencity.church/resources/city-group-guide/). |
+| Collective leaders | Also acknowledge the [Collective Leader Guide](https://resources.goldencity.church/resources/collective-leader-guide/). |
+
+Paul verifies completion for current and prospective leaders as applicable before they serve in the offering, including during the review of returning leaders. Keep signed records and individual completion evidence in the approved restricted church system. Use the readiness checklist for the aggregate or non-sensitive status. The approved location and method for individual records are still open in BWR-041.
+
 ## Completion Standard
 
-The completion standard remains pending. At minimum, an approved standard should include participation in required sessions, understanding of role and escalation boundaries, basic Planning Center readiness, and a final appointment decision. Training attendance alone must not constitute appointment.
+The acknowledgements above are required. The remaining training completion standard is open, including required sessions, knowledge of role and escalation boundaries, and basic Planning Center readiness. Record appointment separately under DEC-027.
 
 ## Launch Priority and Approval
 
-**Launch priority:** Launch-blocking for every City Group leader who will serve in fall 2026.
+**Launch priority.** Confirm applicable leader preparation before an offering is approved to launch.
 
 **Approval status:** The minimum role standard, safeguarding boundaries, pastoral baseline, and facilitator are confirmed under DEC-027, DEC-028, DEC-031, and DEC-033. Russ or the appropriately delegated pastoral authority still must approve the required modules, completion criteria, schedule, role-specific details, and appointments before training is complete.
 
@@ -113,7 +125,7 @@ The completion standard remains pending. At minimum, an approved standard should
 ## Connections
 
 - [[10 Templates/Communication/Group Leader Communication Library#Step 3 — Attended Training|Group Leader Communication Library — Training]] — Canonical training invitation and leader-resource messages.
-- [[05 Leadership/Group Leaders]] — Initial candidates come through the Launch Team and Team Night pathway.
+- [[05 Leadership/Group Leaders]] — Current and seasonal leader pathways.
 - [[CoJourner]] — Shared four-session pathway for ongoing leader development.
 - [[05 Leadership/Hosts]] — Host training remains conditional on approval of the role and its requirements.
 - [[08 Archive/Legacy Group Scaffolds/Group Coaches]] — Coach training is deferred unless a coaching layer is approved.

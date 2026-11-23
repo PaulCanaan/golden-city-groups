@@ -4,15 +4,19 @@
 
 Russ approved the January 30 Collaboration and February 7 launch dates (DEC-087), the Fall 2027 Freedom Class leader pilot and future conference conclusion ([[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot|DEC-088]]), and the seasonal formation emphases and 16-week Spring 2027 flexibility ([[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089]]). Russ also approved using [[06 Resources/Leader Development/CoJourner|CoJourner]] at the January 30 Collaboration and continuing development for the Groups resources library ([[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090]]). The season plans and BWR-019, BWR-042, BWR-045, and BWR-046 carry the operating details still to settle.
 
+## Spring Operating Direction from Paul
+
+Use the existing leader-interest routes when opening opportunities for interested people in the congregation ([[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091]]). Verify the signed Group Leader Acknowledgement and applicable guide acknowledgement for new and returning group leaders ([[08 Archive/Decisions/Decision History#DEC-092 — Leader Acknowledgements for Group Readiness|DEC-092]]). Russ retains decisions about appointment, readiness, and unresolved safeguarding details.
+
 ## October 26 Approved Direction
 
 Paul reports Russ approved all six items in the [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes|October 26 staff meeting]]. DEC-079–083 now govern the Collaboration date/rhythm (the rhythm since replaced by DEC-086), seasonal pattern, Planted's purpose for new believers and new members, guide scope/public placement, and community–prayer–Scripture baseline. These do not need to be re-proposed for approval.
 
-Remaining implementation: exact Collaboration times and arrangements; exact seasonal dates and summer offerings; CoJourner preparation; Paul's review of new guide prose; public editions and actual publication. The agreement's unresolved policy questions (BWR-041), appointments, participant-system decisions, and final readiness remain with their existing owners. Approved guide placement and formation-framework inclusion are settled for those resources; wider public-page language changes are outside this decision.
+Remaining implementation includes the exact Collaboration arrangements, seasonal dates and summer offerings, CoJourner preparation, and reconciliation of the local and published guide editions. The agreement's unresolved policy questions (BWR-041), appointments, participant-system decisions, and final readiness remain with their existing owners.
 
 ## Document Status
 
-**Reviewed August 10 and reconciled November 16, 2026 through DEC-078 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); October direction now governs Collective resources and gathering shape (DEC-067, DEC-076), the Groups resource library and communication work (DEC-071–075), and the GCC Group Leader Agreement with its offerings/support-raising amendment (DEC-077–078). The Active Decision Register carries subsequent direction through DEC-090. Spring offering decisions and final readiness remain open. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
+**Reviewed August 10 and reconciled November 16, 2026 through DEC-078 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved [[08 Archive/Decisions/PRO-033 Fall 2026 Collectives Study|PRO-033]] (DEC-055). October direction governs Collective resources and gathering shape (DEC-067, DEC-076), the Groups resource library and communication work (DEC-071–075), and the GCC Group Leader Agreement with its offerings/support-raising amendment (DEC-077–078). The Active Decision Register carries subsequent direction through DEC-092. Spring offering decisions and final readiness remain open. For December 7, prioritize spring offering dispositions and signup paths, safeguarding implementation, and a decision on the CoJourner cohort schedule. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
 
 ## Confirmed Ministry Language
 
@@ -144,7 +148,7 @@ These recommendations are not a substitute for church policy, legal guidance, or
 
 #### 6. Minimum implementation package
 
-- [ ] After the decisions above are supplied, authorize Paul to assemble the proposed minimum package: controlled source links, role boundaries, contact card, short scenario escalation guide, incident-record link, required training segment, acknowledgment or completion record, and readiness evidence checklist.
+- [ ] Once the decisions above are recorded, confirm who assembles the minimum package. Include policy links, role boundaries, the private contact card, escalation guidance, the incident-record link, any required training, and the approved method for recording signed agreements and guide acknowledgements.
 - [ ] Name the pastoral approver for the completed package and its role-specific use.
 
 - **Governing documents / owners:**
@@ -327,31 +331,3 @@ Fall 2026 leaders still need the minimum transitional role-specific preparation 
 **Direction / revisions:**  
 **Approver:** Russ
 **Date:** 08/05/26
-
-## PRO-033 — Collectives Study Content and a Possible Galatians Study
-
-- **Approval status:** **Resolved by [[08 Archive/Decisions/Decision History#DEC-055 — Weekly Recap and Fall 2026 Collectives Study|DEC-055]] on September 25, 2026.** Recorded September 20, 2026 from Paul's initial thinking; the proposal text below is preserved as written.
-- **Launch priority:** Needed before Men's and Women's Collectives begin meeting in October
-- **Decision needed:** Approve the study content Men's and Women's Collectives will use, who writes and reviews it, and whether the first study parallels the church's Fruit of the Spirit weekend series.
-- **Why it matters:** Both Collectives have an October readiness target under DEC-046 and confirmed Wednesday cadences under DEC-043, but no study content, facilitator material, or review path is recorded. Leaders cannot facilitate without approved content.
-- **Formation relationship:** Collectives exist for shared encouragement. Study content should lead toward beholding Christ in Scripture and becoming like him in community, not toward information alone.
-
-### Initial thinking recorded from Paul
-
-- Paul is developing handouts, facilitator guides, and discussion questions for both Collectives. Details will be supplied later.
-- One initial idea is a **Galatians study paralleling the church's Fruit of the Spirit weekend teaching series**, so that Collective formation reinforces what the congregation hears on Sunday.
-- Paul is meeting with Russ, Miranda, Conner, and Rachel to construct the Collectives together. That meeting may change or replace this direction.
-
-### Direction to record
-
-- [x] Approve a Galatians study paralleling the Fruit of the Spirit series
-- [ ] Approve different study content recorded below
-- [ ] Defer the content decision pending the Collectives construction meeting
-
-**Open questions:** Who writes, reviews, and approves the content? Does it require the same pastoral and theological curriculum review Planted received? Do Men's and Women's Collectives use the same study? What is the content deadline given the October readiness target?
-
-**Direction / revisions:** Men's and Women's Collectives both study Galatians for the rest of 2026, paralleling *The Fruit of the Spirit* weekend series; freedom is the book's larger theme. Russ and Conner O'Brien are responsible for the Collective course materials, so Paul no longer drafts them. Paul clarified on September 29 that Miranda Daly and Rachel O'Brien also join the content discussions, keeping both Collectives on one study with distinct emphases for male and female discipleship.  
-**Approver:** Russ and Paul  
-**Date:** 2026-09-25  
-
-**Subsequent direction — October 13, 2026:** DEC-067 supersedes the earlier implication that Paul no longer drafts Collective materials. Paul develops the resources; Russ, Miranda, and Conner operate the gatherings. The shared Galatians course now allocates two study gatherings to each of six chapters, twelve study gatherings per Collective plus introductions, across Fall 2026–Spring 2027. Holiday dates remain pending. Paul’s further October 13 clarification sets Keller as primary for course development/questions and Peterson secondary for freedom, with separate Men’s/Women’s resources for different formation goals/dates. The two 20+10 study blocks within 6:30–8:00 PM are provisional working design. Earlier proposal and decision wording above are preserved as historical evidence.

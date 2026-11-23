@@ -41,7 +41,7 @@ In the Group Leader workflow, this leader has reached **Attended Training**. The
 
 Paul prepares the evidence and recommends readiness. Russ or his designated pastor records final readiness approval under DEC-021. Use these checks for new groups and changed or returning offerings as applicable.
 
-- Confirm the accountable owner, approved leader or host, any role-specific training and agreement acknowledgment, and where appointment is recorded (DEC-027, DEC-077). Include commissioning where its practice is approved.
+- Confirm the accountable owner, approved leader or host, role-specific training, and where appointment is recorded (DEC-027). Verify the signed agreement and applicable guide acknowledgement through [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] (DEC-092). Include commissioning where its practice is approved.
 - Confirm the venue, meeting rhythm, start window, capacity or overflow process, and applicable safeguards. Ensure leaders have the approved pastoral contacts privately and know the current escalation procedures.
 - Review participant ownership, backup, response, access, and privacy settings. Keep provisional records closed or unlisted while applicable readiness decisions are open.
 - Run the [[07 Operations/Workflows/Forms#Pre-Publication Test|participant-path test]] on each distinct enrollment path. Test the link, submission, receipt, confirmation, and follow-up in an authorized setting. Check mobile display and the actual destination from each listing or card. Align names, timing, and the public location across Church Center, the website, and any printed material.

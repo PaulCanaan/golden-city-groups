@@ -14,7 +14,7 @@ Paul serves as Ministry Director and operational point person for Groups Ministr
 
 Since March 2026, Golden City Church has gathered prospective members through Interest Socials, Dinner Parties, Worship Nights, local service opportunities, and Team Nights. These gatherings have intentionally formed a Launch Team of more than 50 committed volunteers who are preparing to become the church's initial ministry teams at public launch.
 
-For the initial launch season, City Group leaders will not be recruited from the general public. Russ intends for them to be prayerfully identified, invited, discerned, and trained from within the Launch Team. This is the confirmed launch-season leadership pipeline, not a permanent restriction on how leaders may be developed in later seasons.
+For the initial launch season, City Group leaders will not be recruited from the general public. Russ intends for them to be prayerfully identified, invited, discerned, and trained from within the Launch Team. This was the inaugural launch-season scope. [[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch|DEC-091]] records opportunities to invite interested congregants through the existing pathway in future seasons.
 
 Team Nights on July 28, August 11, and August 25, 2026 were scheduled to include dedicated time for City Group vision, leader sign-ups, leader discernment, placement conversations, and preparation for the September launch. Paul was assigned as the on-site sign-up point person, responsible for helping interested Launch Team members submit the Planning Center form, receiving and organizing submissions through his admin access, and emailing applicants about Group Leader Conversations and immediate next steps. Actual event outcomes remain subject to reconciliation. A sign-up or conversation expresses interest and begins assessment; neither constitutes appointment or final group assignment.
 
@@ -106,5 +106,5 @@ Russ approved the seasonal pattern summarized in the [[07 Operations/Annual Rhyt
 
 - Who will serve as backup when Paul or the final readiness approver is unavailable?
 - Are there additional internal church documents that supersede or expand the public website?
-- Which specific offerings within the three branches have completed readiness review before the October 4 Group Launch Day?
+- Which offerings are ready for the next season? See the [[00 Dashboard/Launch Readiness Dashboard|launch checklist]] for current evidence and the [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|fall record]] for inaugural launch evidence.
 - What church-wide privacy, safeguarding, pastoral-care, and leadership policies govern this ministry?

@@ -16,7 +16,7 @@ DEC-045 sets four biweekly sessions over approximately two months, with completi
 
 ## Resource Development
 
-Paul identified [The Garden Project](https://the-garden-project.org/) as the home of the early development materials. Confirm access to the current source before preparing the January 30 material. Continue developing a Groups library edition under [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]]. Confirm attribution, permission for any adapted material, and the applicable resource review before a library release.
+Paul identified [The Garden Project](https://the-garden-project.org/) as the home of the early development materials. Confirm access to the current source before preparing the January 30 material. Continue developing a Groups library edition under [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]]. Use the [[06 Resources/Curriculum Development/AI Agent Roles|existing curriculum roles]]. The Canvas Organizer identifies the accessible source and the January 30 focus. The Curriculum Editor prepares material for the leaders' session for Paul's review. The Resource Producer works from the reviewed material when a library edition is ready to develop. Confirm attribution, applicable permission, and review before release.
 
 ## Connections
 
