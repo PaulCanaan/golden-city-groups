@@ -16,7 +16,7 @@ cssclasses:
 > > [!groups-operate] Ministry desk
 > > [[00 Dashboard/Groups Ministry Dashboard|Open the Dashboard]]
 > >
-> > [[00 Dashboard/Inbox|Inbox]] · [[00 Dashboard/Biweekly Review Queue|Review queue]] · [[07 Operations/Calendar|Calendar]]
+> > [[00 Dashboard/Inbox|Inbox]] · [[00 Dashboard/Biweekly Review Queue|Review queue]] · [[00 Dashboard/Calendar|Ministry Calendar]]
 >
 > > [!groups-develop] Course studio
 > > [[06 Resources/Curriculum Development/02 Structure & Synthesize/Collectives Galatians/Collectives Galatians Development|Collectives Galatians]] · [[06 Resources/Curriculum Development/02 Structure & Synthesize/Planted/Planted Development|Planted]]
@@ -87,7 +87,7 @@ cssclasses:
 - [[Leadership Overview]]
 - [[CoJourner]]
 - [[Operation Overview]]
-- [[07 Operations/Calendar|Calendar]]
+- [[00 Dashboard/Calendar|Calendar]]
 - [[07 Operations/Workflows/Planning Center Groups]]
 - [[07 Operations/Workflows/Workflows Overview|Workflows]] — all active process instructions
 - [[10 Templates/Templates Overview|Templates]] — communication, conversations, gatherings, records, and reports

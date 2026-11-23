@@ -26,7 +26,7 @@ Use [[10 Templates/Records/Inbox Item|Inbox Item]] to capture a non-sensitive it
 | Approved decision | [[00 Dashboard/Decision Log\|Decision Log]] and [[08 Archive/Decisions/Decision History\|Decision History]] |
 | Staff decision still needed | [[00 Dashboard/Staff Decision Brief\|Staff Decision Brief]] or the relevant proposal |
 | Current priority or readiness status | [[00 Dashboard/Groups Ministry Dashboard\|Groups Ministry Dashboard]] |
-| Scheduled operational work | [[01 Governance/Launch Roadmap\|Launch Roadmap]], [[07 Operations/Calendar\|Calendar]], a checklist, or the relevant operating document |
+| Scheduled operational work | [[01 Governance/Launch Roadmap\|Launch Roadmap]], [[00 Dashboard/Calendar\|Calendar]], a checklist, or the relevant operating document |
 | Operational consequence requiring future review | [[00 Dashboard/Biweekly Review Queue\|Biweekly Review Queue]] after the source item is clarified |
 | Leadership matter | [[Leadership Overview]] or the relevant leader-pipeline material |
 | Ministry-specific content | The relevant City Groups, Collectives, Bible Clubs, or future-ministry page |

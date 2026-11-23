@@ -133,7 +133,8 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-083 | [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation\|Community, Prayer, Scripture, and Purposeful Formation]] | Confirmed shared formation baseline | 2026-10-26 | Ministry Architecture | — | — | Paul; group leaders |
 | DEC-084 | [[08 Archive/Decisions/Decision History#DEC-084 — Ministry Review of Chosen Group Material\|Ministry Review of Chosen Group Material]] | Confirmed | 2026-10-26 | Ministry Architecture | DEC-052 (in part: adds ministry review for awareness) | — | Paul; group leaders |
 | DEC-085 | [[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks\|Lighter Teaching in Collective Study Blocks]] | Confirmed direction; exact split not set | 2026-10-26 | Curriculum | DEC-076 (in part: teaching/discussion split) | — | Paul (resources); Collective leaders (operation) |
-| DEC-086 | [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year\|Collaborations Three Times a Year]] | Confirmed direction as reported by Paul; decision date and approver not recorded; gathering dates open | Reported 2026-11-16 | Leadership | DEC-079 (in part: Saturday rhythm) | — | Paul |
+| DEC-086 | [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year\|Collaborations Three Times a Year]] | Confirmed direction as reported by Paul; decision date and approver not recorded; January 30 gathering dated under DEC-087 | Reported 2026-11-16 | Leadership | DEC-079 (in part: Saturday rhythm) | — | Paul |
+| DEC-087 | [[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration\|Spring 2027 Group Launch and Leader Collaboration]] | Confirmed operational dates; promotion details open | 2026-11-23 | Launch | — | — | Paul (coordination); Russ (promotion) |
 
 ## Open Decisions
 

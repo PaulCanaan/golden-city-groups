@@ -8,12 +8,12 @@
 
 | Window | Rhythm | Planning boundary |
 |---|---|---|
-| Spring | February launch; February–May semester | First-week launch is likely, not a confirmed date. Complete leader preparation before the actual launch. |
+| Spring | February launch; February–May semester | Spring 2027 launches February 7 (DEC-087). Future dates are set each season. Complete leader preparation before launch. |
 | Summer | June–August | Expect lower commitment during travel season and encourage more activity-based gatherings. Community, prayer, and Scripture remain the baseline (DEC-083). The church will still offer some summer classes; specific offerings and dates need confirmation. |
 | Fall | September launch; September–early December semester | First-week launch is likely, not a confirmed date. Plan around the holiday season; exact closing and cancellation dates remain open. |
 | January | Church-wide 21 days of prayer and fasting | Groups may meet during this season or wait until spring launch. Exact church dates and each group's choice need communication. |
 
-Group Leader Collaborations follow this rhythm: one before the spring launch, one before summer activities, and one before the fall launch (DEC-086). Each gathering's date is set within its season.
+Group Leader Collaborations follow this rhythm: one before the spring launch, one before summer activities, and one before the fall launch (DEC-086). The next gathering is the [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration|January 30 Group Leader Collaboration]].
 
 Fall 2026 is a shorter first semester because of the church launch schedule. Preserve its September 20 church launch and October 4 Group Launch Day as historical dates rather than applying the future September pattern retroactively.
 
@@ -40,6 +40,6 @@ This pattern is a working recommendation adapted from GCC's launch roadmap and t
 
 ## Connections
 
-- [[07 Operations/Calendar|Calendar]] — Confirmed dates and pending milestones.
+- [[00 Dashboard/Calendar|Calendar]] — Confirmed dates and pending milestones.
 - [[07 Operations/Workflows/Semester Planning]] — Repeatable planning process.
 - [[07 Operations/Metrics|Metrics]] — Formation-aware review.

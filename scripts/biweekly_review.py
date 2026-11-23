@@ -7,6 +7,7 @@ import json
 import os
 from pathlib import Path
 import subprocess
+from tempfile import TemporaryDirectory
 from zoneinfo import ZoneInfo
 
 
@@ -15,6 +16,7 @@ RUNTIME = ROOT / ".review-runtime"
 ZONE = ZoneInfo("America/Denver")
 START = datetime(2026, 9, 7, 7, tzinfo=ZONE)
 PROCEDURE = ROOT / "07 Operations/Workflows/Biweekly Ministry Review.md"
+REPORT_SUFFIX = " Groups Ministry Biweekly Review.md"
 
 
 def latest_due(now):
@@ -30,7 +32,19 @@ def latest_due(now):
 
 def matches_occurrence(report_text, due):
     dates = (due.date().isoformat(), f"{due.strftime('%B')} {due.day}, {due.year}")
-    return any(f"**Scheduled for:** {value}" in report_text for value in dates)
+    return any(
+        line.removeprefix("- ").startswith(f"**Scheduled for:** {value}")
+        for line in report_text.splitlines()
+        for value in dates
+    )
+
+
+def delivered_report(report_text, due):
+    return matches_occurrence(report_text, due) and "- **Review execution:** Complete" in report_text.splitlines()
+
+
+def occurrence_delivered(reports, due):
+    return any(delivered_report(report.read_text(), due) for report in reports.glob(f"*{REPORT_SUFFIX}"))
 
 
 def self_test():
@@ -50,7 +64,17 @@ def self_test():
     assert matches_occurrence("- **Scheduled for:** September 7, 2026 at 7:00 AM", START)
     assert not matches_occurrence("- **Review date:** 2026-09-07", START)
     assert not matches_occurrence("- **Scheduled for:** 2026-09-21", START)
-    print("Checks passed: due time, catch-up, second Monday, DST, and report occurrence.")
+    with TemporaryDirectory() as tmp:
+        reports = Path(tmp)
+        report = reports / f"2026-09-08{REPORT_SUFFIX}"
+        report.write_text("- **Scheduled for:** 2026-09-07\n- **Review execution:** In Progress\n")
+        assert not occurrence_delivered(reports, START)
+        report.write_text("- **Related scheduled review:** 2026-09-07\n- **Review execution:** Complete\n")
+        assert not occurrence_delivered(reports, START)
+        report.write_text("- **Scheduled for:** 2026-09-07\n- **Review execution:** Complete\n"
+                          "- **Human review:** In Progress\n")
+        assert occurrence_delivered(reports, START)
+    print("Checks passed: due time, catch-up, second Monday, DST, and delivery recovery.")
 
 
 def main():
@@ -67,7 +91,9 @@ def main():
     state = json.loads(state_path.read_text()) if state_path.exists() else {}
     due_key = due.date().isoformat() if due else None
     already_run = due_key is not None and state.get("scheduled_for", "") >= due_key
+    reports = ROOT / "09 Reports/Biweekly Reviews"
     if args.check:
+        already_run = already_run or (due is not None and occurrence_delivered(reports, due))
         print(json.dumps({"now": now.isoformat(), "scheduled_for": due_key,
                           "already_run": already_run, "last_success": state}, indent=2))
         return
@@ -83,7 +109,9 @@ def main():
         # Recheck after locking so concurrent manual invocations cannot duplicate a run.
         if state_path.exists() and json.loads(state_path.read_text()).get("scheduled_for", "") >= due_key:
             return
-        report = ROOT / f"09 Reports/Biweekly Reviews/{now.date()} Groups Ministry Biweekly Review.md"
+        if occurrence_delivered(reports, due):
+            return
+        report = reports / f"{now.date()}{REPORT_SUFFIX}"
         prompt = PROCEDURE.read_text().split("### Durable scheduled-task prompt\n", 1)[1].split("\n## ", 1)[0]
         prompt = prompt.strip().removeprefix("> ")
         prompt += f"""\n\nExecution context from the local scheduler:
@@ -100,6 +128,7 @@ Do not edit scripts, scheduler configuration, .gitignore, or .review-runtime.
 Do not create another schedule, delegate to another agent, commit, push, publish, or send messages.
 Do not use connected apps for private records or writes. Route missing evidence to the queue.
 Check review boxes only for domains inspected and reconciled; leave human review In Progress.
+Record "- **Review execution:** Complete" when the repository pass and write-back are finished.
 """
         command = [str(Path.home() / ".local/bin/codex"), "exec", "-C", str(ROOT),
                    "--sandbox", "workspace-write", "-c", 'approval_policy="never"',
@@ -112,8 +141,8 @@ Check review boxes only for domains inspected and reconciled; leave human review
                                     cwd=ROOT, timeout=3600)
         if result.returncode:
             raise SystemExit(f"Review failed ({result.returncode}); see .review-runtime/last-run.log")
-        if not report.exists() or not matches_occurrence(report.read_text(), due):
-            raise SystemExit("Expected dated report missing or missing scheduled occurrence; inspect last-run.log")
+        if not report.exists() or not delivered_report(report.read_text(), due):
+            raise SystemExit("Expected completed repository pass missing from dated report; inspect last-run.log")
         # Success means the agent returned and wrote the expected report, not human approval.
         temporary = RUNTIME / "last-success.tmp"
         temporary.write_text(json.dumps({"scheduled_for": due_key, "report": str(report.relative_to(ROOT)),

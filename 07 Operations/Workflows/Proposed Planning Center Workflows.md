@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Proposed — nothing in this document is implemented or approved.** *Implementation record (November 20, 2026): Paul approved and Baby Fish executed Part 1 items 1, 1b, 2, 4, 6, 7, 8, 9, and 10 the same evening (item 5 is a standing decision, not an action); the overdue-marking items 3 and 11 were left unapproved and remain proposed. Part 2 workflow A (Leader Development & Multiplication) was built November 20, 2026; workflows B and C remain proposed.* Prepared November 20, 2026 from a live, read-only audit of Paul's Planning Center account the same day and from the operating knowledge in the ministry's Planning Center records. Paul reviews; any change to a live workflow, form, or card happens only on his explicit approval of that specific change. Appointment and readiness authority remain with Russ as elsewhere in this vault.
+**November 20, 2026 implementation record and remaining proposals.** *Implementation: Paul approved and Baby Fish executed Part 1 items 1, 1b, 2, 4, 6, 7, 8, 9, and 10 the same evening (item 5 is a standing decision, not an action); the overdue-marking items 3 and 11 were left unapproved and remain proposed. Part 2 workflow A (Leader Development & Multiplication) was built November 20, 2026; workflows B and C remain proposed.* Prepared November 20, 2026 from a live, read-only audit of Paul's Planning Center account the same day and from the operating knowledge in the ministry's Planning Center records. Paul reviews; any change to a live workflow, form, or card happens only on his explicit approval of that specific change. Appointment and readiness authority remain with Russ as elsewhere in this vault.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Fix what is stale or fragile in the two live People workflows, then add workflow
 
 ### Small Group Leader Application (10 open cards at audit)
 
-1. **Complete the finished pipeline.** The 5 cards at Small Group Launched belong to leaders whose groups launched in the fall — that stage is workflow completion, so the cards should be Completed. The 2 cards at Attended Training belong to leaders who are also now leading groups; advance them through Launched and Complete them. Effect: 10 open cards → 3. *Verified November 20, 2026 against the public Fall 2026 roster (goldencity.church/groups/fall2026, the roster source of truth): all 7 leaders are listed leading groups that began in October.*
+1. **Complete seven cards for leaders on the published Fall roster.** Five cards were already at Small Group Launched and two were at Attended Training before the November 20 cleanup. The roster check established published assignments. The [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] tracks confirmed first gatherings. The audit expected these changes to reduce the open count from ten to three.
 1b. **Backfill the missing leader records.** The same roster check found six people publicly leading Fall 2026 groups (the Erie City Group pair, the Run Club pair, and the co-leaders of the Westminster City Group and the Women's Collective) who have **no card in this workflow at all** — neither open nor completed. Add a card for each and complete it, so the pipeline record matches who actually leads. Whether any of them passed through cards later removed is itself part of the record gap.
 2. **Decide the remaining 3, one by one.** One card has sat at Interviewed since early September (advance, pause with a note, or remove — Paul's call). One Welcome-stage card is an October Serve Team Interest submission awaiting a decision. One Welcome-stage card is the last residue of the Connection Card misrouting: a Launch Sunday newcomer whose contact details are now on file — send the participant Groups Introduction (the fixed template, through the usual email checks), remove the leader-workflow card, and let Find a Small Group be the home if placement follow-up is wanted.
 3. **Turn on overdue marking.** "Mark overdue after" is off on every step, which is why September cards sat invisibly for months. Proposed: 7 days at Welcome Email / Call, 14 days at Interviewed and Attended Training, 7 days at Small Group Launched.
@@ -33,7 +33,7 @@ Fix what is stale or fragile in the two live People workflows, then add workflow
 
 ### Not Paul's to fix
 
-12. **The Connection Card routing (BWR-021)** still belongs to Russ or an organization administrator; the November 20 audit confirms the form still does not appear in Paul's account. Nothing in Part 1 depends on it once fix 2 clears the last misfiled card.
+12. **Connection Card routing at the audit date (BWR-021).** On November 20 the form was outside Paul's account. Russ owns the public participant system under DEC-032. The final misfiled card was cleared during the cleanup. The [[07 Operations/Workflows/Planning Center Groups|operating procedure]] records Paul's November 23 confirmation that Planning Center is current.
 
 ## Part 2 — New workflows for growth
 
@@ -64,7 +64,7 @@ Fix what is stale or fragile in the two live People workflows, then add workflow
 ### Candidates considered and not proposed
 
 - **A per-member welcome workflow for every group join.** Join requests already land with group leaders in Groups, and Planted carries its own approved welcome path. A People workflow card for every new member would duplicate both, add manual card creation at the exact moment of growth, and drift toward tracking people rather than supporting leaders. The manual route wins.
-- **A separate class-participant workflow.** Planted is the only live class and has its own intake and communication workflow. When a second class launches, reuse workflow B's shape for its leader and Planted's pattern for participants rather than building a class workflow now.
+- **A separate class-participant workflow.** Planted is the first Bible Club offering and has its own intake and communication workflow. A future offering can reuse those patterns when needed.
 
 ## Boundaries
 

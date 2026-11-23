@@ -8,7 +8,7 @@ Remaining implementation: exact Collaboration times and arrangements; exact seas
 
 ## Document Status
 
-**Reviewed August 10 and reconciled November 16, 2026 through DEC-078 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); October direction now governs Collective resources and gathering shape (DEC-067, DEC-076), the Groups resource library and communication work (DEC-071–075), and the GCC Group Leader Agreement with its offerings/support-raising amendment (DEC-077–078). No decision after DEC-078 is recorded. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
+**Reviewed August 10 and reconciled November 16, 2026 through DEC-078 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); October direction now governs Collective resources and gathering shape (DEC-067, DEC-076), the Groups resource library and communication work (DEC-071–075), and the GCC Group Leader Agreement with its offerings/support-raising amendment (DEC-077–078). The Active Decision Register carries later direction through [[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087]], including January 30 and February 7. Spring offering decisions and final readiness remain open. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
 
 ## Confirmed Ministry Language
 
@@ -73,7 +73,7 @@ Russ or his designated pastor appoints or removes primary leaders and instructor
 
 - **Approval status:** Partially confirmed August 5, 2026 under DEC-028. Primary and backup contacts and the group leader policies confirmed October 3, 2026 under DEC-077; church-wide policy locations remain open
 - **Launch priority:** Launch-blocking
-- **Decision needed:** Identify the governing church policies and approve minimum boundaries for care, reporting, home meetings, minors, vulnerable people, emergencies, confidentiality, and participant information.
+- **Decision needed:** Identify the governing church policies and resolve the remaining reporting, incident, location, participant-data, and escalation questions under BWR-007 and BWR-041.
 - **Why it matters:** People should receive compassionate care without leaders promising secrecy, acting beyond their role, or storing sensitive information in inappropriate systems.
 - **Formation relationship:** Faithful belonging requires safety, truth, accountability, and appropriate pastoral care.
 
@@ -93,7 +93,7 @@ Russ or his designated pastor appoints or removes primary leaders and instructor
 
 These recommendations are not a substitute for church policy, legal guidance, or mandated-reporting requirements.
 
-### Existing recorded direction
+### August 5 record — historical
 
 - [ ] Governing policies identified
 - [ ] Primary and backup escalation contacts named
@@ -117,9 +117,9 @@ These recommendations are not a substitute for church policy, legal guidance, or
 
 #### 2. Escalation coverage
 
-- [ ] Name the primary and backup pastoral/safeguarding escalation contacts.
+- [x] Name the primary and backup pastoral contacts. Russ is primary and Paul is backup under DEC-077.
 - [ ] Confirm the approved route for immediate danger, suspected abuse, participant crisis or self-harm concern, medical emergency, leader misconduct—including a route when the normal recipient is implicated—Planning Center or data concerns, unsafe locations, and after-hours concerns where applicable. One approved role may cover multiple functions.
-- [ ] Confirm the access-controlled channel through which leaders receive names and contact details.
+- [ ] Confirm the private delivery channel for the named contacts and record when leaders receive them.
 
 #### 3. Mandatory-reporting authority
 
@@ -144,8 +144,8 @@ These recommendations are not a substitute for church policy, legal guidance, or
 - [ ] Name the pastoral approver for the completed package and its role-specific use.
 
 - **Governing documents / owners:**
-- **Primary escalation:**
-- **Backup / after-hours escalation:**
+- **Pastoral escalation confirmed (DEC-077):** Russ primary, Paul backup
+- **After-hours route, if needed, and private delivery confirmation:**
 - **Mandatory-reporting authority or guidance owner:**
 - **Incident form and restricted system:**
 - **Current applicability decisions:**

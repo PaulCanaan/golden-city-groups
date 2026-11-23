@@ -174,7 +174,7 @@ Safeguarding, pastoral escalation, accountable leadership, and truthful communic
 
 ## Spring 2027 Direction
 
-Spring 2027 primarily focuses on expanding intentional leader development and multiplication. CoJourner supplies the approved four-session biweekly group-leader training architecture over approximately two months, with completion targeted before the Spring 2027 group launch. Curriculum details, exact dates, facilitator, location, participant and completion requirements, assessment, commissioning relationship, Planning Center tracking, multiplication targets, offerings, and public commitments remain unresolved.
+Spring 2027 primarily focuses on expanding intentional leader development and multiplication. The [[07 Operations/Annual Rhythm/2027/Spring 2027|spring plan]] sets Group Launch for February 7 and the pre-launch Group Leader Collaboration for January 30 (DEC-087). CoJourner supplies the approved four-session biweekly group-leader training architecture over approximately two months, with completion targeted before launch. Training dates, curriculum details, facilitator, location, participant and completion requirements, assessment, commissioning relationship, Planning Center tracking, multiplication targets, and specific offerings remain unresolved.
 
 ## Open Launch Decisions
 

@@ -3,10 +3,10 @@
 ## Review Status
 
 - **Review date:** November 19, 2026
-- **Scheduled for:** 2026-11-16 at 7:00 AM America/Denver (catch-up). The November 2 occurrence is also covered here.
-- **Actual start:** November 19, 2026, as a repository catch-up pass requested by Paul on November 19.
+- **Related scheduled reviews:** [[2026-11-02 Groups Ministry Biweekly Review|November 2]] and [[2026-11-16 Groups Ministry Biweekly Review|November 16]], both delivered by the Mac runner.
+- **Actual start:** November 19, 2026, as a repository follow-up requested by Paul.
 - **Review window:** After the October 19 repository pass through November 19, 2026. The October 19 pass is the comparison baseline; its required human review remains in progress, and its unanswered Paul and Russ questions are carried forward below.
-- **Missed cycles:** November 2 and November 16 have no report in version control. Paul's Mac review runner may hold local reports for both under `09 Reports/Biweekly Reviews/` that were never committed (the unmerged Mac-edits pull request already links to them from the index). Following the procedure, this one catch-up report covers both missed cycles; no historical report was reconstructed. If the local reports are later committed, reconcile them against this report rather than treating either as superseded.
+- **November 23 reconciliation:** The November 19 pass was originally recorded as a catch-up because the scheduled November 2 and 16 reports were absent from Git. Both reports are present in the local vault, and the runner's success receipt confirms November 16 delivery. Their records stand for the scheduled occurrences. This follow-up preserves the broader comparison and later evidence below, including the November 20 addendum.
 - **Reviewed by:** Claude repository execution for Paul and Russ review
 - **Review status:** In Progress — repository execution complete; required human review outstanding
 - **Previous review:** [[2026-10-19 Groups Ministry Biweekly Review|October 19, 2026 — repository execution complete; human review in progress]]
@@ -24,6 +24,10 @@ Paul answered three of this review's questions on the evening of November 20. On
 - **Women's Collective schedule — BWR-029:** the Women's Collective will not meet the week of November 23, so Session 4 is no longer November 24. Men's will then be two weeks ahead of Women's in the course, and Paul reports Russ says that is okay. The Women's Session 4 date and both Collectives' Session 5–6 dates are not yet recorded.
 
 Still open: Planted and October 4/11 outcomes, Collective delivery and teaching assignments, and the Session 5–6 dates.
+
+## November 23 Groups OS write-back
+
+Paul confirmed Planning Center and the resources library are current. The [[07 Operations/Workflows/Planning Center Groups|Planning Center procedure]] carries the November 20 aggregate workflow evidence, and the [[00 Dashboard/Biweekly Review Queue|queue]] records the closure of BWR-005 and the remaining evidence for BWR-021 and BWR-044. The current queue supersedes the carry-forward snapshot below.
 
 ## Current Review Emphasis
 

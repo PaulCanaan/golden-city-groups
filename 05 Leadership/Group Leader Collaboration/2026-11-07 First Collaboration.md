@@ -50,7 +50,7 @@ Record only non-sensitive facts here. What leaders share stays with them.
 - **Overall:** Paul reports the first Collaboration went great.
 - **Leaders attending (count):** not reported
 - **Topics covered:** not reported
-- **Next Collaboration details (three a year; the next is before the Spring 2027 launch, DEC-086):** date, time, and location not set
+- **Next Collaboration:** [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration|January 30 Group Leader Collaboration]]. Time and venue are open.
 - **Follow-up for the ministry:** none reported
 
-Then update the [[07 Operations/Calendar|Calendar]], BWR-031, and the rhythm table in [[05 Leadership/Group Leader Collaboration/About Collaboration#Rhythm|About Collaboration]].
+Then update the [[00 Dashboard/Calendar|Calendar]], BWR-031, and the rhythm table in [[05 Leadership/Group Leader Collaboration/About Collaboration#Rhythm|About Collaboration]].

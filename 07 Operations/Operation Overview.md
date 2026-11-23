@@ -10,7 +10,7 @@ Fall 2026 operations prioritize moving Launch Team interest through the DEC-042 
 
 Spring 2027 operations prioritize intentional leader development and multiplication through the approved [[CoJourner]] pathway. Leader-resource and SOP development follows the research roadmap in [[Resources Overview#Leader Resources and SOP Research Roadmap|Resources Overview]].
 
-- [[07 Operations/Calendar]]
+- [[00 Dashboard/Calendar]]
 - [[07 Operations/Workflows/Planning Center Groups]]
 - [[07 Operations/Workflows/Forms]]
 - [[07 Operations/Workflows/Attendance]]
@@ -30,7 +30,7 @@ Spring 2027 operations prioritize intentional leader development and multiplicat
 - [[10 Templates/Templates Overview|Templates Overview]] — one entry point for all reusable templates.
 
 - [[Home]] — Operation is a top-level area of the groups and classes ministry hub.
-- [[07 Operations/Calendar]] — Master schedule for semesters, launches, and key ministry dates.
+- [[00 Dashboard/Calendar]] — Master schedule for semesters, launches, and key ministry dates.
 - [[07 Operations/Workflows/Planning Center Groups]] — Platform reference and end-to-end operating instruction for access, leader interest, group setup, enrollment, events, attendance, communication, reporting, and archiving.
 - [[07 Operations/Workflows/Forms]] — Intake and placement procedures for Team Night interest and public Church Center requests.
 - [[07 Operations/Workflows/Attendance]] — Weekly Planning Center attendance procedure and pastoral boundaries.

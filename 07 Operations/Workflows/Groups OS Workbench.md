@@ -58,6 +58,10 @@ Use the separate pre-enhancement ZIP for the changed workspace/configuration bas
 - [[06 Resources/Curriculum Development/Ministry Curriculum Development|Curriculum development]]
 - [[06 Resources/Curriculum Development/AI Agent Roles|Existing AI roles]]
 
+## Ministry Calendar
+
+Open [[00 Dashboard/Calendar|Calendar]] from Home or the dashboard. The enabled Dataview plugin renders the month and agenda from event notes. Click a date with a dot to open its first event, or use the agenda to open any event on that date. Edit the event note to update the views.
+
 ## Curriculum Board
 
 [[00 Dashboard/Curriculum Board|Curriculum Board]] is Paul's visual working view of existing research, synthesis, editable drafts, and resource-library guidance. It uses the installed Kanban plugin. Cards link to real files; no source files are moved or duplicated by the board. The four columns describe workspace homes rather than course approval or event execution.

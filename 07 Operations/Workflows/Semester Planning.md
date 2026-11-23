@@ -43,7 +43,7 @@ For Spring 2027, the primary objective is to expand intentional leader developme
 
 Use the approved [[07 Operations/Annual Rhythm/Annual Calendar#Approved Seasonal Rhythm|Annual Calendar seasonal rhythm]] (DEC-080). Plan February and September launches while leaving their likely first-week dates tentative until confirmed. Prepare for lighter June–August group participation, specific church summer classes, and the January prayer and fasting season. Keep community, prayer, and Scripture in activity-based gatherings (DEC-083). Reconcile CoJourner's pre-spring preparation with actual launch and holiday dates through BWR-019 and BWR-042.
 
-Confirmed dates appear in [[07 Operations/Calendar]]. All other milestones remain pending until assigned and approved.
+Confirmed dates appear in [[00 Dashboard/Calendar]]. All other milestones remain pending until assigned and approved.
 
 ## Notes
 
@@ -52,7 +52,7 @@ Confirmed dates appear in [[07 Operations/Calendar]]. All other milestones remai
 - [[Operation Overview]] — Semester planning is a core operations process.
 - [[10 Templates/Communication/Group Leader Communication Library]] — Communication plans are developed during semester planning.
 - [[07 Operations/Workflows/Group Launch Overview]] — Launch planning is a key output of semester planning.
-- [[07 Operations/Calendar]] — Planned activities are scheduled on the calendar.
+- [[00 Dashboard/Calendar]] — Planned activities are scheduled on the calendar.
 - [[Groups Overview]] — Plan launches and rhythms for men's, women's, and city groups.
 - [[Classes Overview]] — Future Class planning under Bible Clubs.
 - [[CoJourner]] — Approved leader-development pathway for Spring 2027 expansion.

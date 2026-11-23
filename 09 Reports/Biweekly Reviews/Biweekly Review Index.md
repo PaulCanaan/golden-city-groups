@@ -1,12 +1,12 @@
 # Biweekly Review Index
 
-The [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]] is the canonical procedure. The [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] carries unresolved work; these dated reports preserve completed review history.
+The [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]] is the canonical procedure. The [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] carries unresolved work; these dated reports preserve scheduled runs and follow-ups. Repository execution and human review are recorded separately.
 
 ## 2026
 
-- [[2026-11-19 Groups Ministry Biweekly Review|November 19, 2026 — Catch-up for the November 2 and November 16 occurrences]] — repository execution complete; human review in progress
-- [[2026-11-16 Groups Ministry Biweekly Review|November 16, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress (report file is on Paul's Mac and not yet committed)
-- [[2026-11-02 Groups Ministry Biweekly Review|November 2, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress (report file is on Paul's Mac and not yet committed)
+- [[2026-11-19 Groups Ministry Biweekly Review|November 19, 2026 — Repository follow-up]] — overlapping comparison window and November 20 addendum. Scheduled runs are listed below.
+- [[2026-11-16 Groups Ministry Biweekly Review|November 16, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress (report available in the local vault)
+- [[2026-11-02 Groups Ministry Biweekly Review|November 2, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress (report available in the local vault)
 - [[2026-10-19 Groups Ministry Biweekly Review|October 19, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress
 - [[2026-10-05 Groups Ministry Biweekly Review|October 5, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress
 - [[2026-09-21 Groups Ministry Biweekly Review|September 21, 2026 — Scheduled occurrence]] — repository execution complete; human review in progress

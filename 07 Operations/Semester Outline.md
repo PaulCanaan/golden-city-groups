@@ -1,6 +1,6 @@
 # Semester Outline
 
-Connected to [[07 Operations/Calendar]]
+Connected to [[00 Dashboard/Calendar]]
 
 ## Document Status
 
@@ -21,10 +21,10 @@ Future seasons follow the approved [[07 Operations/Annual Rhythm/Annual Calendar
 
 ## Key dates
 
-See [[07 Operations/Calendar]]. Training, assignment, commissioning, and offering start dates remain pending.
+See [[00 Dashboard/Calendar]]. Training, assignment, commissioning, and offering start dates remain pending.
 
 ## Connections
 
-- [[07 Operations/Calendar]] — Outline provides the structure behind calendar key dates.
+- [[00 Dashboard/Calendar]] — Outline provides the structure behind calendar key dates.
 - [[Operation Overview]] — Part of the operations toolkit for semester rhythm.
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Current semester outline with fall launch priorities.

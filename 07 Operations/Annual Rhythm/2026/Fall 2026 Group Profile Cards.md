@@ -180,4 +180,4 @@ If a group's details change before the cards are used, change the website card f
 
 - [[12 Ministry Website/Groups Page|Groups Page]] — the published directory these cards mirror.
 - [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] — step 6 makes each group's table card.
-- [[07 Operations/Calendar|Calendar]] — Group Launch Sunday and each group's start date.
+- [[00 Dashboard/Calendar|Calendar]] — Group Launch Sunday and each group's start date.

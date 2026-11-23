@@ -1015,6 +1015,18 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Evidence:** Paul's message in the Groups ministry channel on November 16, 2026: "The Group Leader Collaboration is decided to be three times a year before the spring and fall launches and before summer activities. So don't worry about the next leader gathering for now." Asked whether to record it as a decision, he answered, "Record it."
 - **Implications:** Each Collaboration prepares leaders for the next season of the [[07 Operations/Annual Rhythm/Annual Calendar|annual rhythm]] (DEC-080): the February spring launch, summer from June to August, and the September fall launch. No further Collaboration is planned for Fall 2026; the next one comes before the Spring 2027 launch. The leader guides, calendar, dashboards, leader-support pages, and BWR-031 drop the first and third Saturday morning rhythm. Paul shares each gathering's details in the leaders' Church Center group chat (DEC-057).
 - **Boundary:** This sets how often Collaborations meet and where they fall in the year. It does not set dates, day, time, locations, cost, or format for any gathering. DEC-079's November 7, 2026 first gathering stays as history, and DEC-056's purpose and pastoral boundaries stand. CoJourner remains under DEC-045: one Collaboration before the spring launch cannot hold its four sessions on its own (BWR-019). Whether Russ reviewed this change is not recorded.
+- **Subsequent direction:** [[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087]] sets the pre-spring gathering for January 30, 2027.
+
+### DEC-087 — Spring 2027 Group Launch and Leader Collaboration
+
+- **Decision:** Spring Group Launch is Sunday, February 7, 2027. Russ will promote the launch roughly two weeks beforehand at church or on social media. The pre-spring Group Leader Collaboration is Saturday, January 30, 2027, to share vision, equip leaders, and prepare them for the spring launch.
+- **Status:** Confirmed operational dates. The exact promotion date and channel and the Collaboration time and venue remain open.
+- **Date and authority:** November 23, 2026. Paul supplied the dates and reported Russ's promotion plan. Calendar coordination falls within Paul's operational responsibility under DEC-021.
+- **Domain:** Launch
+- **Owner:** Paul coordinates preparation. Russ leads promotion.
+- **Evidence:** Paul's November 23, 2026 update to the Groups OS.
+- **Implications:** The dates implement the seasonal rhythm under DEC-080 and the Collaboration rhythm under DEC-086. See the [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027 plan]], [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration|January 30 Group Leader Collaboration]], and [[07 Operations/Calendar Events/Spring 2027 Launch Day|February 7 Spring Group Launch]].
+- **Boundary:** DEC-021 governs final readiness, DEC-027 governs appointments, and DEC-045 governs CoJourner preparation.
 
 ## Open Questions
 

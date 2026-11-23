@@ -4,7 +4,7 @@ From [[Leadership Overview|Leadership]]
 
 ## Document Status
 
-**Home for everything about Group Leader Collaboration; not a decision record.** Russ and Paul approved Collaborations on September 25, 2026 ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]). On October 26, 2026 Russ moved the first gathering to **Saturday evening, November 7, 2026**, still a dinner at Paul's home, and approved first and third Saturday mornings for later gatherings (DEC-079). On November 16, 2026 Paul reported the current rhythm: Collaborations meet **three times a year, before the spring and fall launches and before summer activities** (DEC-086). Dates, times, locations, and cost for each gathering remain open. Attending a Collaboration is not appointment, and a Collaboration is not the pastoral-care or safeguarding escalation path.
+**Home for everything about Group Leader Collaboration; not a decision record.** Russ and Paul approved Collaborations on September 25, 2026 ([[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]]). On October 26, 2026 Russ moved the first gathering to **Saturday evening, November 7, 2026**, still a dinner at Paul's home, and approved first and third Saturday mornings for later gatherings (DEC-079). On November 16, 2026 Paul reported the current rhythm: Collaborations meet **three times a year, before the spring and fall launches and before summer activities** (DEC-086). The next gathering is the [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration|January 30 Group Leader Collaboration]]. Its time, venue, and cost are open. Attending a Collaboration is not appointment, and a Collaboration is not the pastoral-care or safeguarding escalation path.
 
 ## What It Is
 
@@ -42,9 +42,10 @@ All current group leaders. The leaders' Church Center group chat (DEC-057) carri
 | Gathering | Date | Format | Status |
 |---|---|---|---|
 | [[05 Leadership/Group Leader Collaboration/2026-11-07 First Collaboration\|First Collaboration]] | Saturday evening, November 7, 2026 | Dinner at Paul's home | Held; Paul reports it went great (November 20) |
+| [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration\|Pre-spring Collaboration]] | Saturday, January 30, 2027 | Share vision, equip leaders, and prepare them for the spring launch. | Date confirmed (DEC-087). Time and venue open. |
 | Later gatherings | Three times a year: before the spring launch, before summer activities, and before the fall launch | Date, time, and location set for each gathering | Rhythm reported by Paul November 16 (DEC-086); replaces the first and third Saturday mornings (DEC-079) |
 
-Each Collaboration prepares leaders for the season ahead in the [[07 Operations/Annual Rhythm/Annual Calendar|annual rhythm]] (DEC-080). The next one comes before the Spring 2027 launch; no further gathering is planned for Fall 2026. Confirm each gathering's date, time, and place before sharing it in the leaders' group chat. This leader-support rhythm does not change the first/third-Monday Biweekly Ministry Review.
+Each Collaboration prepares leaders for the season ahead in the [[07 Operations/Annual Rhythm/Annual Calendar|annual rhythm]] (DEC-080). The January 30 Collaboration prepares leaders for the [[07 Operations/Calendar Events/Spring 2027 Launch Day|February 7 Spring Group Launch]]. Confirm each gathering's date, time, and place before sharing it in the leaders' group chat. This leader-support rhythm does not change the first/third-Monday Biweekly Ministry Review.
 
 ## Boundaries
 
@@ -67,11 +68,11 @@ Each Collaboration prepares leaders for the season ahead in the [[07 Operations/
 ## Open Questions
 
 - Who decided the three-times-a-year rhythm, and when (DEC-086).
-- Date, time, and location of each gathering, starting with the one before the Spring 2027 launch.
+- Time, venue, and session details for January 30. Dates for the summer and fall Collaborations.
 - Cost, and whether the ministry covers it.
 - Whether CoJourner runs within Collaborations, and for which leaders (DEC-045, BWR-019).
 
-Operational follow-up is tracked in [[00 Dashboard/Biweekly Review Queue|BWR-031]].
+Operational follow-up for January 30 is tracked in [[00 Dashboard/Biweekly Review Queue|BWR-045]]. The first Collaboration is closed under BWR-031.
 
 ## Connections
 

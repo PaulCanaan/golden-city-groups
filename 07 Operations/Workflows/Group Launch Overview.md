@@ -1,6 +1,6 @@
 # Group Launches
 
-Connected to [[07 Operations/Workflows/Semester Planning]] and [[07 Operations/Calendar]]
+Connected to [[07 Operations/Workflows/Semester Planning]] and [[00 Dashboard/Calendar]]
 
 ## Document Status
 
@@ -50,6 +50,6 @@ Use [[07 Operations/Workflows/Launch Checklist]] for the operational gates that 
 - [[07 Operations/Workflows/Group Launch MOC.canvas|Group Launch MOC]] — visual map of the October 4 Group Launch, from governing decisions to after-launch support.
 - [[Operation Overview]] — Group launches are a core operations activity each semester.
 - [[07 Operations/Workflows/Semester Planning]] — Launch plans are developed during semester planning.
-- [[07 Operations/Calendar]] — Launch dates and milestones appear on the ministry calendar.
+- [[00 Dashboard/Calendar]] — Launch dates and milestones appear on the ministry calendar.
 - [[Groups Overview]] — Distinguishes planned group forms from active offerings.
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Records confirmed Team Nights and pending fall milestones.

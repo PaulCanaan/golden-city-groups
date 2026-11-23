@@ -2,11 +2,21 @@
 
 ## Document Status
 
-**Seasonal direction and primary objective confirmed; implementation open.** Spring runs February–May, with group launch in February, likely the first week (DEC-080, October 26). The exact date is tentative. Intentional leader development and multiplication remain priorities; no particular offering, cohort, or leadership assignment is approved through this page.
+**Spring Group Launch is Sunday, February 7, 2027.** The spring season runs February–May (DEC-080). Intentional leader development and multiplication remain priorities. Specific offerings, leader assignments, and final readiness follow their existing approval requirements.
+
+## Key Dates
+
+| Date | Milestone | Plan |
+|---|---|---|
+| Roughly two weeks before launch | Launch promotion | Russ will promote the launch roughly two weeks beforehand at church or on social media. The exact date and channel are open. |
+| Saturday, January 30, 2027 | [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration\|Group Leader Collaboration]] | Share vision, equip leaders, and prepare them for the spring launch. Time and venue are open. |
+| Sunday, February 7, 2027 | [[07 Operations/Calendar Events/Spring 2027 Launch Day\|Spring Group Launch]] | Confirmed launch date. Offering readiness follows DEC-021. |
+
+Paul supplied the dates and promotion plan on November 23, 2026 ([[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087]]).
 
 ## Launch Preparation
 
-Complete the four-session CoJourner preparation before the actual February launch, as required by DEC-045. Its approximately two-month preparation window needs to be reconciled with holidays and January's church-wide prayer and fasting season. The Group Leader Collaboration before the spring launch (DEC-086) may host training, but one gathering cannot hold all four sessions, so the cohort still needs its own schedule. That Collaboration's date is not set. Confirm source material, facilitator, dates, location, and completion expectations with Russ (BWR-019, BWR-042).
+Complete the four-session CoJourner preparation before the February 7 launch, as required by DEC-045. Its approximately two-month preparation window needs to be reconciled with holidays and January's church-wide prayer and fasting season. The January 30 Collaboration may include equipping. The four-session CoJourner pathway still needs its own schedule. Confirm source material, facilitator, dates, location, and completion expectations with Russ (BWR-019, BWR-042).
 
 Groups may keep meeting during January's 21 days of prayer and fasting or wait until spring launch. Coordinate the church's actual dates and communicate each group's plan.
 

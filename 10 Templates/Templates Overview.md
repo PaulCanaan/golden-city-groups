@@ -29,6 +29,7 @@ Find what to send, ask, or record under 10 Templates. Follow the associated [[07
 
 ## Records
 
+- [[10 Templates/Records/Calendar Event|Calendar Event]] — dated ministry milestone, status, and source for the [[00 Dashboard/Calendar|Calendar]].
 - [[10 Templates/Records/Group Record|Group Record]] — existing non-sensitive local working schema; not the authoritative roster.
 - [[10 Templates/Records/Group Leader Record|Group Leader Record]] — existing local working schema; no sensitive assessment narrative.
 - [[10 Templates/Records/Inbox Item|Inbox Item]] — temporary capture and authority/filing status.

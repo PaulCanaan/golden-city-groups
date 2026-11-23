@@ -66,7 +66,7 @@ Process the [[00 Dashboard/Inbox|Inbox]] during each review. Between reviews, fi
 2. Inspect meaningful repository changes across governance, readiness, operations, leadership, communication, safeguarding, resources, calendars, and ministry-area pages. Flag stale TODOs, conflicting statuses, and missing next actions.
 3. Reconcile every queue item. Review owners, deadlines, status changes, blockers, and the leader pipeline; every unresolved item keeps a dependency, prioritized next action, and next review date.
 4. Reconcile events and milestones whose dates entered the window or are now past. Do not infer outcomes. Ask Paul only for missing facts or decisions, preserve confirmed history, and clean up stale future tense.
-5. Review the next two to four weeks of the calendar and critical path, including offering readiness, leader preparation, systems, communication, and shared dependencies.
+5. Review the next two to four weeks of the [[00 Dashboard/Calendar#Upcoming|calendar agenda]] and critical path, including offering readiness, leader preparation, systems, communication, and shared dependencies.
 6. Capture decisions from Paul, Russ, and staff meetings. Record approved direction in the Decision Log and Decision History before updating dependent sources; keep expressions of interest and proposals distinct from appointments or approval.
 7. Assess each ministry area and the actual critical path using the readiness vocabulary in the Launch Readiness Dashboard. Surface what moved, what is blocked, and the few highest-leverage next actions.
 8. Update canonical source documents, then the Launch Readiness Dashboard, then the primary dashboard. File or archive resolved Inbox and event material without deleting ministry evidence.
@@ -119,7 +119,9 @@ The primary dashboard links only the newest review, current window, next review,
 
 The LaunchAgent checks at login, daily at 7:00 AM system time, and hourly for catch-up. These checks invoke Codex only when the latest first/third-Monday 7:00 AM **America/Denver** occurrence is due and has no successful run. The Mac currently uses America/Denver; the Python date guard uses that named zone independently, including daylight-saving changes. There is still only one ministry-review cadence. Keep the Mac on, logged in, and connected to the internet; the desktop app itself is not required. An overdue run is attempted on a later check when the Mac is available. Multiple missed cycles are covered by one current catch-up report, not fabricated historical reports.
 
-Each report uses its actual execution date and records `Scheduled for` separately. The runner resumes an interrupted same-day report, prevents concurrent runner instances, and records success only after Codex exits successfully and the expected report contains the scheduled occurrence. This records delivery, not the quality or human approval of the review. A failed run remains due for a later check. Human review remains `In Progress`.
+Each scheduled report uses its actual execution date and records `Scheduled for` separately. Before starting Codex, the runner checks the local success receipt and dated reports for the due occurrence. A report with that occurrence and `Review execution: Complete` is evidence of delivery even when the receipt is missing. Before a manual catch-up, check the review index and available vault reports for the occurrence. Record an additional pass as a follow-up when the scheduled report already exists.
+
+The runner resumes an interrupted same-day report, prevents concurrent runner instances, and writes its success receipt after Codex exits successfully and the expected report records the occurrence and completed execution. An incomplete run remains due. Human review remains `In Progress` until Paul and Russ complete it.
 
 ### Local operation and verification
 

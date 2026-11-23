@@ -8,7 +8,7 @@
 
 ## Why This Requires Attention
 
-DEC-027, DEC-028, and DEC-033 provide a minimum boundary: leaders are appointed and prepared, do not promise absolute confidentiality, do not act as sole crisis responders, escalate urgent and significant concerns, confirm applicable safeguards, use role-based access, and keep sensitive details out of general systems. The repository still lacks the governing policy locations, named contacts, approved reporting/incident path, role-specific conduct and removal process, home/location standard, and participant-data lifecycle needed to implement that boundary.
+DEC-027, DEC-028, and DEC-033 provide a minimum boundary: leaders are appointed and prepared, do not promise absolute confidentiality, do not act as sole crisis responders, escalate urgent and significant concerns, confirm applicable safeguards, use role-based access, and keep sensitive details out of general systems. The repository still lacks the governing policy locations, confirmation that leaders received the approved contacts, approved reporting/incident path, role-specific conduct and removal process, home/location standard, and participant-data lifecycle needed to implement that boundary.
 
 City Group host/leader approval and operational training are therefore blocked. Public listing and participant placement are also blocked by wider offering and system gaps. Planted's curriculum and leader are approved, but its safety/escalation gate and operational readiness remain incomplete.
 
@@ -22,10 +22,9 @@ City Group host/leader approval and operational training are therefore blocked. 
 
 ### Escalation contacts
 
-- Who is the primary pastoral/safeguarding escalation contact?
-- Who is the backup, and is a separate after-hours route required?
+- Russ is the primary pastoral contact and Paul is the backup (DEC-077). Is a separate after-hours route required?
 - Who receives participant-crisis, leader-misconduct, location-safety, and Planning Center/data concerns?
-- Through what access-controlled channel should leaders receive names and contact details?
+- Through what private channel will leaders receive the approved contacts, and where will delivery be recorded?
 
 ### Mandatory reporting
 
@@ -107,13 +106,13 @@ Paul needs either the current controlled document/link or an explicit confirmati
 - privacy, participant-data, and records-retention policy;
 - screening/background-check procedure;
 - home/facility and transportation requirements, if applicable;
-- approved escalation roster and backup/after-hours coverage;
+- confirmation of private contact delivery and any applicable after-hours coverage;
 - Planning Center permission and data-governance standards.
 
 ## Suggested Review Sequence
 
 1. Locate governing documents and name their owners; explicitly record what does not yet exist.
-2. Name primary, backup, urgent, misconduct/recusal, data, and after-hours routes as applicable.
+2. Give leaders the approved contacts privately and confirm applicable urgent, misconduct/recusal, data, and after-hours routes.
 3. Obtain authoritative mandatory-reporting/legal guidance and distinguish it from internal escalation.
 4. Approve the incident record location and the minimum data/access/retention boundaries.
 5. Decide role conduct/removal, home/location, and conditional minors/vulnerable-person requirements.
