@@ -12,7 +12,11 @@
 | Saturday, January 30, 2027 | [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration\|Group Leader Collaboration]] | Share vision, equip leaders, and prepare them for the spring launch. Time and venue are open. |
 | Sunday, February 7, 2027 | [[07 Operations/Calendar Events/Spring 2027 Launch Day\|Spring Group Launch]] | Confirmed launch date. Offering readiness follows DEC-021. |
 
-Paul supplied the dates and promotion plan on November 23, 2026 ([[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087]]).
+Paul reported Russ's approval of the dates and the promotion plan from the November 23, 2026 staff meeting ([[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087]]).
+
+## Flexible 16-week semester
+
+Russ approved a 16-week planning window for Spring 2027 ([[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089]]). Aim for a lighter, enjoyable class that helps people learn more about Jesus. Watching the latest available season of *The Chosen* together is one option. The calendar can make room for dinner events and adjust the spring break week if needed. Set the actual format, viewing arrangements, and dates through seasonal planning.
 
 ## Launch Preparation
 

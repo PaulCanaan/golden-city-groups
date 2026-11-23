@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Bible Club-first curriculum and ministry-development home.** Bible Clubs are a current Groups Ministry branch. Teacher-led Classes remain an approved future development path under Bible Clubs; no Class offering is currently active or approved for launch. This folder does not establish a fourth ministry branch.
+**Bible Clubs are a current Groups Ministry branch.** Teacher-led Classes develop within that branch. Russ approved a Fall 2027 Freedom Class pilot for current group leaders (DEC-088). Specific operating details and readiness remain open.
 
 ## Current Focus — Bible Clubs
 
@@ -17,12 +17,13 @@ Future Classes may become teacher-led, structured environments for topic-based e
 
 Classes should be rigorous without becoming detached academic programs and spiritually formative without treating reflection or emotion as a substitute for careful learning.
 
-Financial classes and marriage classes are approved examples of possible future types, not approved offerings. On September 30, 2026, Russ also mentioned Alpha, Barna resources, and the Freedom course from Church of the Highlands (see DEC-036) as future class ideas; none is approved. Every future Class still requires an owner, teacher, curriculum review, operating plan, participant path, and readiness approval.
+The [[04 Classes/Curriculum/Freedom Class|Freedom Class]] pilot helps equip future facilitators. Alpha, Barna resources, and financial and marriage classes remain future ideas. Each offering needs an owner, instructor, curriculum review, operating plan, participant path, and readiness approval.
 
 ## Curriculum
 
 - [[04 Classes/Curriculum/Curriculum Overview|Curriculum Overview]]
 - [[04 Classes/Curriculum/Planted Bible Study|Planted Bible Study]]
+- [[04 Classes/Curriculum/Freedom Class|Freedom Class]] — Fall 2027 leader pilot
 
 ## Archive
 

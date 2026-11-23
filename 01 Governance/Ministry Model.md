@@ -60,11 +60,11 @@ Bible Clubs contribute:
 
 Planted is the first confirmed Bible Club offering. Paul leads the twelve-week study scheduled for Monday evenings from October 12, 2026 (DEC-066). Pastoral and theological curriculum review and required-materials review are complete. The October 12 first-gathering outcome, specific venue, capacity, participant path, support role, complete session calendar, and final readiness approval remain open.
 
-Under DEC-054, Planted is seeker- and new-believer-friendly and recurs every fall. DEC-081 further names new believers and new members joining Golden City as a particular audience: Planted helps them take root in faith and church community. The Rooted comparison recorded October 26 clarifies purpose without changing the twelve-week curriculum or creating a membership requirement. In Spring 2027 the following curriculum may be *Covenant, Kingdom, and People of God*; that is planning direction, not an approved offering. People who complete Planted may be considered to lead it in the future, subject to DEC-027.
+Under DEC-054, Planted is seeker- and new-believer-friendly and recurs every fall. DEC-081 further names new believers and new members joining Golden City as a particular audience: Planted helps them take root in faith and church community. The Rooted comparison recorded October 26 clarifies purpose without changing the twelve-week curriculum or creating a membership requirement. The Covenant study and *God With Us* are deeper fall and winter curriculum options (DEC-089). People who complete Planted may be considered to lead it in the future, subject to DEC-027.
 
 #### Future Classes
 
-Bible Clubs may later develop teacher-led Classes focused on a topic or area of growth. Financial classes and marriage classes are examples of the type of future offering that may be considered; they are not approved launch offerings.
+Teacher-led Classes develop within Bible Clubs and focus on a topic or area of growth. Russ approved a Fall 2027 [[04 Classes/Curriculum/Freedom Class|Freedom Class]] pilot for group leaders (DEC-088). Financial and marriage classes remain future examples.
 
 Classes provide:
 
@@ -119,7 +119,7 @@ No environment is a bureaucratic prerequisite for another. People may participat
 
 ## Seasonal Rhythm
 
-Use the approved [[07 Operations/Annual Rhythm/Annual Calendar#Approved Seasonal Rhythm|Annual Calendar seasonal rhythm]] (DEC-080): February–May, lighter June–August group life alongside church summer classes, September–early December, and January's 21 days of prayer and fasting with optional group meetings. February and September launches are likely in the first week; exact dates and offerings remain open.
+Use the approved [[07 Operations/Annual Rhythm/Annual Calendar#Approved Seasonal Rhythm|Annual Calendar seasonal rhythm]] (DEC-080, DEC-089). Spring is lighter and flexible, summer is low-commitment with optional local outreach, and fall and winter make room for deeper study. January prayer and fasting and optional group meetings remain part of the calendar.
 
 ## Participant Journey
 
@@ -183,7 +183,7 @@ Under DEC-056, Group Leader Collaborations are gatherings where current leaders 
 - Additional geographic communities
 - A potential Youth City Group, classified under City Groups but still deferred (DEC-022). Run Club and a Young Adults City Group launched as Fall 2026 City Groups ([[08 Archive/Decisions/Decision History#DEC-065 — Fall 2026 Open Groups|DEC-065]])
 - A future featured-groups category, which may be considered later but is not created now
-- Future class ideas Russ mentioned on September 30, 2026: Alpha, Barna resources, and the Freedom course from Church of the Highlands
+- Future class ideas Russ mentioned on September 30, 2026: Alpha and Barna resources
 - Financial and marriage Classes under the Bible Clubs branch
 - Freedom Groups as a potential future featured ministry under the Golden City Church umbrella
 - Other expressions that emerge from real pastoral need and leader capacity

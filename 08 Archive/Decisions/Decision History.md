@@ -386,6 +386,8 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Boundary:** Freedom Groups are not an active Groups Ministry branch or an approved launch offering. The model, adaptation, curriculum, ownership, policy, and readiness would require later review.
 - **Later mention:** On September 30, 2026, Russ named the Freedom course from Church of the Highlands, alongside Alpha and Barna resources, as possible future class ideas. No class is approved. Source: [[2026-09-30 Follow-Up Meeting Minutes#7 — Future Class Ideas|September 30, 2026 Follow-Up Meeting Minutes]].
 
+- **Subsequent direction:** [[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot|DEC-088]] approves a Fall 2027 Freedom Class pilot for group leaders and a conference conclusion for future runs. The earlier featured-ministry idea remains future planning.
+
 ### DEC-037 — Groups Ministry Website Ownership
 
 - **Decision:** Russ will provide Paul with Squarespace access. Paul becomes responsible for maintaining the Groups Ministry pages after access is granted.
@@ -583,6 +585,8 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Evidence:** [[2026-09-25 Staff Meeting Minutes#4 — Branch Formation Emphases|September 25, 2026 Staff Meeting Minutes, item 4c]].
 - **Implications:** Annual planning should reserve each fall for *Planted.* Spring 2027 planning may develop *Covenant, Kingdom, and People of God*, whose earlier scaffold is preserved in [[08 Archive/Classes/Covenant, Kingdom, People of God|the Classes archive]]. *Planted.* completers form a future facilitator pool.
 - **Boundary:** "May" is recorded as stated; *Covenant, Kingdom, and People of God* is not an approved offering. Its curriculum review, facilitator, schedule, and readiness remain open, as does whether it is a Bible Club or a future Class. Completing *Planted.* does not qualify or appoint anyone to lead it; DEC-027 applies. This decision does not change DEC-030's twelve-week plan or the *Planted.* title-styling question.
+
+- **Subsequent direction:** [[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089]] places the Covenant study among deeper fall and winter options. The earlier Spring 2027 possibility is preserved above. *Planted.* retains its annual fall recurrence.
 
 ### DEC-055 — Weekly Recap and Fall 2026 Collectives Study
 
@@ -949,6 +953,8 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Implications:** Use the Annual Calendar as the canonical seasonal summary. Align spring preparation, CoJourner, summer expectations, holiday planning, and participant communication through existing semester planning and BWR-042.
 - **Boundary:** This does not alter historical launch dates or approve particular future classes, leaders, venues, exact holiday breaks, or January dates. Summer still retains community, prayer, and Scripture (DEC-083). Classes remain under Bible Clubs; no fourth branch is created.
 
+- **Subsequent direction:** [[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089]] sets the formation emphasis for each season and the 16-week Spring 2027 planning window. The annual calendar remains the operating summary.
+
 ### DEC-081 — Planted as a Foundation for New Believers and New Members
 
 - **Decision:** Planted Bible Club should help new believers and new members take root in Christian faith and Golden City's church community. Russ named a similar purpose to the Lakepointe Rooted course described by Paul during the discussion.
@@ -1021,12 +1027,32 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 
 - **Decision:** Spring Group Launch is Sunday, February 7, 2027. Russ will promote the launch roughly two weeks beforehand at church or on social media. The pre-spring Group Leader Collaboration is Saturday, January 30, 2027, to share vision, equip leaders, and prepare them for the spring launch.
 - **Status:** Confirmed operational dates. The exact promotion date and channel and the Collaboration time and venue remain open.
-- **Date and authority:** November 23, 2026. Paul supplied the dates and reported Russ's promotion plan. Calendar coordination falls within Paul's operational responsibility under DEC-021.
+- **Date and authority:** November 23, 2026. Russ approved the dates at the staff meeting, as reported by Paul. Calendar coordination falls within Paul's operational responsibility under DEC-021.
 - **Domain:** Launch
 - **Owner:** Paul coordinates preparation. Russ leads promotion.
-- **Evidence:** Paul's November 23, 2026 update to the Groups OS.
+- **Evidence:** Paul's November 23, 2026 report of the staff meeting and Russ's promotion plan.
 - **Implications:** The dates implement the seasonal rhythm under DEC-080 and the Collaboration rhythm under DEC-086. See the [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027 plan]], [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration|January 30 Group Leader Collaboration]], and [[07 Operations/Calendar Events/Spring 2027 Launch Day|February 7 Spring Group Launch]].
 - **Boundary:** DEC-021 governs final readiness, DEC-027 governs appointments, and DEC-045 governs CoJourner preparation.
+
+### DEC-088 — Fall 2027 Freedom Class Leader Pilot
+
+- **Decision:** A Freedom Class can begin in Fall 2027 with current group leaders. The pilot gives some leaders experience and equipping to prepare them to lead a future Freedom Class. Plan future Freedom Classes so that a Freedom Conference can conclude the class.
+- **Status:** Fall 2027 leader pilot and future conference conclusion approved. Local implementation and public launch remain open.
+- **Date and approver:** November 23, 2026. Russ approved at the staff meeting, as reported by Paul.
+- **Domain:** Strategy
+- **Evidence:** Paul's staff-meeting report. Paul described Church of the Highlands' twice-yearly conferences as the model. [Highlands' conference page](https://freedom.churchofthehighlands.com/conference) describes the conference as the conclusion of its Freedom small-group journey.
+- **Implications:** Use the [[04 Classes/Curriculum/Freedom Class|Freedom Class plan]] for the pilot and future class-to-conference handoff. Classes develop within Bible Clubs.
+- **Boundary:** Facilitator, cohort, curriculum adaptation and permission to use source materials, care and safeguarding, pilot dates, and conference arrangements remain open. Pilot participation does not appoint a leader. A future public run and its conference arrangements require applicable approvals under DEC-021 and DEC-027.
+
+### DEC-089 — Seasonal Formation and Spring 2027 Flexibility
+
+- **Decision:** Fall and winter can carry more in-depth studies such as *Planted.*, *Covenant, Kingdom, and People of God*, and the future curriculum *God With Us*. Spring can be lighter and more fun while helping people learn about Jesus, including watching the latest available season of *The Chosen* together as an option. Spring 2027 has a 16-week planning window, with room for dinner events and flexibility around spring break. Summer should be low-commitment and activity-based given travel. Plan optional local community outreach events that groups can join.
+- **Status:** Seasonal emphases, spring flexibility, and optional summer outreach approved. Specific offerings, sessions, dinners, and outreach details remain open.
+- **Date and approver:** November 23, 2026. Russ approved at the staff meeting, as reported by Paul.
+- **Domain:** Strategy
+- **Evidence:** Paul's November 23, 2026 staff-meeting report.
+- **Implications:** Apply the direction through the [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]], [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]], [[07 Operations/Annual Rhythm/2027/Summer 2027|Summer 2027]], and [[07 Operations/Annual Rhythm/2027/Fall 2027|Fall 2027]]. The Covenant study is now a deeper fall and winter candidate. This refines the earlier tentative Spring 2027 sequence in DEC-054.
+- **Boundary:** The season windows and January prayer and fasting under DEC-080 guide scheduling. Use seasonal planning to confirm exact dates and offerings. Keep community, prayer, and Scripture in view under DEC-083. *God With Us* remains in development.
 
 ## Open Questions
 

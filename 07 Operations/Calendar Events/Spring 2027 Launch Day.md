@@ -3,7 +3,7 @@ event_date: 2027-02-07
 event_status: Scheduled
 ---
 
-Paul confirmed Sunday, February 7, 2027 for Spring Group Launch ([[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087]]).
+Russ approved Sunday, February 7, 2027 for Spring Group Launch, as reported by Paul ([[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087]]).
 
 Russ will promote the launch roughly two weeks beforehand at church or on social media. The exact date and channel are open.
 

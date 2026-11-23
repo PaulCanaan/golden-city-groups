@@ -2,11 +2,15 @@
 
 ## Document Status
 
-**June–August seasonal direction confirmed; offerings and exact dates open.** Russ approved a lighter summer posture on October 26 (DEC-080): expect travel-related lower commitment and encourage more activity-based group life. The church will still offer some summer classes; particular classes, leaders, and dates are not yet named.
+**June–August seasonal direction confirmed.** DEC-080 sets the window. Russ approved low-commitment, activity-based group life during travel season and optional local community outreach on November 23, 2026 (DEC-089).
 
 ## Intended Purpose
 
 Support continuing community and formation at a sustainable pace during travel season. Activities can help people stay connected; community, prayer, and Scripture remain the shared baseline (DEC-083). Align actual group plans and any church summer classes with pastoral needs, leader capacity, and the church calendar.
+
+## Optional community outreach
+
+Plan local outreach events that groups can choose to join. Participation is optional for groups and their members. Confirm opportunities, partners where applicable, dates, leaders, and any safeguards through normal seasonal planning ([[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089]]).
 
 ## Required Inputs
 
@@ -25,7 +29,7 @@ Support continuing community and formation at a sustainable pace during travel s
 
 ## Source Note
 
-Approved direction: DEC-080 and the [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes#2 — Future Seasonal Rhythm|October 26 staff meeting]]. The [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]] holds the canonical seasonal summary. Detailed offerings and readiness remain open.
+Approved direction: DEC-080, [[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089]], and the [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes#2 — Future Seasonal Rhythm|October 26 staff meeting]]. The [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]] holds the canonical seasonal summary. Detailed offerings and readiness remain open.
 
 ## Connections
 

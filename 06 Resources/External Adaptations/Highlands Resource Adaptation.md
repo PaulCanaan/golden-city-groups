@@ -75,7 +75,7 @@ Each practice was evaluated against:
 
 ## Freedom Groups Boundary
 
-DEC-036 permits Freedom Groups, drawing on the Church of the Highlands model, to remain in future planning as a potential featured ministry under the Golden City Church umbrella. This does not import Highlands curriculum or policy, approve the ministry for launch, or establish ownership, leadership, safeguarding, participant path, or readiness.
+DEC-036 records the earlier featured-ministry idea. DEC-088 approves a Fall 2027 [[04 Classes/Curriculum/Freedom Class|Freedom Class]] pilot for group leaders and a future class-to-conference handoff. Highlands is the reference for that pattern. Confirm the adaptation, rights to materials, safeguarding, and local operating arrangements through the pilot plan.
 
 ## Copyright and Attribution Boundary
 

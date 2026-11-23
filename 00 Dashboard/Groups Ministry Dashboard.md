@@ -59,7 +59,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - **Carry-forward baseline:** November 19 follow-up with the November 20 addendum and November 23 Groups OS write-back. Earlier unanswered questions remain in the queue.
 - **Next review:** December 7, 2026 at 7:00 AM America/Denver
 - **Scheduler:** the November 2 and 16 reports were delivered locally. The runner can recover delivery state from a completed scheduled report when its local receipt is missing.
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|30 active items]] carried to December 7 (BWR-031 and BWR-005 closed; BWR-045 added for spring launch prep)
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|31 active items]] carried to December 7 (BWR-031 and BWR-005 closed; BWR-045 for spring launch prep and BWR-046 for the Freedom Class pilot)
 - **Human input outstanding:** Paul's non-sensitive launch and gathering outcomes, Collective dates and delivery, Planted venue/readiness, and remaining follow-up evidence in the queue. Russ's decisions include safeguarding and incident reporting, appointments and final readiness, and participant-system governance.
 - **Critical blockers:** Planted venue/outcome/calendar; tested participant paths; church-wide safeguarding policy and reporting procedure; offering appointments/final readiness; Fall leader-preparation records; past event and first-gathering outcomes
 
@@ -88,6 +88,11 @@ Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboa
 - **Planted:** a foundation for new believers and new members joining church community; twelve-week curriculum unchanged (DEC-081; BWR-043).
 - **Guides:** supportive City Group and Collective drafts now exist for Paul's review. Public placement under Other Resources with the agreement is approved, including the formation framework (DEC-082).
 - **Formation:** community, prayer, and Scripture are non-negotiable; gatherings keep purposeful spiritual formation in view (DEC-083).
+
+## November 23 Staff Direction
+
+- **Season rhythm:** Spring 2027 has a flexible 16-week window. Summer is low-commitment and activity-based, with optional local outreach. Fall and winter make room for deeper studies (DEC-089). See the [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]].
+- **Leader equipping:** Russ approved the Fall 2027 [[04 Classes/Curriculum/Freedom Class|Freedom Class]] pilot for group leaders and a conference conclusion for future runs (DEC-088, BWR-046).
 
 ## Approved Group Leader Workflow
 

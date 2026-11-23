@@ -1,5 +1,9 @@
 # Staff Decision Brief
 
+## November 23 Approved Direction
+
+Russ approved the January 30 Collaboration and February 7 launch dates (DEC-087), the Fall 2027 Freedom Class leader pilot and future conference conclusion ([[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot|DEC-088]]), and the seasonal formation emphases and 16-week Spring 2027 flexibility ([[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089]]). The season plans and BWR-042 and BWR-046 carry the operating details still to settle.
+
 ## October 26 Approved Direction
 
 Paul reports Russ approved all six items in the [[08 Archive/Decisions/2026-10-26 Staff Meeting Minutes|October 26 staff meeting]]. DEC-079–083 now govern the Collaboration date/rhythm (the rhythm since replaced by DEC-086), seasonal pattern, Planted's purpose for new believers and new members, guide scope/public placement, and community–prayer–Scripture baseline. These do not need to be re-proposed for approval.
@@ -8,7 +12,7 @@ Remaining implementation: exact Collaboration times and arrangements; exact seas
 
 ## Document Status
 
-**Reviewed August 10 and reconciled November 16, 2026 through DEC-078 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); October direction now governs Collective resources and gathering shape (DEC-067, DEC-076), the Groups resource library and communication work (DEC-071–075), and the GCC Group Leader Agreement with its offerings/support-raising amendment (DEC-077–078). The Active Decision Register carries later direction through [[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087]], including January 30 and February 7. Spring offering decisions and final readiness remain open. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
+**Reviewed August 10 and reconciled November 16, 2026 through DEC-078 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); October direction now governs Collective resources and gathering shape (DEC-067, DEC-076), the Groups resource library and communication work (DEC-071–075), and the GCC Group Leader Agreement with its offerings/support-raising amendment (DEC-077–078). The Active Decision Register carries subsequent direction through DEC-089. Spring offering decisions and final readiness remain open. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
 
 ## Confirmed Ministry Language
 
@@ -18,7 +22,7 @@ Golden City Groups has three approved ministry branches:
 - **Collectives — shared encouragement:** Men's Collective and Women's Collective, with a long-term path toward broader Men's and Women's Ministries.
 - **Bible Clubs — rooted in Scripture:** facilitator-led Bible study; future Classes may develop under this branch.
 
-Classes are not a current fourth branch. Financial and marriage Classes are future examples only. Freedom Groups are future planning, not a launch offering. Each specific offering still requires ownership and launch-readiness review.
+Classes are not a current fourth branch. Financial and marriage Classes are future examples only. The [[04 Classes/Curriculum/Freedom Class|Freedom Class]] leader pilot is approved for Fall 2027. A wider launch remains future planning. Each specific offering still requires ownership and launch-readiness review.
 
 ## Suggested Meeting Sequence
 

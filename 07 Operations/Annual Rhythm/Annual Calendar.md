@@ -2,28 +2,29 @@
 
 ## Document Status
 
-**Approved seasonal direction with exact dates still open.** Russ approved the future rhythm on October 26, 2026 (DEC-080). This page is the canonical operating summary; specific offerings and dates still follow the decision and readiness processes.
+**Approved seasonal direction.** DEC-080 sets the annual windows. On November 23, 2026, Russ approved the seasonal formation emphases and Spring 2027 flexibility in DEC-089 and the Fall 2027 Freedom Class leader pilot in DEC-088.
 
 ## Approved Seasonal Rhythm
 
 | Window | Rhythm | Planning boundary |
 |---|---|---|
-| Spring | February launch; February–May semester | Spring 2027 launches February 7 (DEC-087). Future dates are set each season. Complete leader preparation before launch. |
-| Summer | June–August | Expect lower commitment during travel season and encourage more activity-based gatherings. Community, prayer, and Scripture remain the baseline (DEC-083). The church will still offer some summer classes; specific offerings and dates need confirmation. |
-| Fall | September launch; September–early December semester | First-week launch is likely, not a confirmed date. Plan around the holiday season; exact closing and cancellation dates remain open. |
+| Spring | February launch and February–May semester. Plan lighter, enjoyable ways to learn about Jesus. | Spring 2027 launches February 7 (DEC-087), with a 16-week window that can include dinner events and flexibility around spring break (DEC-089). |
+| Summer | June–August. Keep group life low-commitment and activity-based during travel season. | Plan optional local community outreach for groups. Community, prayer, and Scripture remain the baseline (DEC-083). Specific events and church summer classes are set separately. |
+| Fall and winter | September launch and regular September–early December semester. Use the fall and winter programming window for deeper studies. | *Planted.* recurs each fall. The Covenant study and *God With Us* are options for this deeper season. Confirm specific offerings and winter dates through semester planning. |
 | January | Church-wide 21 days of prayer and fasting | Groups may meet during this season or wait until spring launch. Exact church dates and each group's choice need communication. |
 
 Group Leader Collaborations follow this rhythm: one before the spring launch, one before summer activities, and one before the fall launch (DEC-086). The next gathering is the [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration|January 30 Group Leader Collaboration]].
 
 Fall 2026 is a shorter first semester because of the church launch schedule. Preserve its September 20 church launch and October 4 Group Launch Day as historical dates rather than applying the future September pattern retroactively.
 
-This rhythm supports sustainable community and Christ-centered formation across City Groups, Collectives, and Bible Clubs. It does not approve a particular class, leader, venue, budget, or meeting schedule. Classes remain within the Bible Clubs development path. Implementation is tracked through BWR-042 and the existing semester-planning workflow.
+This rhythm supports sustainable community and Christ-centered formation across City Groups, Collectives, and Bible Clubs. Use the season plans for offering decisions and readiness. Classes remain within the Bible Clubs development path. Implementation is tracked through BWR-042 and the Freedom pilot through BWR-046.
 
 ## Current Planning Horizon
 
 - [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall and Winter 2026]] — shorter launch semester and transition into January
-- [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]] — February–May; leader development and exact launch planning
-- [[07 Operations/Annual Rhythm/2027/Summer 2027|Summer 2027]] — June–August; lighter activity-based group life and church summer classes
+- [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]] — 16-week flexible window, lighter class options, and leader development
+- [[07 Operations/Annual Rhythm/2027/Summer 2027|Summer 2027]] — activity-based group life and optional local outreach
+- [[07 Operations/Annual Rhythm/2027/Fall 2027|Fall 2027]] — deeper fall and winter studies and the Freedom Class leader pilot
 
 ## Annual Review Pattern
 

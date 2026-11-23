@@ -13,10 +13,15 @@ The Planted page now carries the study's formation goal, forms of learning, jour
 ## Curriculum Sequence
 
 - **Every fall:** Planted (DEC-054).
-- **Spring 2027:** *Covenant, Kingdom, and People of God* may follow (DEC-054). This is planning direction, not an approved offering; its review, facilitator, schedule, and classification as a Bible Club or future Class remain open. Its earlier scaffold is preserved in [[08 Archive/Classes/Covenant, Kingdom, People of God|the Classes archive]].
+- **Deeper fall and winter options (DEC-089):**
+  - *Planted.* is a journey through the biblical story from creation to new creation, centered on Jesus and suited to seekers and new believers. [Planted. in the Garden Project workspace](https://app.notion.com/p/5cd1cd695c4743cbaa0c6d6d663a8508)
+  - *Covenant, Kingdom, and People of God* is a five-week study of how God forms a people and establishes his kingdom through the biblical covenants, culminating in Christ. It is now a fall and winter planning option. [Covenant study in Notion](https://app.notion.com/p/37506e240127802aa0b0f2fe51320d23)
+  - *God With Us* is a future curriculum listed as in development. [Garden Project curriculum entry](https://app.notion.com/p/54a41d525c7e4109a85f680c36b9e710)
+- **Spring 2027 (DEC-089):** A lighter class could watch the latest available season of *The Chosen* to learn about Jesus. The [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027 plan]] holds the 16-week window and flexibility.
+- **Fall 2027 (DEC-088):** Russ approved a [[04 Classes/Curriculum/Freedom Class|Freedom Class]] pilot for group leaders. Future Freedom Class runs are to be planned with a conference conclusion.
 - **Collectives, Fall 2026–Spring 2027:** all six chapters of Galatians in six sessions, one Galatians chapter per gathering (DEC-076). The study retains its connection to *The Fruit of the Spirit* under DEC-055. Paul develops separate dated Men’s and Women’s course content, handouts, and leader notes for their distinct formation goals; Russ, Miranda, and Conner operate the gatherings using them. Keller’s *Galatians For You* is the primary development/question resource, with Peterson’s *Traveling Light* secondary for freedom (DEC-067 follow-up). Holiday dates remain open. Collectives are not Bible Clubs; the study is listed here for curriculum visibility.
 
-Planted is not yet recorded as operationally launch-ready. A future curriculum decision should identify whether each other offering is a facilitator-led Bible Club or a future teacher-led Class before it is scheduled or communicated.
+Planted is not yet recorded as operationally launch-ready. Confirm whether each option will run as a facilitator-led Bible Club or a teacher-led Class, along with its curriculum, facilitator, schedule, and readiness.
 
 ## Possible Supporting Materials
 

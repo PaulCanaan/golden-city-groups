@@ -126,6 +126,8 @@ The primary-domain taxonomy and metadata rules are documented in the [[Decision 
 - [[08 Archive/Decisions/Decision History#DEC-036 — Freedom Groups as Future Featured Ministry|DEC-036 — Freedom Groups as Future Featured Ministry]]
 - [[08 Archive/Decisions/Decision History#DEC-040 — Fall 2026 and Spring 2027 Leadership Objectives|DEC-040 — Fall 2026 and Spring 2027 Leadership Objectives]]
 - [[08 Archive/Decisions/Decision History#DEC-062 — City Groups as a Signature Ministry of Golden City|DEC-062 — City Groups as a Signature Ministry of Golden City]]
+- [[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089 — Seasonal Formation and Spring 2027 Flexibility]]
+- [[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot|DEC-088 — Fall 2027 Freedom Class Leader Pilot]]
 
 ## Browse by Status
 
@@ -133,7 +135,7 @@ These labels reproduce the statuses in the canonical register.
 
 ### Confirmed
 
-DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, DEC-065–085, and DEC-087 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open; DEC-085 leaves the exact teaching/discussion split open). DEC-054 is confirmed with its Spring 2027 curriculum recorded as future planning direction.
+DEC-001–007, DEC-009–013, DEC-016–022, DEC-026–027, DEC-033, DEC-037–040, DEC-042, DEC-045–053, DEC-055–057, DEC-059–062, DEC-064, DEC-065–085, and DEC-087–089 (DEC-067 retains pending calendar details; DEC-068–069 do not record leader-pathway completion; DEC-072 is development direction; DEC-074 production is pending; DEC-077 leaves named pastoral questions open; DEC-085 leaves the exact teaching/discussion split open). DEC-054 confirms *Planted.* each fall. DEC-089 places the Covenant study among fall and winter options.
 
 ### Confirmed in Part
 
@@ -185,18 +187,18 @@ DEC-039 and DEC-063.
 
 ## Recent Decisions
 
-The ten most recent numbered decisions include the Spring 2027 dates and the October staff direction.
+The ten most recent numbered decisions include the November 23 staff approvals.
 
-1. [[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087 — Spring 2027 Group Launch and Leader Collaboration]]
-2. [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year|DEC-086 — Collaborations Three Times a Year]]
-3. [[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085 — Lighter Teaching in Collective Study Blocks]]
-4. [[08 Archive/Decisions/Decision History#DEC-084 — Ministry Review of Chosen Group Material|DEC-084 — Ministry Review of Chosen Group Material]]
-5. [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083 — Community, Prayer, Scripture, and Purposeful Formation]]
-6. [[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082 — Supportive Leader Guides and Other Resources Placement]]
-7. [[08 Archive/Decisions/Decision History#DEC-081 — Planted as a Foundation for New Believers and New Members|DEC-081 — Planted as a Foundation for New Believers and New Members]]
-8. [[08 Archive/Decisions/Decision History#DEC-080 — Annual Groups Seasonal Rhythm|DEC-080 — Annual Groups Seasonal Rhythm]]
-9. [[08 Archive/Decisions/Decision History#DEC-079 — Collaboration Schedule and Saturday Rhythm|DEC-079 — Collaboration Schedule and Saturday Rhythm]]
-10. [[08 Archive/Decisions/Decision History#DEC-078 — Offerings and Support Raising in Groups|DEC-078 — Offerings and Support Raising in Groups]]
+1. [[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089 — Seasonal Formation and Spring 2027 Flexibility]]
+2. [[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot|DEC-088 — Fall 2027 Freedom Class Leader Pilot]]
+3. [[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration|DEC-087 — Spring 2027 Group Launch and Leader Collaboration]]
+4. [[08 Archive/Decisions/Decision History#DEC-086 — Collaborations Three Times a Year|DEC-086 — Collaborations Three Times a Year]]
+5. [[08 Archive/Decisions/Decision History#DEC-085 — Lighter Teaching in Collective Study Blocks|DEC-085 — Lighter Teaching in Collective Study Blocks]]
+6. [[08 Archive/Decisions/Decision History#DEC-084 — Ministry Review of Chosen Group Material|DEC-084 — Ministry Review of Chosen Group Material]]
+7. [[08 Archive/Decisions/Decision History#DEC-083 — Community, Prayer, Scripture, and Purposeful Formation|DEC-083 — Community, Prayer, Scripture, and Purposeful Formation]]
+8. [[08 Archive/Decisions/Decision History#DEC-082 — Supportive Leader Guides and Other Resources Placement|DEC-082 — Supportive Leader Guides and Other Resources Placement]]
+9. [[08 Archive/Decisions/Decision History#DEC-081 — Planted as a Foundation for New Believers and New Members|DEC-081 — Planted as a Foundation for New Believers and New Members]]
+10. [[08 Archive/Decisions/Decision History#DEC-080 — Annual Groups Seasonal Rhythm|DEC-080 — Annual Groups Seasonal Rhythm]]
 
 ## Supersession Map
 
