@@ -22,9 +22,9 @@ Listen prayerfully for a person's story, faith, character, availability, alignme
 | Listen / discern | Use selected questions and pastoral attentiveness. | The conversation occurs without promised appointment or forced disclosure. |
 | Record / respond | Record the permitted outcome and next action. | The authorized next step is communicated; sensitive details remain restricted. |
 
-## Initial Participants
+## Participants
 
-- a Launch Team member who has expressed City Group leadership interest
+- a prospective leader in the approved intake scope for the season. For the initial Fall 2026 pathway, this was a Launch Team member (DEC-018)
 - Paul or another person specifically authorized to participate in discernment
 - a pastor or additional reviewer when the approved process requires one
 
@@ -57,11 +57,15 @@ After the conversation, the approved discernment team should determine only the 
 - consider another serving role
 - defer for a later season
 
-Record the outcome and owner. Do not place narrative discernment notes, references, background information, or sensitive disclosures in this repository or in a general Planning Center group record.
+Record the permitted outcome, responsible person, next action, and follow-up date. An intentional pause has a reason that can be recorded safely and a future review point. Do not place narrative discernment notes, references, background information, or sensitive disclosures in this repository or in a general Planning Center group record.
 
-## Launch Priority and Approval
+## Leader Conversation support role
 
-**Launch priority:** High, because Team Night interest requires a truthful follow-up path.
+An agent can select questions from the existing short set, prepare a personal invitation for Paul's review, and draft an administrative follow-up based on the permitted outcome Paul provides. Leave interpretation, discernment, candidate evaluation, training invitation, and pastoral handoffs with the authorized people. Until PRO-029 settles permitted fields and record location, prepare proposed wording for Paul and keep individual details in the restricted system.
+
+After a round of conversations, Paul can record aggregate process observations at the existing biweekly review. Ask what helped applicants understand the role, what kept the conversation relational, where follow-up stalled, and what to change for the next season. Record the process lesson and owner without individual stories or assessments.
+
+## Approval
 
 **Remaining approval:** Interview format, duration, records, and appointment implementation remain open under PRO-029. Russ or his designated pastor retains primary appointment authority.
 

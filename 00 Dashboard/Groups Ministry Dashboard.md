@@ -29,7 +29,7 @@ cssclasses:
 - [[00 Dashboard/Map of Content (MOC).canvas|Map of Content]] — view the ministry system and its connections.
 - [[12 Ministry Website/Ministry Website Overview|Ministry Website]] — the public Groups page: rules, page record, corrections, design, and Development Journey.
 - [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] — workflow from a ready leader's City Group Profile to a published group and Launch Sunday table card.
-- [[07 Operations/Workflows/Group Launch MOC.canvas|Group Launch MOC]] — see the October 4 Group Launch on one canvas: decisions, leader pipeline, Launch Sunday, offerings, readiness gates, and after-launch support.
+- [[07 Operations/Workflows/Semester Planning|Semester Planning]] — close the outgoing season and prepare the next.
 
 The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biweekly Ministry Review performs first/third-Monday reconciliation; this Dashboard reports current priorities and readiness. None approves policy or replaces a decision record.
 
@@ -38,7 +38,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 | Item | Current status |
 |---|---|
 | Public church launch | **September 20, 2026 — completed**; the church is established in Broomfield, Colorado |
-| Current phase | Post-launch evidence reconciliation and first-month operation: establish what actually occurred at October 4/11 and the scheduled first gatherings, deliver near-term Collective resources, test participant paths, and record only evidence-backed appointments and final readiness |
+| Current phase | Fall closeout and spring preparation. Confirm what continues, care for current leaders, and carry unresolved approvals and participant follow-up into the spring plan. |
 | Most recent evidenced milestone | **First Group Leader Collaboration, November 7**, which Paul reports went great (reported November 20). Four of six City Groups have started meeting (counts only); both Collectives began in October; approved resource production does not establish event execution |
 | Next dated operating points | **Week of November 23:** no Women's Collective gathering; its Session 4 date is open. **Early December:** Galatians Sessions 5–6 and the end of the fall season (DEC-080), not yet dated. **December 7:** next biweekly review |
 | Spring 2027 | **January 30:** Group Leader Collaboration. **February 7:** Spring Group Launch. Russ will promote the launch roughly two weeks beforehand at church or on social media. See [[07 Operations/Annual Rhythm/2027/Spring 2027\|Spring 2027 plan]] (DEC-087). |
@@ -64,6 +64,8 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - **Critical blockers:** Planted venue/outcome/calendar; tested participant paths; church-wide safeguarding policy and reporting procedure; offering appointments/final readiness; Fall leader-preparation records; past event and first-gathering outcomes
 
 ## Next Actions
+
+- Paul and Russ: use the December 7 biweekly review for the [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff|fall-to-spring handoff]]. Confirm offering dispositions, CoJourner timing, and what can be promoted (BWR-019, BWR-042, BWR-045).
 
 - Paul: give leaders the approved pastoral contacts privately, record delivery, and bring Russ the agreement's open questions (BWR-007, BWR-041).
 - Paul: record the non-sensitive October 4/11 and past first-gathering outcomes (BWR-008, BWR-010, BWR-011, BWR-028).

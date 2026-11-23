@@ -33,7 +33,7 @@
 - Preserve source references and each Collective's distinct audience/date/goals. Return substantive edits to the Curriculum Editor/master before regenerating affected outputs.
 - Use Groups Resource Style, including working depth targets, and the artifact skill appropriate to the requested file. Render/inspect actual output pages/slides; a successful save is not layout verification.
 - Present the final candidate and its real file/version for Paul's review. After he confirms it, place the accepted edition in phase 04, maintain the source/master link, and identify the current reusable resource.
-- Publish/share externally only under explicit task authorization or the offering's standing instructions. Record the real result; do not claim publication from a local file or simulate an approval.
+- Publish/share externally only under explicit task authorization or the offering's standing instructions. Record the real result. For a public library edition, use the [[07 Operations/Workflows/Website Publication and Maintenance#Groups Resources Release|shared release checks]].
 
 ## Review and Handoff Record
 

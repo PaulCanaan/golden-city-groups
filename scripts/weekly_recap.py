@@ -7,15 +7,15 @@ from pathlib import Path
 import re
 import subprocess
 import tempfile
-import time
 from zoneinfo import ZoneInfo
+
+from resource_pdf import render_pdf
 
 
 ROOT = Path(__file__).resolve().parents[1]
 INBOX = ROOT / "06 Resources/Resource Inbox"
 RECAPS = ROOT / "06 Resources/Group Life/Weekly Recaps"
 ZONE = ZoneInfo("America/Denver")
-CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 BRAND = ROOT / "06 Resources/Brand"
 
 # Groups resource style: see 06 Resources/Brand/Groups Resource Style.md.
@@ -94,25 +94,7 @@ def to_html(markdown):
 
 
 def build_pdf(recap):
-    pdf = recap.with_suffix(".pdf")
-    pdf.unlink(missing_ok=True)
-    with tempfile.TemporaryDirectory() as tmp:
-        page = Path(tmp) / "recap.html"
-        page.write_text(to_html(recap.read_text()))
-        chrome = subprocess.Popen([CHROME, "--headless", "--disable-gpu", "--no-first-run",
-                                   "--no-pdf-header-footer", f"--user-data-dir={tmp}/chrome",
-                                   f"--print-to-pdf={pdf}", page.as_uri()],
-                                  stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        # Chrome can linger after writing the PDF, so stop once the file is complete.
-        for _ in range(120):
-            if chrome.poll() is not None or (pdf.exists() and pdf.read_bytes().rstrip().endswith(b"%%EOF")):
-                break
-            time.sleep(0.5)
-        chrome.kill()
-        chrome.wait()
-    if not pdf.exists():
-        raise SystemExit(f"Chrome did not produce {pdf}")
-    return pdf
+    return render_pdf(to_html(recap.read_text()), recap.with_suffix(".pdf"))
 
 
 def reminder(day, inbox=INBOX, recaps=RECAPS):

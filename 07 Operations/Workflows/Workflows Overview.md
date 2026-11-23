@@ -18,10 +18,9 @@ Find how to carry out a ministry process in one place. Active workflow instructi
 | Planted participant intake and communication | [[07 Operations/Workflows/Planted Participant Intake and Communication Workflow\|Planted Participant Intake and Communication Workflow]] | Recorded operating plan; implementation/readiness unverified |
 | Prepare a leader conversation | [[07 Operations/Workflows/Leader Conversation Guide\|Leader Conversation Guide]] | Working guide; format and records pending |
 | Deliver leader training | [[07 Operations/Workflows/Leader Training Delivery\|Leader Training Delivery]] | Proposed delivery checklist; required approvals pending |
-| Prepare and assess launch | [[07 Operations/Workflows/Launch Checklist\|Launch Checklist]] | Working evidence checklist; not approval |
-| Understand the Fall launch sequence | [[07 Operations/Workflows/Group Launch Overview\|Group Launch Overview]] | Confirmed context and pending implementation |
-| Coordinate the Fall 2026 launch plan | [[07 Operations/Workflows/Launch Plan\|Launch Plan]] | Dated plan with mixed confirmation status |
-| Plan a semester | [[07 Operations/Workflows/Semester Planning\|Semester Planning]] | Seasonal planning guidance; approvals remain offering-specific |
+| Prepare and assess launch | [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks\|Offering Readiness Checks]] | Evidence and final pastoral disposition |
+| Find the launch sequence | [[07 Operations/Workflows/Group Launch Overview\|Group Launches]] | Season planning through first gathering and leader care |
+| Close and plan a semester | [[07 Operations/Workflows/Semester Planning\|Semester Planning]] | Closeout, offering dispositions, and next-season preparation |
 | Send ministry communication | [[07 Operations/Workflows/Ministry Communication Workflow\|Ministry Communication Workflow]] | Confirmed channels and working procedure |
 | Maintain and publish the Groups webpage | [[07 Operations/Workflows/Website Publication and Maintenance\|Website Publication and Maintenance]] | Existing working procedure; actual publication/testing not inferred |
 | Run the first/third-Monday ministry review | [[07 Operations/Workflows/Biweekly Ministry Review\|Biweekly Ministry Review]] | Sole recurring review; unchanged cadence |
@@ -49,7 +48,7 @@ Distinguish recorded direction, proposals, implementation evidence, and open app
 
 The October 2 audit consolidated standalone operational procedures and extracted embedded communication, website maintenance, decision-recording, and training-delivery instructions. Embedded report, Inbox, decision, story, recap, and conversation templates were transferred to 10 Templates; original pages link to their canonical homes. Existing message bodies and checklist content were preserved.
 
-- [[07 Operations/Workflows/Group Launch MOC.canvas|Group Launch MOC]] remains the launch process map.
+- The [[08 Archive/Operations/Fall 2026 Launch/Group Launch MOC.canvas|Fall 2026 launch canvas]] preserves the inaugural launch plan.
 - [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]] remains the sole recurring cadence.
 - The [[06 Resources/Leader Development/GCC Group Leader Agreement|GCC Group Leader Agreement]] is approved policy (DEC-077) and a guardrail resource, not a workflow; the pastoral-review draft is archived.
 - [[06 Resources/Group Life/Prayer Requests|Prayer Requests]] has no approved record template; none is invented by this audit.

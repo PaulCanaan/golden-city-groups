@@ -45,6 +45,10 @@ Claudian is configured to locate the installed Claude Code and Codex executables
 
 For IDE work, open the **Groups Ministry** folder as the workspace so its root AGENTS.md and Git repository apply. Keep Obsidian open for Canvas and backlinks. In Codex, select that same existing folder and name the actual brief/Canvas. The downloadable Groups OS IDE workspace accompanying this setup opens that folder without modifying IDE account or trust settings.
 
+## Planning Center Operations Skill
+
+Use [Planning Center Operations](../../.agents/skills/planning-center-operations/SKILL.md) for leader intake, participant placement, group readiness, and seasonal handoff. Ask for a read-only reconciliation or specify the particular approved change. Use the [[07 Operations/Workflows/Planning Center Groups|operating procedure]] for stage evidence and [[07 Operations/Workflows/Forms#Pre-Publication Test|Forms]] for join-path tests.
+
 ## Version History and Recovery
 
 The Obsidian Vault root is **Golden City Church**; the Git repository is its **Groups Ministry** subfolder. The Git plugin points to that subfolder; automatic commit, pull, and push are off. `.obsidian` configuration lives outside that Git repository. Existing raw curriculum inputs and working database records remain ignored according to `.gitignore`.

@@ -86,7 +86,7 @@ Practical procedures now live together in [[07 Operations/Workflows/Workflows Ov
 - [[07 Operations/Workflows/Planning Center Groups]] — platform reference and end-to-end group administration
 - [[07 Operations/Workflows/Forms]] — leader-interest and participant-intake procedures
 - [[07 Operations/Workflows/Attendance]] — attendance practice and pastoral boundaries
-- [[07 Operations/Workflows/Launch Checklist]] — readiness gates before an offering opens
+- [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks]] — readiness gates before an offering opens
 - [[10 Templates/Communication/Group Leader Communication Library]] — canonical Group Leader message bodies
 - [[07 Operations/Workflows/Ministry Communication Workflow]] — channel and sending guidance
 - [[07 Operations/Metrics]] — formation-aware evaluation
@@ -113,7 +113,7 @@ Original external source files remain outside this repository. Golden City resou
 | respond to conflict or a care concern | [[07 Operations/Workflows/Conflict]] and [[GCC Group Leader Agreement]] |
 | support a leader after launch | [[07 Operations/Workflows/Leader Support Check-In]] |
 | administer a group in Church Center | [[07 Operations/Workflows/Planning Center Groups]] |
-| launch or close an offering | [[07 Operations/Workflows/Launch Checklist]] and [[Operation Overview]] |
+| launch or close an offering | [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks]] and [[Operation Overview]] |
 | teach or review a class | [[Curriculum Overview]] |
 | develop session slides, handouts, or table-leader notes | [[06 Resources/Curriculum Development/Ministry Curriculum Development\|Ministry Curriculum Development]] |
 | understand an external adaptation | [[Highlands Resource Adaptation]] |

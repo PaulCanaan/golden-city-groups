@@ -22,30 +22,24 @@ Translate confirmed ministry direction into a sustainable semester of belonging,
 | Prepare offerings | Confirm details, systems, safeguarding, and readiness. | Required approvals are recorded; unsupported details stay provisional. |
 | Communicate / reconcile | Use canonical templates, calendar, and existing review queue. | Confirmed dates and owned next actions are consistent. |
 
-## Planning process
+## Close the outgoing season
 
-For fall 2026, the primary objective is to recruit Launch Team members to host City Groups rather than conduct public recruitment:
+Use an existing [[07 Operations/Workflows/Biweekly Ministry Review|biweekly review]] for the seasonal handoff. Start from the outgoing season note, approved group records, and leader feedback.
 
-1. The July 28, August 11, and August 25 Team Nights were scheduled for vision, sign-ups, discernment, placement conversations, and preparation; actual outcomes remain under review.
-2. Paul was assigned during the August Team Nights to help interested Launch Team members submit the Planning Center form, receive and organize submissions, and email applicants about Group Leader Conversations and immediate next steps.
-3. Use the approved `Interviewed` workflow stage and Paul-owned Group Leader Conversation and assessment process; the format, records, and role-specific criteria remain unresolved.
-4. Train invited candidates.
-5. Confirm group assignments, hosts or locations, capacities, and readiness.
-6. Commission approved leaders before they begin public responsibility.
+1. Confirm what met, what is still awaiting its first gathering, and what was skipped or rescheduled. Record confirmed outcomes and known gaps on the relevant calendar or season note. Address an overdue event as history when its unresolved facts have no remaining operational consequence.
+2. Have a prayerful conversation with leaders. Ask what helped people belong, attend to Christ in Scripture and prayer, and act on what they received. Ask what support the leader needs and whether their role or capacity has changed. Use the [[07 Operations/Workflows/Leader Support Check-In|check-in workflow]] and [[07 Operations/Metrics|formation and participation measures]].
+3. Give each offering an explicit disposition: **Continue**, **Change**, **Pause**, **Close**, or **Pending evidence/decision**. Record one accountable owner, the evidence or decision, next action and date, and who will tell participants where applicable. Keep individual details and the status of specific waiting City Groups in the approved system. The season note may show aggregate status and non-sensitive exceptions.
+4. Preserve the dated season plan, issued resources, decision history, and actual outcomes. Carry consequential unresolved work in the existing queue. When closing a historical review question, record the reason and any unknowns. See [[08 Archive/Archive Overview|Archive Overview]].
 
-Public leadership pathways may be developed in later ministry seasons.
+## Prepare the next season
 
-Paul's intake and immediate follow-up responsibility does not confer final appointment authority. Group Leader Conversation and assessment standards, candidate qualifications, final approval, role assignment, training requirements, safeguarding review, appointment, and commissioning remain unresolved.
+1. Recenter on the [[01 Governance/Ministry Model|three ministry branches]] and the [[07 Operations/Annual Rhythm/Annual Calendar|seasonal rhythm]]. Start with the people and leaders actually available. Record confirmed event dates on the [[00 Dashboard/Calendar|Calendar]].
+2. Review returning leaders and changed assignments through the seasonal disposition. Use the [[07 Operations/Workflows/Leader Conversation Guide|Group Leader Conversation]] and [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|leader intake workflow]] for new candidates under the approved intake scope. Check any required preparation, safeguarding, appointment, and applicable permissions.
+3. Use [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]] for each proposed offering before public enrollment or launch. Review changed details and the participant route before promotion. Russ or his designated pastor gives final readiness approval under DEC-021.
+4. Align profiles, Church Center settings, public listings, and calendar records. Keep personal welcome and participant follow-through with the assigned owner. Use the [[07 Operations/Workflows/First Meetings Checklist|First Meetings Checklist]] and start leader support when the group actually meets.
+5. Record what happened and what needs follow-through at the next existing biweekly review. Proposed offerings, training dates, and commitments stay pending until the applicable authority confirms them.
 
-For Spring 2027, the primary objective is to expand intentional leader development and multiplication. Integrate the four-session [[CoJourner]] pathway without inventing cohort dates, curriculum content, or multiplication targets.
-
-## Timeline
-
-Use the approved [[07 Operations/Annual Rhythm/Annual Calendar#Approved Seasonal Rhythm|Annual Calendar seasonal rhythm]] (DEC-080). Plan February and September launches while leaving their likely first-week dates tentative until confirmed. Prepare for lighter June–August group participation, specific church summer classes, and the January prayer and fasting season. Keep community, prayer, and Scripture in activity-based gatherings (DEC-083). Reconcile CoJourner's pre-spring preparation with actual launch and holiday dates through BWR-019 and BWR-042.
-
-Confirmed dates appear in [[00 Dashboard/Calendar]]. All other milestones remain pending until assigned and approved.
-
-## Notes
+The [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027 plan]] carries the current handoff. The [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall and Winter 2026 record]] preserves the church-plant-specific context.
 
 ## Connections
 

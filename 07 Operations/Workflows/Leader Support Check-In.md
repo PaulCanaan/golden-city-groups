@@ -30,9 +30,13 @@ The exact cadence remains an operational decision. At minimum, prioritize:
 
 - a personal connection before the group's first meeting
 - a check-in after the first gathering
-- periodic contact during the fall window
+- periodic contact during the season
 - timely response when a leader asks for help or misses an operational responsibility
 - an end-of-season review and prayer conversation
+
+## Handoff from the first gathering
+
+Paul can use this sequence with each new group, including a new group led by a returning leader. Before the first meeting, check whether the leader has what they need to welcome people and knows where to ask for help. After a confirmed first gathering, agree on the next check-in and record the operational action and owner. Continue support for groups that are still waiting to meet. Use the season closeout conversation to ask what the leader wants to continue, change, or take a rest from.
 
 ## Check-In Flow
 

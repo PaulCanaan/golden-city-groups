@@ -2,7 +2,7 @@
 
 ## Document Status
 
-**Mixed confirmed and planned launch calendar.** Only dates and ministry context recorded as confirmed in the decision log should be treated as fixed. Offerings still require their applicable readiness gates.
+**Dated Fall 2026 launch record.** The planning notes below preserve the information available at the time. Use the [[00 Dashboard/Calendar|Calendar]] and [[00 Dashboard/Launch Readiness Dashboard|fall readiness evidence]] for reconciled outcomes and the [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff|spring handoff]] for current decisions.
 
 ## Seasonal Transition
 

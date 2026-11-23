@@ -1,6 +1,6 @@
 # Group Launch Readiness
 
-From [[07 Operations/Workflows/Group Launch Overview]] · Part of the [[07 Operations/Workflows/Group Launch MOC.canvas|Group Launch MOC]]
+From [[07 Operations/Workflows/Group Launch Overview|Group Launches]] and [[07 Operations/Workflows/Semester Planning|Semester Planning]].
 
 ## Document Status
 
@@ -37,6 +37,17 @@ Paul records the decision in the restricted system. Names, conversation notes, a
 
 In the Group Leader workflow, this leader has reached **Attended Training**. They reach **Small Group Launched** only at step 9 below.
 
+## Offering Readiness Checks
+
+Paul prepares the evidence and recommends readiness. Russ or his designated pastor records final readiness approval under DEC-021. Use these checks for new groups and changed or returning offerings as applicable.
+
+- Confirm the accountable owner, approved leader or host, any role-specific training and agreement acknowledgment, and where appointment is recorded (DEC-027, DEC-077). Include commissioning where its practice is approved.
+- Confirm the venue, meeting rhythm, start window, capacity or overflow process, and applicable safeguards. Ensure leaders have the approved pastoral contacts privately and know the current escalation procedures.
+- Review participant ownership, backup, response, access, and privacy settings. Keep provisional records closed or unlisted while applicable readiness decisions are open.
+- Run the [[07 Operations/Workflows/Forms#Pre-Publication Test|participant-path test]] on each distinct enrollment path. Test the link, submission, receipt, confirmation, and follow-up in an authorized setting. Check mobile display and the actual destination from each listing or card. Align names, timing, and the public location across Church Center, the website, and any printed material.
+- Record the final pastoral disposition and any remaining conditions in the approved system. Publish and open enrollment according to that disposition.
+- Record the actual first gathering separately and hand off to [[07 Operations/Workflows/First Meetings Checklist|First Meetings]] and [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]].
+
 ## The Workflow
 
 ```text
@@ -45,22 +56,22 @@ Leader is ready to lead (Paul and Russ)
   → 2. Leader submits (5–10 minutes)
   → 3. Paul reviews and follows up
   → 4. Paul builds the Planning Center group and assigns the leaders
-  → 5. Russ reviews before Group Launch Sunday
+  → 5. Confirm the applicable pastoral review and final readiness
   → 6. Publish: Church Center listing · "Open Groups" on the Groups webpage · lobby table card
-  → 7. Group Launch Sunday (October 4); optional second presentation (October 11)
+  → 7. Present the approved offering using this season's plan
   → 8. People join; the leader manages the group and shares the details privately
   → 9. First gathering → Small Group Launched (DEC-042)
 ```
 
 | Step | What happens | Owner | Boundary |
 |---|---|---|---|
-| **1. Send form** | Paul sends the Church Center form [[#City Group Profile Form\|City Group Profile — Fall 2026]] to each ready leader. | Paul | Only to leaders who are ready to lead. |
+| **1. Send form** | Paul sends the Church Center form [[#City Group Profile Form\|City Group Profile]] for the current season to each ready leader. | Paul | Only to leaders who are ready to lead. |
 | **2. Submit** | The leader completes the profile, ideally with a photo of every leader and co-leader. | Leader | — |
 | **3. Review** | Paul checks that the profile is complete, the meeting area is general rather than an address, and the description suits a public profile. Paul also notes the chosen resource so the ministry directors are aware of what each group is going through (DEC-084). Gaps are settled by email or text. | Paul | This is the detail finalization in DEC-051. The resource review is for awareness, not approval. |
 | **4. Build** | Paul creates the Planning Center group from the submission and assigns the leaders, who then manage their own group in Planning Center. | Paul | Follows [[07 Operations/Workflows/Planning Center Groups#4. Build the group record\|Build the group record]]. Capacity may stay open (see [[#Capacity\|Capacity]]). |
-| **5. Review** | Russ does a quick review of the webpage and group profiles before Group Launch Sunday. | Russ | Russ has already approved Paul to make the webpage changes. |
+| **5. Review** | Russ reviews material public changes as applicable and records final offering readiness. | Russ or his designated pastor for readiness | Follow DEC-021 and the applicable website review under DEC-037. |
 | **6. Publish** | The Church Center listing goes public; the profile appears in the **Open Groups** section of the Groups webpage, linked to its Planning Center group; Paul makes the group's table card. | Paul | Rough location only. Every link and QR code must reach a tested destination (BWR-009). |
-| **7. Present** | Leaders present at lobby tables on Sunday, October 4. Groups with many open spots may present again on October 11. | Leaders; Paul | DEC-051. |
+| **7. Present** | Leaders present through the approved plan for the season. If lobby tables are part of it, use reviewed profiles and tested table cards. | Leaders; Paul | Fall 2026 used the lobby format under DEC-051. |
 | **8. Join** | People join through Church Center. The leader manages the group and shares detailed information, including the address, privately with members, for example in a group chat on Planning Center or Church Center. | Leader | Addresses never appear publicly. Sensitive care details stay out of chats (DEC-028). |
 | **9. Launch** | After the group first meets, Paul moves the leader to **Small Group Launched** and updates the group record. | Paul | A group counts as launched only once it has actually met. |
 
@@ -68,9 +79,9 @@ Leader is ready to lead (Paul and Russ)
 
 ## City Group Profile Form
 
-Church Center form: *City Group Profile — Fall 2026*. Church Center always collects first name, last name, and email address.
+The Fall 2026 *City Group Profile* provides the field pattern below. Confirm the current form and season before sending. Church Center collects first name, last name, and email address on this form.
 
-**Introduction to leaders (summary):** thanks the leader, affirms their creative freedom to shape the group's rhythm, resource, environment, and character, explains that the profile prepares for Group Launch Sunday on October 4, asks them to have leader photos ready, and reminds them the group need not begin immediately after Launch Sunday.
+**Introduction to leaders (summary):** thanks the leader, affirms their creative freedom to shape the group's rhythm, resource, environment, and character, explains that the profile prepares for the current season's launch, asks them to have leader photos ready, and reminds them the group need not begin immediately after Launch Sunday.
 
 | Section | Field | Type | Required | Guidance shown |
 |---|---|---|---|---|
@@ -81,7 +92,7 @@ Church Center form: *City Group Profile — Fall 2026*. Church Center always col
 | | Day of the Week | Dropdown | Yes | Sunday through Saturday |
 | | Meeting Time | Text | Yes | e.g. *6:30 PM–8:00 PM*; an approximate end time is fine |
 | | General Meeting Area | Text | Yes | e.g. *Broomfield near 120th & Sheridan*; no private home address |
-| | Starting Date | Text | Yes | One or two weeks after October 4 is fine |
+| | Starting Date | Text | Yes | Use the group's approved start window. Fall 2026 allowed one or two weeks after Launch Sunday. |
 | Your Group | Primary Group Resource | Dropdown | Yes | GCC Weekly Recap · A Book in the Bible · A Contemporary Christian Book · Devotional · Other Resource · Still Deciding |
 | | Resource Details | Text | No | e.g. *Gospel of John*, *Practicing the Way*; may be left blank |
 | | Group Features | Checkboxes | No | Young Adults · Young Couples · Families · Parents · Singles · Single Moms · Men · Women · Multigenerational · General / Open to All · Other. Descriptive labels, not requirements for joining |
@@ -108,7 +119,7 @@ The vault record holds non-sensitive working detail only; leader assignment live
 
 ## Collectives and *Planted.*
 
-Men's Collective, Women's Collective, and *Planted.* do not use the City Group Profile form. Paul prepares their profiles with their leaders. They join this workflow at step 4: they are listed in **Open Groups** on the Groups webpage, have a table card, and are presented in the lobby on Group Launch Sunday.
+Men's Collective, Women's Collective, and *Planted.* do not use the City Group Profile form. Paul prepares their profiles with their leaders. They enter at step 4 for their applicable build, public listing, enrollment, and first-gathering checks. Follow the current season's approved presentation and participant plan.
 
 ## Capacity
 
@@ -144,7 +155,6 @@ Run Club (Jeremy & Glenys Parker) and a Young Adults City Group (the Westminster
 - [[07 Operations/Workflows/Planning Center Groups]] — group build, testing, and publishing procedures.
 - [[07 Operations/Workflows/Forms|Forms and Intake]] — all intake and profile forms.
 - [[10 Templates/Communication/Group Leader Communication Library]] — Group Leader workflow messages; this workflow does not replace them.
-- [[07 Operations/Workflows/Launch Checklist]] — readiness checks before a group is published.
 - [[City Groups Overview]] — leader design freedom and features.
 - [[10 Templates/Records/Group Record|Group Record template]] — vault working record fields.
 - [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] — BWR-028 tracks Launch Sunday preparation.

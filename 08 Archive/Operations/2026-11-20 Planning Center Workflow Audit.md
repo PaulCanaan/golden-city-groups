@@ -2,6 +2,8 @@
 
 ## Document Status
 
+**Historical audit.** The [[07 Operations/Workflows/Planning Center Groups|current operating procedure]] carries the confirmed settings and disposition of the remaining proposals.
+
 **November 20, 2026 implementation record and remaining proposals.** *Implementation: Paul approved and Baby Fish executed Part 1 items 1, 1b, 2, 4, 6, 7, 8, 9, and 10 the same evening (item 5 is a standing decision, not an action); the overdue-marking items 3 and 11 were left unapproved and remain proposed. Part 2 workflow A (Leader Development & Multiplication) was built November 20, 2026; workflows B and C remain proposed.* Prepared November 20, 2026 from a live, read-only audit of Paul's Planning Center account the same day and from the operating knowledge in the ministry's Planning Center records. Paul reviews; any change to a live workflow, form, or card happens only on his explicit approval of that specific change. Appointment and readiness authority remain with Russ as elsewhere in this vault.
 
 ## Purpose

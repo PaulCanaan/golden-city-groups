@@ -30,7 +30,7 @@ Either intake path triggers the same Group Leader workflow:
 1. The person submits the `Lead a Group` form; or
 2. the person submits the `Serve Team Interest Form` and selects the group-leading option.
 
-Submission is **Step 0 — Intake Trigger**, not an official workflow stage. The Groups Director receives the notification and/or Workflow Card and moves the person into **Welcome Email / Call**. On the `Lead a Group` form the routing is a workflow field, verified November 2, 2026: the form's group-type dropdown (“What kind of Group are you interested in leading?”) adds the submitter to the Small Group Leader Application workflow, assigned to the Groups Director. No form automation performs this routing. A November 20, 2026 audit added three field-level findings: the dropdown is **not a required field** (a submission that skips it creates no card at all), the "skip people who have already started or completed this workflow" option is **unchecked** for every answer (repeat submissions create duplicate cards), and assignment resolves through the workflow's **default assignee** rather than a pinned person. Fixes are proposed in [[07 Operations/Workflows/Proposed Planning Center Workflows|Proposed Planning Center Workflows]]. The canonical stage definitions, actions, and completion conditions are in [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]].
+Submission is **Step 0 — Intake Trigger**, not an official workflow stage. The Groups Director receives the notification and/or Workflow Card and moves the person into **Welcome Email / Call**. On the `Lead a Group` form the routing is a workflow field, verified November 2, 2026: the form's group-type dropdown (“What kind of Group are you interested in leading?”) adds the submitter to the Small Group Leader Application workflow, assigned to the Groups Director. No form automation performs this routing. A November 20, 2026 audit added three field-level findings: the dropdown is **not a required field** (a submission that skips it creates no card at all), the "skip people who have already started or completed this workflow" option is **unchecked** for every answer (repeat submissions create duplicate cards), and assignment resolves through the workflow's **default assignee** rather than a pinned person. Fixes are proposed in [[08 Archive/Operations/2026-11-20 Planning Center Workflow Audit|Proposed Planning Center Workflows]]. The canonical stage definitions, actions, and completion conditions are in [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Planning Center Groups]].
 
 For Fall 2026, the initial City Group pipeline remains limited to the Launch Team under DEC-018. The July 28, August 11, and August 25 Team Nights were the confirmed recruitment setting, with Paul serving as on-site point person under DEC-026. The existence of either form does not create a general-public appointment path or imply appointment.
 
@@ -73,20 +73,18 @@ Collect only information required for communication, placement, safety, and appr
 
 ## Pre-Publication Test
 
-Before any link is promoted:
-
-- [ ] The offering has completed [[07 Operations/Workflows/Launch Checklist]].
+Before promoting a join or leader-interest route, run this test in an authorized setting. Record the test date, path, owner, and result in the approved operational record. Follow [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]] for final pastoral approval.
 - [ ] The specific Church Center URL works on desktop and mobile.
 - [ ] The public name, description, schedule, rough location, and capacity are accurate. No address or detailed location is published; full details go privately to people who join.
 - [ ] The enrollment mode matches the approved process.
 - [ ] Required fields and consent language are approved.
-- [ ] The request reaches the correct owner and backup.
-- [ ] The confirmation message explains the next step and expected response window.
+- [ ] A test request reaches the correct owner and backup. Verify the participant-interest and leader-interest paths route to their own queues. Check returning-leader follow-up against the season handoff so the duplicate filter does not leave a legitimate submission without a next step.
+- [ ] The confirmation explains the next step and expected response window. Follow one request through owner review and the intended welcome, placement, or redirection.
 - [ ] Full, closed, waitlist, redirection, and correction paths have owners.
 
 ## Connections
 
 - [[07 Operations/Workflows/Planning Center Groups]] — Governs the platform workflow and approval boundaries.
 - [[10 Templates/Communication/Group Leader Communication Library]] — Governs public calls to action and follow-up language.
-- [[07 Operations/Workflows/Launch Checklist]] — Must be completed before enrollment opens.
+- [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]] — Evidence and approval before enrollment opens.
 - [[05 Leadership/Group Leaders]] — Separates Team Night interest from appointment.

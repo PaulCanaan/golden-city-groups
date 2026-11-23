@@ -12,12 +12,11 @@ from datetime import date
 import html
 from pathlib import Path
 import re
-import subprocess
-import tempfile
+
+from resource_pdf import render_pdf
 
 ROOT = Path(__file__).resolve().parents[1]
 BRAND = ROOT / "06 Resources/Brand"
-CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 STYLE = """
 @font-face { font-family: Roboto; src: url("FONT"); font-weight: 100 900; }
@@ -164,20 +163,7 @@ def to_html(markdown):
 
 
 def build_pdf(source, destination):
-    destination = Path(destination)
-    destination.parent.mkdir(parents=True, exist_ok=True)
-    destination.unlink(missing_ok=True)
-    with tempfile.TemporaryDirectory() as tmp:
-        page = Path(tmp) / "handout.html"
-        page.write_text(to_html(Path(source).read_text()))
-        subprocess.run(
-            [CHROME, "--headless=new", "--disable-gpu", "--no-first-run", "--no-default-browser-check",
-             "--disable-extensions", "--no-pdf-header-footer", f"--user-data-dir={tmp}/chrome",
-             f"--print-to-pdf={destination}", page.as_uri()],
-            stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=60, check=False)
-    if not destination.exists():
-        raise SystemExit(f"Chrome did not produce {destination}")
-    return destination
+    return render_pdf(to_html(Path(source).read_text()), destination)
 
 
 def main():

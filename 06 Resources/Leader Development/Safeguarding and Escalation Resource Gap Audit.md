@@ -81,7 +81,7 @@ These materials are useful but are not approved policy or a complete implementat
 - [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]] — proposed support and recordkeeping practice.
 - [[07 Operations/Workflows/Prayer|Prayer]], [[07 Operations/Workflows/Conflict|Conflict]], and [[07 Operations/Workflows/Hospitality|Hospitality]] — proposed application guidance.
 - [[07 Operations/Workflows/Planning Center Groups|Planning Center Groups]], [[07 Operations/Workflows/Forms|Forms]], [[07 Operations/Workflows/Attendance|Attendance]], and [[10 Templates/Communication/Group Leader Communication Library|Communication]] — mixed confirmed context and proposed implementation.
-- [[07 Operations/Workflows/Launch Checklist|Launch Checklist]] — working gate checklist; completion does not replace pastoral approval.
+- [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]] — working gate checklist; completion does not replace pastoral approval.
 - [[06 Resources/External Adaptations/Highlands Resource Adaptation|Highlands Resource Adaptation]] — research/adaptation record, not governing GCC policy.
 
 ## Missing Governing Resources
@@ -185,7 +185,7 @@ No real candidate or participant information was opened, moved, copied, or added
 | Applicant/interview recordkeeping | Leadership pipeline | Working Draft | [[07 Operations/Workflows/Leader Conversation Guide#Discernment Summary\|Leader Conversation Guide]] | Blocked | Approved minimum record, restricted system, access, retention | Paul prepares; Russ approves boundary | Paul | Yes | Yes | No | No | Approve before interviews become decision records. |
 | Incident documentation | All | Missing | [[06 Resources/Leader Development/GCC Group Leader Agreement#Remaining Policy Work\|Remaining Policy Work]] | Not Started | Form/system, access, notification, retention, review | Pastoral/safeguarding/data owners | Not assigned | Yes | Yes | No alone | Yes | Identify church-wide resource; do not recreate if it exists. |
 | Safeguarding/escalation training completion | Leaders, hosts, Planted support | Working Draft under approved minimum | [[06 Resources/Leader Development/Leader Training#4. Prayer, Care, Conflict, and Escalation\|Leader Training]] | Blocked | Approved policy/contact content, completion evidence | Russ/pastoral approves | Paul facilitates | Yes | Yes | Yes | Yes | Finalize only after decisions above. |
-| Public/participant path and tested listing | Each active offering | Ownership approved in part; workflow open | [[08 Archive/Decisions/Decision History#DEC-032 — Public Participant System Ownership\|DEC-032]]; [[07 Operations/Workflows/Launch Checklist\|Launch Checklist]] | Blocked | Owners/backups, settings, tests, accurate location/schedule/capacity | Russ | Paul backup; offering owners | No | No | Yes | Yes | Configure/test only approved offerings. |
+| Public/participant path and tested listing | Each active offering | Ownership approved in part; workflow open | [[08 Archive/Decisions/Decision History#DEC-032 — Public Participant System Ownership\|DEC-032]]; [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks\|Offering Readiness Checks]] | Blocked | Owners/backups, settings, tests, accurate location/schedule/capacity | Russ | Paul backup; offering owners | No | No | Yes | Yes | Configure/test only approved offerings. |
 | Planted location, support and final safety/readiness evidence | Planted | Leader/curriculum approved; operations open | [[00 Dashboard/Open Decisions#Planted Final Readiness\|Open Decisions]] | At Risk | Location, support, escalation, participant path, system tests, final approval | Paul and Russ | Paul | Not Applicable | Yes for support preparation | Yes | Yes | Resolve safety gate alongside operating plan. |
 | Alcohol, weapons, overnight, transportation-specific rules | Conditional | Unknown / unassessed | Repository search; DEC-028 only names transportation and overnight activity | Not Applicable | Applicability and governing policy | Russ/authorized owner | Offering owner | If applicable | If applicable | If applicable | If applicable | Do not activate without explicit review. |
 
@@ -261,4 +261,4 @@ Do not begin policy drafting from general best practices while those inputs rema
 - [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]
 - [[06 Resources/Leader Development/GCC Group Leader Agreement|Group Boundaries]]
 - [[07 Operations/Workflows/Planning Center Groups|Planning Center Groups]]
-- [[07 Operations/Workflows/Launch Checklist|Launch Checklist]]
+- [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]]

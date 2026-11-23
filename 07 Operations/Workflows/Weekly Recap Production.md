@@ -6,7 +6,7 @@
 
 **Amendment, November 18, 2026 (Paul's direction):** a research step now sits between receiving the script and drafting. It follows group feedback Paul received on November 17, 2026: the recaps can go beyond the Sunday message so groups can dive deeper into the week's specific topic (his example: faithfulness, Week 7). The research runs on Paul's `research` skill and produces a theme brief before drafting begins. The Message summary remains faithful to the script alone; research adds depth on the theme — additional verified passages and deeper questions — and is never attributed to the message.
 
-**Open:** backup coverage when Paul is unavailable. The *Weekly Recap Draft* task still runs its earlier prompt (now at 6:00 PM), which drafts and reports but has no Publish stage; the updated prompt kept in the Claude project as *Weekly Recap Task Prompt* still needs to be pasted into the task in the Claude desktop app, with the Sanity and Vercel connectors attached. Until then, ask Claude in a chat that has those connectors to publish a reviewed recap.
+**Open:** Paul confirms who can cover the Sunday handoff and in what capacity (BWR-030). If Paul is unavailable and no approved backup has been recorded, keep the draft and checked PDF ready and mark approval, posting, or release as pending. The *Weekly Recap Draft* task still runs its earlier prompt (now at 6:00 PM), which drafts and reports but has no Publish stage; the updated prompt kept in the Claude project as *Weekly Recap Task Prompt* still needs to be pasted into the task in the Claude desktop app, with the Sanity and Vercel connectors attached. Until then, ask Claude in a chat that has those connectors to publish a reviewed recap.
 
 ## Purpose and Ownership
 
@@ -94,22 +94,16 @@ The recap is for every current leader in that chat; it is shaped for City Groups
 
 Added October 25, 2026 at Paul's direction. Only a recap Paul has reviewed is published; a draft never goes on the page. Paul's word that it is ready (for example, replying "approved" or "publish it") is the trigger.
 
-1. **Check** the [[12 Ministry Website/Resources Page#Before Publishing|Before Publishing]] list: Paul reviewed it, it is public-safe, no names, prayer requests, or locations, and no third-party material without permission. The web text and PDF must match: rebuild the PDF if the record changed.
-2. **Add it in Sanity** (project `1consdwv`, dataset `production`), following the existing recap entries:
-   - `_id` `weekly-recap-YYYY-MM-DD`, title `Weekly Recap · {Message Title}`, slug `weekly-recap-YYYY-MM-DD-{title-lowercase}`;
-   - category `city-groups`, kind `Discussion guide`, audience `everyone`, series and scripture from the record's frontmatter (scripture is the week's key passage only, not the series passage), date the message date;
-   - summary `The {Month D, YYYY} message recap, with check-in questions, Scripture, discussion, and prayer.`;
-   - body: the record's Markdown from `## Check In` through the end of the Pray section, without frontmatter or the `#` title. The record ends with the Pray list; there is no closing line (Paul, November 2, 2026);
-   - the PDF attached as `weekly-recap-YYYY-MM-DD-{title}.pdf`, `publicDistribution: true`; then publish.
-3. **Rebuild** the Vercel production deployment of `gcc-groups-resources` (team `paul-canaan`). CMS changes do not deploy on their own.
-4. **Verify** the live card, the reading page at `resources.goldencity.church/resources/<slug>/`, and the PDF preview.
-5. **Report** the live link to Paul. Set `public_publication_approved:` to the date in the record, as the earlier recaps have.
+Use the [[07 Operations/Workflows/Website Publication and Maintenance#Groups Resources Release|shared Groups Resources release checks]]. The current recap entry uses Sanity project `1consdwv` and dataset `production` with these fields:
 
-6. **Record** the release in the website's ignored `.sanity/publication-YYYY-MM-DD.json` (entry, file URL, hash, deployment, what was verified).
+- `_id` `weekly-recap-YYYY-MM-DD`, title `Weekly Recap · {Message Title}`, and slug `weekly-recap-YYYY-MM-DD-{title-lowercase}`.
+- Category `city-groups`, kind `Discussion guide`, audience `everyone`, message date, series and the week's Scripture from the record.
+- Summary `The {Month D, YYYY} message recap, with check-in questions, Scripture, discussion, and prayer.`
+- Body from `## Check In` through the final Pray list, omitting frontmatter and the title. Attach the approved PDF as `weekly-recap-YYYY-MM-DD-{title}.pdf` with `publicDistribution: true`.
 
-**Correcting or removing a published resource.** Edit the record and rebuild the PDF together, update the Sanity entry (and replace the PDF if it changed), publish, and rebuild. To take one down, unpublish or delete it in Sanity and rebuild; the card and pages disappear only after a successful rebuild. A PDF that was already public keeps its CDN link, so removing a card does not revoke it. A failed build leaves the previous version live; check it and follow up.
+Rebuild `gcc-groups-resources` under the `paul-canaan` team and verify the public result. Keep `public_publication_approved:` for Paul's approval date. Record the verified release in `public_released:` and `public_url:`, share the verified link with Paul, and record the entry, file URL, hash, deployment, and verification in the existing website `.sanity/publication-YYYY-MM-DD.json` record. Mark `posted:` only for confirmed leader-chat delivery.
 
-The Sanity and Vercel connectors are the route; the Mac's agent shell cannot reach either service. If they are unavailable, leave the record and PDF ready and tell Paul what remains. The same steps apply to other reviewed Groups resources (for example Galatians handouts), with their own category, kind, and naming.
+If the Sanity or Vercel connector is unavailable, preserve the reviewed edition and record which release step remains pending for Paul.
 
 ## Exceptions
 

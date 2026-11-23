@@ -51,4 +51,4 @@ Developed from [[01 Governance/Launch Roadmap#Launch Readiness Gates|Launch Read
 - [[Emotional Bypass vs. Spiritual Bypass]] — The two drifts, and the test that distinguishes drift from purpose.
 - [[Build to Last]] — Foundations laid early and tested later.
 - [[Leadership Philosophy]] — Stewardship of people.
-- [[07 Operations/Workflows/Launch Checklist]] — Required offering-readiness review.
+- [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks]] — Required offering-readiness review.

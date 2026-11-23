@@ -17,8 +17,7 @@ Spring 2027 operations prioritize intentional leader development and multiplicat
 - [[07 Operations/Workflows/Semester Planning]]
 - [[07 Operations/Semester Outline]]
 - [[07 Operations/Workflows/Group Launch Overview]]
-- [[07 Operations/Workflows/Launch Plan]]
-- [[07 Operations/Workflows/Launch Checklist]]
+- [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]]
 - [[10 Templates/Communication/Group Leader Communication Library]]
 - [[07 Operations/Metrics]]
 - [[07 Operations/Standing Lobby Cards]]
@@ -37,8 +36,7 @@ Spring 2027 operations prioritize intentional leader development and multiplicat
 - [[07 Operations/Workflows/Semester Planning]] — Process for planning each semester's groups, classes, and launches.
 - [[07 Operations/Semester Outline]] — High-level outline of the semester tied to the calendar.
 - [[07 Operations/Workflows/Group Launch Overview]] — Checklist and timeline for launching groups each semester.
-- [[07 Operations/Workflows/Launch Plan]] — Fall 2026 City Group sequence and unresolved operational decisions.
-- [[07 Operations/Workflows/Launch Checklist]] — Readiness tasks that preserve pastoral and safeguarding approval gates.
+- [[07 Operations/Workflows/Semester Planning|Semester Planning]] — Closeout and planning for the next season.
 - [[07 Operations/Workflows/Ministry Communication Workflow]] — channels, sending procedure, and public accuracy.
 - [[10 Templates/Communication/Communication Templates]] — canonical leader and participant messages.
 - [[07 Operations/Metrics]] — Formation metrics to track group and ministry health.

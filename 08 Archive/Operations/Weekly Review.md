@@ -64,7 +64,7 @@ For each branch, review current offering or launch status, leader or owner statu
 
 - [ ] Review and refresh [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] from source evidence; do not mark `Ready` without a supporting link and required approval.
 - [ ] Reconcile the past July 28, August 11, August 16, and August 25 events through the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]; do not infer unrecorded outcomes.
-- [ ] Reconcile detailed gates in [[07 Operations/Workflows/Launch Checklist]] with the primary launch-control dashboard.
+- [ ] Reconcile detailed gates in [[08 Archive/Operations/Fall 2026 Launch/Launch Checklist]] with the primary launch-control dashboard.
 - [ ] Test or verify approved Planning Center forms and workflows in [[07 Operations/Workflows/Planning Center Groups]] and [[07 Operations/Workflows/Forms]].
 - [ ] Review current messages, owners, and follow-up in [[10 Templates/Communication/Group Leader Communication Library]].
 - [ ] Review leader preparation in [[Leader Training]] without treating participation as appointment.

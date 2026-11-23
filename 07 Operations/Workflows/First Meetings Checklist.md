@@ -45,12 +45,14 @@ Help a prepared leader begin with warmth, clarity, prayer, Scripture, and depend
 
 ## After the Meeting
 
-- [ ] Record attendance through the approved Planning Center procedure.
+If the group did not meet, record whether it is rescheduled, skipped, or still waiting. Keep a next action with the responsible leader.
+
+- [ ] Record the actual meeting date and attendance through the approved Planning Center procedure.
 - [ ] Welcome or follow up with first-time participants through the approved channel.
 - [ ] Correct inaccurate roster or event information.
 - [ ] Move any pastoral, safeguarding, or crisis concern immediately to the approved escalation process.
 - [ ] Ask what helped people connect and what needs adjustment.
-- [ ] Check in with the host or co-leader and prepare for the next gathering.
+- [ ] Check in with the host or co-leader and prepare for the next gathering. Tell Paul when the group actually meets so he can reconcile any application card and arrange leader support.
 
 ## Formation Relationship
 
@@ -60,7 +62,7 @@ Help a prepared leader begin with warmth, clarity, prayer, Scripture, and depend
 
 ## Responsibility and Approval
 
-The approved group leader owns this checklist with support from Paul or the assigned ministry leader. Completion does not replace pastoral approval or the launch checklist.
+The approved group leader owns this checklist with support from Paul or the assigned ministry leader. Final launch approval is recorded through [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]].
 
 ## Connections
 
@@ -70,4 +72,4 @@ The approved group leader owns this checklist with support from Paul or the assi
 - [[07 Operations/Workflows/Prayer]] — Prayer and confidentiality boundaries.
 - [[07 Operations/Workflows/Conflict]] — Redirection, repair, and escalation.
 - [[07 Operations/Workflows/Attendance]] — Post-meeting recordkeeping.
-- [[07 Operations/Workflows/Launch Checklist]] — Governs offering readiness.
+- [[07 Operations/Workflows/Leader Support Check-In|Leader Support Check-In]] — Paul follows up after the first gathering.

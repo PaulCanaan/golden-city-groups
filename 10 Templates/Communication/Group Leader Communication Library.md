@@ -470,6 +470,6 @@ Use [[07 Operations/Workflows/Ministry Communication Workflow|Ministry Communica
 - [[10 Templates/Conversations/Group Leader Conversation Questions]] — working question bank for the conversation.
 - [[06 Resources/Leader Development/Leader Training|Leader Training]] — formation content and completion gap.
 - [[06 Resources/Resources Overview|Resources Overview]] — canonical leader-development and group-life resources.
-- [[07 Operations/Workflows/Launch Checklist|Launch Checklist]] — readiness requirements before launch communication.
+- [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]] — readiness requirements before launch communication.
 - [[10 Templates/Communication/Participant Welcome and Groups Introduction]] — participant-facing welcome for Connection Card interest.
 - [[10 Templates/Communication/Planted Introduction Email]] — participant-facing response to a Planted join request.

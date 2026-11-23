@@ -16,9 +16,21 @@ Paul supplied the dates and promotion plan on November 23, 2026 ([[08 Archive/De
 
 ## Launch Preparation
 
-Complete the four-session CoJourner preparation before the February 7 launch, as required by DEC-045. Its approximately two-month preparation window needs to be reconciled with holidays and January's church-wide prayer and fasting season. The January 30 Collaboration may include equipping. The four-session CoJourner pathway still needs its own schedule. Confirm source material, facilitator, dates, location, and completion expectations with Russ (BWR-019, BWR-042).
+Complete the four-session CoJourner preparation before February 7 under DEC-045. Four sessions at two-week intervals span six weeks. December 26, 2026 is the latest possible start if the last session finishes by February 6 and no weeks are skipped. This is a planning limit. At the December 7 biweekly review, Paul and Russ reconcile source material, cohort, facilitator, holidays, dates, venue, and completion expectations (BWR-019, BWR-042). January 30 is the confirmed Collaboration date for vision, equipping, and preparation for launch.
 
 Groups may keep meeting during January's 21 days of prayer and fasting or wait until spring launch. Coordinate the church's actual dates and communicate each group's plan.
+
+## Fall-to-spring handoff
+
+Use the [[07 Operations/Workflows/Semester Planning#Close the outgoing season|season closeout]] at the December 7 biweekly review. The vault records the following starting evidence. Each offering's disposition and any required approval remain open.
+
+| Branch | Fall evidence | Spring decision or next action |
+|---|---|---|
+| City Groups | Paul reported four of six met and two were waiting as of November 20. Counts only. | Paul confirms each group's disposition in the approved system and checks leadership, January plans, and participant follow-up. Russ retains the applicable appointment and readiness decisions (BWR-006–010, BWR-040). |
+| Collectives | Both began and covered Galatians 1. Later delivery, teaching assignments, and remaining dates still need reconciliation. | Paul and the Collective operators settle the remaining calendar and what continues into spring (BWR-008, BWR-029). |
+| Bible Clubs | Planted's curriculum and leader are established. Its actual fall gathering outcome and venue evidence remain open. | Paul supplies the non-sensitive outcome and venue status. Confirm any spring Bible Club separately with Russ under the applicable approval path (BWR-011, BWR-018, BWR-043). |
+
+Before Russ promotes the launch, confirm what can be announced and test each distinct join and leader-interest route through receipt and follow-up. BWR-045 carries launch coordination, BWR-009 carries participant-system evidence, and BWR-007 and BWR-041 carry the safeguarding decisions. At the January 30 Collaboration share spring vision and equip leaders using non-sensitive fall observations and the approved agreement. Record time, venue, and agenda when confirmed.
 
 ## Intended Purpose
 
@@ -26,8 +38,7 @@ Provide the planning home for expanded intentional leader development and multip
 
 ## Required Inputs
 
-- fall 2026 offering and leader review
-- fall 2026 host, leader, and offering review
+- fall 2026 offering, host, and leader review
 - three-branch ministry priorities for spring
 - CoJourner source material, cohort, facilitator, exact biweekly dates, location, and start date
 - offering owners and readiness dispositions

@@ -153,13 +153,13 @@ Step 0 is an intake trigger, not one of the four official workflow stages. A per
 - the person submits the `Lead a Group` form; or
 - the person submits the `Serve Team Interest Form` and selects the group-leading option.
 
-The Groups Director receives the notification and/or assigned Workflow Card and owns the next action through launch. For Fall 2026, DEC-018 still limits initial City Group leader recruitment to the Launch Team; the two form triggers do not create a general-public appointment pathway.
+The Groups Director receives the notification and/or assigned Workflow Card and owns the next action through launch. Follow the approved intake scope for the season. DEC-018 limited initial Fall 2026 recruitment to the Launch Team. Returning leaders use the [[07 Operations/Workflows/Semester Planning#Close the outgoing season|seasonal handoff]] to confirm their assignment, preparation, and approvals.
 
 **November 20 implementation record.** The two existing People workflows, **Small Group Leader Application** and **Find a Small Group**, were operated manually. The `Lead a Group` dropdown was made required, assignment pinned to the Groups Director, and duplicate routing disabled for people who had already started or completed the workflow. Step descriptions were added to all four leader-application stages. Overdue marking remained off. A third workflow, **Leader Development & Multiplication**, was built for Spring 2027 (Invited → In the Pathway → Apprentice Identified → New Group Planned), with no cards at the time of creation.
 
 **November 20 aggregate snapshot.** Small Group Leader Application had **2 open** and **15 completed** cards after cleanup, including six backfilled from the published roster. Find a Small Group had **0 open** and **1 completed** after the first step name was corrected to **Interested in a Group**. The last misrouted Connection Card entry was removed after the prior welcome was confirmed. These counts describe the system on November 20. Confirmed first gatherings, appointments, and final readiness are tracked in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]].
 
-**November 23 Groups OS reconciliation.** Paul confirmed Planning Center is current. BWR-021 records which Connection Card follow-up is evidenced in the vault. The November 20 audit could only see that the form was outside Paul's account. Russ retains participant-system ownership under DEC-032. See the [[07 Operations/Workflows/Proposed Planning Center Workflows|November 20 implementation and proposals]] for the remaining workflow designs.
+**November 23 Groups OS reconciliation.** Paul confirmed Planning Center is current. BWR-021 records which Connection Card follow-up is evidenced in the vault. The November 20 audit could only see that the form was outside Paul's account. Russ retains participant-system ownership under DEC-032. See the [[08 Archive/Operations/2026-11-20 Planning Center Workflow Audit|November 20 audit]] for dated evidence.
 
 | Step / Planning Center stage | Meaning and entry | Groups Director action | Advance only when | Communication / resource |
 |---|---|---|---|---|
@@ -167,11 +167,20 @@ The Groups Director receives the notification and/or assigned Workflow Card and 
 | **Step 1 — Welcome Email / Call** | Interest has been received and relational follow-up is due. | Acknowledge the interest, make contact, and invite the person to grab coffee for a Group Leader Conversation. | Welcome/contact is sent or completed and the conversation has been invited or arranged. | [[10 Templates/Communication/Group Leader Communication Library#Step 1 — Welcome / Group Leader Conversation\|Invitation and reminder]] |
 | **Step 2 — Interviewed** | The Group Leader Conversation has occurred. “Interviewed” is the internal stage name; use “Group Leader Conversation” with the person. | Record only the minimum approved outcome and next action. If the person is ready to continue, invite them toward training; otherwise follow the approved discernment path. | The conversation is complete and its permitted outcome/next action is recorded. Moving forward still depends on the approved discernment and appointment boundaries. | [[10 Templates/Communication/Group Leader Communication Library#Step 2 — Interviewed\|Ready-to-move-forward messages and pending outcomes]]; [[07 Operations/Workflows/Leader Conversation Guide\|Conversation Guide]]; [[10 Templates/Conversations/Group Leader Conversation Questions\|Question Bank]] |
 | **Step 3 — Attended Training** | Attendance at the required Group Leader Training has been recorded. | Confirm any remaining preparation, assignment, appointment, and launch-readiness actions; introduce leader resources. | Required attendance is recorded. Do not mark the person “trained” beyond this stage until the completion standard is approved and met; attendance is not appointment. | [[10 Templates/Communication/Group Leader Communication Library#Step 3 — Attended Training\|Training and resource messages]]; [[06 Resources/Leader Development/Leader Training\|Leader Training]]; [[06 Resources/Resources Overview\|Resources Overview]] |
-| **Step 4 — Small Group Launched** | The assigned group has actually begun meeting. Approval, appointment, assignment, or training alone does not qualify. | Confirm the first gathering occurred, record the actual launch, and begin the approved leader-support rhythm. | The first group gathering has occurred and the Planning Center record reflects the launch. This is workflow completion. | [[10 Templates/Communication/Group Leader Communication Library#Step 4 — Small Group Launched\|Launch messages]]; [[10 Templates/Communication/Group Leader Communication Library#Ongoing Leader Support\|Ongoing support messages]]; [[07 Operations/Workflows/Launch Checklist\|Launch Checklist]]; [[07 Operations/Workflows/Leader Support Check-In\|Support Guide]] |
+| **Step 4 — Small Group Launched** | The assigned group has actually begun meeting. Approval, appointment, assignment, or training alone does not qualify. | Confirm the first gathering occurred, record the actual launch, and begin the approved leader-support rhythm. | The first group gathering has occurred and the Planning Center record reflects the launch. This is workflow completion. | [[10 Templates/Communication/Group Leader Communication Library#Step 4 — Small Group Launched\|Launch messages]]; [[10 Templates/Communication/Group Leader Communication Library#Ongoing Leader Support\|Ongoing support messages]]; [[07 Operations/Workflows/First Meetings Checklist\|First Meetings Checklist]]; [[07 Operations/Workflows/Leader Support Check-In\|Support Guide]] |
 
 At every stage, the Workflow Card should make the current stage, responsible owner, immediate next action, and due date clear. Open the linked canonical message, personalize and send it, record the completed action and next step, then advance the card only when the stated condition is met. Keep notes brief and non-sensitive. The exact approved fields, consent, retention, backup coverage, response standard, interview records, assessment criteria, training completion standard, assignment, appointment record, and commissioning practice remain unresolved. Do not store background-check details, confession, diagnoses, unverified allegations, or unnecessary pastoral narrative in a form, workflow, group record, or this repository.
 
-Russ or his designated pastor retains primary appointment and final-readiness authority. Workflow movement documents operational progress; it does not appoint a leader, approve a location, or make a group launch-ready.
+Russ or his designated pastor retains primary appointment and final-readiness authority. Record actual first-gathering evidence before completing **Small Group Launched**. A card backfilled from a public roster is evidence of a published assignment. Preserve earlier stage and actual-launch gaps as unknown until verified.
+
+#### Reconcile cards and handoffs
+
+- Distinguish **Small Group Leader Application** for leader interest, **Find a Small Group** for participant placement that needs follow-through, and **Leader Development & Multiplication** for leaders specifically invited by Paul. Keep the development board's launch handoff tied to confirmed actual launch and the existing [[07 Operations/Workflows/Leader Support Check-In#Handoff from the first gathering|leader support steps]].
+- Resolve a misrouted card using the approved participant path. Check permitted communication history before preparing another welcome. The Connection Card belongs under Russ's participant-system ownership. Keep the application welcome personal and manual.
+- The configured form skips people who already have an open or completed application. Check a returning leader's approved seasonal next step before relying on a resubmission. Confirm the desired route with Paul if a new application is actually needed.
+- A paused card needs an owner and a review date. Overdue marking remains a proposal until its use and thresholds are agreed. The proposed **New Group First 30 Days** and **Season Transition** boards stay in reserve. Use the existing leader check-in and season handoff first. If a First 30 Days board is later approved, trigger it from the group's confirmed first gathering, including groups with returning leaders.
+
+Use the repository's [Planning Center Operations skill](../../.agents/skills/planning-center-operations/SKILL.md) for a read-only reconciliation or a specifically authorized update.
 
 See [[07 Operations/Workflows/Forms]], [[05 Leadership/Group Leaders]], and the [[10 Templates/Communication/Group Leader Communication Library#Journey Map|Group Leader Communication Library]].
 
@@ -194,7 +203,7 @@ Add a person as leader only after the approved appointment and training process.
 
 ### 5. Test and publish
 
-Complete [[07 Operations/Workflows/Launch Checklist]]. Using a non-admin profile, test:
+Use the [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|offering readiness checks]]. In an authorized test setting with a non-admin profile, test:
 
 1. the exact public link on phone and desktop;
 2. the public name, description, schedule, location, and capacity;
@@ -267,9 +276,11 @@ Use aggregate Groups reports and approved People Lists. Numbers should prompt pr
 
 ### 10. Close the season
 
+Use each offering's recorded disposition from [[07 Operations/Workflows/Semester Planning#Close the outgoing season|season closeout]] to guide the changes below.
+
 1. Confirm the final gathering and transition communication.
 2. Offer approved next steps and identify people needing personal transition care.
-3. Resolve outstanding requests and stop future events.
+3. Resolve outstanding requests. Stop future events for a paused or closed offering. For continuing or changed offerings, refresh approved dates, settings, and communications from the season plan.
 4. Review roster and resource handling under the approved retention policy.
 5. Archive the group when appropriate; do not delete history or reuse a record with old members without an approved reset process.
 6. Remove obsolete permissions and leader roles.
@@ -309,8 +320,8 @@ Last verified July 27, 2026. Product interfaces change; consult the current Help
 - [[Operation Overview]] — Places Planning Center in the ministry operating system.
 - [[07 Operations/Workflows/Forms]] — Governs leader-interest and participant-intake procedures.
 - [[07 Operations/Workflows/Attendance]] — Defines attendance practice and pastoral boundaries.
-- [[07 Operations/Workflows/Launch Plan]] — Applies this instruction to Fall 2026.
-- [[07 Operations/Workflows/Launch Checklist]] — Provides readiness gates before publication.
+- [[07 Operations/Workflows/Semester Planning]] — Season handoff and offering dispositions.
+- [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Offering Readiness Checks]] — Readiness gates before publication.
 - [[10 Templates/Communication/Group Leader Communication Library]] — Governs public and internal communication.
 - [[07 Operations/Metrics]] — Provides formation-aware evaluation.
 - [[05 Leadership/Group Leaders]] — Defines the confirmed initial leadership pipeline and post-appointment responsibilities.

@@ -1,55 +1,14 @@
 # Group Launches
 
-Connected to [[07 Operations/Workflows/Semester Planning]] and [[00 Dashboard/Calendar]]
+Paul coordinates the semester launch. Russ or his designated pastor retains final offering readiness and primary appointments under DEC-021 and DEC-027.
 
-## Document Status
+1. [[07 Operations/Workflows/Semester Planning|Plan the season]] and record dates in the [[00 Dashboard/Calendar|Calendar]].
+2. [[07 Operations/Workflows/Planning Center Groups#3. Move prospective leaders from intake to launch|Follow the leader intake pathway]] for prospective leaders. Review returning leaders through the season handoff.
+3. [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Prepare the offering and verify readiness]]. Confirm the participant path before promotion and record the applicable pastoral approval before listing or opening enrollment.
+4. [[07 Operations/Workflows/First Meetings Checklist|Confirm the first gathering]] and [[07 Operations/Workflows/Leader Support Check-In|begin leader support]].
 
-**Confirmed intake-to-launch lifecycle; offering details remain incomplete.** DEC-042 governs the Planning Center leader workflow, while the Launch Team and three Team Nights govern the initial Fall 2026 recruitment context. This document does not establish leader appointments, training dates, assignments, or commissioning details.
-
-## Scope and Ownership
-
-**Owner:** Paul coordinates launch operations; Russ retains pastoral appointments and final offering readiness. **Use:** launch context and navigation across leader interest, preparation, publication, and actual gathering. The sequence below distinguishes confirmed context from pending implementation.
-
-## Process Map
-
-| Stage | Action | Completion / next step |
-|---|---|---|
-| Leader pathway | Follow the canonical Planning Center stages. | No appointment is inferred from workflow movement. |
-| Offering preparation | Use Group Launch Readiness and Launch Checklist. | Applicable review and readiness gates are evidenced. |
-| First gathering | Confirm what actually occurred. | Small Group Launched is used only after meeting. |
+The [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027 plan]] carries current dates, coordination, and open decisions.
 
 ## Fall 2026 Sequence
 
-1. **Confirmed:** Pre-launch gatherings form the Launch Team.
-2. **Confirmed schedule:** July 28, August 11, and August 25 Team Nights were planned to provide City Group vision, leader sign-ups, discernment, placement conversations, and launch preparation; actual outcomes require reconciliation.
-3. **Confirmed workflow:** Either approved group-leader intake path triggers **Welcome Email / Call**; Paul owns follow-up and invites the person to a Group Leader Conversation.
-4. **Confirmed stage:** After the conversation, the card moves to **Interviewed**; format, records, and role-specific criteria remain open.
-5. **Confirmed stage:** Required training attendance moves the card to **Attended Training**; curriculum and completion requirements remain open.
-6. **Planned:** Group assignments, hosts or locations, and capacity confirmation.
-7. **Planned; awaiting pastoral direction:** Leader appointment and commissioning.
-8. **Confirmed:** Golden City Church launched publicly September 20; groups are presented at lobby tables on Group Launch Sunday, October 4 (DEC-048, DEC-051), with an optional second presentation on October 11. City Groups may begin meeting one to two weeks later (DEC-052).
-9. **Confirmed workflow completion; launch timing still requires approval:** After a launch-ready group actually begins meeting, the card moves to **Small Group Launched**.
-
-The shared Planning Center workflow and documented email automations are configured. Live use, candidate-stage reconciliation, testing, and all appointment/readiness gates remain separate.
-
-Collectives and Bible Clubs have an October 2026 readiness target. Both Collectives meet every other Tuesday at 6:30pm in the Broomfield (144th & Zuni) area, on alternating weeks: Men's from October 6 and Women's from October 13 (DEC-066, replacing DEC-060's Thursday schedules). Russ intends the Collectives to become on-site gatherings in the future. *Planted.* meets Mondays 6:30–8:00pm from October 12 in the Broomfield (120th & Interlocken) area (DEC-066); its specific venue is still to be confirmed (BWR-018). Paul owns downstream operational setup.
-
-Public leadership pathways may be developed later but are not part of the initial pre-launch recruitment process.
-
-The primary Fall 2026 objective is to recruit Launch Team members to host City Groups. Host interest does not establish appointment or location readiness.
-
-## Readiness Check
-
-Use [[07 Operations/Workflows/Launch Checklist]] for the operational gates that must be completed before any offering is represented as launch-ready.
-
-## Notes
-
-## Connections
-
-- [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] — workflow for ready leaders: City Group Profile form, Planning Center group, Open Groups webpage listing, and table card (DEC-059).
-- [[07 Operations/Workflows/Group Launch MOC.canvas|Group Launch MOC]] — visual map of the October 4 Group Launch, from governing decisions to after-launch support.
-- [[Operation Overview]] — Group launches are a core operations activity each semester.
-- [[07 Operations/Workflows/Semester Planning]] — Launch plans are developed during semester planning.
-- [[00 Dashboard/Calendar]] — Launch dates and milestones appear on the ministry calendar.
-- [[Groups Overview]] — Distinguishes planned group forms from active offerings.
-- [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026]] — Records confirmed Team Nights and pending fall milestones.
+The [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall 2026 record]] and [[08 Archive/Operations/Fall 2026 Launch/Launch Plan|archived launch plan]] preserve the Launch Team recruitment scope, Team Nights, October 4 presentation, and initial group starts. The [[00 Dashboard/Launch Readiness Dashboard|Fall readiness dashboard]] carries unresolved evidence.

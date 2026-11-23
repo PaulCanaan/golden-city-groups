@@ -73,6 +73,17 @@ Paul owns updates under DEC-037. Use [[07 Operations/Workflows/Biweekly Ministry
 
 These checks record publication work; they do not grant ministry approval or establish offering readiness.
 
+## Groups Resources Release
+
+Use this shared checklist for a reviewed recap, handout, or guide destined for the [[12 Ministry Website/Resources Page|Groups resources library]]. The source workflow carries its owner, audience, approval, and any internal delivery.
+
+1. **Verify the reviewed edition.** Locate the editable master, reviewed version and final file, and Paul's approval for the intended audience. Check that the public body and download match the reviewed source. Rebuild and inspect the PDF if the master changed.
+2. **Confirm public distribution.** Use the [[12 Ministry Website/Resources Page#Before Publishing|public-edition checks]] for privacy, attribution, and permissions. Use only the approved public file. Keep private contacts, participant details, internal notes, and restricted editions out of the public content system and its assets.
+3. **Apply the authorized release.** Use the task's authorized publication path and the correct category and entry. For the existing Resources site, update the approved Sanity entry and PDF, publish the entry, and rebuild the Vercel production site. Keep resource-specific fields with the source workflow.
+4. **Verify and record the result.** Open the actual resource card, reading page, and PDF. Record the release date, link, and checks in the resource's existing record or project brief, using the deployment evidence if available. A failed build or unavailable connector leaves the public release pending. Record leader-chat or other direct delivery separately when it occurs.
+
+For a correction, update the source and PDF together and repeat the release and verification steps. When withdrawing a resource, remove the listing through the approved process and verify the rebuild. An already-public asset URL can remain accessible.
+
 ## Recording Future Design Choices
 
 For a material design change, add a brief rationale to [[12 Ministry Website/Development Journey|Development Journey]]: **problem and evidence → alternatives considered → choice and reason → implementation/review status → validation and recovery reference**. One or two sentences are enough for a simple change. Label proposed work as pending; record publication only once it occurs.

@@ -12,6 +12,13 @@
 - [[08 Archive/Classes/Classes Archive]]
 - [[08 Archive/Legacy Group Scaffolds/Legacy Group Scaffolds|Legacy Group Scaffolds]] — unapproved or superseded group and leadership structures preserved for reference
 
+## Fall 2026 Launch
+
+- [[08 Archive/Operations/Fall 2026 Launch/Church Plant Launch Roadmap|Church-plant launch roadmap]] — original scope, dependencies, and launch preparation.
+- [[08 Archive/Operations/Fall 2026 Launch/Launch Plan|Fall launch plan]] · [[08 Archive/Operations/Fall 2026 Launch/Launch Checklist|Fall launch checklist]] · [[08 Archive/Operations/Fall 2026 Launch/Group Launch MOC.canvas|Fall launch canvas]].
+- [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall season record]] and [[07 Operations/Annual Rhythm/2026/Fall 2026 Group Profile Cards|issued fall profile cards]] retain their dated homes.
+- [[08 Archive/Operations/2026-11-20 Planning Center Workflow Audit|November 20 Planning Center audit]] — dated implementation evidence and original proposals. Current instructions live in [[07 Operations/Workflows/Planning Center Groups|Planning Center Groups]].
+
 ## Connections
 
 - [[Home]] — Archive is the top-level area for historical decision records and retired ministry content.

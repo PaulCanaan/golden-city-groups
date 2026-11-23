@@ -1,8 +1,8 @@
 # Golden City Church Groups Ministry
 
-This vault supports the development and launch of Golden City Church's Groups Ministry. It gathers the ministry's governing direction, theological framework, ministry plans, leadership resources, operations, and decision history.
+This vault supports the operation and development of Golden City Church's Groups Ministry. It gathers the ministry's governing direction, theological framework, ministry plans, leadership resources, operations, and decision history.
 
-Golden City Church launched publicly on **September 20, 2026** and is now an established faith community in Broomfield, Colorado. **Group Launch Day is Sunday, October 4, 2026** (DEC-048). Paul serves as Ministry Director and operational point person; Russ, or a pastor he designates, retains final readiness approval and the pastoral decisions recorded in the [Decision Log](00%20Dashboard/Decision%20Log.md).
+Golden City Church launched publicly on **September 20, 2026** and is now an established faith community in Broomfield, Colorado. **The first Group Launch Day was October 4, 2026** (DEC-048). For the current season, start with [Semester Planning](07%20Operations/Workflows/Semester%20Planning.md) and the [Ministry Calendar](00%20Dashboard/Calendar.md). Paul serves as Ministry Director and operational point person; Russ, or a pastor he designates, retains final readiness approval and the pastoral decisions recorded in the [Decision Log](00%20Dashboard/Decision%20Log.md).
 
 ## Ministry at a Glance
 
@@ -23,7 +23,7 @@ Read these documents before making substantive changes:
 1. [Ministry Context](01%20Governance/Ministry%20Context.md) — confirmed church and ministry context
 2. [Theological Framework](01%20Governance/Theological%20Framework.md) — formation commitments and guardrails
 3. [Ministry Model](01%20Governance/Ministry%20Model.md) — how City Groups, Collectives, and Bible Clubs fit together and may develop
-4. [Launch Roadmap](01%20Governance/Launch%20Roadmap.md) — September 2026 priorities, dependencies, and readiness gates
+4. [Launch Roadmap](01%20Governance/Launch%20Roadmap.md) — enduring launch readiness gates and the archived church-plant roadmap
 5. [Decision Log](00%20Dashboard/Decision%20Log.md) — canonical chronological decision register and metadata
 6. [Governance Index](00%20Dashboard/Governance%20Index.md) — browse decisions by domain, status, recency, and supersession
 7. [Open Decisions](00%20Dashboard/Open%20Decisions.md) — unresolved questions and partially completed governance work

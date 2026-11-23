@@ -44,6 +44,9 @@ week: {Week number, when the series numbers its weeks}
 passage: "{The week's key passage}"
 status: Draft
 posted:
+public_publication_approved:
+public_released:
+public_url:
 ---
 
 # {Message Title}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planning Center Operations"
+  short_description: "Reconcile Groups workflow records and handoffs"
+  default_prompt: "Use $planning-center-operations to review the current workflow stage and recommend an evidence-backed next step."
