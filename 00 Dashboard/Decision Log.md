@@ -140,6 +140,7 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-090 | [[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development\|Spring Leader Equipping and CoJourner Resource Development]] | Confirmed January 30 equipping and library development | 2026-11-23 | Leadership | — | — | Paul (preparation and resource development) |
 | DEC-091 | [[08 Archive/Decisions/Decision History#DEC-091 — Congregational Leader Interest after the First Launch\|Congregational Leader Interest after the First Launch]] | Confirmed operational direction from Paul | 2026-11-23 | Leadership | — | — | Paul (intake coordination) |
 | DEC-092 | [[08 Archive/Decisions/Decision History#DEC-092 — Leader Acknowledgements for Group Readiness\|Leader Acknowledgements for Group Readiness]] | Confirmed implementation of existing agreement and guide direction | 2026-11-23 | Safety & Care | — | — | Paul (preparation and verification) |
+| DEC-093 | [[08 Archive/Decisions/Decision History#DEC-093 — Monthly Groups Ministry Newsletter\|Monthly Groups Ministry Newsletter]] | Confirmed development direction. First-Saturday 8:00 a.m. MT send rhythm established. | 2026-11-23 | Communication | — | — | Paul |
 
 ## Open Decisions
 

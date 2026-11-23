@@ -27,6 +27,7 @@ Find how to carry out a ministry process in one place. Active workflow instructi
 | Record approved ministry decisions | [[07 Operations/Workflows/Decision Recording Workflow\|Decision Recording Workflow]] | Existing recording procedure; governance records remain canonical |
 | Prepare the first gathering | [[07 Operations/Workflows/First Meetings Checklist\|First Meetings Checklist]] | Proposed tool; only after applicable readiness approval |
 | Welcome participants | [[07 Operations/Workflows/Hospitality\|Hospitality]] | Proposed practical guidance; location/safety requirements pending |
+| Develop and deliver the monthly leader newsletter | [[07 Operations/Workflows/Monthly Groups Ministry Newsletter Production\|Monthly Groups Ministry Newsletter Production]] | Direction confirmed under DEC-093. First issue in development. |
 | Produce and share the Weekly Recap | [[07 Operations/Workflows/Weekly Recap Production\|Weekly Recap Production]] | Working procedure (DEC-055 clarification, October 7); backup coverage open |
 | Develop curriculum resources visually | [[06 Resources/Curriculum Development/Ministry Curriculum Development\|Ministry Curriculum Development]] | Four-folder development system and three AI working roles with Paul’s review handoffs; curriculum approval/readiness remain separate |
 | Facilitate Scripture discussion | [[07 Operations/Workflows/Bible Study\|Bible Study]] | Proposed facilitation; resource-choice and doctrinal boundaries retained |

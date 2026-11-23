@@ -33,6 +33,8 @@ Only the third one produces knowledge the ministry did not already have. It is a
 
 CoJourner may run during Collaborations, so that training happens alongside peers rather than in a separate room (DEC-045, DEC-056). Paul is also available to leaders pastorally, through a sign-up calendar for one-on-one support (DEC-064).
 
+The [[06 Resources/Leader Development/Monthly Groups Ministry Newsletter|Monthly Groups Ministry Newsletter]] supports current leaders between the three seasonal Collaborations. Use it to carry encouragement, useful resources, and confirmed ministry updates through the year (DEC-093).
+
 ## Who Comes
 
 All current group leaders. The leaders' Church Center group chat (DEC-057) carries the invitation and details; its members are City Group hosts, Collective leaders and co-leaders, table leaders and discussion facilitators, and class instructors.

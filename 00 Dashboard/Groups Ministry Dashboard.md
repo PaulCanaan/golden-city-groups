@@ -59,7 +59,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - **Carry-forward baseline:** November 19 follow-up with the November 20 addendum and November 23 Groups OS write-back. Earlier unanswered questions remain in the queue.
 - **Next review:** December 7, 2026 at 7:00 AM America/Denver
 - **Scheduler:** the November 2 and 16 reports were delivered locally. The runner can recover delivery state from a completed scheduled report when its local receipt is missing.
-- **Queue:** [[00 Dashboard/Biweekly Review Queue|30 active items]] carried to December 7 (BWR-031 and BWR-005 closed; BWR-045 for spring launch prep and BWR-046 for the Freedom Class pilot)
+- **Queue:** [[00 Dashboard/Biweekly Review Queue|31 active items]] carried to December 7 (BWR-031 and BWR-005 closed; BWR-045 for spring launch prep and BWR-046 for the Freedom Class pilot)
 - **Human input outstanding:** Paul's non-sensitive launch and gathering outcomes, Collective dates and delivery, Planted venue/readiness, and remaining follow-up evidence in the queue. Russ's decisions include safeguarding and incident reporting, appointments and final readiness, and participant-system governance.
 - **Critical blockers:** Planted venue/outcome/calendar; tested participant paths; church-wide safeguarding policy and reporting procedure; offering appointments/final readiness; Fall leader-preparation records; past event and first-gathering outcomes
 
@@ -75,6 +75,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - Russ and Paul: test every join path end to end and approve system ownership, response, access, consent, and backup boundaries (BWR-009).
 - Paul: reconcile the four earlier events and record any remaining Connection Card disposition (BWR-001–004, BWR-021). The November 2 welcome and November 20 cleanup are recorded.
 - Paul: reconcile DEC-066 participant/public communication and replace stale profile cards before reuse (BWR-036).
+- Paul: develop the [[06 Resources/Leader Development/Monthly Groups Ministry Newsletter|monthly leader newsletter]] as ideas are supplied. Use the [[06 Resources/Leader Development/Groups Ministry Newsletter Content Calendar|Newsletter Content Calendar]] for first-Saturday topics and dates. Confirm the first issue and current-leader audience in Planning Center (BWR-047).
 - Paul: reconcile Weekly Recap posting and backup coverage (BWR-030).
 - Paul: follow through on existing participant updates and standing lobby cards (BWR-038, BWR-039).
 - Paul: encourage the leaders of the two City Groups that have not started meeting to join another group meanwhile; Russ keeps promoting groups with open spots (DEC-075, BWR-040).

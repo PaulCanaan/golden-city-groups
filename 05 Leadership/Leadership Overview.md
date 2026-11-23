@@ -36,6 +36,8 @@ Current and future group leaders sign the Group Leader Acknowledgement. City Gro
 
 Current group leaders gather to share experiences and struggles, learn from one another, and be poured into and equipped (DEC-056). The first was set as a dinner at Paul's home on Saturday evening, November 7, 2026 (DEC-079); Collaborations now meet three times a year, before the spring and fall launches and before summer activities (DEC-086). See [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]].
 
+The [[06 Resources/Leader Development/Monthly Groups Ministry Newsletter|Monthly Groups Ministry Newsletter]] supports current group leaders between Collaborations through Planning Center email (DEC-093).
+
 ## CoJourner Pathway
 
 [[CoJourner]] is the selected group-leader training program from The Garden Project Ministry. Its approved architecture is four biweekly sessions over approximately two months, with a pre-launch completion target (DEC-045). Russ approved using it at the January 30 Collaboration and developing a library edition (DEC-090). See the program note for source access, facilitator, and cohort dates.

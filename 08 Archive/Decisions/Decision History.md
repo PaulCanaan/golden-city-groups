@@ -1084,6 +1084,16 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Implications:** Use [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] to confirm completion before serving for the applicable offering. Keep signed records private. BWR-041 carries the restricted recording method and other unresolved safeguards.
 - **Boundary:** The approved agreement text and pastoral authority govern. Acknowledgment provides preparation evidence. Appointment and final approval require their own records.
 
+### DEC-093 — Monthly Groups Ministry Newsletter
+
+- **Decision:** Develop a monthly newsletter as a leader resource to support current group leaders, reinforce Golden City's mission, vision, and values, and keep leaders connected between the three seasonal Collaborations. Deliver approved issues through Planning Center to the leaders currently serving.
+- **Status:** Confirmed development direction from Paul. The first issue and recipient selection details remain open.
+- **Date and source:** November 23, 2026. Paul supplied the direction while asking for the Groups OS scaffold.
+- **Domain:** Communication
+- **Owner:** Paul coordinates issue development and delivery.
+- **Implications:** Use the [[06 Resources/Leader Development/Monthly Groups Ministry Newsletter|newsletter planning note]] to capture ideas and the [[07 Operations/Workflows/Monthly Groups Ministry Newsletter Production|production workflow]] for drafts. BWR-047 carries the first-issue setup.
+- **Implementation direction from Paul:** Use the first Saturday at 8:00 a.m. Mountain Time for the monthly Planning Center email. Include church and Groups & Classes news and a short leader-equipping article. Use the Christian calendar for Advent and Lent devotional ideas and include formation and ministry orientation at launches. See the [[06 Resources/Leader Development/Groups Ministry Newsletter Content Calendar|Newsletter Content Calendar]] for candidate issue dates and topics.
+
 ## Open Questions
 
 The open questions below originated in the July 27, 2026 snapshot; their statuses may note later resolution. The current decision queue is maintained in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]].

@@ -14,6 +14,7 @@ Find what to send, ask, or record under 10 Templates. Follow the associated [[07
 - [[10 Templates/Communication/Group Leader Communication Library|Group Leader Communication Library]] — email, text, form confirmation, conversation, training, launch, and support messages.
 - [[10 Templates/Communication/Participant Welcome and Groups Introduction|Participant Welcome and Groups Introduction]] — Connection Card response and reduced/leadership-interest variants; pending conditions remain.
 - [[10 Templates/Communication/Planted Introduction Email|Planted Welcome and Introduction Templates]] — request acknowledgment, shorter welcome email, short text/Church Center message, and confirmed-detail follow-up.
+- [[10 Templates/Communication/Monthly Groups Ministry Newsletter Issue|Monthly Groups Ministry Newsletter Issue]] — reusable draft and send record for Planning Center email to current leaders.
 
 ## Conversations
 

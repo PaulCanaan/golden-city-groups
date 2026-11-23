@@ -23,7 +23,7 @@ Practical resources for hospitable, Scripture-centered, prayerful, and formative
 - [[Weekly Recaps]] — optional weekend-message discussion resource for City Groups
 - [[Prayer Requests]] — privacy-conscious prayer-request guidance and escalation boundaries
 
-Printable resources share one look: [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]] (logo, colors, type, layout). The Weekly Recap is the model for other Groups resources in style and question design (DEC-071). The [[12 Ministry Website/Resources Page|Resources Page]] records public resource publication and the October 26 direction to place both guides and the agreement under Other Resources (DEC-082). Draft guides remain unpublished until reviewed.
+Printable resources share one look: [[06 Resources/Brand/Groups Resource Style|Groups Resource Style]] (logo, colors, type, layout). The Weekly Recap is the model for other Groups resources in style and question design (DEC-071). The [[12 Ministry Website/Resources Page|Resources Page]] records public resource publication and the October 26 direction to place both guides and the agreement under Other Resources (DEC-082). Use the published guides for leader acknowledgements (DEC-092).
 
 ### Leader Development
 
@@ -32,6 +32,7 @@ Resources for discerning, preparing, and supporting approved leaders:
 - [[07 Operations/Workflows/Leader Conversation Guide]] — proposed Launch Team discernment conversation
 - [[Leader Training]] — proposed curriculum for discerned and invited candidates
 - [[CoJourner]] — approved four-session pathway for ongoing leader development
+- [[06 Resources/Leader Development/Monthly Groups Ministry Newsletter|Monthly Groups Ministry Newsletter]] — a monthly Planning Center email resource for current group leaders (DEC-093).
 - [[07 Operations/Workflows/First Meetings Checklist]] — preparation before, during, and after a group's first gatherings
 - [[07 Operations/Workflows/Leader Support Check-In]] — simple leader care without assuming a formal coaching layer
 - [[Collective Leader Guide|Collective Leader Guide]] — supportive guidance for Men's and Women's Collective leaders. Use the published edition for the role acknowledgement (DEC-092).
@@ -41,9 +42,9 @@ Resources for discerning, preparing, and supporting approved leaders:
 
 Role authority, appointment, and expectations are governed by [[Leadership Overview]] and [[05 Leadership/Group Leaders]], not by these resources alone.
 
-#Use [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] for the agreement, branch-specific guide links, and preparation requirements.
+Use [[06 Resources/Leader Development/Leader Training#Leader Acknowledgements|Leader Acknowledgements]] for the agreement, branch-specific guide links, and preparation requirements.
 
-## Leader Resources and SOP Research Roadmap
+### Leader Resources and SOP Research Roadmap
 
 DEC-039 directs the ministry to develop leader resources and standard operating procedures from research into healthy church practices. Research and placeholders may be developed for:
 

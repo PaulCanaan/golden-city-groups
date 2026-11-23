@@ -50,6 +50,10 @@ Also:
 
 Under DEC-028, sensitive pastoral, safeguarding, screening, or discernment details stay out of every channel, including the leaders' group chat. Backup coverage and response expectations remain open where not already assigned.
 
+### Monthly Leader Newsletter
+
+Use [[07 Operations/Workflows/Monthly Groups Ministry Newsletter Production|Monthly Groups Ministry Newsletter Production]] for the monthly email to the current serving leaders through Planning Center (DEC-093).
+
 ### Planning Center Communication Procedure
 
 - Personalize the canonical message for the person's actual stage.
