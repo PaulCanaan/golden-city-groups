@@ -2,48 +2,25 @@
 
 ## Document Status
 
-**Approved group-leader training architecture; source material and implementation details remain open.** DEC-045 establishes the selected program, source ministry, four-session biweekly structure, approximate duration, and Spring 2027 target. DEC-056 permits running it during Group Leader Collaborations.
+Russ approved CoJourner for leader equipping at the [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration|January 30, 2027 Group Leader Collaboration]] and continued development for the Groups resources library ([[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090]]). The four-session cohort architecture comes from DEC-045. DEC-056 permits using Collaborations for equipping.
 
-## Purpose
+## Purpose and Audience
 
-Prepare Golden City Groups leaders before the Spring 2027 group launch through the CoJourner Program developed by The Garden Project Ministry.
+Equip current group leaders for the spring semester through the CoJourner Program developed by The Garden Project Ministry. Shared training gives leaders across City Groups, Collectives, and Bible Clubs a place to grow together and practice what they will bring into their groups. Developing leaders may join a cohort as invited. Role-specific preparation, safeguarding, appointment, and offering readiness follow their existing approval processes.
 
-## Audience
+## January 30 and the Cohort Plan
 
-- developing Groups Ministry leaders;
-- current or prospective leaders invited into an approved training cohort.
+Paul prepares the January 30 session within the Collaboration agenda for vision, leader equipping, and spring launch preparation. Confirm the facilitator, materials, time, and venue with Russ.
 
-Participation does not constitute appointment, replace role-specific training, or bypass safeguarding and readiness requirements.
+DEC-045 sets four biweekly sessions over approximately two months, with completion before the Spring 2027 launch as the planning target. January 30 is one confirmed gathering. Agree with Russ on what it covers, how additional sessions fit around the holidays and January prayer and fasting, and any change needed to the completion target. Confirm the cohort, completion criteria, attendance and tracking, and any commissioning relationship (BWR-019).
 
-## Relationship to Groups Ministry
+## Resource Development
 
-CoJourner supports leader development across City Groups, Collectives, and Bible Clubs. It provides a shared formation pathway while each branch retains its distinct purpose and role requirements.
-
-## Approved Architecture
-
-- **Program:** CoJourner
-- **Source:** The Garden Project Ministry
-- **Sessions:** four
-- **Cadence:** biweekly
-- **Duration:** approximately two months
-- **Format:** group-leader collective / training cohort
-- **Strategic target:** completion before the Spring 2027 group launch
-- **Possible setting:** Group Leader Collaborations (DEC-056; [[05 Leadership/Group Leader Collaboration/About Collaboration|About Group Leader Collaboration]])
-
-## Details Still Needed
-
-- session titles and curriculum details;
-- facilitator(s), exact dates, and location, including whether it runs within Collaborations;
-- participant requirements, attendance, completion criteria, and assessment;
-- relationship to commissioning;
-- whether Fall 2026 leaders complete all or part of the program; and
-- Planning Center tracking.
-
-Await the promised source-material upload before developing these details.
+Paul identified [The Garden Project](https://the-garden-project.org/) as the home of the early development materials. Confirm access to the current source before preparing the January 30 material. Continue developing a Groups library edition under [[06 Resources/Curriculum Development/Ministry Curriculum Development|Ministry Curriculum Development]]. Confirm attribution, permission for any adapted material, and the applicable resource review before a library release.
 
 ## Connections
 
-- [[Leadership Overview]] — Places CoJourner within the leadership architecture.
-- [[Leader Training]] — Distinguishes ongoing development from launch-specific and role-specific preparation.
-- [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]] — Primary season for expanded leader development and multiplication.
-- [[Multiplying-disciples]] — Long-term formation posture without automatic promotion.
+- [[05 Leadership/Leadership Overview|Leadership Overview]]
+- [[06 Resources/Leader Development/Leader Training|Leader Training]]
+- [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]]
+- [[12 Ministry Website/Resources Page|Groups resources library plan]]

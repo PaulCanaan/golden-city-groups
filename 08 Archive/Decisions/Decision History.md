@@ -478,7 +478,7 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Evidence:** [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]].
 - **Implications:** Leader-development and Spring 2027 planning should use this architecture and await the later source-material upload before developing curriculum details.
 - **Boundary:** Session titles, curriculum, facilitator, exact dates, location, participant requirements, completion criteria, assessment, commissioning relationship, Fall 2026 applicability, and Planning Center tracking remain unresolved. CoJourner does not bypass safeguarding, assessment, appointment, or offering readiness.
-- **Subsequent direction:** DEC-056 permits CoJourner to be run during Group Leader Collaborations. The architecture above is unchanged.
+- **Subsequent direction:** DEC-056 permits CoJourner during Group Leader Collaborations. [[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090]] approves use at the January 30, 2027 gathering and further development for the Groups resources library. The four-session architecture remains the planning basis.
 
 ### DEC-046 — October 2026 Collectives and Bible Clubs Readiness Target
 
@@ -532,7 +532,7 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Date and approver:** Reviewed September 20, 2026 at Paul's request. Paul owns the page under DEC-037.
 - **Evidence:** Golden City Church's official [Groups page](https://www.goldencity.church/groups), reviewed September 20, 2026.
 - **Implications:** The page now reflects the confirmed three-branch architecture, keeps City Groups on a contact route rather than an untested enrollment path, retains the DEC-016 Church Center enrollment paths, and no longer lists Young Adults Group. Communication, readiness, and safeguarding planning should work from this page state rather than the July 23 snapshot.
-- **Boundary:** Recording what is published does not approve it. Material conflicts between the published page and confirmed direction are recorded in the [[00 Dashboard/Launch Readiness Dashboard#Published Page Conflicts|Launch Readiness Dashboard]] and carried as queue items. The published Monday Collective rhythms and the published Women's Collective address are **superseded information** under DEC-043 and must not be treated as current by any other document.
+- **Boundary:** Recording what is published does not approve it. Material conflicts between the published page and confirmed direction are recorded in the [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard#Published Page Conflicts|Launch Readiness Dashboard]] and carried as queue items. The published Monday Collective rhythms and the published Women's Collective address are **superseded information** under DEC-043 and must not be treated as current by any other document.
 - **Publication posture (Paul, September 20, 2026):** Published group details are **provisional**. Most group information remains TBD until Paul specifies it. He will determine, check, correct, and finalize the details before the October 4 Group Launch Day, and publish and announce them at and after launch. Reconciling page-to-vault differences is therefore **not a priority before that finalization pass**. The conflicts below remain recorded as inputs to it, not as active blockers. The vault, not the page, is authoritative in the meantime.
 
 ### DEC-051 — Group Launch Sunday Presentation and Detail Finalization
@@ -1053,6 +1053,16 @@ The open questions below originated in the July 27, 2026 snapshot; their statuse
 - **Evidence:** Paul's November 23, 2026 staff-meeting report.
 - **Implications:** Apply the direction through the [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]], [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027]], [[07 Operations/Annual Rhythm/2027/Summer 2027|Summer 2027]], and [[07 Operations/Annual Rhythm/2027/Fall 2027|Fall 2027]]. The Covenant study is now a deeper fall and winter candidate. This refines the earlier tentative Spring 2027 sequence in DEC-054.
 - **Boundary:** The season windows and January prayer and fasting under DEC-080 guide scheduling. Use seasonal planning to confirm exact dates and offerings. Keep community, prayer, and Scripture in view under DEC-083. *God With Us* remains in development.
+
+### DEC-090 — Spring Leader Equipping and CoJourner Resource Development
+
+- **Decision:** Use the CoJourner Program at the January 30, 2027 Group Leader Collaboration to equip group leaders for the spring semester. Continue developing CoJourner for the Groups resources library.
+- **Status:** The January 30 equipping focus and library development direction are approved. Delivery details and the library edition are pending.
+- **Date and approver:** November 23, 2026. Russ approved at the staff meeting, as reported by Paul.
+- **Domain:** Leadership
+- **Evidence:** Paul's staff-meeting report identifies [The Garden Project](https://the-garden-project.org/) as the home of early development materials.
+- **Implications:** Paul prepares the [[06 Resources/Leader Development/CoJourner|CoJourner]] session and brings the cohort schedule and resource development next steps into BWR-019 and BWR-045.
+- **Boundary:** DEC-045 supplies the four-session biweekly architecture. The exact January 30 content, facilitator, remaining cohort dates and completion expectations, and library release remain open. Confirm source access and any applicable permissions and resource review.
 
 ## Open Questions
 

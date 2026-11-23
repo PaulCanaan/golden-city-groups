@@ -18,7 +18,7 @@ For the August 31–September 6 review, keep the working focus narrow:
 - [ ] Confirm that each prospective leader has an approved workflow stage and known next action in the restricted system.
 - [ ] Prepare the minimum launch-blocking decisions and Planted readiness facts for the September 7 biweekly review.
 
-Current status and dependencies remain in the [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]] and [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]; do not reproduce them here.
+Current status and dependencies remain in the [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]] and [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Launch Readiness Dashboard]]; do not reproduce them here.
 
 ## 1. Recenter
 
@@ -62,7 +62,7 @@ For each branch, review current offering or launch status, leader or owner statu
 
 ## 5. Review Launch and Operations
 
-- [ ] Review and refresh [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] from source evidence; do not mark `Ready` without a supporting link and required approval.
+- [ ] Review and refresh [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Launch Readiness Dashboard]] from source evidence; do not mark `Ready` without a supporting link and required approval.
 - [ ] Reconcile the past July 28, August 11, August 16, and August 25 events through the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]; do not infer unrecorded outcomes.
 - [ ] Reconcile detailed gates in [[08 Archive/Operations/Fall 2026 Launch/Launch Checklist]] with the primary launch-control dashboard.
 - [ ] Test or verify approved Planning Center forms and workflows in [[07 Operations/Workflows/Planning Center Groups]] and [[07 Operations/Workflows/Forms]].
@@ -108,10 +108,10 @@ Record only the minimum non-sensitive reference needed for follow-up. Put confid
 
 | Priority | Owner | Due | Related Page | Status |
 |---|---|---|---|---|
-| Contact, connect, and support potential future group leaders from August 11 and 16. | Paul | Immediate and ongoing through September 20 | [[00 Dashboard/Launch Readiness Dashboard#D. Leader Interviews and Assessment\|Leader Interviews and Assessment]] | In Progress |
+| Contact, connect, and support potential future group leaders from August 11 and 16. | Paul | Immediate and ongoing through September 20 | [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard#D. Leader Interviews and Assessment\|Leader Interviews and Assessment]] | In Progress |
 | Reconcile past event outcomes and every potential leader's next step. | Paul | September 7 | [[00 Dashboard/Biweekly Review Queue\|Biweekly Review Queue]] | In Progress |
 | Prepare the minimum launch-blocking decisions for Paul and Russ. | Paul with Russ | September 7 | [[00 Dashboard/Staff Decision Brief\|Staff Decision Brief]] | In Progress |
-| Advance Planted's location and operating-readiness package. | Paul and Russ | September 7 review | [[00 Dashboard/Launch Readiness Dashboard#K. Planted Operational Readiness\|Planted Operational Readiness]] | In Progress |
+| Advance Planted's location and operating-readiness package. | Paul and Russ | September 7 review | [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard#K. Planted Operational Readiness\|Planted Operational Readiness]] | In Progress |
 
 ## 10. Review Completion
 
@@ -133,6 +133,6 @@ Record only the minimum non-sensitive reference needed for follow-up. Put confid
 - **Weekly Review:** superseded historical workflow and record.
 - **[[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]:** persistent carry-forward queue for the first/third-Monday review.
 - **[[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]]:** current priorities, readiness, and operational status.
-- **[[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]:** primary Fall 2026 launch implementation, blocker, ownership, and risk control page.
+- **[[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Launch Readiness Dashboard]]:** primary Fall 2026 launch implementation, blocker, ownership, and risk control page.
 - **[[00 Dashboard/Staff Decision Brief|Staff Decision Brief]]:** matters requiring staff discussion or direction.
 - **[[00 Dashboard/Decision Log|Decision Log]]:** approved decisions and current governing direction.

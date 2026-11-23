@@ -2,7 +2,7 @@
 
 ## Document Status
 
-This is a planning framework. The public church launch date and approved ministry purpose are **confirmed**. Unless a milestone is recorded as confirmed in the [[00 Dashboard/Decision Log|Decision Log]] and supported by [[08 Archive/Decisions/Decision History|Decision History]], launch components in this document are proposals or unresolved dependencies. Use [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] for current implementation status, [[00 Dashboard/Governance Index|Governance Index]] for thematic browsing, and [[00 Dashboard/Open Decisions|Open Decisions]] for unresolved governance questions; none is a canonical decision record.
+This is a planning framework. The public church launch date and approved ministry purpose are **confirmed**. Unless a milestone is recorded as confirmed in the [[00 Dashboard/Decision Log|Decision Log]] and supported by [[08 Archive/Decisions/Decision History|Decision History]], launch components in this document are proposals or unresolved dependencies. Use [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Launch Readiness Dashboard]] for current implementation status, [[00 Dashboard/Governance Index|Governance Index]] for thematic browsing, and [[00 Dashboard/Open Decisions|Open Decisions]] for unresolved governance questions; none is a canonical decision record.
 
 ## Future Seasons
 

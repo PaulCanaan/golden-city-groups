@@ -6,7 +6,7 @@
 
 ## Current Focus — Bible Clubs
 
-Bible Clubs are facilitator-led gatherings that study a book or section of Scripture. [[04 Classes/Curriculum/Planted Bible Study|Planted]] is the first confirmed Bible Club offering. Its curriculum is approved, while its operational readiness remains governed by the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]], [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Annual Rhythm]], and Planning Center.
+Bible Clubs are facilitator-led gatherings that study a book or section of Scripture. [[04 Classes/Curriculum/Planted Bible Study|Planted]] is the first confirmed Bible Club offering. Its curriculum is approved. The [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Fall 2026 readiness record]] preserves its first-season readiness evidence, and the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] carries open items.
 
 ## Ministry Emphasis
 

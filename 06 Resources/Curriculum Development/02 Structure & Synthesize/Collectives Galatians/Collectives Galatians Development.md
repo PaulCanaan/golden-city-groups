@@ -48,7 +48,7 @@ This brief and its maintained Canvas live in phase 02. Put permitted original in
 
 Each Collective meets every other week on alternating Tuesdays (DEC-066). Thanksgiving, Christmas, New Year, and other holiday weeks will likely be skipped; those are anticipated, not approved cancellation dates. No end date or Session 3–6 dates are calculated here.
 
-Actual meetings, recorded appointments, and final readiness evidence are distinct. See [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] for remaining documentation; the course plan does not settle those records.
+Actual meetings, recorded appointments, and final readiness evidence are distinct. See the [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Fall 2026 readiness record]] for fall evidence and the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] for open items.
 
 ## Five-Stage Development
 

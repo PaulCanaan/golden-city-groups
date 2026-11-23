@@ -24,13 +24,13 @@ When staff resolves an item, record the approved outcome in the Decision Log and
 - **Expected decision owner:** Russ.
 - **Sources:** [[01 Governance/Ministry Context#Open Context Questions|Ministry Context]], [[08 Archive/Decisions/Decision History#DEC-021 — Ministry Authority and Final Readiness Approval|DEC-021]].
 
-### CoJourner Implementation and Fall Relationship
+### CoJourner Cohort Implementation
 
-- **Question:** After source material is uploaded, who will facilitate the four-session biweekly cohort, what exact dates, location, and completion criteria will apply, how will progress be tracked, and must any Fall 2026 leaders complete all or part of it?
-- **Why unresolved:** DEC-045 approves CoJourner from The Garden Project Ministry as the four-session biweekly program to complete before the Spring 2027 group launch. It does not settle curriculum or implementation details or apply the program retroactively to Fall leaders. DEC-056 permits CoJourner to run during Collaborations. DEC-086 now sets them at three a year, with one before the spring launch, so a Collaboration cannot hold the four-session cohort on its own. DEC-087 sets the spring launch for February 7, 2027. Reconcile preparation with holidays and January prayer and fasting.
-- **Blocking impact:** It affects Spring 2027 leader-development planning. Fall 2026 still requires transitional role-specific preparation, but no CoJourner requirement is inferred.
-- **Expected decision owner:** Paul with Russ.
-- **Sources:** [[01 Governance/Launch Roadmap#Spring 2027 Direction|Launch Roadmap]], [[08 Archive/Decisions/Decision History#DEC-045 — CoJourner Group-Leader Training Architecture|DEC-045]], [[08 Archive/Decisions/Decision History#DEC-056 — Group Leader Collaborations|DEC-056]].
+- **Question.** Who will facilitate January 30, what will it cover, how will the other biweekly sessions fit, and what completion and tracking expectations apply?
+- **Confirmed direction.** [[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090]] approves using CoJourner at the January 30 Collaboration and developing it for the Groups resources library. DEC-045 supplies the four-session architecture and pre-launch completion target.
+- **Decision needed.** Set the additional dates or bring Russ a revised completion target. Any CoJourner requirement for Fall 2026 service remains a separate question.
+- **Expected decision owner.** Paul with Russ (BWR-019).
+- **Source.** [[06 Resources/Leader Development/CoJourner|CoJourner]].
 
 ## Launch Readiness
 

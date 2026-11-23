@@ -51,4 +51,4 @@ These collect rules already decided elsewhere. Follow the source when they diffe
 
 - [[07 Operations/Workflows/Group Launch Readiness|Group Launch Readiness]] — where Open Groups profiles come from.
 - [[10 Templates/Communication/Group Leader Communication Library|Communication]] — public and website accuracy guidance.
-- [[00 Dashboard/Launch Readiness Dashboard#H. Website and Public Communication|Launch Readiness — Website and Public Communication]] — readiness status for website work.
+- [[00 Dashboard/Launch Readiness Dashboard#Final Approval and Promotion|Launch Readiness — Final Approval and Promotion]] — readiness status for website work.

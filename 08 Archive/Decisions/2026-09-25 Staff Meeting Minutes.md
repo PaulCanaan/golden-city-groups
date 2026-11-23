@@ -137,4 +137,4 @@ The restatement surfaced six questions, carried as BWR-027. Paul answered them o
 - [[Decision History]] — full decision records and boundaries.
 - [[2026-08-28 Staff Meeting Updates|August 28, 2026 Staff Meeting Updates]] — previous staff-meeting record.
 - [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] — clarifications and follow-up work.
-- [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] — offering readiness evidence.
+- [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Launch Readiness Dashboard]] — offering readiness evidence.

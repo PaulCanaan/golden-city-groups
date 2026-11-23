@@ -19,7 +19,7 @@ cssclasses:
 - [[00 Dashboard/Inbox|Inbox]] — capture and triage unclassified ministry information.
 - [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] — carry unresolved operational work between first/third-Monday reviews.
 - [[07 Operations/Workflows/Biweekly Ministry Review|Biweekly Ministry Review]] — run the sole recurring review loop, process the Inbox, reconcile active sources, and produce the dated report.
-- [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] — control Fall 2026 City Groups and Planted implementation, blockers, ownership, and risk.
+- [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]] — track the current semester launch gates, evidence, owners, and decisions.
 - [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]] — prepare matters requiring staff discussion.
 - [[00 Dashboard/Decision Log|Decision Log]] — consult the canonical chronological register.
 - [[08 Archive/Decisions/Decision History|Decision History]] — review full records, evidence, implications, and boundaries.
@@ -42,7 +42,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 | Most recent evidenced milestone | **First Group Leader Collaboration, November 7**, which Paul reports went great (reported November 20). Four of six City Groups have started meeting (counts only); both Collectives began in October; approved resource production does not establish event execution |
 | Next dated operating points | **Week of November 23:** no Women's Collective gathering; its Session 4 date is open. **Early December:** Galatians Sessions 5–6 and the end of the fall season (DEC-080), not yet dated. **December 7:** next biweekly review |
 | Spring 2027 | **January 30:** Group Leader Collaboration. **February 7:** Spring Group Launch. Russ will promote the launch roughly two weeks beforehand at church or on social media. See [[07 Operations/Annual Rhythm/2027/Spring 2027\|Spring 2027 plan]] (DEC-087). |
-| Fall City Groups launch readiness | **Blocked** — see [[00 Dashboard/Launch Readiness Dashboard#Overall Launch Readiness\|Overall Launch Readiness]] |
+| Spring launch readiness | **In Progress**. Confirm which offerings will launch and collect the evidence for approval. See the [[00 Dashboard/Launch Readiness Dashboard\|launch readiness checklist]]. |
 | October Collectives readiness | **At Risk** — both began (Men's October 6, Women's October 13) and covered Galatians 1. Galatians runs six sessions (DEC-076); Galatians 3 and 4 handouts are final (approved November 1 and 14), and Sessions 5–6 are undated. Session delivery, teaching assignments, appointments, safeguards, participant testing, communication, and final approval remain open |
 | Planted readiness | **At Risk — scheduled start passed** — DEC-066 sets Mondays 6:30–8:00pm from October 12 in the Broomfield (120th & Interlocken) area. The October 12 outcome, specific venue, full calendar, testing, support, and final approval remain open |
 | Ministry architecture | City Groups — life together; Collectives — shared encouragement; Bible Clubs — rooted in Scripture |
@@ -65,7 +65,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 
 ## Next Actions
 
-- Paul and Russ: use the December 7 biweekly review for the [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff|fall-to-spring handoff]]. Confirm offering dispositions, CoJourner timing, and what can be promoted (BWR-019, BWR-042, BWR-045).
+- Paul and Russ: use the December 7 biweekly review for the [[07 Operations/Annual Rhythm/2027/Spring 2027#Fall-to-spring handoff|fall-to-spring handoff]]. Confirm offering dispositions, the January 30 CoJourner session and cohort timing, and what can be promoted (BWR-019, BWR-042, BWR-045).
 
 - Paul: give leaders the approved pastoral contacts privately, record delivery, and bring Russ the agreement's open questions (BWR-007, BWR-041).
 - Paul: record the non-sensitive October 4/11 and past first-gathering outcomes (BWR-008, BWR-010, BWR-011, BWR-028).
@@ -79,7 +79,7 @@ The Inbox captures; the Biweekly Review Queue carries unresolved work; the Biwee
 - Paul: follow through on existing participant updates and standing lobby cards (BWR-038, BWR-039).
 - Paul: encourage the leaders of the two City Groups that have not started meeting to join another group meanwhile; Russ keeps promoting groups with open spots (DEC-075, BWR-040).
 
-Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboard/Launch Readiness Dashboard#Immediate Priorities|Launch Readiness Dashboard — Immediate Priorities]].
+Track spring launch gates and owners on the [[00 Dashboard/Launch Readiness Dashboard|launch readiness checklist]].
 
 ## October 26 Staff Direction
 
@@ -91,6 +91,8 @@ Launch-critical owners, dependencies, and targets are maintained in [[00 Dashboa
 
 ## November 23 Staff Direction
 
+- **Spring equipping:** Russ approved [[06 Resources/Leader Development/CoJourner|CoJourner]] for the January 30 Collaboration and continued development for the Groups resources library (DEC-090).
+
 - **Season rhythm:** Spring 2027 has a flexible 16-week window. Summer is low-commitment and activity-based, with optional local outreach. Fall and winter make room for deeper studies (DEC-089). See the [[07 Operations/Annual Rhythm/Annual Calendar|Annual Calendar]].
 - **Leader equipping:** Russ approved the Fall 2027 [[04 Classes/Curriculum/Freedom Class|Freedom Class]] pilot for group leaders and a conference conclusion for future runs (DEC-088, BWR-046).
 
@@ -100,15 +102,15 @@ DEC-042 governs both intake triggers and the four stages through actual launch. 
 
 ## Decisions for Russ and Staff
 
-The unresolved governance questions remain in [[00 Dashboard/Open Decisions|Open Decisions]] and the decision-ready proposals remain in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]]. Their current launch effects are summarized in [[00 Dashboard/Launch Readiness Dashboard#A. Governance and Pastoral Approval|Governance and Pastoral Approval]].
+The unresolved governance questions remain in [[00 Dashboard/Open Decisions|Open Decisions]] and the decision-ready proposals remain in [[00 Dashboard/Staff Decision Brief|Staff Decision Brief]]. Their current launch effects are summarized in [[00 Dashboard/Launch Readiness Dashboard#Final Approval and Promotion|Final Approval and Promotion]].
 
 ## Offering Readiness Snapshot
 
-No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. DEC-065 confirms the Fall offering set and published leaders, but explicitly does not establish appointment, final readiness, or actual launch. DEC-066 is the governing Collective and Planted schedule source. Paul reports both Collectives' first gatherings occurred (Men's October 6, Women's October 13); the Planted October 12 outcome is unreported. Approved handouts and draft recaps are resource evidence, not appointments, event outcomes, or final readiness. Conner's and Rachel's expressed interest is not appointment. Current evidence is maintained in the [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]].
+No offering is launch-ready merely because it appears in this repository, on the website, or in Planning Center. DEC-065 confirms the Fall offering set and published leaders, but explicitly does not establish appointment, final readiness, or actual launch. DEC-066 is the governing Collective and Planted schedule source. Paul reports both Collectives' first gatherings occurred (Men's October 6, Women's October 13); the Planted October 12 outcome is unreported. Approved handouts and draft recaps are resource evidence, not appointments, event outcomes, or final readiness. Conner's and Rachel's expressed interest is not appointment. The [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Fall 2026 readiness record]] preserves the fall evidence. Use the [[00 Dashboard/Launch Readiness Dashboard|launch readiness checklist]] for spring offerings.
 
 ## Confirmed Milestones
 
-Confirmed dates, historical interpretation, and undated targets are maintained in [[00 Dashboard/Launch Readiness Dashboard#Critical Dates|Launch Readiness Dashboard — Critical Dates]] and the source [[00 Dashboard/Calendar|Calendar]].
+See the [[00 Dashboard/Calendar|Calendar]] for confirmed dates and the [[00 Dashboard/Launch Readiness Dashboard#Critical Dates|launch milestones]] for current preparations.
 
 ## Governing Direction
 
@@ -116,7 +118,7 @@ Confirmed dates, historical interpretation, and undated targets are maintained i
 - **Architecture:** City Groups cultivate life together; Collectives provide shared encouragement among men and among women; Bible Clubs keep group life rooted in Scripture. Future Classes develop under Bible Clubs. Approximate emphases are 80/20, 50/50, and 20/80 fellowship to discipleship (DEC-053); internal only, never public. Young adults groups, Run Club, and a potential Youth City Group sit under City Groups.
 - **Authority:** Paul operates the ministry within confirmed direction; Russ or his designated pastor gives final readiness approval and retains the pastoral decisions in DEC-021.
 - **Leadership:** The Groups Director owns the next action from either approved intake trigger through actual launch; prospective leaders still require the applicable assessment, preparation, assignment, explicit appointment, and readiness approval.
-- **Development:** CoJourner from The Garden Project Ministry is the selected four-session biweekly group-leader training program over approximately two months before the Spring 2027 group launch. It may be run during Group Leader Collaborations, the first of which follows about a month after October 4 (DEC-056). Its relationship to Fall 2026 leaders remains open.
+- **Development:** [[06 Resources/Leader Development/CoJourner|CoJourner]] is the selected four-session biweekly training program (DEC-045). Its January 30 use and continued development for the Groups resources library are approved (DEC-090).
 - **Pastoral baseline:** DEC-033 governs freedom in Christ, flourishing, Scripture-shaped prayer, dependence on the Holy Spirit, and escalation of significant care concerns.
 - **Systems:** Russ owns the public participant system, with Paul as backup. Planning Center Groups and Church Center support approved ministry operations but do not confer approval or appointment.
 - **Website:** Paul owns the Groups page (DEC-037), and Russ completed the quick pre-launch review by October 3. Russ approved the October 5 schedule changes (DEC-066); later material changes still follow the recorded path. See [[12 Ministry Website/Ministry Website Overview|Ministry Website]].

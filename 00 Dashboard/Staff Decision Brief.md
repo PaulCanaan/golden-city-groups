@@ -2,7 +2,7 @@
 
 ## November 23 Approved Direction
 
-Russ approved the January 30 Collaboration and February 7 launch dates (DEC-087), the Fall 2027 Freedom Class leader pilot and future conference conclusion ([[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot|DEC-088]]), and the seasonal formation emphases and 16-week Spring 2027 flexibility ([[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089]]). The season plans and BWR-042 and BWR-046 carry the operating details still to settle.
+Russ approved the January 30 Collaboration and February 7 launch dates (DEC-087), the Fall 2027 Freedom Class leader pilot and future conference conclusion ([[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot|DEC-088]]), and the seasonal formation emphases and 16-week Spring 2027 flexibility ([[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility|DEC-089]]). Russ also approved using [[06 Resources/Leader Development/CoJourner|CoJourner]] at the January 30 Collaboration and continuing development for the Groups resources library ([[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development|DEC-090]]). The season plans and BWR-019, BWR-042, BWR-045, and BWR-046 carry the operating details still to settle.
 
 ## October 26 Approved Direction
 
@@ -12,7 +12,7 @@ Remaining implementation: exact Collaboration times and arrangements; exact seas
 
 ## Document Status
 
-**Reviewed August 10 and reconciled November 16, 2026 through DEC-078 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); October direction now governs Collective resources and gathering shape (DEC-067, DEC-076), the Groups resource library and communication work (DEC-071–075), and the GCC Group Leader Agreement with its offerings/support-raising amendment (DEC-077–078). The Active Decision Register carries subsequent direction through DEC-089. Spring offering decisions and final readiness remain open. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
+**Reviewed August 10 and reconciled November 16, 2026 through DEC-078 and the current [[Decision Log|Active Decision Register]].** The September 25 staff meeting resolved PRO-033 (DEC-055); October direction now governs Collective resources and gathering shape (DEC-067, DEC-076), the Groups resource library and communication work (DEC-071–075), and the GCC Group Leader Agreement with its offerings/support-raising amendment (DEC-077–078). The Active Decision Register carries subsequent direction through DEC-090. Spring offering decisions and final readiness remain open. This brief retains proposals and identifies only the portions still requiring staff or pastoral direction. The next safeguarding decisions are supported by the [[06 Resources/Leader Development/Safeguarding and Escalation Resource Gap Audit|Safeguarding and Escalation Resource Gap Audit]] and its [[01 Governance/Safeguarding and Escalation Decision Brief|pastoral decision brief]].
 
 ## Confirmed Ministry Language
 

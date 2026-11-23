@@ -10,4 +10,4 @@ Keep the ministry within Golden City Church's mission, the three approved branch
 
 ## Spring 2027 Direction
 
-The [[07 Operations/Annual Rhythm/2027/Spring 2027|spring plan]] carries the February 7 launch, the January 30 Leader Collaboration, and the CoJourner preparation required under DEC-045. The current season's plan holds offering dispositions and remaining implementation. Review consequential follow-up in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] and pastoral matters in [[00 Dashboard/Open Decisions|Open Decisions]].
+The [[07 Operations/Annual Rhythm/2027/Spring 2027|spring plan]] carries the February 7 launch, the January 30 Leader Collaboration, and the CoJourner equipping approved for January 30 under DEC-090. The current season's plan holds offering dispositions and remaining implementation. Review consequential follow-up in the [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]] and pastoral matters in [[00 Dashboard/Open Decisions|Open Decisions]].

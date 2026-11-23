@@ -50,7 +50,7 @@
 		{"id":"g-readiness","type":"group","x":1220,"y":-730,"width":700,"height":1530,"label":"5 · Approval & Readiness Gates","color":"6"},
 		{"id":"blockers","type":"text","text":"## Launch-Critical Gates\n- Safeguarding policies and escalation contacts · **BWR-007**\n- Fall leader preparation and appointment · **BWR-006**\n- Offering approvals and dispositions · **BWR-008**\n- Tested participant paths and QR destinations · **BWR-009**\n- *Planted.* venue confirmation · **BWR-018**\n- Home-meeting safeguards (DEC-028)\n- Final readiness per group · **BWR-010 · BWR-011**","x":1260,"y":-650,"width":620,"height":330,"color":"6"},
 		{"id":"readiness-rule","type":"text","text":"## Readiness Rule\nOnly groups that complete every applicable gate launch. A group that is not ready is deferred, not published as a placeholder.","x":1260,"y":-290,"width":620,"height":140,"color":"6"},
-		{"id":"f-lrd","type":"file","file":"Groups Ministry/00 Dashboard/Launch Readiness Dashboard.md","x":1260,"y":-120,"width":300,"height":60,"color":"6"},
+		{"id":"f-lrd","type":"file","file":"Groups Ministry/08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard.md","x":1260,"y":-120,"width":300,"height":60,"color":"6"},
 		{"id":"f-queue","type":"file","file":"Groups Ministry/00 Dashboard/Biweekly Review Queue.md","x":1580,"y":-120,"width":300,"height":60,"color":"6"},
 		{"id":"f-open","type":"file","file":"Groups Ministry/00 Dashboard/Open Decisions.md","x":1260,"y":-30,"width":300,"height":60,"color":"6"},
 		{"id":"f-brief","type":"file","file":"Groups Ministry/00 Dashboard/Staff Decision Brief.md","x":1580,"y":-30,"width":300,"height":60,"color":"6"},

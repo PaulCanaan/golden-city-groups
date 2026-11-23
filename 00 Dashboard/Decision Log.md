@@ -137,6 +137,7 @@ Each decision receives one primary domain for navigation. A domain does not chan
 | DEC-087 | [[08 Archive/Decisions/Decision History#DEC-087 — Spring 2027 Group Launch and Leader Collaboration\|Spring 2027 Group Launch and Leader Collaboration]] | Confirmed operational dates; promotion details open | 2026-11-23 | Launch | — | — | Paul (coordination); Russ (promotion) |
 | DEC-088 | [[08 Archive/Decisions/Decision History#DEC-088 — Fall 2027 Freedom Class Leader Pilot\|Fall 2027 Freedom Class Leader Pilot]] | Confirmed Fall 2027 leader pilot; future conference conclusion approved | 2026-11-23 | Strategy | — | — | Paul (coordination) |
 | DEC-089 | [[08 Archive/Decisions/Decision History#DEC-089 — Seasonal Formation and Spring 2027 Flexibility\|Seasonal Formation and Spring 2027 Flexibility]] | Confirmed seasonal emphases and Spring 2027 flexibility | 2026-11-23 | Strategy | — | — | Paul (seasonal planning) |
+| DEC-090 | [[08 Archive/Decisions/Decision History#DEC-090 — Spring Leader Equipping and CoJourner Resource Development\|Spring Leader Equipping and CoJourner Resource Development]] | Confirmed January 30 equipping and library development | 2026-11-23 | Leadership | — | — | Paul (preparation and resource development) |
 
 ## Open Decisions
 

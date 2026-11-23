@@ -160,7 +160,7 @@ This initial internal pipeline does not establish the permanent leadership-devel
 
 ### Approved CoJourner Training Architecture
 
-The CoJourner Program from The Garden Project Ministry is the selected group-leader training program. Its approved architecture is four biweekly sessions over approximately two months, intended for completion before the Spring 2027 group launch. Source materials, curriculum details, facilitators, dates, location, requirements, assessment, commissioning relationship, Fall 2026 applicability, and Planning Center tracking remain unresolved.
+The CoJourner Program from The Garden Project Ministry is the selected group-leader training program. Its approved architecture is four biweekly sessions over approximately two months, intended for completion before the Spring 2027 group launch. DEC-090 approves using CoJourner at the January 30, 2027 Group Leader Collaboration and continuing development for the Groups resources library. The [[06 Resources/Leader Development/CoJourner|CoJourner plan]] carries remaining cohort, delivery, and resource details.
 
 CoJourner does not replace role-specific preparation, safeguarding, assessment, appointment, or readiness approval.
 

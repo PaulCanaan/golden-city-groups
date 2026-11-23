@@ -7,8 +7,8 @@ Paul coordinates the semester launch. Russ or his designated pastor retains fina
 3. [[07 Operations/Workflows/Group Launch Readiness#Offering Readiness Checks|Prepare the offering and verify readiness]]. Confirm the participant path before promotion and record the applicable pastoral approval before listing or opening enrollment.
 4. [[07 Operations/Workflows/First Meetings Checklist|Confirm the first gathering]] and [[07 Operations/Workflows/Leader Support Check-In|begin leader support]].
 
-The [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027 plan]] carries current dates, coordination, and open decisions.
+Use the [[00 Dashboard/Launch Readiness Dashboard|launch readiness checklist]] to track the current launch. The [[07 Operations/Annual Rhythm/2027/Spring 2027|Spring 2027 plan]] carries current dates, coordination, and open decisions.
 
 ## Fall 2026 Sequence
 
-The [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall 2026 record]] and [[08 Archive/Operations/Fall 2026 Launch/Launch Plan|archived launch plan]] preserve the Launch Team recruitment scope, Team Nights, October 4 presentation, and initial group starts. The [[00 Dashboard/Launch Readiness Dashboard|Fall readiness dashboard]] carries unresolved evidence.
+The [[07 Operations/Annual Rhythm/2026/Fall and Winter 2026|Fall 2026 record]] and [[08 Archive/Operations/Fall 2026 Launch/Launch Plan|archived launch plan]] preserve the Launch Team recruitment scope, Team Nights, October 4 presentation, and initial group starts. The [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Fall readiness dashboard]] preserves the fall evidence. Carry unresolved work through the [[00 Dashboard/Biweekly Review Queue|review queue]].

@@ -44,7 +44,7 @@ Current group leaders gather to share experiences and struggles, learn from one 
 
 ## CoJourner Pathway
 
-[[CoJourner]] is the selected group-leader training program from The Garden Project Ministry. Its approved architecture is four biweekly sessions over approximately two months, completed before the Spring 2027 group launch. Curriculum and implementation details remain open until source material is supplied.
+[[CoJourner]] is the selected group-leader training program from The Garden Project Ministry. Its approved architecture is four biweekly sessions over approximately two months, with a pre-launch completion target (DEC-045). Russ approved using it at the January 30 Collaboration and developing a library edition (DEC-090). See the program note for source access, facilitator, and cohort dates.
 
 For Fall 2026, transitional role-specific preparation remains separate. Paul and Russ still need to decide whether current Fall leaders must complete any part of CoJourner; no retroactive requirement is inferred.
 

@@ -79,7 +79,7 @@ Paul facilitates training after the July 28, August 11, and August 25 Team Night
 
 ## Relationship to CoJourner
 
-[[CoJourner]] is the selected four-session group-leader training program from The Garden Project Ministry. The approved architecture uses a biweekly training cohort over approximately two months so leaders can complete it before the Spring 2027 group launch. Source material, session content, facilitator, dates, location, participant and completion requirements, assessment, commissioning relationship, and Planning Center tracking remain open. CoJourner does not automatically apply retroactively to Fall 2026 leaders or replace the transitional role-specific preparation, safeguarding, assessment, appointment, or commissioning they require.
+[[CoJourner]] is the selected four-session biweekly program from The Garden Project Ministry (DEC-045). Russ approved its use for leader equipping at the January 30 Collaboration (DEC-090). See the program note for the delivery plan and open dates. Apply the role-specific preparation, safeguarding, assessment, appointment, and applicable commissioning requirements to each assignment.
 
 ## Training Delivery Checklist
 

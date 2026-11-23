@@ -244,5 +244,5 @@ These questions carry forward the October 19 human-review gaps and add only evid
 - [[09 Reports/Biweekly Reviews/Biweekly Review Index|Biweekly Review Index]]
 - [[07 Operations/Workflows/Biweekly Ministry Review|Canonical review procedure]]
 - [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]]
-- [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]
+- [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Launch Readiness Dashboard]]
 - [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]

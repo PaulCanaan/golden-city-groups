@@ -42,7 +42,7 @@ All current group leaders. The leaders' Church Center group chat (DEC-057) carri
 | Gathering | Date | Format | Status |
 |---|---|---|---|
 | [[05 Leadership/Group Leader Collaboration/2026-11-07 First Collaboration\|First Collaboration]] | Saturday evening, November 7, 2026 | Dinner at Paul's home | Held; Paul reports it went great (November 20) |
-| [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration\|Pre-spring Collaboration]] | Saturday, January 30, 2027 | Share vision, equip leaders, and prepare them for the spring launch. | Date confirmed (DEC-087). Time and venue open. |
+| [[07 Operations/Calendar Events/2027-01-30 Group Leader Collaboration\|Pre-spring Collaboration]] | Saturday, January 30, 2027 | Share vision and equip group leaders using CoJourner for the spring semester. | Date and program confirmed (DEC-087 and DEC-090). Time, venue, and facilitator open. |
 | Later gatherings | Three times a year: before the spring launch, before summer activities, and before the fall launch | Date, time, and location set for each gathering | Rhythm reported by Paul November 16 (DEC-086); replaces the first and third Saturday mornings (DEC-079) |
 
 Each Collaboration prepares leaders for the season ahead in the [[07 Operations/Annual Rhythm/Annual Calendar|annual rhythm]] (DEC-080). The January 30 Collaboration prepares leaders for the [[07 Operations/Calendar Events/Spring 2027 Launch Day|February 7 Spring Group Launch]]. Confirm each gathering's date, time, and place before sharing it in the leaders' group chat. This leader-support rhythm does not change the first/third-Monday Biweekly Ministry Review.
@@ -70,7 +70,7 @@ Each Collaboration prepares leaders for the season ahead in the [[07 Operations/
 - Who decided the three-times-a-year rhythm, and when (DEC-086).
 - Time, venue, and session details for January 30. Dates for the summer and fall Collaborations.
 - Cost, and whether the ministry covers it.
-- Whether CoJourner runs within Collaborations, and for which leaders (DEC-045, BWR-019).
+- CoJourner facilitator, January 30 content, and additional cohort dates (DEC-045, DEC-090, BWR-019).
 
 Operational follow-up for January 30 is tracked in [[00 Dashboard/Biweekly Review Queue|BWR-045]]. The first Collaboration is closed under BWR-031.
 

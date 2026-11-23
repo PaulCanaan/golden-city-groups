@@ -253,5 +253,5 @@ Later on October 19, Paul reported Russ's approval of the Collective gathering f
 - [[09 Reports/Biweekly Reviews/Biweekly Review Index|Biweekly Review Index]]
 - [[07 Operations/Workflows/Biweekly Ministry Review|Canonical review procedure]]
 - [[00 Dashboard/Groups Ministry Dashboard|Groups Ministry Dashboard]]
-- [[00 Dashboard/Launch Readiness Dashboard|Launch Readiness Dashboard]]
+- [[08 Archive/Operations/Fall 2026 Launch/Fall 2026 Readiness Dashboard|Launch Readiness Dashboard]]
 - [[00 Dashboard/Biweekly Review Queue|Biweekly Review Queue]]
